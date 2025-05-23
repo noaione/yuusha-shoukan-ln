@@ -69,9 +69,7 @@ everything... I will tell you about it, Kaito-kun.]
 
 As she clung to my body like a spoiled child, Kuro leaned her body on me, while
 I hugged her back. I feel a sense of joy as if my heart was being gently wrapped
-in happiness, while stroked her hair that is comfortable to touch
-
-.
+in happiness, while stroked her hair that is comfortable to touch.
 
 [However, for a little bit... Really just a little bit... Wait for me.]
 
