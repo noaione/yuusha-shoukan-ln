@@ -370,8 +370,8 @@ when he's talking with someone whose expression is hidden behind her helmet...]
 [Isn't Miyama-senpai supposed to have an absurdly keen sense towards emotions
 because of his Sympathy Magic?]
 
-[If he can't see the difference between &lt;like&gt; and &lt;love&gt;, it would
-be impossible for him even if he can read their emotions...]
+[If he can't see the difference between _like_ and _love_, it would be
+impossible for him even if he can read their emotions...]
 
 The two women, who are conversing with each other with a resigned expression on
 their faces, are approached by Rejnhardt, who is acting as their guide.

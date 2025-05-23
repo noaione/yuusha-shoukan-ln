@@ -741,7 +741,7 @@ Shalltear’s fate, which should have been visible to her eyes just a moment ago
 changed at a tremendous speed, and not only that, but an unseen power is
 overflowing from Shalltear’s body.
 
-[...Weave my bonds... &lt; Hekatonkheires &gt; .]
+[...Weave my bonds... _&lt;Hekatonkheires&gt;_]
 
 [Wha?! What... is that... There should be no way... magic can be activated under
 my domain...]
