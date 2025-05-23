@@ -2757,8 +2757,8 @@ favor someday is enough for us.]
 
 [...Elder Sister, you promised that you wouldn't say that...]
 
-Ugghh... I feel like the warmth of these people (?) soaking into my body. I
-mean, these people are so nice that I'm almost in tears.
+Ugghh... I feel like the warmth of these people(?) soaking into my body. I mean,
+these people are so nice that I'm almost in tears.
 
 Receiving so many gifts, I just bowed my head over and over again as they just
 told me not to worry about it. I'm really glad and grateful that they called me

@@ -141,7 +141,7 @@ we’re not in contact with each other.]
 
 [Ahhh, so... In the end, where are we going?]
 
-[“Archlesia Empire’s capital, Alexandria”.]
+[Archlesia Empire’s capital, “Alexandria”.]
 
 [...Huh?]
 
@@ -1541,7 +1541,7 @@ talking to Chris... That means...
 
 [That’s right.]
 
-[You b*tch!!!]
+[You bitch!!!]
 
 She said it... She really went and said all of it. Alice now, clearly said to
 the Emperor of Archlesia Empire that her existence holds no value. In that tense
@@ -1738,7 +1738,7 @@ of time, so I need to switch it up when needed!]
 
 [No, no, I’d easily get tired after doing it for more than a minute. The muscles
 in my face are going to be a mess. My whole body would break down. So,
-Kaito-san, please give me a gentle massag—Gyyaaaahhh?!]
+Kaito-san, please give me a gentle massa—Gyyaaaahhh?!]
 
 [..........]
 
@@ -2690,10 +2690,10 @@ you with that ridiculous amount of food.]
 
 [Huh? Hey, you! Wait right there, Alice!]
 
-That b\*stard, she pickpocketed me undetected. This is just a wasteful use of
-her abilities. Hearing my words though, Alice just gave me a teasing smile,
-before scampering towards a food stall. The fact that she’s moving at a speed
-that I can see means that she’s properly holding herself back.
+That bastard, she pickpocketed me undetected. This is just a wasteful use of her
+abilities. Hearing my words though, Alice just gave me a teasing smile, before
+scampering towards a food stall. The fact that she’s moving at a speed that I
+can see means that she’s properly holding herself back.
 
 [I’m not an idiot who waits just because she gets told to~~]
 

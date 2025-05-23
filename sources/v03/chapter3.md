@@ -83,7 +83,7 @@ was still a few meters away, she can easily escape...
 
 [...Hiiihhh... aahhh...]
 
-[Sh*t!]
+[Shit!]
 
 [Miyama-san?!]
 
@@ -1582,7 +1582,7 @@ Hearing what I said, Rei-san nodded once before turning towards Anima.
 
 [Anima-kun, you must be confident with your fighting ability, right?]
 
-[Haahhh?! F*cking trash talking with me so casually, want me to tear you apart
+[Haahhh?! Fucking trash talking with me so casually, want me to tear you apart
 huh?!]
 
 [...Errr, how strong are you, Anima?]

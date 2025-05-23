@@ -30,9 +30,9 @@ answer.
 
 [..........]
 
-...This freaking b\*tch. You’re calling people here, why the heck are you
-traveling to Dreamland. I was wondering what I was so nervous about earlier...
-but I felt like I would lose if I just kept worrying about it.
+...This goddamn girl. You’re calling people here, why the heck are you traveling
+to Dreamland. I was wondering what I was so nervous about earlier... but I felt
+like I would lose if I just kept worrying about it.
 
 However, what’s going on... She looks comfortable sleeping, and I don’t feel
 comfortable interrupting her sleep...

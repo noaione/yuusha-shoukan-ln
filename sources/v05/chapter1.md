@@ -1048,8 +1048,8 @@ piece of salad and holds it out to me.
 
 [...Shalltear.]
 
-Oi, you bast*rd, Phantasmal King.... Come out here for a sec. What the heck is
-that bast*rd doing?! Not only are you scurrying around the shadows, you’re even
+Oi, you bastard, Phantasmal King.... Come out here for a sec. What the heck is
+that bastard doing?! Not only are you scurrying around the shadows, you’re even
 planting weird information everywhere?!
 
 N-No, putting her aside, I need to do something about my situation now. Isis-san
@@ -1251,7 +1251,7 @@ with a baseball bat. A-A little touch should be fine, right...
 
 Just as my hand was about to reach out along with those thought, I quickly
 slapped it with my other hand as hard as I could. Wait, wait, wait! What the
-f\*ck are you thinking, you big stupid idiot!!?! To touch a sleeping woman
+fuck are you thinking, you big stupid idiot!!?! To touch a sleeping woman
 without permission, no matter how much she likes me, is the worst thing for a
 man... no, a human being can do! Cool off your head!!!
 
@@ -1727,7 +1727,7 @@ back as Alice-chan’s souvenirs? There’s a shop that specializes in Wyvern me
 and since it can be bought as takeouts... she want to eat it?
 
 ...Isn’t this just a guidebook of what Alice wants to eat?! What the heck is
-with this person and her face as thick as wall, that bast\*rd’s demanding for
+with this person and her face as thick as wall, that bastard’s demanding for
 souvenirs in the guidebook you wrote!!?!
 
 [...It’s an interesting... book.]

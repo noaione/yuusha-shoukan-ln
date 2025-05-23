@@ -16,7 +16,7 @@ is used to buy these.... Don’t you even know what being reserved is...]
 
 [Food bought with other people’s money is the tastiest!]
 
-[You b*stard...]
+[You bastard...]
 
 Right now, in front of me, Alice is wearing her usual opera mask and continues
 to eat meat at a terrific speed. How did this happen? As I recall, after Alice’s
@@ -51,8 +51,8 @@ should be treating their subordinates!]
 
 [..........]
 
-...This f*cking b*tch. She started saying things that sounded quite convenient.
-For her, that is.
+...This girl. She started saying things that sounded quite convenient. For her,
+that is.
 
 I was quite surprised but... Well, I’m sure most of her money is gone again
 anyway, and she’s helped me with all sorts of stuff and I asked for her help
@@ -1089,7 +1089,7 @@ her in her swimsuit.
 think you look beautiful, you know?]
 
 [Wha?! Mi-Miyama?! Even you are going to tease me here too?! Y-You Immoral
-b*stard!]
+bastard!]
 
 Arehh? Could it be that Chronois-san... isn’t used to being treated like a
 woman? She’s obviously agitated by something, and she seems to be more

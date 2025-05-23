@@ -38,9 +38,9 @@ her chest... A girl who often appears in the main story.
 [...Also, you’re making a mistake here. The me right now is a being whose
 identity is unknown... Under King.]
 
-[If you want to hide your identity, couldn’t you try a little harder!? Don’t try
+[If you want to hide your identity, couldn’t you try a little harder?! Don’t try
 basing your identity in a nameplate you’re wearing!!! Moreover, isn’t that
-nameplate you’re wearing is totally exposing your identity!?]
+nameplate you’re wearing is totally exposing your identity?!]
 
 [Well, well, putting that aside... I brought you some provisions~~]
 
@@ -53,7 +53,7 @@ brushed off by Under King as she took out a large paper bag.
 
 [I’ve got more than enough! I’ve already got more than enough... Heck, the
 number of baby castellas in this room is increasing with each passing volume!
-What the heck is going on!?]
+What the heck is going on?!]
 
 It was a result that was, in a sense, quite predictable, but what Under King
 brought were baby castellas. Incidentally, there were still piles and piles of
@@ -65,14 +65,14 @@ bizarre flavors. Seriously, why the heck...]
 [Ahh, those baby castellas... aren’t they my failed creations? How did they end
 up here?]
 
-[It’s all your doing!?]
+[It’s all your doing?!]
 
 [N-No, I’m not the one bringing them here though? I properly “asked Shalltear to
 get rid of them”... They probably just tumbled around and ended up in this
 place?]
 
 [Like hell they just happened to tumble their way here! They’re definitely
-brought by that b*stard here!]
+brought by that bastard here!]
 
 Unexpectedly finding out the culprit as to why more baby castellas were popping
 out in the room, Serious-senpai shouted towards the absent ? ? ?. After gazing
@@ -93,10 +93,10 @@ provisions were a blessing from heaven. As Serious-senpai, overcome with
 emotion, expressed her gratitude while seemingly praying towards Kaito... After
 a few moments, she looked as if she noticed something.
 
-[...Wait a freaking sec!? Don’t tell me, that Flag King... He’s planning to
-reach his hands on me even when I’m here in the back covers!? H-How
+[...Wait a freaking sec?! Don’t tell me, that Flag King... He’s planning to
+reach his hands on me even when I’m here in the back covers?! H-How
 terrifying... However, frustrating it may be, I can feel my Affection Meters
-rising... Gununu, d*mn it, Kaito.]
+rising... Gununu, damn it, Kaito.]
 
 While looking at Serious-senpai, whose expression changes after a few moments,
 Under King tilted her head and muttered to herself.

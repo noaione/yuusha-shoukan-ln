@@ -408,7 +408,7 @@ that a certain being awaits...
 While the earth was shaking wildly as powerful magic powers clashed in various
 places, another fierce battle was taking place in front of the Divine Gate.
 
-[Ahh, d*mn it! I also want to fight a Supreme God!!!]
+[Ahh, damn it! I also want to fight a Supreme God!!!]
 
 “It’s all about compatibility. The place we’re assigned to now is the best for
 us... also, don’t be negligent, Megiddo. Even the high-ranking Gods are
@@ -759,7 +759,7 @@ As a multitude of meteorites began appearing in the skies of the God Realm, they
 are also being destroyed one after another. Feeling the battle intensifying,
 Megiddo brandished their blazing arm.
 
-[Even that Shalltear got quite the spectacular battle over there! Ahh, d*mn it!
+[Even that Shalltear got quite the spectacular battle over there! Ahh, damn it!
 I’m envious! Is there no one with a spine over here?!]
 
 “Don’t provoke them, Megiddo! We’re already at a—Mhmm?!”
@@ -1030,7 +1030,7 @@ afterwards... becoming something like best friends.
 
 [Well~~ You really are strong! That was a great fight! Let’s do this again!]
 
-[...I don’t want to see you again, sh*tty gorilla.]
+[...I don’t want to see you again, shitty gorilla.]
 
 Even though the God of Disasters cursed them, Megiddo and her share similar
 tastes in food and became friends after that, but that’s another story...

@@ -592,7 +592,7 @@ fog cleared, there were six shadows around the roof where Alice stood.
 [...That was faster than I thought. I see, that magic tool also sends an
 emergency signal huh...]
 
-[Let go of master, you rude bast*rd!]
+[Let go of master, you rude bastard!]
 
 [Whoa there?! Scary...]
 

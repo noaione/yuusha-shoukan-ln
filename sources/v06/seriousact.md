@@ -49,7 +49,7 @@ members, right? What kind of people were they?]
 
 [Hmmm. Let’s see. ...There are three other members whose loyalty is bugged
 besides Pandora. And then, there’s that incredibly poor moth, a masochistic
-bird, a snake who’s always crying and whining, a sh*tty, awkward tsundere of a
+bird, a snake who’s always crying and whining, a shitty, awkward tsundere of a
 succubus, and a thin-skinned hikikomori. That makes 8, right?]
 
 [...Errr... Isn’t there anyone decent among your... Alice’s command?]

@@ -328,11 +328,11 @@ As I was feeling astounded upon hearing Alice say something unbelievable, or
 rather, something that I don’t want to believe, Alice continued speaking with a
 mysterious look on her face.
 
-[Yes, well... While I was disposing of a sh*tty Demon who had a perverted fetish
+[Yes, well... While I was disposing of a shitty Demon who had a perverted fetish
 of killing the relatives and everyone related to the person that caught their
 attention, other than the person themself, I picked her up and raised her.
 However, I don’t where or how things went wrong, but she grew up with the
-peculiar habit of searching for Demons just like that sh*tty Demon, torturing
+peculiar habit of searching for Demons just like that shitty Demon, torturing
 them until they begged to be killed, before they were thoroughly erased.]
 
 That just went into a disturbing direction! I thought that Pandora-san had a
@@ -773,7 +773,7 @@ that Isis-san must have put up, I could sense that she was truly concerned about
 me and trying to protect me, and even though it might be inappropriate for me to
 feel this in a situation like this, it made me a little happy.
 
-“Isis... You b\*stard... If you’re trying to stir up a fight, then I will fight
+“Isis... You bastard... If you’re trying to stir up a fight, then I will fight
 you.”
 
 [...Shut up... Lizard... Don’t bully... Kaito.]

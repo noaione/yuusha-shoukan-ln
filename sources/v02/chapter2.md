@@ -88,7 +88,7 @@ Yep. She obviously looks dangerous... Let's get out of here before she sees us.
 
 [...........]
 
-Ah, shit. She noticed. Even her eyes (?) glowed just now.
+Ah, shit. She noticed. Even her eyes(?) glowed just now.
 
 A very awkward silence passed between me and the shopkeeper, before I quickly
 turned around and was about to scamper towards the door but...
@@ -1435,7 +1435,7 @@ myself.
 
 Also, Lunamaria-san, please stop calmly throwing your tsukkomis there.
 
-Ah, sh\*t... I'm going to lose... my consciousness again...
+Ah, shit... I'm going to lose... my consciousness again...
 
 After shaking my body in mid-air for a while, I don't know if Lilia-san finally
 regained her composure, she was now repeatedly saying her apologies while making

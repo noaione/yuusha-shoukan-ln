@@ -1831,7 +1831,7 @@ To Kuro, I'm just a “friend” and I'm not particularly special at all. Maybe 
 because of the long history of being a loner that I have a bad habit of
 overinterpreting the good will that I'm not used to being directed at.
 
-I was just a misunderstanding b\*stard... Ugghh, I'm starting to feel pathetic
+I was just a misunderstanding bastard... Ugghh, I'm starting to feel pathetic
 thinking like that to myself. I need to reflect on this for a moment and
 straighten out my mind...
 

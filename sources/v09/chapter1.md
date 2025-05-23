@@ -1161,7 +1161,7 @@ a baby castella like this before! The texture is new too!!!]
 The slightly chilled texture makes it a little hard, but it matches well with
 the crispy dough and chocolate. Kuro seemed to be very satisfied with the taste,
 and with a big smile on her face, she brought more and more of these baby
-castellas (?) to her mouth.
+castellas(?) to her mouth.
 
 [These are amazing! They’re small, easy to eat and go great with coffee! They’re
 so good that they could be made into merchandise... We’ve found it, the new

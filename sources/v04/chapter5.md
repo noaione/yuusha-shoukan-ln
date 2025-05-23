@@ -51,7 +51,7 @@ Master... desu.]
 
 [...Ah, unnn, errr....]
 
-[Y-You b*stards... You just appeared out of nowhere, and now, you’re spouting
+[Y-You bustards... You just appeared out of nowhere, and now, you’re spouting
 incomprehensible things!]
 
 As I am astonished at the words that they straightforwardly told me, that they

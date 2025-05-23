@@ -528,7 +528,7 @@ make a fuss about Kuro being the Underworld King.
 
 [Speaking of which, where are we going today?]
 
-Incidentally, the escort for this date (?) is Kuro.
+Incidentally, the escort for this date(?) is Kuro.
 
 Normally, it would have been me, the man, who should have been the one escorting
 her, but I've only been in this world for about two weeks, and I've only been in

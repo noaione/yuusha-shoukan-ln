@@ -414,7 +414,7 @@ shattered into pieces.
 [It’s a good spear, isn’t it? Even though I’ve already piled up 10 stacks, it
 just barely broke to pieces.]
 
-[I’m f*cking asking you what happened!!?!]
+[I’m fucking asking you what happened!!?!]
 
 In response to Eta who completely lost her composure and shouted such, Sieglinde
 calmly answered.
@@ -434,7 +434,7 @@ could for his sake.
 your attacks, I used a spell that increases the impact your spear receives, and
 I had just invoked it.]
 
-[...?! F*ck?!]
+[...?! Fuck?!]
 
 [...If you see that you’re at a disadvantage, you should take a step back... It
 may be the basics, but it’s exactly because it’s the basics, that’s why you
@@ -621,12 +621,12 @@ Illumination Magic Tool for 1000R”, I could easily defeat that guy...]
 
 [.........]
 
-[Sh*t, I can’t believe I had to watch you get beaten up, Kaito-san!]
+[Shit, I can’t believe I had to watch you get beaten up, Kaito-san!]
 
-...This f\*cking bitch. She knows exactly what was going on, but she’s still
-messing around. I silently approached Alice, took the magic tool from her hand
-and placed a silver coin in its stead. Thereupon, Alice stood up as if nothing
-had happened.
+...This girl. She knows exactly what was going on, but she’s still messing
+around. I silently approached Alice, took the magic tool from her hand and
+placed a silver coin in its stead. Thereupon, Alice stood up as if nothing had
+happened.
 
 [I won’t allow you to hurt Kaito-san, even if the Gods themselves allow it, I
 won’t allow it! Come at me, you servant!!!]
@@ -691,7 +691,7 @@ body.
 
 ---
 
-[F*cking clown! You and your little tricks!]
+[Fucking clown! You and your little tricks!]
 
 Sigma shouts evasively as he dispels the smoke caused by the explosion. And
 then, a few knives come flying in his direction, cleaving through the smoke.
@@ -782,7 +782,7 @@ Yes, when Sigma was about to move to attack, Alice had already landed in front
 of Sigma... and stomped on the hilt of his sword. This time, Alice leisurely
 swings the knife in her hand against Sigma, who looked at her, astonished.
 
-[Guh?! Sh*t!]
+[Guh?! Shit!]
 
 [...Was it too shallow?]
 
@@ -1135,7 +1135,7 @@ round and stared at the direction where Ein-san had disappeared. Anyway, that
 should be the end of the story but... at that moment, I heard Anima’s sharp
 voice.
 
-[Master! Those b*stards disappeared!]
+[Master! Those bastards disappeared!]
 
 [Eh?]
 
@@ -1410,8 +1410,8 @@ I don’t know if they’re held up by that much force, Eta and Theta let out wo
 screams, but showing no signs of loosening his grip, the War King releases his
 angry shout.
 
-[You bastards... You’ve got to be f*cking kidding me! I told you to lead him to
-me! I never f*cking told you to surprise attack anyone!!! You f*cking heard
+[You bastards... You’ve got to be fucking kidding me! I told you to lead him to
+me! I never fucking told you to surprise attack anyone!!! You fucking heard
 me!!?!]
 
 [Aaggghhh, m-my apolo...]
@@ -1419,7 +1419,7 @@ me!!?!]
 The color of the hair covering the War King’s body changed from red to black...
 And it looked like he had turned into an incarnation of a burning black flame.
 
-[When you f*cking fight! You have to start with introducing yourselves and then,
+[When you fucking fight! You have to start with introducing yourselves and then,
 you ready your stances! And now, you’re telling me that you acted like trash and
 surprised attacked them... Are you trying to embarrass me!!?!]
 
@@ -2192,7 +2192,7 @@ that she will be limiting the market of their meat.]
 
 [...I’m sure Lillywood already had her head on her hands right now...]
 
-Apparently, Megiddo-san was in Lillywood-san’s territory (?) and took this deer
+Apparently, Megiddo-san was in Lillywood-san’s territory(?) and took this deer
 and trees without permission.
 
 ...Thinking about Megiddo-san’s personality though, it doesn’t sound like this

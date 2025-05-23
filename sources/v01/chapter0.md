@@ -74,10 +74,10 @@ something like that, right?!]
 [M-Most probably... What should we do about this, Millady?]
 
 [What should we do, you ask? It's not like I can just say “I messed up,
-*teehee!* so for now, why don't we explain the situation to everyone... Ah, but
+_teehee!_ so for now, why don't we explain the situation to everyone... Ah, but
 first, we need to figure out who the hero is...]
 
-[*Teehee!* ...you say. Milady, I believe you're a bit too old to do such a thing
+[_Teehee!_ ...you say. Milady, I believe you're a bit too old to do such a thing
 now...]
 
 [Why are you calmly retorting about that?!]

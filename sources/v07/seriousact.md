@@ -34,7 +34,7 @@ anxious... that I don’t know how to react to it...]
 
 [...Uwaahhh, what a pain in the ass.]
 
-[Can’t you at least keep your own thoughts to your own mind!?]
+[Can’t you at least keep your own thoughts to your own mind?!]
 
 Serious developments, of course, bring joy to Serious-senpai. However, after
 being slighted so much up to this point, when a serious content is added to the
@@ -58,18 +58,18 @@ this section.
 
 [Stooooop! Yeah, it’s on sale! Even though it had this charm that was different
 from the light novel, and I was happy that I’m at the back cover too! However,
-what does that have to do with Volume 7!?]
+what does that have to do with Volume 7?!]
 
 In response to ? ? ? swiftly derailing the story, Serious-senpai shouted, just
 as usual.
 
 [Rather, why the heck are you still here after Volume 4, acting like a regular
-here!? Anyone who has a part in the main story should get lost!]
+here?! Anyone who has a part in the main story should get lost!]
 
 [Ahh, but that has nothing to do with Volume 7, does it? Hey, Serious-senpai.
 Properly do your job and introduce this volume’s serious highlights.]
 
-[T-This b\*stard...]
+[T-This bastard...]
 
 Even though she’s irritated by the teasing of the aloof ? ? ?, she knew that she
 couldn’t win in a verbal argument with her, so Serious-senpai only swallowed her

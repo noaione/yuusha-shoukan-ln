@@ -142,7 +142,7 @@ exchanged some words with Raz-san before we parted ways.
 
 [Yaa, Miyama-kun.]
 
-[The f*ck is this dirty old man... The hell you want with Master?!]
+[The fuck is this dirty old man... The hell you want with Master?!]
 
 [Hey, Anima... I know him.]
 
@@ -673,7 +673,7 @@ be there to help you, so just hang in there for now.]
 
 [Ah, no... it's nothing. Well then, shall we start?]
 
-[Ohh! If you dare try going easy, I'll f*cking kill you!]
+[Ohh! If you dare try going easy, I'll fucking kill you!]
 
 [...Not like I planned on doing that.]
 

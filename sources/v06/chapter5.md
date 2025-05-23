@@ -216,7 +216,7 @@ I have no choice but to agree... This is too unreasonable.
 (Does Kaito-san... hate taking a bath on an onsen with me?)
 
 I think that way of asking is too unfair. There’s still no inflection in her
-voice, but the damage is still too d\*mn high. Alright... I’ll go with you. I
+voice, but the damage is still too damn high. Alright... I’ll go with you. I
 just have to take a bath with you, right?!
 
 (Thank you. Then, I’m looking forward to seeing your arrival.)

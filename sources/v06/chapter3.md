@@ -580,7 +580,7 @@ hold on to my reasoning anymore and hugged Kuro from behind as tight as I could.
 Kuro’s body twitched in reaction, but she didn’t seem to be resisting as she let
 me hug her body, making me feel Kuro’s soft warmth filling my whole body. Still
 feeling the warmth of her body, my hand is heading to the bulges of Kuro’s
-breas.... No, wait right there, you freaking b\*stard!!!
+breas.... No, wait right there, you freaking bastard!!!
 
 This is our first date, remember?! Moreover, we’re outside in the middle of the
 day!!! No matter how much Kuro loves you and may have been accepting you, you

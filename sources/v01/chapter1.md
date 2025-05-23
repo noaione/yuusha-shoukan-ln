@@ -472,8 +472,8 @@ the one to apologize.
 I'm not experienced with communicating with people that I can say nifty words.
 However, these mediocre words of praise naturally spilled out of my mouth.
 
-[...! Fufu, thank you. Well then, Aoi-san and Hina-san are waiting for us, so
-let's go back.]
+[Fufu, thank you! Well then, Aoi-san and Hina-san are waiting for us, so let's
+go back.]
 
 Following Lilia-san, who looked a little surprised but was happily smiling as
 she walked away, I also left the room.
@@ -994,7 +994,7 @@ connected because each and every one of you who live in this world has bravely
 taken a step forward. I'm not the only Hero here. Everyone who lives in this
 world is a great Hero, so I'm sure everyone will be okay for the rest of your
 lives. I love this world. And I hope it will always be a peaceful world full of
-smiles...—Kujou Hikari.”[^hikari]
+smiles... Kujou Hikari.”[^hikari]
 
 [...The First Hero-sama's sword and the stone monument are covered with a very
 strong State Preservation Magic, it's still in the same condition as it was back

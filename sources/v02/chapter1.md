@@ -479,7 +479,7 @@ It's not that I blinked, but as if the frames were completely switched, the two
 changed from facing each other to facing away from each other, and for some
 reason, the Goddess of Time seems like she's shaking in anger.
 
-[...Like I said, you b*tch! Why the heck can you calmly move through my
+[...Like I said, you bitch! Why the heck can you calmly move through my
 “Suspended Time”, do you even freaking care about the laws of time?!]
 
 [It shouldn't be unusual, for I am a maid. A maid is always in struggles with
@@ -724,7 +724,7 @@ like that before, but seeing Lilia-san being bewildered as I expected, she
 looked somewhat amusing. I bet Acht and the others must have had the same
 thoughts when they saw me reacting like that back when we had barbecue.
 
-[...Oi, you b*tch... The heck is this...]
+[...Oi, you bitch... The heck is this...]
 
 As I was thinking about this, the Goddess of Time raised her voice as if to
 suppress her anger, and when I looked over at her... I saw that in front of the
@@ -738,7 +738,7 @@ really outrageous. In fact, it was completely just harassment now.
 drink... Well, I'm really doubting if that will have any effect on that cliff of
 yours.]
 
-[...I'm going to crush you, you b*tch.]
+[...I'm going to crush you, you bitch.]
 
 [If you could do that, why don't you try...]
 
@@ -913,7 +913,7 @@ about things I knew from the past.
 
 I felt like I had already deviated from the supposed conversation by the speed
 of light, and I've already given up following it, so I just decided to continue
-talking (?) with Shiro-san.
+talking(?) with Shiro-san.
 
 A very serious conversation is going on in front of me right now. Especially
 regarding the means to send me, Kusunoki-san and Yuzuki-san, they must have been
@@ -1222,15 +1222,15 @@ I was about to unintentionally throw a tsukkomi at Shiro-san's behavior of
 acting as she pleases just like she always does, but was interrupted by the
 Goddess of Time's sharp voice.
 
-Ah, sh*t... I've completely f*cked up. I spoke to her the same way I've been
-doing just a few moments ago, but the other party is the top of the Divine
-Realm, the Creator God, and she is supposed to be an existence that shouldn't be
-spoken to so casually.
+Ah, shit... I've really messed up. I spoke to her the same way I've been doing
+just a few moments ago, but the other party is the top of the Divine Realm, the
+Creator God, and she is supposed to be an existence that shouldn't be spoken to
+so casually.
 
 Without even having time to apologize for my blunder, the Goddess of Time turned
 her sharp eyes towards me.
 
-[You bast*rd! Who the heck do you think you are to speak so casually to Shallow
+[You bastard! Who the heck do you think you are to speak so casually to Shallow
 Vernal-sama!]
 
 [I-I'm sorr—]

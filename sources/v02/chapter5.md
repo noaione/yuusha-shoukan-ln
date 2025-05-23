@@ -535,10 +535,10 @@ to do my best for Kaito-san... This is heart-breaking.]
 [You can count on me! In Alice-chan's hands, it won't take long to make a baking
 mould or two!]
 
-...This b\*stard. As soon as she sees an opportunity to take advantage of me,
-she lunges upon it like a hyena. She really has a great personality... Even
-though I somehow feel like I lost, my shoulders slumping, I decide to just
-dismiss it as a necessary expense.
+...This bastard. As soon as she sees an opportunity to take advantage of me, she
+lunges upon it like a hyena. She really has a great personality... Even though I
+somehow feel like I lost, my shoulders slumping, I decide to just dismiss it as
+a necessary expense.
 
 [So, how much will it be?]
 

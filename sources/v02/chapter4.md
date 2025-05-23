@@ -134,7 +134,7 @@ think that it's going to stop me from being thankful to Kuro, and I don't think
 that it's going to change the fact that Kuro is an important friend of mine...
 So, it doesn't really matter.]
 
-[...D-D*mn it... What you said somehow sounds cool, I can't even think about how
+[...D-Damn it... What you said somehow sounds cool, I can't even think about how
 to respond to it...]
 
 [Well, that's why I'd like to hear about it from Kuro if you're willing to talk
@@ -324,7 +324,7 @@ years! Now, now, please sit. I'll go make you some tea!]
 
 [..........]
 
-T-This b\*stard... I-I wanna hit her so much...
+T-This bastard... I-I wanna hit her so much...
 
 Watching Alice's demeanor suddenly turn 180 and prepare a chair in front of the
 counter, I'm tempted to punch her in the head as hard as I can, but I managed to
@@ -400,7 +400,7 @@ that's the case, it makes sense why she was so desperate to sell me her stuff.
 Perhaps, it may be debt left by her parents, or perhaps, she was tricked into
 taking on a large amount of debt...
 
-Sh\*t, I should have listened to her carefully. Maybe Alice was having a hard
+Shit, I should have listened to her carefully. Maybe Alice was having a hard
 time, and she was acting cheerful in an attempt to distract herself from it. I
 don't know what her circumstances are, but if there's something I can do to help
 her...
@@ -794,7 +794,7 @@ Alice's Viscount card.
 [...I-It's my loss.]
 
 [Fufufu, well, it's Kaito-san's first time playing this after all. You went
-exactly as how *Strategist-type players* play, which makes you really easy to
+exactly as how _Strategist-type players_ play, which makes you really easy to
 read. It's Alice-chan's victory! Yay!]
 
 [...Kuhh.]
