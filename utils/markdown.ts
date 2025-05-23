@@ -225,10 +225,6 @@ export function splitContentAtImage(mdastRoot: MdastRoot): (MdastRoot & { fullIm
     });
   }
 
-  if (splitChildren.length < 2) {
-    return [mdastRoot];
-  }
-
   return splitChildren;
 }
 
