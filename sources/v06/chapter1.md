@@ -1289,7 +1289,7 @@ body twitched, but she didn’t seem to resist.
 encouragement to me. I want to be together with you, who always have a happy
 smile on your face, Kuro.]
 
-[...Kaito... -kun.]
+[...Kaito...kun.]
 
 [No matter what Kuro says and does... I’m not afraid of you. I also wouldn’t
 leave you... Hey, Kuro? My own treasure... I’ve found it, you know? I love
@@ -1326,7 +1326,7 @@ never be able to smile again...]
 
 [I won’t disappear. I promise... I won’t take away Kuro’s smile.]
 
-[...Kaito... -kun... ?!]
+[...Kaito...kun... ?!]
 
 After hearing my words, Kuro clung to me more tightly than before and then...
 slowly looked up and looked at me with her teary eyes.

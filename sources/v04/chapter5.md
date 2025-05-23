@@ -968,7 +968,7 @@ her face.
 I asked Alice to make it out of a material that’s really stretchy... so I don’t
 think it will be torn off even if you turn into your magical beast form.
 
-[...Kaito...-kun.]
+[...Kaito...kun.]
 
 The necklace that Kuro took out of the box is designed with silver stars lined
 up in a row, and it’s the one that Kuro asked me if it would look good on her on

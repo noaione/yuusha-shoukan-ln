@@ -719,7 +719,7 @@ I was more shocked by this situation than I was by such things. As Lilia-san and
 I remained staring at each other, the both of us stiffened. Lilia-san’s eyes
 widen when she saw me and she began to profusely sweat.
 
-[...Kaito... -san?]
+[...Kaito...san?]
 
 [Errr, why is Lilia-san...]
 
@@ -1614,7 +1614,7 @@ but still, I think I have enough ability to hug my trembling lover’s body.
 courage to do this... I would obviously be really happy. However, you don’t have
 to be that impatient...]
 
-[...Kaito... -san?]
+[...Kaito...san?]
 
 When it comes to love, Lilia-san isn’t that knowledgeable, and even I can see
 that... Normally, we have to take it more slowly, step by step, removing the
