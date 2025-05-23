@@ -1,0 +1,125 @@
+{
+    "title": "I Was Caught up in a Hero Summoning, but That World Is at Peace: Volume 8",
+    "volume": 8,
+    "identifier": "i-was-caught-up-in-a-hero-summoning-v08",
+    "cover": "Cover.png",
+    "year": 2019,
+    "version": "1.0.0",
+    "toc": [
+        {
+            "title": "Cover",
+            "type": "frontmatter",
+            "filename": "cover.md"
+        },
+        {
+            "title": "Illustrations",
+            "type": "frontmatter",
+            "filename": "illust.md",
+            "numbering": "padzero"
+        },
+        {
+            "title": "Contents",
+            "type": "frontmatter",
+            "filename": "toc.md",
+            "landmark": "toc"
+        },
+        {
+            "title": "Story",
+            "type": "frontmatter",
+            "filename": "story.md",
+            "numbering": "padzero"
+        },
+        {
+            "title": "Characters",
+            "type": "frontmatter",
+            "filename": "characters.md",
+            "numbering": "padzero"
+        },
+        {
+            "title": "Prologue",
+            "type": "chapter",
+            "filename": "chapter0.md",
+            "landmark": "bodymatter",
+            "break": true
+        },
+        {
+            "title": "Chapter 1: The Second Visit to Rigforeshia",
+            "type": "chapter",
+            "filename": "chapter1.md"
+        },
+        {
+            "title": "Chapter 2: Sieglinde's Feelings",
+            "type": "chapter",
+            "filename": "chapter2.md"
+        },
+        {
+            "title": "Chapter 3: The Elf who Can't Use Nature Magic",
+            "type": "chapter",
+            "filename": "chapter3.md"
+        },
+        {
+            "title": "Intermission: Six Kings — Preparing for the Six Kings Festival",
+            "type": "chapter",
+            "filename": "chapter3x1.md"
+        },
+        {
+            "title": "Chapter 4: Invitation to the Six Kings Festival",
+            "type": "chapter",
+            "filename": "chapter4.md"
+        },
+        {
+            "title": "Intermission: Six Kings Festival — Various People's Reactions",
+            "type": "chapter",
+            "filename": "chapter4x1.md"
+        },
+        {
+            "title": "Chapter 5: Kaito's Weakness, Lunamaria's Secret",
+            "type": "chapter",
+            "filename": "chapter5.md"
+        },
+        {
+            "title": "Intermission: Caraway — What was Lost and What was Gained",
+            "type": "chapter",
+            "filename": "chapter5x1.md"
+        },
+        {
+            "title": "Chapter 6: The Person who Changed Everything",
+            "type": "chapter",
+            "filename": "chapter6.md"
+        },
+        {
+            "title": "Epilogue",
+            "type": "chapter",
+            "filename": "chapter6.md"
+        },
+        {
+            "title": "Special: Character Design Reveal",
+            "type": "backmatter",
+            "filename": "special.md",
+            "numbering": "padzero",
+            "landmark": "backmatter",
+            "break": true
+        },
+        {
+            "title": "Afterword",
+            "type": "backmatter",
+            "filename": "afterword.md"
+        },
+        {
+            "title": "Serious-senpai's Room: Act 8",
+            "type": "backmatter",
+            "filename": "seriousact.md"
+        },
+        {
+            "title": "Translation Notes",
+            "type": "backmatter",
+            "filename": "notes.md",
+            "optional": true
+        },
+        {
+            "title": "Colophon",
+            "type": "backmatter",
+            "filename": "colophon.md"
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "title": "I Was Caught up in a Hero Summoning, but That World Is at Peace: Volume 8",
+    "volume": 8,
+    "identifier": "i-was-caught-up-in-a-hero-summoning-v08",
+    "cover": "Cover.png",
+    "year": 2019,
+    "version": "1.0.0",
+    "toc": [
+        {
+            "title": "Cover",
+            "type": "frontmatter",
+            "filename": "cover.md"
+        },
+        {
+            "title": "Illustrations",
+            "type": "frontmatter",
+            "filename": "illust.md",
+            "numbering": "padzero"
+        },
+        {
+            "title": "Contents",
+            "type": "frontmatter",
+            "filename": "toc.md",
+            "landmark": "toc"
+        },
+        {
+            "title": "Story",
+            "type": "frontmatter",
+            "filename": "story.md",
+            "numbering": "padzero"
+        },
+        {
+            "title": "Characters",
+            "type": "frontmatter",
+            "filename": "characters.md",
+            "numbering": "padzero"
+        },
+        {
+            "title": "Prologue",
+            "type": "chapter",
+            "filename": "chapter0.md",
+            "landmark": "bodymatter",
+            "break": true
+        },
+        {
+            "title": "Chapter 1: A Flower of Love for the Lonely Girl",
+            "type": "chapter",
+            "filename": "chapter1.md"
+        },
+        {
+            "title": "Chapter 2: The Second Stayover",
+            "type": "chapter",
+            "filename": "chapter2.md"
+        },
+        {
+            "title": "Intermission: Isis Remnant — Two Isis",
+            "type": "chapter",
+            "filename": "chapter2x1.md"
+        },
+        {
+            "title": "Chapter 3: The Half-Vampire and the Clumsy Doctor",
+            "type": "chapter",
+            "filename": "chapter3.md"
+        },
+        {
+            "title": "Chapter 4: Blessing of Time",
+            "type": "chapter",
+            "filename": "chapter4.md"
+        },
+        {
+            "title": "Chapter 5: Funf",
+            "type": "chapter",
+            "filename": "chapter5.md"
+        },
+        {
+            "title": "Chapter 6: As a Servant, As Family",
+            "type": "chapter",
+            "filename": "chapter6.md"
+        },
+        {
+            "title": "Intermission: Six Kings — A Plan in Motion",
+            "type": "chapter",
+            "filename": "chapter6x1.md"
+        },
+        {
+            "title": "Chapter 7: The Miracle of the Blue Flower",
+            "type": "chapter",
+            "filename": "chapter7.md"
+        },
+        {
+            "title": "Epilogue",
+            "type": "chapter",
+            "filename": "chapter8.md"
+        },
+        {
+            "title": "Special: Character Design Reveal",
+            "type": "backmatter",
+            "filename": "special.md",
+            "numbering": "padzero",
+            "landmark": "backmatter",
+            "break": true
+        },
+        {
+            "title": "Afterword",
+            "type": "backmatter",
+            "filename": "afterword.md"
+        },
+        {
+            "title": "Serious-senpai's Room: Act 7",
+            "type": "backmatter",
+            "filename": "seriousact.md"
+        },
+        {
+            "title": "Translation Notes",
+            "type": "backmatter",
+            "filename": "notes.md",
+            "optional": true
+        },
+        {
+            "title": "Colophon",
+            "type": "backmatter",
+            "filename": "colophon.md"
+        }
+    ]
+}
