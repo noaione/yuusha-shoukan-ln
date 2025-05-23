@@ -25,6 +25,12 @@ See progress at [PROGRESS.md](PROGRESS.md).
    ```
 5. The EPUB file will be generated in the `_Final` directory.
 
+## Credits
+- Original translation from [Foxaholic](https://www.foxaholic.com/novel/yuushou-ln/)
+  - **Translator**: LazyCat
+- **Everything elses**: nao (me)
+- **Base EPUB**: HowUnfortunate, taken from cat website.
+
 ## Changes from the Original
 - Fixed some stutters (If I managed to catch it)
 - Changed Banginterro (!?) into Interrobang (?!)
