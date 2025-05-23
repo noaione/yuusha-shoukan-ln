@@ -1,0 +1,115 @@
+{
+    "title": "I Was Caught up in a Hero Summoning, but That World Is at Peace: Volume 5",
+    "volume": 5,
+    "identifier": "i-was-caught-up-in-a-hero-summoning-v05",
+    "cover": "Cover.png",
+    "year": 2018,
+    "version": "1.0.0",
+    "toc": [
+        {
+            "title": "Cover",
+            "type": "frontmatter",
+            "filename": "cover.md"
+        },
+        {
+            "title": "Illustrations",
+            "type": "frontmatter",
+            "filename": "illust.md",
+            "numbering": "padzero"
+        },
+        {
+            "title": "Contents",
+            "type": "frontmatter",
+            "filename": "toc.md",
+            "landmark": "toc"
+        },
+        {
+            "title": "Story",
+            "type": "frontmatter",
+            "filename": "story.md",
+            "numbering": "padzero"
+        },
+        {
+            "title": "Characters",
+            "type": "frontmatter",
+            "filename": "characters.md",
+            "numbering": "padzero"
+        },
+        {
+            "title": "Prologue",
+            "type": "chapter",
+            "filename": "chapter0.md",
+            "landmark": "bodymatter",
+            "break": true
+        },
+        {
+            "title": "Chapter 1: Visit to the Demon Realm",
+            "type": "chapter",
+            "filename": "chapter1.md"
+        },
+        {
+            "title": "Chapter 2: The Clown Dancing to Betrayal",
+            "type": "chapter",
+            "filename": "chapter2.md"
+        },
+        {
+            "title": "Chapter 3: The True Motives of the Phantasmal King",
+            "type": "chapter",
+            "filename": "chapter3.md"
+        },
+        {
+            "title": "Intermission: Alice — The Beginning of Everything",
+            "type": "chapter",
+            "filename": "chapter3x1.md"
+        },
+        {
+            "title": "Chapter 4: The Promised Date",
+            "type": "chapter",
+            "filename": "chapter4.md"
+        },
+        {
+            "title": "Chapter 5: Visit to the Royal Castle",
+            "type": "chapter",
+            "filename": "chapter5.md"
+        },
+        {
+            "title": "Chapter 6: The Dephts Making Their Moves",
+            "type": "chapter",
+            "filename": "chapter6.md"
+        },
+        {
+            "title": "Epilogue",
+            "type": "chapter",
+            "filename": "chapter7.md"
+        },
+        {
+            "title": "Special: Character Design Reveal",
+            "type": "backmatter",
+            "filename": "special.md",
+            "numbering": "padzero",
+            "landmark": "backmatter",
+            "break": true
+        },
+        {
+            "title": "Afterword",
+            "type": "backmatter",
+            "filename": "afterword.md"
+        },
+        {
+            "title": "Serious-senpai's Room: Act 4",
+            "type": "backmatter",
+            "filename": "seriousact.md"
+        },
+        {
+            "title": "Translation Notes",
+            "type": "backmatter",
+            "filename": "notes.md",
+            "optional": true
+        },
+        {
+            "title": "Colophon",
+            "type": "backmatter",
+            "filename": "colophon.md"
+        }
+    ]
+}
