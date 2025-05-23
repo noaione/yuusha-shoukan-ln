@@ -1,5 +1,5 @@
 ---
-type: afterword
+template: afterword
 ---
 
 # Afterword

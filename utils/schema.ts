@@ -6,7 +6,7 @@ const TemplateSupport = z
 const TocType = z.enum(['frontmatter', 'chapter', 'backmatter']);
 const NumberingType = z.enum(['padzero', 'underscore']).default('underscore');
 
-const VolumeToC = z.object({
+const VolumeToC = z.strictObject({
   title: z.string(),
   type: TocType,
   filename: z.string(),
@@ -15,7 +15,7 @@ const VolumeToC = z.object({
   optional: z.boolean().default(false),
 });
 
-const VolumeMetaSchema = z.object({
+const VolumeMetaSchema = z.strictObject({
   title: z.string(),
   volume: z.number().min(1),
   identifier: z.string(),
@@ -37,33 +37,33 @@ const VolumeMetaSchema = z.object({
   }),
 });
 
-const VolumeFrontmatter = z.object({
+const VolumeFrontmatter = z.strictObject({
   template: TemplateSupport,
   numbering: NumberingType.optional(),
   toc: z.boolean().default(false),
 });
 
-const ProjectMetaSchema = z.object({
+const ProjectMetaSchema = z.strictObject({
   title: z.string(),
-  publisher: z.object({
+  publisher: z.strictObject({
     name: z.string(),
     country: z.string(),
   }),
-  author: z.object({
+  author: z.strictObject({
     writer: z.string(),
     illustrator: z.string().optional(),
   }),
-  translator: z.object({
+  translator: z.strictObject({
     name: z.string(),
     url: z.string().url().optional(),
     image: z.string().nullable().optional(),
   }),
-  compiler: z.object({
+  compiler: z.strictObject({
     name: z.string(),
     url: z.string().url().optional(),
   }),
   teams: z.array(
-    z.object({
+    z.strictObject({
       name: z.string(),
       role: z.enum(['translator', 'proofreader', 'editor', 'lettering', 'designer', 'quality-checker']),
     }),
