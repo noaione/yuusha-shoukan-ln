@@ -136,6 +136,25 @@ async function processVolume(projectMeta: ProjectMetaSchemaType, volumeNumber: s
     );
   }
 
+  if (projectMeta.translator.image) {
+    const projectMetaImage = join(baseDir, projectMeta.translator.image);
+    if (!(await exists(projectMetaImage))) {
+      throw new Error(`Translator image does not exist: ${projectMetaImage}`);
+    }
+
+    const readImage = await readFile(projectMetaImage);
+
+    const imageFn = basename(projectMetaImage);
+    await epub.addManifestItem(
+      {
+        id: `credit-icon-${imageFn}`,
+        href: `Images/credit-icon-${imageFn}`,
+        mediaType: `image/${extname(imageFn).replace('.', '')}`,
+      },
+      readImage,
+    );
+  }
+
   const bookSpines: Record<string, MetaToC | MetaToC[]> = {};
   const navContents = [];
   const tocMetaMappings: Record<string, VolumeFrontmatterType> = {};

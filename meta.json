@@ -11,7 +11,7 @@
     "translator": {
         "name": "Foxaholic",
         "url": "https://foxaholic.com",
-        "image": null
+        "image": "./common/foxaholic-logo.png"
     },
     "compiler": {
         "name": "nao",
