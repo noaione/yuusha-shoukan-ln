@@ -48,6 +48,7 @@ const ProjectMetaSchema = z.strictObject({
   title: z.string(),
   publisher: z.strictObject({
     name: z.string(),
+    full_name: z.string().nullable().optional(),
     country: z.string(),
   }),
   author: z.strictObject({

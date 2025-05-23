@@ -244,9 +244,10 @@ export function autogenColophon(project: ProjectMetaSchemaType, volume: VolumeMe
   }
 
   // Publisher info
+  const publisherName = project.publisher.full_name ?? project.publisher.name;
   root.children.push(
     h('p', { class: 'section-break' }, [
-      `First published in ${project.publisher.country} in ${volume.year} by ${project.publisher.name}`,
+      `First published in ${project.publisher.country} in ${volume.year} by ${publisherName}`,
     ]),
     h('p', { class: 'section-break' }, ['All rights reserved.']),
   );
