@@ -1,9 +1,9 @@
 {
-    "title": "Project Title: Volume 1",
+    "title": "I Was Caught up in a Hero Summoning, but That World Is at Peace: Volume 1",
     "volume": 1,
-    "identifier": "project-title-v01",
+    "identifier": "i-was-caught-up-in-a-hero-summoning-v01",
     "cover": "Cover.png",
-    "year": 2025,
+    "year": 2017,
     "version": "1.0.0",
     "toc": [
         {
@@ -12,17 +12,79 @@
             "filename": "cover.md"
         },
         {
+            "title": "Illustrations",
+            "type": "frontmatter",
+            "filename": "illust.md",
+            "numbering": "padzero"
+        },
+        {
             "title": "Contents",
             "type": "frontmatter",
             "filename": "toc.md",
-            "landmark": "toc",
-            "optional": true
+            "landmark": "toc"
         },
         {
             "title": "Prologue",
             "type": "chapter",
             "filename": "chapter0.md",
             "landmark": "bodymatter"
+        },
+        {
+            "title": "Chapter 1: Dyed in Black, the Encounter with the Beginning",
+            "type": "chapter",
+            "filename": "chapter1.md"
+        },
+        {
+            "title": "Chapter 2: Salvation, Together with the Shining Tree",
+            "type": "chapter",
+            "filename": "chapter2.md"
+        },
+        {
+            "title": "Intermission: Miyama Kaito — Changing a Cowardly and Indecisive Heart",
+            "type": "chapter",
+            "filename": "chapter2x1.md"
+        },
+        {
+            "title": "Intermission: Kuromueina — The Kind Monster Born from Nothingness",
+            "type": "chapter",
+            "filename": "chapter2x2.md"
+        },
+        {
+            "title": "Chapter 3: The Blessing of the White God",
+            "type": "chapter",
+            "filename": "chapter3.md"
+        },
+        {
+            "title": "Chapter 4: That King's Name Is...",
+            "type": "chapter",
+            "filename": "chapter4.md"
+        },
+        {
+            "title": "Chapter 5: Feelings For You",
+            "type": "chapter",
+            "filename": "chapter5.md"
+        },
+        {
+            "title": "Epilogue",
+            "type": "chapter",
+            "filename": "chapter6.md"
+        },
+        {
+            "title": "Special: Character Design Reveal",
+            "type": "backmatter",
+            "filename": "special.md",
+            "numbering": "padzero",
+            "landmark": "backmatter"
+        },
+        {
+            "title": "Afterword",
+            "type": "backmatter",
+            "filename": "afterword.md"
+        },
+        {
+            "title": "Serious-senpai's Room: Act 1",
+            "type": "backmatter",
+            "filename": "seriousact.md"
         },
         {
             "title": "Translation Notes",
