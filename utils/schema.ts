@@ -1,7 +1,7 @@
 import { z } from 'zod';
 
 const TemplateSupport = z
-  .enum(['toc-simple', 'footnotes', 'images', 'cover', 'chapter', 'afterword', 'about-rls'])
+  .enum(['toc-simple', 'footnotes', 'images', 'cover', 'chapter', 'afterword', 'colophon'])
   .default('chapter');
 const TocType = z.enum(['frontmatter', 'chapter', 'backmatter']);
 const NumberingType = z.enum(['padzero', 'underscore']).default('underscore');

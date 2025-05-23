@@ -19,7 +19,7 @@ import {
 } from './utils/markdown';
 import { Epub } from '@smoores/epub';
 import {
-  autogenAboutRelease,
+  autogenColophon,
   autogenAuthorSign,
   autogenCover,
   autogenFootnotes,
@@ -243,15 +243,15 @@ async function processVolume(projectMeta: ProjectMetaSchemaType, volumeNumber: s
         };
         break;
       }
-      case 'about-rls': {
-        const aboutRlsFile = await prettifyHtml(autogenAboutRelease(projectMeta, meta));
+      case 'colophon': {
+        const colophonRlsContent = await prettifyHtml(autogenColophon(projectMeta, meta));
         await epub.addManifestItem(
           {
             id: newFilename,
             href: `Text/${newFilename}`,
             mediaType: 'application/xhtml+xml',
           },
-          aboutRlsFile,
+          colophonRlsContent,
           'utf-8',
         );
         bookSpines[toc.filename] = {

@@ -3,6 +3,7 @@ import { h } from 'hastscript';
 import type { ProjectMetaSchemaType, VolumeMetaSchemaType } from './schema';
 import { hastToHtmlRaw } from './markdown';
 import crypto from 'node:crypto';
+import { basename } from 'node:path';
 
 const templateCover = `<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html>
@@ -60,7 +61,7 @@ const templateSimpleToC = `<?xml version="1.0" encoding="utf-8"?>
 </html>
 `;
 
-const templateAboutRelease = `<?xml version="1.0" encoding="utf-8"?>
+const templateColophon = `<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops"
       epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/#" lang="en" xml:lang="en">
@@ -208,25 +209,15 @@ export function autogenToC(
     .replace(/{{landmarkContents}}/g, landmarkContents);
 }
 
-export function autogenAboutRelease(project: ProjectMetaSchemaType, volume: VolumeMetaSchemaType): string {
+export function autogenColophon(project: ProjectMetaSchemaType, volume: VolumeMetaSchemaType): string {
   const root = h();
 
-  root.children = [h('h1', ['About this Release'])];
-  if (project.translator.image) {
-    root.children.push(
-      h('p', [
-        h('img', {
-          src: project.translator.image,
-          class: 'credit-icon',
-          alt: project.translator.name,
-        }),
-      ]),
-    );
-  }
-  root.children.push(
+  root.children = [
+    h('h1', ['Colophon']),
     h('p', { class: 'section-break' }, [volume.title]),
     h('p', [`by ${project.author.writer}`]),
-  );
+  ];
+
   // Teams list
   if (project.teams.length > 0) {
     project.teams.forEach((team, index) => {
@@ -272,6 +263,17 @@ export function autogenAboutRelease(project: ProjectMetaSchemaType, volume: Volu
       ]),
     );
   }
+  if (project.translator.image) {
+    root.children.push(
+      h('p', [
+        h('img', {
+          src: `../Images/credit-icon-${basename(project.translator.image)}`,
+          class: 'credit-icon',
+          alt: project.translator.name,
+        }),
+      ]),
+    );
+  }
 
   // Compiler info
   root.children.push(
@@ -304,7 +306,7 @@ export function autogenAboutRelease(project: ProjectMetaSchemaType, volume: Volu
   );
 
   const hastHtml = hastToHtmlRaw(root);
-  return templateAboutRelease.replace(/{{title}}/g, volume.title).replace(/{{content}}/g, hastHtml);
+  return templateColophon.replace(/{{title}}/g, volume.title).replace(/{{content}}/g, hastHtml);
 }
 
 export function autogenFootnotes(footnotes: HastElement[], meta: VolumeMetaSchemaType): string {

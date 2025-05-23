@@ -247,10 +247,9 @@ img.gaiji {
 }
 
 .credit-icon {
-  margin-bottom: 1rem;
-  margin-top: 1rem;
+  margin-top: 4pt;
   display: inline-block;
-  width: 25%;
+  width: 40%;
 }
 
 .txt-center {

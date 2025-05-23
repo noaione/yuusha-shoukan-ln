@@ -93,9 +93,9 @@
             "optional": true
         },
         {
-            "title": "About this Release",
+            "title": "Colophon",
             "type": "backmatter",
-            "filename": "about-rls.md"
+            "filename": "colophon.md"
         }
     ]
 }
