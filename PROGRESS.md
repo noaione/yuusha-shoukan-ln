@@ -3,7 +3,9 @@
 The following are all the progress of each volumes.
 
 ## Volume 1
+
 **Editing/Adjustment**:
+
 - [x] Prologue
 - [x] Chapter 1
 - [x] Chapter 2
@@ -16,6 +18,7 @@ The following are all the progress of each volumes.
 - [x] Serious Act
 
 **Typesetting**:
+
 - [x] Cover
 - [x] Illustrations (`100%`)
 - [x] Characters (`100%`)
@@ -24,7 +27,9 @@ The following are all the progress of each volumes.
 **Quality Check**: `95%`
 
 ## Volume 2
+
 **Editing/Adjustment**:
+
 - [x] Prologue
 - [x] Chapter 1
 - [x] Intermission 1
@@ -37,6 +42,7 @@ The following are all the progress of each volumes.
 - [x] Serious Act
 
 **Typesetting**:
+
 - [x] Cover
 - [x] Illustrations (`100%`)
 - [x] Characters (`100%`)
@@ -45,7 +51,9 @@ The following are all the progress of each volumes.
 **Quality Check**: `95%`
 
 ## Volume 3
+
 **Editing/Adjustment**:
+
 - [x] Prologue
 - [x] Chapter 1
 - [x] Chapter 2
@@ -58,6 +66,7 @@ The following are all the progress of each volumes.
 - [x] Serious Act
 
 **Typesetting**:
+
 - [x] Cover
 - [x] Illustrations (`100%`)
 - [x] Characters (`100%`)
@@ -66,7 +75,9 @@ The following are all the progress of each volumes.
 **Quality Check**: `95%`
 
 ## Volume 4
+
 **Editing/Adjustment**:
+
 - [x] Prologue
 - [ ] Chapter 1
 - [ ] Chapter 2
@@ -77,6 +88,7 @@ The following are all the progress of each volumes.
 - [ ] Serious Act
 
 **Typesetting**:
+
 - [x] Cover
 - [x] Illustrations (`100%`)
 - [x] Characters (`100%`)
@@ -85,7 +97,9 @@ The following are all the progress of each volumes.
 **Quality Check**: `5%`
 
 ## Volume 5
+
 **Editing/Adjustment**:
+
 - [ ] Prologue
 - [ ] Chapter 1
 - [ ] Chapter 2
@@ -97,6 +111,7 @@ The following are all the progress of each volumes.
 - [ ] Serious Act
 
 **Typesetting**:
+
 - [x] Cover
 - [x] Illustrations (`100%`)
 - [x] Characters (`100%`)
@@ -105,7 +120,9 @@ The following are all the progress of each volumes.
 **Quality Check**: `5%`
 
 ## Volume 6
+
 **Editing/Adjustment**:
+
 - [ ] Prologue
 - [ ] Chapter 1
 - [ ] Chapter 2
@@ -119,6 +136,7 @@ The following are all the progress of each volumes.
 - [ ] Serious Act
 
 **Typesetting**:
+
 - [x] Cover
 - [x] Illustrations (`100%`)
 - [x] Characters (`100%`)
@@ -127,7 +145,9 @@ The following are all the progress of each volumes.
 **Quality Check**: `5%`
 
 ## Volume 7
+
 **Editing/Adjustment**:
+
 - [ ] Prologue
 - [ ] Chapter 1
 - [ ] Chapter 2
@@ -142,6 +162,7 @@ The following are all the progress of each volumes.
 - [ ] Serious Act
 
 **Typesetting**:
+
 - [ ] Cover
 - [ ] Illustrations (`0%`)
 - [ ] Characters (`0%`)
@@ -150,7 +171,9 @@ The following are all the progress of each volumes.
 **Quality Check**: `0%`
 
 ## Volume 8
+
 **Editing/Adjustment**:
+
 - [ ] Prologue
 - [ ] Chapter 1
 - [ ] Chapter 2
@@ -165,6 +188,7 @@ The following are all the progress of each volumes.
 - [ ] Serious Act
 
 **Typesetting**:
+
 - [ ] Cover
 - [ ] Illustrations (`0%`)
 - [ ] Characters (`0%`)
@@ -173,7 +197,9 @@ The following are all the progress of each volumes.
 **Quality Check**: `0%`
 
 ## Volume 9
+
 **Editing/Adjustment**:
+
 - [ ] Prologue
 - [ ] Chapter 1
 - [ ] Chapter 2
@@ -184,6 +210,7 @@ The following are all the progress of each volumes.
 - [ ] Serious Act
 
 **Typesetting**:
+
 - [x] Cover
 - [x] Illustrations (`100%`)
 - [x] Characters (`100%`)
@@ -192,7 +219,9 @@ The following are all the progress of each volumes.
 **Quality Check**: `5%`
 
 ## Volume 10
+
 **Editing/Adjustment**:
+
 - [ ] Prologue
 - [ ] Chapter 1
 - [ ] Chapter 2
@@ -204,6 +233,7 @@ The following are all the progress of each volumes.
 - [ ] Serious Act
 
 **Typesetting**:
+
 - [ ] Cover
 - [ ] Illustrations (`0%`)
 - [ ] Characters (`0%`)
@@ -212,7 +242,9 @@ The following are all the progress of each volumes.
 **Quality Check**: `0%`
 
 ## Volume 11
+
 **Editing/Adjustment**:
+
 - [ ] Prologue
 - [ ] Chapter 1
 - [ ] Chapter 2
@@ -224,6 +256,7 @@ The following are all the progress of each volumes.
 - [ ] Serious Act
 
 **Typesetting**:
+
 - [ ] Cover
 - [ ] Illustrations (`0%`)
 - [ ] Characters (`0%`)
@@ -232,7 +265,9 @@ The following are all the progress of each volumes.
 **Quality Check**: `0%`
 
 ## Volume 12
+
 **Editing/Adjustment**:
+
 - [ ] Prologue
 - [ ] Chapter 1
 - [ ] Chapter 2
@@ -246,6 +281,7 @@ The following are all the progress of each volumes.
 - [ ] Serious Act
 
 **Typesetting**:
+
 - [ ] Cover
 - [ ] Illustrations (`0%`)
 - [ ] Characters (`0%`)
@@ -254,7 +290,9 @@ The following are all the progress of each volumes.
 **Quality Check**: `0%`
 
 ## Volume 13
+
 **Editing/Adjustment**:
+
 - [ ] Prologue
 - [ ] Chapter 1
 - [ ] Chapter 2
@@ -267,6 +305,7 @@ The following are all the progress of each volumes.
 - [ ] Serious Act
 
 **Typesetting**:
+
 - [ ] Cover
 - [ ] Illustrations (`0%`)
 - [ ] Characters (`0%`)
@@ -275,7 +314,9 @@ The following are all the progress of each volumes.
 **Quality Check**: `0%`
 
 ## Volume 14
+
 **Editing/Adjustment**:
+
 - [ ] Prologue
 - [ ] Chapter 1
 - [ ] Chapter 2
@@ -288,6 +329,7 @@ The following are all the progress of each volumes.
 - [ ] Serious Act
 
 **Typesetting**:
+
 - [ ] Cover
 - [ ] Illustrations (`0%`)
 - [ ] Characters (`0%`)
