@@ -9,6 +9,11 @@
     "name": "noaione",
     "email": "noaione@n4o.xyz"
   },
+  "scripts": {
+    "build": "bun run index.ts",
+    "format": "bunx prettier --write .",
+    "lint": "bunx prettier --check ."
+  },
   "devDependencies": {
     "@types/bun": "latest",
     "@types/hast": "^3.0.4"
