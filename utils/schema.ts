@@ -11,6 +11,7 @@ const VolumeToC = z.strictObject({
   type: TocType,
   filename: z.string(),
   landmark: z.string().optional(),
+  break: z.boolean().default(false),
   numbering: NumberingType.optional(),
   optional: z.boolean().default(false),
 });

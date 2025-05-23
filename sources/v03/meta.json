@@ -33,7 +33,8 @@
             "title": "Prologue",
             "type": "chapter",
             "filename": "chapter0.md",
-            "landmark": "bodymatter"
+            "landmark": "bodymatter",
+            "break": true
         },
         {
             "title": "Chapter 1: The Elven City",
@@ -80,7 +81,8 @@
             "type": "backmatter",
             "filename": "special.md",
             "numbering": "padzero",
-            "landmark": "backmatter"
+            "landmark": "backmatter",
+            "break": true
         },
         {
             "title": "Afterword",

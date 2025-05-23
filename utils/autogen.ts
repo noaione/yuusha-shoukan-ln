@@ -98,6 +98,7 @@ export type MetaToC = {
   filename: string;
   type: string;
   landmark?: string;
+  break?: boolean;
 };
 
 function roleWithName(role: ProjectMetaSchemaType['teams'][number]['role'], name: string) {
@@ -145,10 +146,14 @@ export function autogenToC(
       'epub:type': 'list',
     },
     tocs.map((item) => {
+      let tocClass = `toc-${item.type}`;
+      if (item.break) {
+        tocClass += ' toc-break';
+      }
       return h(
         'li',
         {
-          class: `toc-${item.type}`,
+          class: tocClass,
         },
         [
           h(

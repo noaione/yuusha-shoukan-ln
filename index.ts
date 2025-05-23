@@ -161,8 +161,8 @@ async function processVolume(projectMeta: ProjectMetaSchemaType, volumeNumber: s
 
   let rawFootnotesCounter = 1;
   const tocFootnotesCounter: Record<string, { n: number; fn: string; content: HastElement | null }> = {};
-  let tocFileMeta;
-  let footnotesFileMeta;
+  let tocFileMeta: MetaToC | undefined;
+  let footnotesFileMeta: MetaToC | undefined;
 
   for (const toc of meta.toc) {
     const tocFile = join(volumeFolder, toc.filename);
@@ -222,6 +222,7 @@ async function processVolume(projectMeta: ProjectMetaSchemaType, volumeNumber: s
           title: toc.title,
           type: toc.type,
           landmark: toc.landmark,
+          break: toc.break,
         };
         break;
       }
@@ -231,6 +232,7 @@ async function processVolume(projectMeta: ProjectMetaSchemaType, volumeNumber: s
           title: toc.title,
           type: toc.type,
           landmark: toc.landmark,
+          break: toc.break,
         };
         break;
       }
@@ -240,6 +242,7 @@ async function processVolume(projectMeta: ProjectMetaSchemaType, volumeNumber: s
           title: toc.title,
           type: toc.type,
           landmark: toc.landmark,
+          break: toc.break,
         };
         break;
       }
@@ -259,6 +262,7 @@ async function processVolume(projectMeta: ProjectMetaSchemaType, volumeNumber: s
           title: toc.title,
           type: toc.type,
           landmark: toc.landmark,
+          break: toc.break,
         };
         break;
       }
@@ -289,6 +293,7 @@ async function processVolume(projectMeta: ProjectMetaSchemaType, volumeNumber: s
           title: toc.title,
           type: toc.type,
           landmark: toc.landmark,
+          break: toc.break,
         };
         break;
       }
@@ -339,6 +344,7 @@ async function processVolume(projectMeta: ProjectMetaSchemaType, volumeNumber: s
               title: toc.title,
               type: toc.type,
               landmark: toc.landmark,
+              break: toc.break,
             });
           } else {
             bookSpines[toc.filename] = {
@@ -346,6 +352,7 @@ async function processVolume(projectMeta: ProjectMetaSchemaType, volumeNumber: s
               title: toc.title,
               type: toc.type,
               landmark: toc.landmark,
+              break: toc.break,
             };
           }
         }
@@ -378,6 +385,7 @@ async function processVolume(projectMeta: ProjectMetaSchemaType, volumeNumber: s
       title: tocFileMeta.title,
       type: tocFileMeta.type,
       landmark: tocFileMeta.landmark,
+      break: tocFileMeta.break,
     };
   }
 
@@ -402,6 +410,7 @@ async function processVolume(projectMeta: ProjectMetaSchemaType, volumeNumber: s
       title: footnotesFileMeta.title,
       type: footnotesFileMeta.type,
       landmark: footnotesFileMeta.landmark,
+      break: footnotesFileMeta.break,
     };
   }
 
