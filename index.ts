@@ -50,6 +50,13 @@ async function processVolume(projectMeta: ProjectMetaSchemaType, volumeNumber: s
     throw new Error(`Volume folder does not exist: ${volumeFolder}`);
   }
 
+  const keepFile = join(volumeFolder, '.keep');
+  if (await exists(keepFile)) {
+    // .keep file means that this is placeholder for future volumes
+    console.log(`Skipping volume ${volumeNumber} as it is a placeholder`);
+    return;
+  }
+
   const metaJson = join(volumeFolder, 'meta.json');
   if (!(await exists(metaJson))) {
     throw new Error(`Meta file does not exist: ${metaJson}`);
