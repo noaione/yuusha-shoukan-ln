@@ -1,0 +1,110 @@
+{
+    "title": "I Was Caught up in a Hero Summoning, but That World Is at Peace: Volume 4",
+    "volume": 4,
+    "identifier": "i-was-caught-up-in-a-hero-summoning-v04",
+    "cover": "Cover.png",
+    "year": 2018,
+    "version": "1.0.0",
+    "toc": [
+        {
+            "title": "Cover",
+            "type": "frontmatter",
+            "filename": "cover.md"
+        },
+        {
+            "title": "Illustrations",
+            "type": "frontmatter",
+            "filename": "illust.md",
+            "numbering": "padzero"
+        },
+        {
+            "title": "Contents",
+            "type": "frontmatter",
+            "filename": "toc.md",
+            "landmark": "toc"
+        },
+        {
+            "title": "Story",
+            "type": "frontmatter",
+            "filename": "story.md",
+            "numbering": "padzero"
+        },
+        {
+            "title": "Characters",
+            "type": "frontmatter",
+            "filename": "characters.md",
+            "numbering": "padzero"
+        },
+        {
+            "title": "Prologue",
+            "type": "chapter",
+            "filename": "chapter0.md",
+            "landmark": "bodymatter",
+            "break": true
+        },
+        {
+            "title": "Chapter 1: Archlesia Empire",
+            "type": "chapter",
+            "filename": "chapter1.md"
+        },
+        {
+            "title": "Chapter 2: The Devoted Maid",
+            "type": "chapter",
+            "filename": "chapter2.md"
+        },
+        {
+            "title": "Chapter 3: Redeemed Power",
+            "type": "chapter",
+            "filename": "chapter3.md"
+        },
+        {
+            "title": "Chapter 4: The War King's Invasion, the Phantasmal King's Secret Maneuvers",
+            "type": "chapter",
+            "filename": "chapter4.md"
+        },
+        {
+            "title": "Intermission: Illness — Gratuitous Love",
+            "type": "chapter",
+            "filename": "chapter4x1.md"
+        },
+        {
+            "title": "Chapter 5: The Course of the Patent",
+            "type": "chapter",
+            "filename": "chapter5.md"
+        },
+        {
+            "title": "Epilogue",
+            "type": "chapter",
+            "filename": "chapter6.md"
+        },
+        {
+            "title": "Special: Character Design Reveal",
+            "type": "backmatter",
+            "filename": "special.md",
+            "numbering": "padzero",
+            "landmark": "backmatter",
+            "break": true
+        },
+        {
+            "title": "Afterword",
+            "type": "backmatter",
+            "filename": "afterword.md"
+        },
+        {
+            "title": "Serious-senpai's Room: Act 4",
+            "type": "backmatter",
+            "filename": "seriousact.md"
+        },
+        {
+            "title": "Translation Notes",
+            "type": "backmatter",
+            "filename": "notes.md",
+            "optional": true
+        },
+        {
+            "title": "Colophon",
+            "type": "backmatter",
+            "filename": "colophon.md"
+        }
+    ]
+}
