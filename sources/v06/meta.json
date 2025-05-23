@@ -1,0 +1,120 @@
+{
+    "title": "I Was Caught up in a Hero Summoning, but That World Is at Peace: Volume 6",
+    "volume": 6,
+    "identifier": "i-was-caught-up-in-a-hero-summoning-v06",
+    "cover": "Cover.png",
+    "year": 2019,
+    "version": "1.0.0",
+    "toc": [
+        {
+            "title": "Cover",
+            "type": "frontmatter",
+            "filename": "cover.md"
+        },
+        {
+            "title": "Illustrations",
+            "type": "frontmatter",
+            "filename": "illust.md",
+            "numbering": "padzero"
+        },
+        {
+            "title": "Contents",
+            "type": "frontmatter",
+            "filename": "toc.md",
+            "landmark": "toc"
+        },
+        {
+            "title": "Story",
+            "type": "frontmatter",
+            "filename": "story.md",
+            "numbering": "padzero"
+        },
+        {
+            "title": "Characters",
+            "type": "frontmatter",
+            "filename": "characters.md",
+            "numbering": "padzero"
+        },
+        {
+            "title": "Prologue",
+            "type": "chapter",
+            "filename": "chapter0.md",
+            "landmark": "bodymatter",
+            "break": true
+        },
+        {
+            "title": "Chapter 1: Kuromueina",
+            "type": "chapter",
+            "filename": "chapter1.md"
+        },
+        {
+            "title": "Chapter 2: The War Back Then",
+            "type": "chapter",
+            "filename": "chapter2.md"
+        },
+        {
+            "title": "Intermission: Kuromueina — The Wish of the God's Half-Body",
+            "type": "chapter",
+            "filename": "chapter2x1.md"
+        },
+        {
+            "title": "Chapter 3: Everyday Life with my Beloved Lover",
+            "type": "chapter",
+            "filename": "chapter3.md"
+        },
+        {
+            "title": "Chapter 4: Gratitude",
+            "type": "chapter",
+            "filename": "chapter4.md"
+        },
+        {
+            "title": "Intermission: Lilia — Her Other Mother",
+            "type": "chapter",
+            "filename": "chapter4x1.md"
+        },
+        {
+            "title": "Chapter 5: Visit to the God Realm",
+            "type": "chapter",
+            "filename": "chapter5.md"
+        },
+        {
+            "title": "Chapter 6: Starry Sky Together with You",
+            "type": "chapter",
+            "filename": "chapter6.md"
+        },
+        {
+            "title": "Epilogue",
+            "type": "chapter",
+            "filename": "chapter7.md"
+        },
+        {
+            "title": "Special: Character Design Reveal",
+            "type": "backmatter",
+            "filename": "special.md",
+            "numbering": "padzero",
+            "landmark": "backmatter",
+            "break": true
+        },
+        {
+            "title": "Afterword",
+            "type": "backmatter",
+            "filename": "afterword.md"
+        },
+        {
+            "title": "Serious-senpai's Room: Act 6",
+            "type": "backmatter",
+            "filename": "seriousact.md"
+        },
+        {
+            "title": "Translation Notes",
+            "type": "backmatter",
+            "filename": "notes.md",
+            "optional": true
+        },
+        {
+            "title": "Colophon",
+            "type": "backmatter",
+            "filename": "colophon.md"
+        }
+    ]
+}
