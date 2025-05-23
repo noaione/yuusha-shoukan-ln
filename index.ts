@@ -562,7 +562,7 @@ async function processVolume(projectMeta: ProjectMetaSchemaType, volumeNumber: s
       // @ts-expect-error - internal stuff
       if (item[':@']['@_idref'] === 'navigation.xhtml') {
         // @ts-expect-error - internal stuff
-        item[':@']['linear'] = 'yes';
+        item[':@']['@_linear'] = 'yes';
       }
     }
 

@@ -51,7 +51,7 @@ const templateSimpleToC = `<?xml version="1.0" encoding="utf-8"?>
 	<link href="../Styles/book.css" rel="stylesheet" type="text/css" />
 </head>
 
-<body class="center">
+<body>
 	<nav epub:type="toc" id="id" role="doc-toc">
 		{{content}}
 	</nav>
@@ -73,7 +73,9 @@ const templateColophon = `<?xml version="1.0" encoding="utf-8"?>
 </head>
 
 <body>
-  {{content}}
+  <div class="main">
+    {{content}}
+  </div>
 </body>
 `;
 
@@ -88,9 +90,7 @@ const templateNcx = `<?xml version="1.0" encoding="utf-8"?>
   <docTitle>
     <text>{{title}}</text>
   </docTitle>
-  <navMap>
-    {{content}}
-  </navMap>
+  {{content}}
 </ncx>`;
 
 export type MetaToC = {
@@ -317,7 +317,7 @@ export function autogenColophon(project: ProjectMetaSchemaType, volume: VolumeMe
 export function autogenFootnotes(footnotes: HastElement[], meta: VolumeMetaSchemaType): string {
   const html = hastToHtmlRaw({
     type: 'root',
-    children: [h('h1', { class: 'toc-title' }, ['Translation Notes']), ...footnotes],
+    children: [h('h1', ['Translation Notes']), ...footnotes],
   });
 
   return templateFootnotes.replace(/{{title}}/g, meta.title).replace(/{{content}}/g, html);
