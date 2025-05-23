@@ -1,0 +1,107 @@
+{
+    "title": "I Was Caught up in a Hero Summoning, but That World Is at Peace: Volume 3",
+    "volume": 3,
+    "identifier": "i-was-caught-up-in-a-hero-summoning-v03",
+    "cover": "Cover.png",
+    "year": 2018,
+    "version": "1.0.0",
+    "toc": [
+        {
+            "title": "Cover",
+            "type": "frontmatter",
+            "filename": "cover.md"
+        },
+        {
+            "title": "Illustrations",
+            "type": "frontmatter",
+            "filename": "illust.md",
+            "numbering": "padzero"
+        },
+        {
+            "title": "Contents",
+            "type": "frontmatter",
+            "filename": "toc.md",
+            "landmark": "toc"
+        },
+        {
+            "title": "Story & Characters",
+            "type": "frontmatter",
+            "filename": "storychara.md",
+            "numbering": "padzero"
+        },
+        {
+            "title": "Prologue",
+            "type": "chapter",
+            "filename": "chapter0.md",
+            "landmark": "bodymatter"
+        },
+        {
+            "title": "Chapter 1: The Elven City",
+            "type": "chapter",
+            "filename": "chapter1.md"
+        },
+        {
+            "title": "Chapter 2: An Unexpected Reunion and a New Encounter",
+            "type": "chapter",
+            "filename": "chapter2.md"
+        },
+        {
+            "title": "Intermission: Kusunoki Aoi — The Caged Bird's First Love",
+            "type": "chapter",
+            "filename": "chapter2x1.md"
+        },
+        {
+            "title": "Chapter 3: The Wrath of the Death King",
+            "type": "chapter",
+            "filename": "chapter3.md"
+        },
+        {
+            "title": "Intermission: Sieglinde — Her Voiceless Thoughts",
+            "type": "chapter",
+            "filename": "chapter3x1.md"
+        },
+        {
+            "title": "Chapter 4: The World King, Lillywood Yggdrasil",
+            "type": "chapter",
+            "filename": "chapter4.md"
+        },
+        {
+            "title": "Chapter 5: The Underworld King's Feelings",
+            "type": "chapter",
+            "filename": "chapter5.md"
+        },
+        {
+            "title": "Epilogue",
+            "type": "chapter",
+            "filename": "chapter6.md"
+        },
+        {
+            "title": "Special: Character Design Reveal",
+            "type": "backmatter",
+            "filename": "special.md",
+            "numbering": "padzero",
+            "landmark": "backmatter"
+        },
+        {
+            "title": "Afterword",
+            "type": "backmatter",
+            "filename": "afterword.md"
+        },
+        {
+            "title": "Serious-senpai's Room: Act 3",
+            "type": "backmatter",
+            "filename": "seriousact.md"
+        },
+        {
+            "title": "Translation Notes",
+            "type": "backmatter",
+            "filename": "notes.md",
+            "optional": true
+        },
+        {
+            "title": "Colophon",
+            "type": "backmatter",
+            "filename": "colophon.md"
+        }
+    ]
+}
