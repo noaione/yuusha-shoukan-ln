@@ -1,0 +1,113 @@
+{
+    "title": "I Was Caught up in a Hero Summoning, but That World Is at Peace: Volume 2",
+    "volume": 2,
+    "identifier": "i-was-caught-up-in-a-hero-summoning-v02",
+    "cover": "Cover.png",
+    "year": 2017,
+    "version": "1.0.0",
+    "toc": [
+        {
+            "title": "Cover",
+            "type": "frontmatter",
+            "filename": "cover.md"
+        },
+        {
+            "title": "Illustrations",
+            "type": "frontmatter",
+            "filename": "illust.md",
+            "numbering": "padzero"
+        },
+        {
+            "title": "Contents",
+            "type": "frontmatter",
+            "filename": "toc.md",
+            "landmark": "toc"
+        },
+        {
+            "title": "Story",
+            "type": "frontmatter",
+            "filename": "story.md",
+            "numbering": "padzero"
+        },
+        {
+            "title": "Characters",
+            "type": "frontmatter",
+            "filename": "characters.md",
+            "numbering": "padzero"
+        },
+        {
+            "title": "Prologue",
+            "type": "chapter",
+            "filename": "chapter0.md",
+            "landmark": "bodymatter"
+        },
+        {
+            "title": "Chapter 1: The Gentle Elf",
+            "type": "chapter",
+            "filename": "chapter1.md"
+        },
+        {
+            "title": "Intermission: Tea Party of Black and White — The Supplier of Incorrect Knowledge",
+            "type": "chapter",
+            "filename": "chapter1x1.md"
+        },
+        {
+            "title": "Chapter 2: The Lonely King Clad in Death",
+            "type": "chapter",
+            "filename": "chapter2.md"
+        },
+        {
+            "title": "Intermission: Isis Remnant — The Being that She had been Waiting For",
+            "type": "chapter",
+            "filename": "chapter2x1.md"
+        },
+        {
+            "title": "Chapter 3: The Death King Cometh",
+            "type": "chapter",
+            "filename": "chapter3.md"
+        },
+        {
+            "title": "Chapter 4: The Slothful God",
+            "type": "chapter",
+            "filename": "chapter4.md"
+        },
+        {
+            "title": "Chapter 5: A Gift to My Beloved Underworld King",
+            "type": "chapter",
+            "filename": "chapter5.md"
+        },
+        {
+            "title": "Epilogue",
+            "type": "chapter",
+            "filename": "chapter6.md"
+        },
+        {
+            "title": "Special: Character Design Reveal",
+            "type": "backmatter",
+            "filename": "special.md",
+            "numbering": "padzero",
+            "landmark": "backmatter"
+        },
+        {
+            "title": "Afterword",
+            "type": "backmatter",
+            "filename": "afterword.md"
+        },
+        {
+            "title": "Serious-senpai's Room: Act 2",
+            "type": "backmatter",
+            "filename": "seriousact.md"
+        },
+        {
+            "title": "Translation Notes",
+            "type": "backmatter",
+            "filename": "notes.md",
+            "optional": true
+        },
+        {
+            "title": "Colophon",
+            "type": "backmatter",
+            "filename": "colophon.md"
+        }
+    ]
+}
