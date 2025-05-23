@@ -1,0 +1,62 @@
+diff --git a/index.cjs b/index.cjs
+index deaff18da40dfa4702fad2e3263e0e408f2c7989..751239a46046f9b8e960b7b773242cdd494d5c50 100644
+--- a/index.cjs
++++ b/index.cjs
+@@ -249,19 +249,19 @@ class Epub {
+    */ static async create({ title, language, identifier, date, subjects, type, creators, contributors }, additionalMetadata = []) {
+         const entries = [];
+         const encoder = new TextEncoder();
+-        const container = encoder.encode(`<?xml version="1.0"?>
+-<container>
+-  <rootfiles>
+-    <rootfile media-type="application/oebps-package+xml" full-path="OEBPS/content.opf"/>
+-  </rootfiles>
++        const container = encoder.encode(`<?xml version="1.0" encoding="utf-8"?>
++<container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container">
++    <rootfiles>
++        <rootfile full-path="OEBPS/content.opf" media-type="application/oebps-package+xml"/>
++    </rootfiles>
+ </container>
+ `);
+         entries.push(new EpubEntry({
+             filename: "META-INF/container.xml",
+             data: container
+         }));
+-        const packageDocument = encoder.encode(`<?xml version="1.0"?>
+-<package unique-identifier="pub-id" dir="${language.textInfo.direction}" xml:lang=${language.toString()} version="3.0">
++        const packageDocument = encoder.encode(`<?xml version="1.0" encoding="utf-8"?>
++<package version="3.0" unique-identifier="pub-id" dir="${language.textInfo.direction}" xml:lang="${language.toString()}">
+   <metadata>
+   </metadata>
+   <manifest>
+diff --git a/index.js b/index.js
+index 214ee946a5ca8304f01d86dcc969067e73bb9337..a1fea64cf34c03161d1025e659b49053d537db45 100644
+--- a/index.js
++++ b/index.js
+@@ -260,19 +260,19 @@ class EpubEntry {
+    */ static async create({ title, language, identifier, date, subjects, type, creators, contributors }, additionalMetadata = []) {
+         const entries = [];
+         const encoder = new TextEncoder();
+-        const container = encoder.encode(`<?xml version="1.0"?>
+-<container>
+-  <rootfiles>
+-    <rootfile media-type="application/oebps-package+xml" full-path="OEBPS/content.opf"/>
+-  </rootfiles>
++        const container = encoder.encode(`<?xml version="1.0" encoding="utf-8"?>
++<container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container">
++    <rootfiles>
++        <rootfile full-path="OEBPS/content.opf" media-type="application/oebps-package+xml"/>
++    </rootfiles>
+ </container>
+ `);
+         entries.push(new EpubEntry({
+             filename: "META-INF/container.xml",
+             data: container
+         }));
+-        const packageDocument = encoder.encode(`<?xml version="1.0"?>
+-<package unique-identifier="pub-id" dir="${language.textInfo.direction}" xml:lang=${language.toString()} version="3.0">
++        const packageDocument = encoder.encode(`<?xml version="1.0" encoding="utf-8"?>
++<package version="3.0" unique-identifier="pub-id" dir="${language.textInfo.direction}" xml:lang="${language.toString()}">
+   <metadata>
+   </metadata>
+   <manifest>

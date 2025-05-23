@@ -1,0 +1,39 @@
+{
+    "title": "Project Title: Volume 1",
+    "volume": 1,
+    "identifier": "project-title-v01",
+    "cover": "Cover.png",
+    "year": 2025,
+    "version": "1.0.0",
+    "toc": [
+        {
+            "title": "Cover",
+            "type": "frontmatter",
+            "filename": "cover.md"
+        },
+        {
+            "title": "Contents",
+            "type": "frontmatter",
+            "filename": "toc.md",
+            "landmark": "toc",
+            "optional": true
+        },
+        {
+            "title": "Prologue",
+            "type": "chapter",
+            "filename": "chapter0.md",
+            "landmark": "bodymatter"
+        },
+        {
+            "title": "Translation Notes",
+            "type": "backmatter",
+            "filename": "notes.md",
+            "optional": true
+        },
+        {
+            "title": "About this Release",
+            "type": "backmatter",
+            "filename": "about-rls.md"
+        }
+    ]
+}
