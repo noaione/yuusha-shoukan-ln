@@ -28,6 +28,14 @@ The Black Bear who died in the battle at the Sacred Tree Festival and revived to
 
 A female elven knight who works under Lilia. She has lost her voice in the past due to a wound she received on her throat.
 
+#### Fors
+
+The eldest of the Elven Race and the first Special Individual High Elf. Formerly a member of the Hero Party. She’s a researcher by temperament, and in her own words, “a humane mad scientist”. She’s careless when something is unrelated to her research and is extremely directionally challenged.
+
+#### Luce/Miyama Akari
+
+Kaito’s mother. She has a bright, energetic and positive personality. Her specialties are burger steak and apple pies, but she’s basically a terrible cook and makes exquisitely unpalatable food. She and her husband Kazuya were killed in a traffic accident when Kaito was in primary school.
+
 ---
 
 #### Kuromueina
@@ -65,6 +73,30 @@ Pandemonium, one of the ten demons who is the oldest maid in Lilia'a service and
 #### Magnawell Baskus Lardo Kurtzvald
 
 Dragon King. A high ancient dragon and the largest being in the world. He’s a person who follows etiquette, and is the person with the most common sense among the Six Kings.
+
+#### Vier
+
+A Count-level, High-Ranking Demon, working as a doctor. She is also Noir’s attending doctor. She has a cheerful and kind-hearted personality, but she’s a bit of a klutz. The Former Demon King.
+
+#### Zwei
+
+A Magic Doll.A member of Kuromueina’s camp, in charge of managing the land Kuromueina owns. She’s extremely serious and can’t take jokes, and is strictest with herself over others. She loves her family with all her heart. She has the power to manipulate force fields.
+
+#### Baachus
+
+One of the War King’s Five Generals, also known as the “Ironblooded”. A unique species of Demon. He’s a muscular, old heavy warrior who fights with a battle-axe…… or so he looks like, but in fact, he’s the second youngest of the War King’s Five Generals, with Kong younger than him. Eta and Theta’s former superior.
+
+#### Kong
+
+One of the War King’s Five Generals, also known as the “Gallant”. His species is called Imperial Kong. He is a musclehead who doesn’t think too deeply about things. He looks up to Ozma, who trained him, calling him “Aniki”. He’s the youngest of the Five Generals.
+
+#### Epsilon
+
+One of the War King’s Five Generals, also known as the “Absolute Ice”. Her species is called Ice Oni. She has a quiet and calm personality, but even though she appears cool on the surface, she holds quite the fire in her heart. Like the other subordinates of the War King, she loves fighting and training. She wields a large naginata as a weapon, and her technique is one of the best in the Demon Realm.
+
+#### Agni
+
+One of the War King’s Five Generals and their Head Subordinate, also known as the “Hell Fire”. A unique species of Demon. She’s the close friend of Nidzveld, one of Dragon King’s Executives, and they sometimes train together. She fights barehanded, attacking with strikes that are covered with flames.
 
 ---
 
