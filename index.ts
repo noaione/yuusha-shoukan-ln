@@ -657,3 +657,5 @@ for (const volume of volumes) {
     console.error(`Error processing volume ${volume}:`, error);
   }
 }
+
+console.log('All volumes processed successfully!');
