@@ -1,5 +1,6 @@
 ---
 template: images
+numbering: padzero
 ---
 
 ![Characters 01](../../_Images/v04/StoryChara1.png#.insert)
