@@ -15,7 +15,7 @@ Flower” on a small table and turned her gaze to the view from a nearby window.
 At that moment, the door to the library opened and a girl carrying a paper bag
 entered.
 
-[Isis, I’ve come to share my newest creations with you~~]
+[Isis, I’ve come to share my newest creations with you\~\~]
 
 [...Kuromueina... Unnn... Thank you... You can just... put it down there.]
 
@@ -120,7 +120,7 @@ opportunity to increase your profile.]
 [Yes, if I can gain power as a noble little by little, one day... I would be
 able to acquire a Fruit of the World Tree...]
 
-[.........]
+[...]
 
 Hearing the words Lilia muttered as she stared at the documents, Lunamaria had a
 complicated expression on her face. However, her face soon changed to a cheerful
@@ -279,7 +279,7 @@ World King-samaaaaaaa.]
 
 [...I guess so.]
 
-[That’s whyyyyy~~ You shouldn’t brood about this matter too muuuuuuuch.]
+[That’s whyyyyy\~\~ You shouldn’t brood about this matter too muuuuuuuch.]
 
 [...Yes. Thank you.]
 
@@ -377,7 +377,7 @@ the magic tool and channeled her magic power into it.
 
 [Shalltear-samaaaa, Underworld King-sama wants to contact youuuuu.]
 
-“Oya, Kuro-san does? Oh my, I wonder what this is all about~~”
+“Oya, Kuro-san does? Oh my, I wonder what this is all about\~\~”
 
 Hearing the words coming from the Communication Magic Tool, Kuromueina looked
 somewhat astounded, and letting out a sigh once, she spoke.
@@ -394,7 +394,7 @@ before turning to Illness and speaking.
 
 [...Thank you, Pandemonium-chan. I’m sorry for troubling you.]
 
-[No, please don’t worry about iiiiiiit~~]
+[No, please don’t worry about iiiiiiit\~\~]
 
 [Seriously, that was really mean of her. Even though she already knew I was
 looking for her, she wouldn’t show up unless I contacted her.]
@@ -444,7 +444,7 @@ looked at the city people and muttered.
 [Lately, I feel like a lot of things just don’t quite mesh. Not personally or
 anything like that, but the world as a whole...]
 
-[Ah~~ It’s been almost a thousand years since the Treaty of Friendship... but
+[Ah\~\~ It’s been almost a thousand years since the Treaty of Friendship... but
 the stagnation that comes after development has shown itself, right?]
 
 [Unnn. It could be seen a few times back in the Demon Realm... but at best, it

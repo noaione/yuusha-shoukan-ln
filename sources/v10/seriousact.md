@@ -55,7 +55,7 @@ not bothered by Serious-senpai’s words.
 
 [Heck, if I had to choose who the most dangerous people in this series are, it
 would either be you or Pandora, so being compared to that, isn’t that already
-enough to show how dangerous you are!?]
+enough to show how dangerous you are?!]
 
 [T-That’s just...]
 
@@ -107,4 +107,4 @@ voluuuuuuume!!!]
 And so, once again today, the waiting room was filled with Serious-senpai’s
 bitter cries.
 
-![Bonus Illustration](../../_Images/v10/SS01-Illust.jpg#.insert)
+![Bonus Illustration](../../_Images/v10/SS01-Illust-Cut.png#.insert)
