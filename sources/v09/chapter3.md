@@ -1326,7 +1326,7 @@ trembling.
 
 As I was having a bad feeling about the conversation that showed unusual signs
 around it, the door was opened and Lilia-san appeared, a single towel wrapped
-around her body. Eh? What is this? What the heck…… is happening now?
+around her body. Eh? What is this? What the heck... is happening now?
 
 There are always things you can’t expect in life... but for some reason, my
 unexpectedness even seems to be focused on where the hot water is. Honestly, I
