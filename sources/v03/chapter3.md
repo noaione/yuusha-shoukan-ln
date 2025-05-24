@@ -735,7 +735,7 @@ direct my anger?]
 [I dunno?]
 
 [I dunno, you say... rather than that, Shiro! If you knew that Kaito-kun would
-get hurt, why didn't you tell me!!?!]
+get hurt, why didn't you tell me?!]
 
 Kuromueina looked dumbfounded by the fact that Isis has cleaned up the mess, and
 after expressing her sincere relief that Kaito is safe, she questioned Shallow
@@ -1216,7 +1216,7 @@ for a long time to keep it from driving Lilia-san into a corner, Sieg-san looked
 straight at Lilia-san. Then, she puts her hand on her own neck, and a thin red
 light made of magic power illuminated.
 
-[...Li– li...]
+[...Li-li...]
 
 [?!?!]
 

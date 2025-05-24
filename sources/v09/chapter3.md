@@ -2297,7 +2297,7 @@ she looked away.
 
 [No, but why are you turning your face away...]
 
-[Ahhh~~! Is the next set of meat not ready yet~~!!?!]
+[Ahhh~~! Is the next set of meat not ready yet~~?!]
 
 ...Something feels kind of wrong with Alice. What’s going on? Just as I was
 wondering what’s with Alice, who was clearly trying to get off the topic, when a
@@ -2335,8 +2335,8 @@ guess Kaito-san has also noticed my charm huh.]
 
 [Unnn, that might be so.]
 
-[Can you please throw your tsukkomi like you always do right there!!?! I can’t
-properly look directly at your face now, you know!!?!]
+[Can you please throw your tsukkomi like you always do right there?! I can’t
+properly look directly at your face now, you know?!]
 
 Speaking of which, when I really think back on it, Alice was that side of hers
 that is embarrassed when her unmasked face is seen, so she may actually be a shy

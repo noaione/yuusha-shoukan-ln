@@ -72,7 +72,7 @@ feeling a bit gloomy, but that was resolved after my stroll with Sieg-san, and I
 thought all I had to do now was get a good night’s sleep and get ready for
 tomorrow, but at that moment, a troubling situation arose.
 
-[Kaito-san! How many times do I have to tell you to make you understand!!?!]
+[Kaito-san! How many times do I have to tell you to make you understand?!]
 
 [That’s my line!]
 

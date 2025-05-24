@@ -1078,7 +1078,7 @@ out of her forehead, and her eyes are completely set... It seems that she’s
 angrier than ever before.
 
 [W-Wait right there, Sieg... Why are you pulling out your sword... Wait?! Wait a
-moment?! Wa—– Gyaaaaaahhhh?!]
+moment?! Wa—Gyaaaaaahhhh?!]
 
 Thereupon, in the late night of Rigforeshia, Rei-san’s loud screams echoed.
 
@@ -1824,7 +1824,7 @@ bit of an airhead.
 (I’ll have some fruit sticks as a souvenir too.)
 
 Why did you just say that now?! You know that I went shopping for souvenirs
-yesterday, right?! Why didn’t you just tell me that yesterday!!?!
+yesterday, right?! Why didn’t you just tell me that yesterday?!
 
 (I dunno?)
 

@@ -342,7 +342,7 @@ lives.
 [...If you... interfere... I will kill you.]
 
 [...I see, that’s a considerable magic power you possess... However, how about
-you don’t underestimate me too much!!?!]
+you don’t underestimate me too much?!]
 
 [?!]
 
@@ -861,7 +861,7 @@ nothing aren’t qualified to make those kinds of decisions!!!]
 all the decisions to me alone and didn’t think about it yourself! You, you who
 built this world, I ask you, what do you even want for this world?! What do you
 wish for this world to become?! What even is this world for you... Can’t you
-just think at least that much!!?!]
+just think at least that much?!]
 
 [It’s better since it’s you who will be deciding that. You are me. Your decision
 is also mine.]

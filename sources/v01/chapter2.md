@@ -2240,7 +2240,7 @@ to me and uttered some surprising words.
 [...How is “Japan” right now? Has the emperor finally changed and there's a new
 name for the arrival of the new era?]
 
-[Wha–?!]
+[Wha—?!]
 
 Not only did he tell me the word “Japan” as if it's normal, Neun-san also knows
 about the existence of an emperor.

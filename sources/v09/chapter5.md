@@ -103,7 +103,7 @@ Fate was slacking in her temple in the Upper levels of the God Realm. Just as
 she was rolling around on the cushions strewn around the place, her mind made up
 that she would stay in this position for the rest of the day, it happened.
 
-[God of Fate! Would you cut it out!!?!]
+[God of Fate! Would you cut it out?!]
 
 [Uwaahhh?! G-God of Time and Space?! W-What’s the matter?]
 
@@ -426,7 +426,7 @@ at me.
 [...Eh?]
 
 [How many times do you think God of Fate-sama had forced her work on me, saying
-“I’m going to go visit Kai-chan~~”!!?! It’s all your faaaauuuullllttttt!!!]
+“I’m going to go visit Kai-chan~~” It’s all your faaaauuuullllttttt!!!]
 
 [.........]
 
@@ -491,7 +491,7 @@ she’s being sorry for saying too much, right?
 [Eh?]
 
 [My name is Shea! I-I’ll make an exception and allow you to call me by my name!
-You’re just an exception, okay!!?!]
+You’re just an exception, okay?!]
 
 [Y-Yes. It’s nice to meet you, Shea-san.]
 
@@ -686,7 +686,7 @@ was having my clones take a second job too...]
 
 [A-A-Are you sure you’re not just imagining things? A-Anyway, my clones are
 doing business all over the place! Having this cute Alice-chan all over the
-place really fills the world with happiness, doesn’t it!!?!]
+place really fills the world with happiness, doesn’t it?!]
 
 [...Can I hit you again?]
 
@@ -740,9 +740,9 @@ completely forgot about it.
 
 [Ah, no, errr...]
 
-[You forgot, didn’t you?! You wiped out the memory of that time into
-oblivion!!?! You just put it away in your mind, thinking that “It’s just Alice
-anyway, so it’s okay”, didn’t you!!?!]
+[You forgot, didn’t you?! You wiped out the memory of that time into oblivion?!
+You just put it away in your mind, thinking that “It’s just Alice anyway, so
+it’s okay”, didn’t you?!]
 
 [...I-I’m sorry!!! T-That’s not it, I’m not thinking that it’s just Alice anyway
 or anything like that... It’s just that there was quite the commotion around
@@ -778,7 +778,7 @@ presented it in front of Alice.
 [A-Alice, I’m really sorry... Y-You can have this...]
 
 [Aaaaahhhh! Kaito-san?! You think that if you just give me food, I’ll keep quiet
-about this!!?! Please don’t take me for a fool! I’m not such a, such a—Yum! Eh?
+about this?! Please don’t take me for a fool! I’m not such a, such a—Yum! Eh?
 What is this, isn’t it absurdly delicious?!]
 
 [R-Really? I’m glad you liked it... No, Alice. I’m so sorry I forgot! As an

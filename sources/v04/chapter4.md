@@ -414,7 +414,7 @@ shattered into pieces.
 [It’s a good spear, isn’t it? Even though I’ve already piled up 10 stacks, it
 just barely broke to pieces.]
 
-[I’m fucking asking you what happened!!?!]
+[I’m fucking asking you what happened?!]
 
 In response to Eta who completely lost her composure and shouted such, Sieglinde
 calmly answered.
@@ -1412,7 +1412,7 @@ angry shout.
 
 [You bastards... You’ve got to be fucking kidding me! I told you to lead him to
 me! I never fucking told you to surprise attack anyone!!! You fucking heard
-me!!?!]
+me?!]
 
 [Aaggghhh, m-my apolo...]
 
@@ -1421,7 +1421,7 @@ And it looked like he had turned into an incarnation of a burning black flame.
 
 [When you fucking fight! You have to start with introducing yourselves and then,
 you ready your stances! And now, you’re telling me that you acted like trash and
-surprised attacked them... Are you trying to embarrass me!!?!]
+surprised attacked them... Are you trying to embarrass me?!]
 
 That’s probably the aesthetics of fighting for the War King.
 
@@ -1490,7 +1490,7 @@ The other party is one of the Six Kings... I don’t need to use my Sympathy Mag
 to know that he’s not bluffing when he mentioned killing. Still, I can’t kill
 anyone. Call me naive, call me stupid, but I can’t do what I can’t do.
 
-[Ku– Ha—Hahahaha! Ahahaha!!!]
+[Ku—Ha-Hahahaha! Ahahaha!!!]
 
 [...Eh?]
 

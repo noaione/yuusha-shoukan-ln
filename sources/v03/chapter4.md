@@ -566,9 +566,9 @@ you, in front of her, she'll instantly beat me up.]
 [...I'm really sorry for everything.]
 
 It's only been nearly half a day, how the heck did you make the people around be
-vigilant of you that they're even alerted about this matter!!?! What the heck
-did you do, Anima?! Even Rei-san's just sighing there like he had completely
-given up on the whole thing....
+vigilant of you that they're even alerted about this matter?! What the heck did
+you do, Anima?! Even Rei-san's just sighing there like he had completely given
+up on the whole thing....
 
 Thanks to the sudden attack of Anima, I felt a sense of exhaustion even before I
 participated in the event, and I listened to the man's explanation again.
@@ -1413,9 +1413,8 @@ Demons there. You can find more than 100 high-ranking demons, including
 Peerage-holding, high-ranking Demons, all lying on the ground with wounds all
 over their bodies.
 
-[Oraaahhh! How long do you all plan lying there!!?! Just because we've had a
-mere 1000 years of peace but for all of you to be wearing cowardice, how
-pathetic!]
+[Oraaahhh! How long do you all plan lying there?! Just because we've had a mere
+1000 years of peace but for all of you to be wearing cowardice, how pathetic!]
 
 [M-My... apologies.]
 

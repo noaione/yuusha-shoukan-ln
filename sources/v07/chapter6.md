@@ -224,7 +224,7 @@ Aoi-chan and Hina-chan.
 
 [Same here.]
 
-[Do I not have any allies here!!?!]
+[Do I not have any allies here?!]
 
 Lunamaria-san cowered, her head held in her hands. In the first place... What
 she said about how I would do anything to Lunamaria-san’s mother is strange, but
@@ -374,7 +374,7 @@ also thank him later... However, what’s with that outfit?!]
 [Is my outfit... strange?]
 
 [It isn’t about being strange or anything like that! Why are you wearing an
-open-shouldered dress!!?! Looking closely, you’re also wearing make-up, even
+open-shouldered dress?! Looking closely, you’re also wearing make-up, even
 though you rarely wear them!!!]
 
 [That is, ummm...]
@@ -385,7 +385,7 @@ and for some reason, she was repeatedly glancing at me.
 [I’m a woman too... so if I’m going to meet a dreamy man, I at least want to be
 a little fashionable...]
 
-[What, aren’t you aware of what you look like!!?! Please consider how old you
+[What, aren’t you aware of what you look like?! Please consider how old you
 are!!!]
 
 [Lu-chan... I’m only “480” years old, you know?]
@@ -434,7 +434,7 @@ She’s only talking about blood, but when she worded it that badly... And with
 blushing cheeks and the ecstatic expression on her face, even people other than
 Lunamaria-san would misunderstand her.
 
-[W-W-What are you thinking about!!?! Putting aside if you know each other for a
+[W-W-What are you thinking about?! Putting aside if you know each other for a
 while, but you shouldn’t do that on the first day you met! Don’t you feel sorry
 for Dad?!]
 
@@ -1152,7 +1152,7 @@ The result of their fight... It was apparently never settled. How do I know
 that? That’s because they’re both peacefully sitting in a seiza, side by side,
 with a lump popping out of their heads.
 
-[Good grief! What the heck are you two doing!!?! Shirking on your duties and
+[Good grief! What the heck are you two doing?! Shirking on your duties and
 fighting a duel, shame on you two! Become aware that each of your actions could
 stain Master’s honor!!!]
 

@@ -744,8 +744,8 @@ had her hand on her forehead and was looking up to the heavens.
 [...I already expected this would happen... but you do realize this is the third
 time already, right?! I mean, can you please not go along with that flow as if
 it’s a matter of course?! Compared to the number of people who participated in
-this, isn’t my part a little too big!!?! If I don’t get paid extra here, it’s
-not worth it!]
+this, isn’t my part a little too big?! If I don’t get paid extra here, it’s not
+worth it!]
 
 [I see, alright. Shalltear certainly is helping us a lot... so I’ll specially
 give you the Number 3 position in our “Baby Castella Research Group”!]

@@ -431,7 +431,7 @@ Memorabilia: Dragon King’s Fangs, Dragon King’s Claws
 
 Stop right there!!! Magnawell-san’s fangs and claws? No, no, just one of them
 would be about the size of a building, you know?! What the heck do you want me
-to do with that!!?!
+to do with that?!
 
 ```
 <Phantasmal King: No Face>

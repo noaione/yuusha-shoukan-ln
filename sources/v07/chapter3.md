@@ -845,7 +845,7 @@ and saves a lot of lives... How should I say this... It’s like she’s the ver
 definition of a doctor. I’ve only known her for a short time, but I feel lots of
 respect for Dr. Vier.
 
-[Okay, well then, let’s go to the examination room and give you some I—–
+[Okay, well then, let’s go to the examination room and give you some I—
 Vgyuuaaaahhh?!]
 
 Saying that, Dr. Vier was about to get up, but she slipped on the bloody floor

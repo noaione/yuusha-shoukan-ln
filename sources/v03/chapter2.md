@@ -729,7 +729,7 @@ a good idea to overthink.]
 [Have I been overthinking?]
 
 [Unnn. The people around you don't pay as much attention to trivial stuff as
-Miyama–kun thinks. I'm not necessarily saying that you should just act however
+Miyama-kun thinks. I'm not necessarily saying that you should just act however
 you want, but you see, Uncle thinks it's okay to cut yourself some slack.]
 
 What Ozma-san is talking about is my life in Lilia-san's mansion. Probably

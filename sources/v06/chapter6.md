@@ -286,7 +286,7 @@ Shiro-san at an appropriate time, I turned my gaze back to Alice and Fate-san.
 
 [No, no, do you have other questions?]
 
-[Yeeeeees! How can I win over Kai-chan!!?!]
+[Yeeeeees! How can I win over Kai-chan?!]
 
 Oi, with that serious expression on your face incomparable to earlier, the heck
 are you asking, Supreme God...

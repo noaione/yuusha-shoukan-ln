@@ -38,7 +38,7 @@ were to ask the impossible...
 [I’m totally up for it, but the way you chose to invite me isn’t something I can
 accept! Aren’t you completely treating me like some convenient woman?! You do
 know Alice-chan here is one of the Six Kings, right?! I’m a big shot, you
-know!!?!]
+know?!]
 
 [I see, guess we’re not going huh?]
 
@@ -779,8 +779,8 @@ you.”
 [...Shut up... Lizard... Don’t bully... Kaito.]
 
 [Ahh, geez?! If I didn’t speak up earlier, you would have just thrown Maximum
-Magic at me!!?! The only person I allow to have some SM play with me is
-Kaito-san, you know!!?!]
+Magic at me?! The only person I allow to have some SM play with me is Kaito-san,
+you know?!]
 
 With an obviously grim atmosphere, Magnawell-san gets up and soon after, one of
 the iceberg shatters and Alice floats into the air. Arehh? Doesn’t this look
@@ -826,8 +826,8 @@ and Kuro was standing in front of them with her arms crossed in front of her.
 
 [Geez! Can’t you feel the frightening amount of magic power you’re releasing
 everywhere?! Isis, Shalltear, Megiddo and Magnawell, what in the world did you
-all think you’re doing!!?! If I hadn’t come, this whole area would have been
-wiped out!!!]
+all think you’re doing?! If I hadn’t come, this whole area would have been wiped
+out!!!]
 
 [...I’m sorry...]
 
@@ -1283,7 +1283,7 @@ with the best appearance among the Six Kings. However, that’s something I don�
 agree with.]
 
 [Isn’t it obvious that the majestic appearance of Dragon King-sama makes him the
-best of them all!!?!]
+best of them all?!]
 
 [No, Underworld King-sama’s loveliness is unrivaled!]
 
@@ -1731,13 +1731,13 @@ to sit in a seiza.
 
 [What the heck does this mean?! Why the heck did that happen to First
 Hero-sama?! You really are... Or rather, by the way you speak earlier, you knew
-about it long before, right!!?!]
+about it long before, right?!]
 
-[I-I’m sorry!!?!]
+[I-I’m sorry?!]
 
 [No, I’ve had enough, I will not forgive you anymore!!! You’ve just asked for my
 forgiveness a few days before... and not even a few days passed, you’re doing
-this now!!?! I’m not asking you to not be acquainted with them, but can’t you
+this now?! I’m not asking you to not be acquainted with them, but can’t you
 properly report at all?! To begin with, you have always been...]
 
 [...I-I’m sorry.]

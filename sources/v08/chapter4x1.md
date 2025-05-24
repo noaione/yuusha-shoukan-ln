@@ -356,8 +356,8 @@ An apology that no one can hear... As she spoke those words that she had been
 repeating for over a thousand years over and over again, some words surfaced
 within Vier’s mind.
 
-—–Even if I knew about Dr. Vier’s past sins, I wouldn’t lose my respect for “the
-current you.”
+———Even if I knew about Dr. Vier’s past sins, I wouldn’t lose my respect for
+“the current you.”
 
 It was only a short time since she got to know him. The words of that slightly
 unusual otherworlder... He wasn’t blaming her for her sins, nor did he intend to

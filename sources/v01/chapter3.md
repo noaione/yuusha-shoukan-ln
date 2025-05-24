@@ -213,7 +213,7 @@ ready for bed.
 Just at that moment though, I remembered about the souvenirs Neun-san gave me
 and talked to Lilia-san about it... Since it's food from my hometown, she just
 told me to share it with the three of us. And so, I decided to take her up on
-her offer, so I asked Kusunoki–san and Yuzuki-san to gather in my room.
+her offer, so I asked Kusunoki-san and Yuzuki-san to gather in my room.
 
 The three of us would be together in that room, so to be honest, it doesn't
 really make any difference which room we get together in, but no matter how

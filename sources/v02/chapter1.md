@@ -533,7 +533,7 @@ includes Lilia-san and I, so I guess they're just keeping it in moderation.
 My impression is that it would be like how there are intermittent earthquakes
 occurring. What did we come here for again?
 
-[Wait, how can you be that calm, Kaito-san!!?!]
+[Wait, how can you be that calm, Kaito-san?!]
 
 [No... It's just that I've gotten used to things that I don't understand
 happening out of the blue so...]
@@ -1168,7 +1168,7 @@ problem, comes out.
 I don't know if this is a fine play on my side though... Arehh? Why do I feel
 like Lilia-san and the others stiffened where they stand?
 
-[Sha– Sha—Shallow Vernal-sama?! W-Why are you in this place?!]
+[Sha-Sha—Shallow Vernal-sama?! W-Why are you in this place?!]
 
 It was the Goddess of Time who recovered from her shock the fastest. She was
 clearly shaken when she saw Shiro-san's appearance, but the Goddess of Time
@@ -1196,7 +1196,7 @@ Creator God... The head of the Divine Realm.
 
 With the sudden appearance of such an existence, the area was completely frozen.
 
-[Sha– Shallow Vernal-sama. W-Why are you suddenly in the Human Realm...]
+[Sha-Shallow Vernal-sama. W-Why are you suddenly in the Human Realm...]
 
 With her head hanging down, her voice slightly trembles as the Goddess of Time
 asked.
@@ -1398,7 +1398,7 @@ that?]
 [It's a relationship which improves along with the rise of my Affection meters,
 before we ultimately “develop into a sexual relationship”.]
 
-[Wha–?!]
+[Wha—?!]
 
 [.........]
 
@@ -1727,7 +1727,7 @@ down, but she doesn't seem to hear her at all.
 
 [I don't even feel like I'm alive anymore!!! I mean, that's the first time I've
 heard the voice of the Creator God, you know?! You don't know any other
-outrageous people anymore, right?! That's really the last one, right!!?! Please
+outrageous people anymore, right?! That's really the last one, right?! Please
 just say it now if you actually know the World King or someone like her! It's
 because my heart can't take it anymore!!!]
 

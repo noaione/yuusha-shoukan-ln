@@ -1178,7 +1178,7 @@ shopkeeper.
 [A one-time disposable magic tool costs 10000R, and you're saying that this
 spatial movement magic tool that can be used multiple times costs 30000R?]
 
-[What did you... say, ahh... Un– Un-Un-Un-Underworld King-sama?!]
+[What did you... say, ahh... Un-Un-Un-Un-Underworld King-sama?!]
 
 The storekeeper looked astonished when he saw Kuro. I see, she hadn't spoken to
 her earlier, so he hadn't noticed that Kuro was the Underworld King huh...

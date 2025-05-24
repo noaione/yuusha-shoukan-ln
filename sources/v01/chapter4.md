@@ -1431,7 +1431,7 @@ Thereupon, when I met eyes with Kuro, she looked back at me with the usual
 bright smile on her face and the pressure that had been weighing down on me
 immediately disappeared afterwards.
 
-[What do you think of that, Kaito-kun? My serious mode! Aren't I cool!?!]
+[What do you think of that, Kaito-kun? My serious mode! Aren't I cool?!]
 
 [.........]
 

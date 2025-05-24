@@ -1066,7 +1066,7 @@ To capture her troublesome colleague who regularly escapes...
 
 [I don't know... She's probably still “sleeping” like always...]
 
-[...Why... Why is neither of them acting like a Supreme God!!?!]
+[...Why... Why is neither of them acting like a Supreme God?!]
 
 On that day... Or should I say, even on that day, the cries of the struggling
 Supreme God echoed in the Divine Realm.
@@ -1200,7 +1200,7 @@ turning pale as she trembled.
 [...G-G-God of Time and Space?! W-W-Why are you here?!]
 
 [Fool! I can easily imagine where you're headed! How many times do you think you
-have escaped!!?! Cut it out already!]
+have escaped?! Cut it out already!]
 
 [Hiiiieeehhh... S-S-Stay...]
 

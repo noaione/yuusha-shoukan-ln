@@ -362,9 +362,9 @@ That's why she was wearing that costume just now... No, well, it doesn't seem
 like she really needs to wear that stuffed costume, but let's not tsukkomi about
 that.
 
-[Anyway... What the heck are you suddenly doing, Kaito-san!!?! From which
+[Anyway... What the heck are you suddenly doing, Kaito-san?! From which
 outlandish kingdom are you, stripping a girl in the middle of the day like
-this!!?!]
+this?!]
 
 [N-No, I also don't know what just happened... or rather, don't describe it in a
 way that would cause misunderstanding!!! You were only stripped off your stuffed
@@ -1415,7 +1415,7 @@ was swinging.
 
 On top of the pain, I feel like my body is floating up the ground?!
 
-[Are you doing this on purpose!!?! You must have been doing this on purpose,
+[Are you doing this on purpose?! You must have been doing this on purpose,
 right?! How come you would know another one of the Six Kings just after that
 short period of time!!! Moreover, it had to be Death King-sama this time... Why
 did you have to get to know the scariest one!!!]

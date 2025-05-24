@@ -656,13 +656,13 @@ was thinking that Kai-chan was actually homo...]
 
 [Oi, stop right there, useless goddess.]
 
-What the heck is this person saying now!!?! Who the heck is homo?! I’m asking
+What the heck is this person saying now?! Who the heck is homo?! I’m asking
 you!!! However, as expected of Fate-san, she magnificently ignored the shout of
 my heart and continued speaking.
 
 [However, I heard from Shall-tan that Kai-chan had become lovers with the
-Underworld King!!! Then, doesn’t that mean I also have a chance!!?! I can also
-do it!!!]
+Underworld King!!! Then, doesn’t that mean I also have a chance?! I can also do
+it!!!]
 
 [...What the heck...]
 
@@ -680,7 +680,7 @@ Ahh, she’s still the same old Fate-san... When she said her wish of becoming t
 seems to be completely dumbfounded too, putting her fingers to her temples and
 her cheek seemed to be twitching.
 
-[And so, Kai-chan! For now, how about we start with a “kiss”!!?!]
+[And so, Kai-chan! For now, how about we start with a “kiss!”]
 
 [...No, even if you say it like you’re just going to have beer for now in some
 izakaya... I refuse.[^izakaya]]
@@ -1198,7 +1198,7 @@ even try to reach out her hands at every opportunity she gets, but why is it
 that even Life-san...
 
 [God of Fate! God of Life! A-Are you two i-insane? Do the both of you have no
-sense of shame!!?!]
+sense of shame?!]
 
 [Unnn? Of course I have. But Kai-chan is my future husband after all, so it’s
 totally OK for me to be seen by Kai-chan.]
@@ -1226,7 +1226,7 @@ tilted her head with the same blank expression on her face.
 
 [Is that so?]
 
-[Why?! are you tilting your head?! Shiro-saaaaaannnnn!!?!]
+[Why?! are you tilting your head?! Shiro-saaaaaannnnn?!]
 
 I’m already starting to get dizzy before it even starts... I mean, if I was able
 to endure this event—wouldn’t that mean I achieved enlightenment?
@@ -1278,10 +1278,10 @@ it.
 
 [It was properly wrapped on my body though?]
 
-[Why did you wrap it “just around your hips”!!?!]
+[Why did you wrap it just around your hips?!]
 
 Yes, Shiro-san appeared... and she certainly had a towel wrapped around her,
-just as I asked her... but it was wrapped as if she was a man... And than–
+just as I asked her... but it was wrapped as if she was a man... And than—
 because of this, Shiro-san’s rich, shapely bulges and the beautiful protrusion
 on her naked breasts made me swallow my saliva and blood instantly rose to my
 face.
@@ -1498,9 +1498,9 @@ couple of squeezes just to check out how great they are?]
 [Tsk~]
 
 Seriously, Fate-san’s vigorousness is really bad for my heart... Or rather,
-could you not try making your breasts peek out of the waters!!?! I know you’re
-doing that on purpose, so could you just stop!!?! Thereupon, Fate-san comes
-quite close to me, holding the tray with the bottle of hot sake in her hand.
+could you not try making your breasts peek out of the waters?! I know you’re
+doing that on purpose, so could you just stop?! Thereupon, Fate-san comes quite
+close to me, holding the tray with the bottle of hot sake in her hand.
 
 [Here, Kai-chan. I’ll pour some to you.]
 
@@ -1843,7 +1843,7 @@ what is this disappointment I’m feeling now...
 
 [What’s the matter, God of Time and Space?]
 
-[What’s the matter, your head! What the heck do you think you’re doing!!?!]
+[What’s the matter, your head! What the heck do you think you’re doing?!]
 
 [Deepening our friendship?]
 

@@ -1261,7 +1261,7 @@ Kaito-sama...]
 [Ahh, Kaito-sama! Of course, if Kaito-sama wishes, I’m willing to dedicate
 myself to you!]
 
-[What the heck are you talking about!!?!]
+[What the heck are you talking about?!]
 
 I feel like I’m somehow being really left out here. As I’m dumbfounded watching
 Lilia-san desperately scream as she tries to clear up the misunderstandings of
@@ -1857,7 +1857,7 @@ As Ryze-san leaves the room, I exhaled after looking at his departing back.
 himself a king? What a stingy man. He should have at least brought some
 cookies—Ouchiiieeee?!]
 
-[How about you start learning how to read the mood!!?!]
+[How about you start learning how to read the mood?!]
 
 [Ginyyaaaahhhh?! You’ww teaw away my chweeekkkss?! I’m sowwwyyyy!!! You wwo wook
 sewious thewe, so I fewt wike joking awound about it.... You feew me?

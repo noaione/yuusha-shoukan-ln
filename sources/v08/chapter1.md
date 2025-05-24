@@ -675,7 +675,7 @@ of nostalgia. Oops, it would be great if we just end that topic right there...
 [Geez, that’s no good, Rei. You shouldn’t ask the youngsters something like
 that.]
 
-[Hahaha, I see! I guess you just do what you have to do—– Bfuuuhhh?!]
+[Hahaha, I see! I guess you just do what you have to do—Bfuuuhhh?!]
 
 A very heavy fist slammed into Rei-san’s face. The atmosphere they had earlier
 is ruined... This is important, so I’ll repeat it again, the atmosphere they had
@@ -710,7 +710,7 @@ male part of yours has some problem functioning...]
 
 [...No, I-I mean, I already have a lover.]
 
-[What?! What the heck does that mean!!?!]
+[What?! What the heck does that mean?!]
 
 [Wait?! R-Rei-san?!]
 
@@ -1080,7 +1080,7 @@ Sieg-san as little as possible.
 [Rest assured, the room is soundproofed to the max... You should know what to do
 next, right? Also, Sieg-san’s underwear are in the drawer on the right, third
 shelf... The State Preservation Magic is designed to be unlocked when you open
-the drawer. You can take at least one of them home with you—–Gafuuu?!]
+the drawer. You can take at least one of them home with you—Gafuuu?!]
 
 [ ~ ~ ?! ]
 
@@ -1382,7 +1382,7 @@ it slowly seeps into my body. It was just the way I liked it.
 
 [Yes. It tastes really great.]
 
-[That’s good—– Miyama-kun?!]
+[That’s good—Miyama-kun?!]
 
 [...Eh? A-Arehh?]
 
@@ -1450,7 +1450,7 @@ place as your home.]
 
 [Of course, you can consider me as family. If you and Sieg get married, you will
 actually be one anyway... So, you can just directly call me
-father-in-law—–Bfuheee?!]
+father-in-law—Bfuheee?!]
 
 [...Geez... You’re really incorrigible...]
 

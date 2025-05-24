@@ -77,7 +77,7 @@ Isis-san’s lips, I felt my face heating up that it almost felt like I’m boil
 
 [...I’ve grown to love Kaito... much... much more than... before Kaito came.]
 
-[....I... sis–san.]
+[....I... sis-san.]
 
 [...I’ll always... be waiting... Kaito... I love you.]
 
@@ -406,8 +406,8 @@ trembling for a while, she vigorously looks up and...
 
 [Gueehhhh?! Li-Lilia-san, p-please calm down...]
 
-[WHY ARE YOU ALWAYS DOING THINGS THAT WOULD HURT MY STOMACH!!?! GEEZ, JUST OPEN
-UP A HOLE IN MY STOMACH, WILL YOU!!?!]
+[WHY ARE YOU ALWAYS DOING THINGS THAT WOULD HURT MY STOMACH?! GEEZ, JUST OPEN UP
+A HOLE IN MY STOMACH, WILL YOU?!]
 
 [It huwts, Li-Lilia-san... I give up, so pwease rewease me...]
 

@@ -1251,9 +1251,9 @@ with a baseball bat. A-A little touch should be fine, right...
 
 Just as my hand was about to reach out along with those thought, I quickly
 slapped it with my other hand as hard as I could. Wait, wait, wait! What the
-fuck are you thinking, you big stupid idiot!!?! To touch a sleeping woman
-without permission, no matter how much she likes me, is the worst thing for a
-man... no, a human being can do! Cool off your head!!!
+fuck are you thinking, you big stupid idiot?! To touch a sleeping woman without
+permission, no matter how much she likes me, is the worst thing for a man... no,
+a human being can do! Cool off your head!!!
 
 I desperately held on to my reasoning that was about to disappear and retracted
 my hand. To be honest, Isis-san’s appearance right now really makes anyone
@@ -1728,7 +1728,7 @@ and since it can be bought as takeouts... she want to eat it?
 
 ...Isn’t this just a guidebook of what Alice wants to eat?! What the heck is
 with this person and her face as thick as wall, that bastard’s demanding for
-souvenirs in the guidebook you wrote!!?!
+souvenirs in the guidebook you wrote?!
 
 [...It’s an interesting... book.]
 

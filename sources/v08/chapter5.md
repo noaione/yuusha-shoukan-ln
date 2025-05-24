@@ -78,7 +78,7 @@ vigorously opened.
 
 [From Shalltear... Ahh, that’s right! I brought you some fruits! Can you eat?]
 
-[Eh? T-Than—– wait, that’s a lot! What’s with that amount?!]
+[Eh? T-Than—wait, that’s a lot! What’s with that amount?!]
 
 Kuro bursts into the room, looking very flustered, and reaching into her black
 coat... She pulls out a large amount of fruit, enough to fill half the room.
@@ -926,8 +926,8 @@ Therefore, at Lunamaria’s words, a vein popped out of Lilianne’s forehead.
 
 [Are you ready?]
 
-[Don’t wanna hear your gibbers, so let’s just finish this already... Ro—– yal—–
-Prin—– cess.]
+[Don’t wanna hear your gibbers, so let’s just finish this already... Ro-yal-
+Prin-cess.]
 
 [You!]
 
@@ -1342,7 +1342,7 @@ me... Couldn’t you call this bullying already?]
 
 [...Putting aside you stupid commentaries, are you ready, Luna?]
 
-[...Forgi—– Gyaaaaaahhhhh?!]
+[...Forgi—Gyaaaaaahhhhh?!]
 
 Before they knew it, she, Lunamaria... had become an irreplaceable presence for
 both Lilianne and Sieglinde. She, who always tries to be an equal friend to the

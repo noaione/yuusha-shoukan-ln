@@ -125,10 +125,10 @@ seems that Luna-san's real name is Lunamaria-san. Let's take note of that.
 about exceeding the optimal age for marriage, I think it's about time...]
 
 [I've never once brought that topic up, did I?! Why in the world are you just
-bringing things like this up!!?! Ahh, geez! A-Anyway, we certainly can't
-continue talking in this place for too long. Everyone, I would like to ask for
-your patience in receiving the explanation about the common sense of this world
-after we've moved back to my house... Would that be alright?]
+bringing things like this up?! Ahh, geez! A-Anyway, we certainly can't continue
+talking in this place for too long. Everyone, I would like to ask for your
+patience in receiving the explanation about the common sense of this world after
+we've moved back to my house... Would that be alright?]
 
 [Arehh? This isn't, errr, Lili... Duchess Albert-sama's house?]
 

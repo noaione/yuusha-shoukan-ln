@@ -185,7 +185,7 @@ anything for me to lead her to?
 I-I did think about a date course, but would this really be okay? Would Kuro
 enjoy it? I’m starting to get absurdly anxious here... All the riajuus of the
 world, I’m sorry that I kept on thinking you all should explode, but can’t you
-at least give me some hint!!?!
+at least give me some hint?!
 
 With a renewed awareness of the fact that we are lovers, I took a deep breath in
 an attempt to calm myself down, as I’m gradually getting more nervous. But
@@ -535,7 +535,7 @@ that “I’m going to stay for the night”!]
 
 As I thought, I knew it was something like that huh?! Or rather, Shiro-san,
 didn’t I tell you last time that you were completely wrong with that
-perception?! Why are you still spreading it then!!?!
+perception?! Why are you still spreading it then?!
 
 [K-K-Kuro?! D-D-Do you even know what you’re talking about?]
 

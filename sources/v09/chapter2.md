@@ -379,7 +379,7 @@ unworthy Lunamaria would also pitch in and...]
 [No, thank you.]
 
 [Wait a moment right there! Miyama-sama, isn’t your attitude to me different
-from your treatment with Sieg?! Do you value your lover that much!!?!]
+from your treatment with Sieg?! Do you value your lover that much?!]
 
 [Yes.]
 
@@ -988,7 +988,7 @@ I mean, to begin with, can I at least buy the wood... No, this won’t do! I
 decided to give the best I could possibly give to Lilia-san!!! Don’t lose heart
 with just something like this! Get out of my mind, lazy thoughts!!! If I’m
 halfway through in half a day or so... Wouldn’t that mean I could cut it in half
-after another half a day more!!?! My manly willpower, burst foooorrrrttthhhh!
+after another half a day more?! My manly willpower, burst foooorrrrttthhhh!
 
 [By the way, Kaito-san... That magic tool knife that produces a blade of wind
 that you bought in my shop back then... If you pile that on top of the saw, the

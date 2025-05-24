@@ -56,7 +56,7 @@ As I thought, she really gambled her money! Seriously, I just take my eyes off
 her for a bit...
 
 [Like I said! I won’t tell you to stop gambling, but how many times do I have to
-tell you not to spend your food budget!!?!]
+tell you not to spend your food budget?!]
 
 [Ouchh! M-My cheeks aren’t detachable! E-Even if you pull them that
 mu—Ginyaaahhh?!]
@@ -338,7 +338,7 @@ though, a place called Monster Race doesn’t feel like a restaurant, right?
 [It’s where various trained monsters compete and where everyone bets money on
 who will win—Ouch?!]
 
-[Isn’t this a gambling den!!?!]
+[Isn’t this a gambling den?!]
 
 As our conversation naturally flowed, this person is just about to move on to
 gambling again!

@@ -1057,7 +1057,7 @@ filled with strong emotions.
 [...Ku... ro...?]
 
 “Why!!! Even though you’re going home anyway!!! Even though you’re going to
-disappear anyway!!! Why are you making me waver this much!!?!”
+disappear anyway!!! Why are you making me waver this much?!”
 
 [.........]
 
