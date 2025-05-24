@@ -879,7 +879,7 @@ enjoy each other’s company. So, the both of us dropped our luggages off in our
 chosen rooms and decided to go sightseeing together. As I entered the room and
 began organizing my belongings, Alice appeared right at that moment.
 
-[I’m back~~]
+[I’m back\~\~]
 
 [Unnn, thanks... So, how did it go?]
 
@@ -1068,8 +1068,8 @@ boar, so I told Alice, who offered to dismantle it, to leave some for the two of
 us, and that Alice could eat the rest... and in just a few seconds, the boar
 turned into meat.
 
-[Well~~ Magnawell-san is quite the gracious one. This is the first meal I’ve had
-in four days...]
+[Well\~\~ Magnawell-san is quite the gracious one. This is the first meal I’ve
+had in four days...]
 
 [...You’ll get a scolding when we get back.]
 
@@ -1471,7 +1471,7 @@ Ehhh?]
 
 [L-Lilia-san?!]
 
-[I-I mean, then, I’m, eh? N-N-Naked... A-Aahhhhh... Kyuuu~~]
+[I-I mean, then, I’m, eh? N-N-Naked... A-Aahhhhh... Kyuuu\~\~]
 
 [Wait?! Lilia-san!!!]
 
@@ -2297,7 +2297,7 @@ she looked away.
 
 [No, but why are you turning your face away...]
 
-[Ahhh~~! Is the next set of meat not ready yet~~?!]
+[Ahhh\~\~! Is the next set of meat not ready yet\~\~?!]
 
 ...Something feels kind of wrong with Alice. What’s going on? Just as I was
 wondering what’s with Alice, who was clearly trying to get off the topic, when a
@@ -2421,12 +2421,12 @@ there be all these various troublesome coordinations.]
 
 [I see... Lillywood-san also seems to be quite busy.]
 
-[Ahh~~ Errr, well, she has also been busy lately because of another matter
+[Ahh\~\~ Errr, well, she has also been busy lately because of another matter
 though...]
 
 [Another matter?]
 
-[It’s still a sec~~ ret~~ now~~.]
+[It’s still a sec\~\~ ret\~\~ now\~\~.]
 
 Seeing Kuro with a smile that looks like a child who was planning a prank, I
 can’t help but chuckle.

@@ -196,7 +196,7 @@ I’m too nervous. But even though the water is supposed to be comfortable, it
 feels a little lukewarm because my body temperature is rising so high... No,
 seriously, it feels like I’m going to overload here.
 
-[Fuwaahhh~~ That feels good~~]
+[Fuwaahhh\~\~ That feels good\~\~]
 
 [...Unnn... It feels warm.]
 
@@ -283,7 +283,7 @@ attaching herself to my back.
 
 [...You’re right... Being like this... makes me feel... really happy.]
 
-[Isn’t it~~]
+[Isn’t it\~\~]
 
 What the heck is with this happiness deluxe sandwich?! Are they trying to kill
 me?! Are you trying to completely obliterate my reason?! From behind me were
@@ -469,7 +469,7 @@ need to wake Kuro up...
 
 [K-Kuro... Please wake up...]
 
-[Hnnn... Fyuuu... nyaahh? Kaito-kun~~?]
+[Hnnn... Fyuuu... nyaahh? Kaito-kun\~\~?]
 
 [G-Good... I’m sorry that I wok—?!]
 

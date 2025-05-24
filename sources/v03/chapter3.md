@@ -20,7 +20,7 @@ It seems that this is the end of the stalls, and Yuzuki-san seems to be enjoying
 herself as she runs towards the wall. Her steps were very light, and looking at
 her like that makes me smile.
 
-[You're really having fun huh~~]
+[You're really having fun huh\~\~]
 
 [I've loved festivals since junior high. I would be in high spirits in times
 like when there's a Cultural Festival happening in my school.]
@@ -1347,7 +1347,7 @@ God.
 [H-Hahaha... In the time we haven't seen each other for a while, Lilia-chan has
 learned to tell some pretty unique jokes huh.]
 
-[T-That's right~~ I was also surprised.]
+[T-That's right\~\~ I was also surprised.]
 
 [...It would have been great if I was just joking... Nowadays, I've even learned
 to bring stomach medicines no matter where I go.]
@@ -1841,7 +1841,7 @@ that grow there are apparently the Sacred Trees.
 
 [Does that mean that the participants will harvest the fruits?]
 
-[That's right~~ And for the Elves, it's also a perfect opportunity to make
+[That's right\~\~ And for the Elves, it's also a perfect opportunity to make
 friends with the Spirits.]
 
 [The Fruit of the Spirit Tree is a strange fruit where it tastes worse if it's

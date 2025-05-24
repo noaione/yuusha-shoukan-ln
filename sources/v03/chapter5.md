@@ -66,7 +66,7 @@ to greet the elven big shots.
 I guess I expected it, but because of Lillywood-san, they all treated me
 favorably, and our greeting went smoothly.
 
-[Kaitokun-san! Congratulations on your win~~]
+[Kaitokun-san! Congratulations on your win\~\~]
 
 [Raz-san, thank you very much.]
 
@@ -263,8 +263,8 @@ she spoke.
 
 [Eh? A-Ahhh... It's all over now.]
 
-[I see~~ I'm glad you're safe, Kaito-kun. Ahh, that's right! I heard you won in
-the harvest competition! That's amazing, Kaito-kun! Congratulations!]
+[I see\~\~ I'm glad you're safe, Kaito-kun. Ahh, that's right! I heard you won
+in the harvest competition! That's amazing, Kaito-kun! Congratulations!]
 
 [...Thanks.]
 
@@ -304,11 +304,11 @@ castella. It looks the same as usual, but is the filling the one that's
 different? Or is this one of those foods that was filled with strange things
 like that wasabi-filled baby castella I ate back at Shiro-san's place?
 
-[Stare~~ Stare~~]
+[Stare\~\~ Stare\~\~]
 
 [You're not supposed to say that with your own mouth!]
 
-[Staaaaaarrrreeeeeeee~~~~~]
+[Staaaaaarrrreeeeeeee\~\~\~\~~]
 
 [T-Thank you for the food.]
 
@@ -336,13 +336,13 @@ one more than the usual.
 
 [Eh? No, as far as I'm concerned, I like the taste of this one more...]
 
-[Really?! Thank goodness~~ thought I would be no good since I can't compete with
-Ein in cooking.]
+[Really?! Thank goodness\~\~ thought I would be no good since I can't compete
+with Ein in cooking.]
 
 [Unnn? What does that mean?]
 
 [Ah, well... Actually, I was the one who made those baby castellas. I'm glad it
-came out great~~]
+came out great\~\~]
 
 Apparently, these baby castellas were made by Kuro... Or rather, I thought Kuro
 had been the one making them all these times, but it was Ein-san who was making

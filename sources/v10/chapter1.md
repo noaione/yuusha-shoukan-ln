@@ -70,7 +70,7 @@ child who plays the role of Hero...]
 
 I was anxious that it would turn into that kind of development where they would
 point their swords at me while shouting something like “You suspicious
-b\*stard!”, but it seems that the conversation properly got through, and the
+bastard!”, but it seems that the conversation properly got through, and the
 knights immediately led me to the place. Thereupon, I saw Mitsunaga-kun, and
 when he saw me, he approached me with a refreshing smile on his face.
 
@@ -537,7 +537,7 @@ talking to myself though.]
 
 [...]
 
-This f\*cking woman... She’s going around in circles, but in short, because she
+This fucking woman... She’s going around in circles, but in short, because she
 did her best, I should buy her a meal?! However, well, Alice certainly did great
 today, so I feel like that isn’t a bad way to thank her.
 

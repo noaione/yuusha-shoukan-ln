@@ -978,8 +978,8 @@ costume.
 
 [...You...]
 
-[Ahh, welcome to Alice-chan’s traveling general store~~! We have everything from
-drinks to souvenirs!]
+[Ahh, welcome to Alice-chan’s traveling general store\~\~! We have everything
+from drinks to souvenirs!]
 
 [...I-I see...]
 
@@ -1018,7 +1018,7 @@ don’t you think? Here, “bottled tea”.]
 
 [...Give me two.]
 
-[Thank you for the purchase~~]
+[Thank you for the purchase\~\~]
 
 I’m so tired that I don’t feel like throwing a tsukkomi anymore, so I just
 accepted the bottle tea offered to me as if it’s a matter of course and paid for

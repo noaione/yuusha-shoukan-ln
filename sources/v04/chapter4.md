@@ -512,7 +512,7 @@ They’re not even a bit close to my power...]
 
 [Now then, enough talk... Here I go!]
 
-[Stop~~ right there~~! That’s enough!]
+[Stop\~\~ right there\~\~! That’s enough!]
 
 [...Eh?]
 
@@ -533,8 +533,8 @@ Magical Girl! Alice-chan has arrived!**]
 
 [.........]
 
-Schwingg~~ The stuffed cat made a pose... There’s only one such bizarre person I
-know.
+Schwingg\~\~ The stuffed cat made a pose... There’s only one such bizarre person
+I know.
 
 This is, how should I say this...
 
@@ -563,7 +563,7 @@ her actions so far, but I think she’s pretty strong.
 
 [You don’t even know what’s going on here?!]
 
-[No, I don’t~~ To be honest, I was already over there waiting “when the furry
+[No, I don’t\~\~ To be honest, I was already over there waiting “when the furry
 made her entrance”... But when I was thinking of a cool way to make my entrance,
 I was surprised to see the whole situation change!]
 
@@ -589,7 +589,7 @@ displeasure.
 I mean, Alice, he just met you and he immediately calls you a clown...
 
 [No, look, a high-ranked Demon about the Count-ranked would really be
-monsters... So it would be a tough fight~~~ is what I thought... but I’m glad
+monsters... So it would be a tough fight\~\~~ is what I thought... but I’m glad
 that I’m just fighting a “weakling”.]
 
 [...You... Are you mocking me?]
@@ -663,12 +663,12 @@ Before I knew it, Alice had taken off her costume and was beside me in her opera
 mask, messing around as if it’s obvious, so I struck my fist on her head. Alice
 rubbed her head and opened her mouth in a somewhat dumbfounded manner.
 
-[But~~ That guy was so slow... I was bored of waiting until he finally came over
-here, so I went around and joined the spectator’s side for a bit.]
+[But\~\~ That guy was so slow... I was bored of waiting until he finally came
+over here, so I went around and joined the spectator’s side for a bit.]
 
 [...I’m slow? Now you said it, clown.]
 
-[That’s right~~ I’m a clown after all, and I can’t get excited without any
+[That’s right\~\~ I’m a clown after all, and I can’t get excited without any
 fanfares.]
 
 While muttering to Sigma, who has clearly become more irritated and regained his
@@ -734,7 +734,7 @@ Alice’s shoes popped out.
 
 [?!]
 
-[Fyuuu~~ Even this attack only made a scratch huh, you have a great reaction
+[Fyuuu\~\~ Even this attack only made a scratch huh, you have a great reaction
 time!]
 
 Even the strike with her hidden knife didn’t result in a direct hit, and Alice
@@ -791,7 +791,7 @@ completely avoid it, and blood flows from his neck.
 
 [Your premise is wrong to begin with. It’s true that Humans are inferior to most
 Demons in terms of physical ability if you just look at them as a race. However,
-that doesn’t mean that there are no Humans who can defeat Demons~~]
+that doesn’t mean that there are no Humans who can defeat Demons\~\~]
 
 As Alice speaks as she flippantly laughs at him, Sieglinde, who was watching
 this situation which looks like she’s completely overpowering this Baron-level
@@ -822,7 +822,7 @@ Human... makes a really good prey.]
 [...Indeed, I need to change my perception of you. You are strong... Anyone who
 can’t keep their head straight would be no match for you.]
 
-[That’s right~~]
+[That’s right\~\~]
 
 [However, you talked too much. And now, I’ve finally calmed myself down.]
 
@@ -858,7 +858,7 @@ move.
 
 ---
 
-[Well~~ That was quite a formidable opponent.]
+[Well\~\~ That was quite a formidable opponent.]
 
 [...You were actually amazing huh, Alice.]
 
@@ -875,7 +875,7 @@ to her... but Alice was just like usual.
 [That guy, is he dead...?]
 
 [No, I made sure that I wouldn’t hit his vitals. Otherwise, I’m sure Kaito-san
-will be angry at me~~]
+will be angry at me\~\~]
 
 Hearing the words she said with a smile, I let out a sigh of relief. It may seem
 like a naive idea to do for people who came to attack us, but as expected, I
@@ -1232,7 +1232,7 @@ powerful Barrier Magic, and when it’s lifted, the property damages will return
 to the state it was in before the Magic was used.
 
 And once, Sieg-san suggests that we go back to the mansion to sort out the
-situation, Alice simply said “Then, I’m going home. Good work, everyone~~” as
+situation, Alice simply said “Then, I’m going home. Good work, everyone\~\~” as
 she left, and after we parted ways with Alice, returned to Lilia-san’s mansion.
 
 When we returned to the mansion, Lilia-san was standing in front of the doorway
@@ -1764,7 +1764,7 @@ Following Megiddo-san’s words, his subordinate poured alcohol into his cup.Tha
 cup that might be enough for a whole barrel... And Megiddo-san drank that
 ridiculous amount of alcohol all at once.
 
-[Gulp... Pfhuaaa~~ I can’t get enough of this! Alright, it’s your turn!]
+[Gulp... Pfhuaaa\~\~ I can’t get enough of this! Alright, it’s your turn!]
 
 [Ah, yes.]
 
@@ -1804,7 +1804,7 @@ looked doubtful, but since I also don’t know why, I tilted my head.
 
 [...Eh?]
 
-[Wha?! What~~?! T-Then, does that mean?! That he would still be composed no
+[Wha?! What\~\~?! T-Then, does that mean?! That he would still be composed no
 matter how much he drinks?!]
 
 [Unnn.]
@@ -1816,14 +1816,14 @@ kinda on the level of cheating when used in drinking competitions...
 Hearing Kuro’s words, Megiddo-san looked dumbfounded... before slowly, he fell
 on his back.
 
-[...Ahh~~ Sheeettt, I lost huh~~ You’re amazing, Kaito, it’s been a long time
-since I lost.]
+[...Ahh\~\~ Sheeettt, I lost huh\~\~ You’re amazing, Kaito, it’s been a long
+time since I lost.]
 
 [Eh? No, ummm, how should I say this... It’s not really because of me that I
 don’t get drunk...]
 
 [That doesn’t matter! Borrowed power or not, it’s your power, and I lost to you.
-That’s all there is to it! Hahaha, well~~ It’s impressive how you won’t get
+That’s all there is to it! Hahaha, well\~\~ It’s impressive how you won’t get
 drunk!]
 
 [Ah, errr, yes.]
@@ -1959,7 +1959,7 @@ and responded in her usual tone of voice.
 way they suppress magic power is flawless. However, I wouldn’t have known you
 were here if I hadn’t seen the way you move your feet.]
 
-[Nooooo~~ This iiiiiis “my undisguised face” thouuuuugh?]
+[Nooooo\~\~ This iiiiiis “my undisguised face” thouuuuugh?]
 
 [...That so? Well, my bad. This is the first time I’ve seen your face after
 all.]
@@ -1971,7 +1971,7 @@ true face. Ozma thought that she was in disguise because she was on an
 infiltration mission, but it was actually her true face. Indeed, she usually
 hides her face, but her true face might be the best disguise for her.
 
-[And sooooo~~ What’s your business heeeeeere?]
+[And sooooo\~\~ What’s your business heeeeeere?]
 
 [...Yeah, about that. I didn’t really expect I’d meet an executive here, but I
 guess I should say I’m lucky that it was you I met here.]
@@ -2109,7 +2109,8 @@ ask you one question noooooow?]
 Responding to Ozma’s final question with an ambiguous answer, Pandemonium now
 asked him.
 
-[Noooo~~ Rather than a questiooooon, I feel like this is more of a hiiiiiiint.]
+[Noooo\~\~ Rather than a questiooooon, I feel like this is more of a
+hiiiiiiint.]
 
 [...A hint?]
 
@@ -2331,7 +2332,7 @@ Hearing my question, this time, “Kuro” completely stiffened.
 After a moment of heavy silence, “Kuro” had a troubled smile on her face as she
 spoke.
 
-[What’s with that~~ Kaito-kun, what are you talking about? I’m—]
+[What’s with that\~\~ Kaito-kun, what are you talking about? I’m—]
 
 [You’re not Kuro, right?]
 
@@ -2475,7 +2476,7 @@ was quite bright, while Lillywood-san looked depressed... Does that mean that
 Megiddo-san won?
 
 [As expected, Lillywood-san was quite strong! In the end, I wasn’t able to win!
-Well~~ I haven’t fought this hard in a long time! That was the best!]
+Well\~\~ I haven’t fought this hard in a long time! That was the best!]
 
 “...What in the world is this... The battle should have ended in a draw, but I
 felt like I lost really badly...”
@@ -2603,7 +2604,7 @@ girls are almost the same, you know? That’s why they only marry one person in
 their world.]
 
 [What?! Is that so? There sure are lots of difference between here and the other
-world huh~~]
+world huh\~\~]
 
 [Unnn, so...]
 

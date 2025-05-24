@@ -1693,7 +1693,7 @@ next one? I guess it’s about time you snag someone from another world?]
 
 [...]
 
-This sh\*tty maid! She has a happy expression on her face, as if she’s a fish in
+This shitty maid! She has a happy expression on her face, as if she’s a fish in
 the waters! Would it be alright if I punch her at least once? Well, even if I
 tried punching her, she would probably just evade it huh... Glaring at
 Lunamaria-san, who had a mocking smile on her face, I was about to complain

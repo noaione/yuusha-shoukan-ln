@@ -347,7 +347,7 @@ All expressions disappeared from Lilia-san’s face. The air was so frightening
 that I couldn’t help but straighten up... but just like a puppet who lost its
 strings, Lilia-san’s body collapsed.
 
-[...Kyyuuuu~~]
+[...Kyyuuuu\~\~]
 
 [Milady?!]
 
@@ -445,7 +445,7 @@ Lilia-san flusteredly muttered, her eyes circling around the room. I wonder why,
 but it’s just, based on the experience I had until now... She will probably
 faint sooner or later.
 
-[I-I-I... to-to-touched Kaito-san... Kyuuu~~]
+[I-I-I... to-to-touched Kaito-san... Kyuuu\~\~]
 
 [Lilia-san?!]
 
@@ -507,7 +507,7 @@ That’s amazing, Kaito-san.]
 
 [...Alice?]
 
-[Yes~~ It’s Alice-chan. Welcome back, Kaito-san. I missed you.]
+[Yes\~\~ It’s Alice-chan. Welcome back, Kaito-san. I missed you.]
 
 With her familiar voice resounding from behind the fog, Alice appears from
 behind the fog.
@@ -519,7 +519,7 @@ she usually had.
 [...Why are you here?]
 
 [I just came out to see if I could meet Kaito-san, and what do you know, I was
-spot on. Well~~ It feels like fate, doesn’t it?]
+spot on. Well\~\~ It feels like fate, doesn’t it?]
 
 [.........]
 
@@ -565,7 +565,7 @@ relieved the moment I learned it existed, but I felt a strong impact to the back
 of my neck, and regardless of my intentions, my body lost its strength.
 
 [Well, in that case, I won’t use magic, I just have to make my ill intent
-disappear and make you faint~~]
+disappear and make you faint\~\~]
 
 [...A... lice.]
 
@@ -581,7 +581,7 @@ roof of a building to another.
 
 [Now then, if the situation goes on like this and I just bring him there, then
 it would complete the commission... However, I guess things won’t go well that
-easily huh~~]
+easily huh\~\~]
 
 The moment Alice muttered that, a flash of light pierced through the thick fog.
 After dodging that beam of light by moving her face slightly to the side, Alice
@@ -613,7 +613,7 @@ said, Lilia looked irritated.
 [...You’re pretty carefree huh? Did you really think you can just get away with
 this?]
 
-[I wonder~~?]
+[I wonder\~\~?]
 
 Lunamaria gave her words of warning... As the six of them are currently
 surrounding Alice and have the advantage of numbers. However, as long as Alice
@@ -638,8 +638,8 @@ silence was Alice.
 Alice, who goes to say that to Lilia and the others while pointing at them one
 after another, Lilia asked with a dubious expression on her face.
 
-[Well~~ I actually have this habit of putting a price on people. This time, I
-judged them only on your combat prowess alone, but you all are big deals~~ So,
+[Well\~\~ I actually have this habit of putting a price on people. This time, I
+judged them only on your combat prowess alone, but you all are big deals\~\~ So,
 it’s pretty rare for me to use white gold coins as the unit to judge a person.]
 
 [...That doesn’t sound pleasant at all.]
@@ -655,8 +655,8 @@ placed on the target.]
 
 [...And what do you mean by that?]
 
-[Well~~. What I mean~~ is that it’s not worth it for me to fight with you all
-based on the fee I receive for this commission.]
+[Well\~\~. What I mean\~\~ is that it’s not worth it for me to fight with you
+all based on the fee I receive for this commission.]
 
 [Does that mean you surrender?]
 
@@ -676,7 +676,7 @@ flung away. However, the six of them are also capable beings, as they succeeded
 in defending against Alice’s attack in an instant. Thereupon, Alice jumps down
 faster than Kaito’s falling body, catching his body with a smile.
 
-[Well~~ How terrific. For you to react even to that... However, I succeeded in
+[Well\~\~ How terrific. For you to react even to that... However, I succeeded in
 pulling my distance from you huh.]
 
 [This is bad?! She plans to run away!!!]
@@ -703,7 +703,7 @@ her, but shortly afterwards, Alice’s figure distorted and 10 Alices appeared.
 
 [Illusion Magic?!]
 
-[ [ [ [ [ [ [ [ [ [ Well then, I’ll see you later~~ ] ] ] ] ] ] ] ] ] ]
+[ [ [ [ [ [ [ [ [ [ Well then, I’ll see you later\~\~ ] ] ] ] ] ] ] ] ] ]
 
 The clones created by her Illusion Magic spoke at the same time and escaped at
 high speed in different directions. However, Lilia-san and the others wouldn’t
@@ -747,7 +747,7 @@ Miyama-kun.]
 [Hmmm. I would love to do that too... but there are also some circumstances over
 here, you see? I can’t just give him back to you.]
 
-[In that caaaaase~~ Would you like to fight against uuuuuuuus?]
+[In that caaaaase\~\~ Would you like to fight against uuuuuuuus?]
 
 Alice spoke in her usual aloof tone, sweat could be seen dripping down her
 forehead, and they could tell that she doesn’t have much composure in this
@@ -831,8 +831,8 @@ it. You don’t have any important role to play in this matter. You’re free to
 disagree as you want. I won’t say that it’s insubordination. All of you, my
 executives, had the freedom to disagree with my views.]
 
-[Thank you very muuuuuch. Well theeeen, please don’t mind me as I~~ will rescue
-Kaito-samaaaaa.]
+[Thank you very muuuuuch. Well theeeen, please don’t mind me as I\~\~ will
+rescue Kaito-samaaaaa.]
 
 The words of Pandemonium, her subordinate, not shaking her even in the
 slightest, No Face continued to speak without a care in the world.
@@ -924,7 +924,7 @@ me... I can’t say anything strange and provoke them.
 [Now then... Let’s get right to the point. I’m sure you’ve already guessed it,
 but we will—]
 
-[Ahh~~ Can I have a moment?]
+[Ahh\~\~ Can I have a moment?]
 
 [...What is it?]
 
@@ -950,7 +950,7 @@ we’re family or lovers, that’s only the extent of our relationship.]
 
 [...Yeah, you’re right...]
 
-[Well then, I’ll be going home~~]
+[Well then, I’ll be going home\~\~]
 
 After saying those dry words, Alice turns her back to me and walks towards the
 only door in the room.
@@ -1014,8 +1014,8 @@ reason though, she was saying stuff like she’s here to save me or something...
 
 [W-Wha... What do you think you’re doing?!]
 
-[Well~~ You see, I got some extra money today~~, so I was thinking about going
-out for dinner with Kaito-san, who is usually helping me. However, what is
+[Well\~\~ You see, I got some extra money today\~\~, so I was thinking about
+going out for dinner with Kaito-san, who is usually helping me. However, what is
 this?! Kaito-san was abducted by bad people?! That’s why I came in a mad dash to
 save Kaito-san!]
 
@@ -1080,8 +1080,8 @@ After Alice quietly told him that with a voice that felt sharp, the man asked
 her, looking really irritated. Alice continues to stand in front of me, staring
 at the robed figures as she continues to speak.
 
-[Well~~ I know it’s troubling, but this man is more important to me than money,
-you know?]
+[Well\~\~ I know it’s troubling, but this man is more important to me than
+money, you know?]
 
 [...Alice?]
 
@@ -1120,7 +1120,7 @@ Kaito-san. What of it?]
 
 [....Alice... W-Why?]
 
-[Ahh~~ Errr, you’re going to ask that?]
+[Ahh\~\~ Errr, you’re going to ask that?]
 
 It seems that Alice was planning to wipe out all the people who were trying to
 kidnap me right from the start, and that’s why she accepted this request. While
@@ -1135,7 +1135,7 @@ of stuff...He’s really quite a softhearted person.]
 
 [.........]
 
-[I thought I was a bit dull of a person~~. Well, I guess you’ll never know
+[I thought I was a bit dull of a person\~\~. Well, I guess you’ll never know
 what’s going to happen in life.]
 
 After speaking until that point, Alice looks at the robed figures again,
@@ -1165,7 +1165,7 @@ guys just weren’t so lucky.]
 Even after being released from my restraints, I continued to sit on the chair,
 and seeing me like that, Alice flusteredly apologized to me.
 
-[U-Ummm~~ Kaito-san. B-By any chance, are you still angry?]
+[U-Ummm\~\~ Kaito-san. B-By any chance, are you still angry?]
 
 [...Not really.]
 
@@ -1183,12 +1183,12 @@ when I heard what Alice said earlier. However, I don’t know how to clearly
 explain this.... I’m feeling complicated and it’s mainly because it feels like
 I’m dancing on top of Alice’s palm.
 
-[No, well, ummm~~ there was another way but... this was the quickest way. That’s
-why... Kaito-san? Please don’t be mad at me.]
+[No, well, ummm\~\~ there was another way but... this was the quickest way.
+That’s why... Kaito-san? Please don’t be mad at me.]
 
 [...I’m not mad at you.]
 
-[But aren’t you sulking?! Like I said, I’m sorry already~~]
+[But aren’t you sulking?! Like I said, I’m sorry already\~\~]
 
 Indeed, although it might be quite shameful of me... It seems that I’m sulking a
 bit right now. Seeing me turning away, Alice looked troubled as she bowed her
@@ -1246,7 +1246,7 @@ giving a calm impression.
 [...Lend me your strength, God of Fate, God of Life.]
 
 [Haahh... I don’t really like working... But I guess I should just think of this
-as an preemptive investment to when Kai-chan would eventually support me~~]
+as an preemptive investment to when Kai-chan would eventually support me\~\~]
 
 [It’s enough that you’re willing to bow to us for that person... I’m awake now.]
 

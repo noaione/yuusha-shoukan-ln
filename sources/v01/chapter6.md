@@ -56,7 +56,7 @@ closed my diary.
 
 That's absolutely not possible. I can't let Kuro see this.
 
-[Eh~~ Just a little peek.]
+[Eh\~\~ Just a little peek.]
 
 [No way! That's absolutely no good!]
 

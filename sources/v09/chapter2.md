@@ -1176,7 +1176,7 @@ difficult for amateurs to do, so I obediently decided to buy it instead.
 [...Even so, no matter how many times I come here, this city sure is big. It’s
 no less than Symphonia’s Royal Capital.]
 
-[This city is one of the biggest in the Demon Realm after all~~]
+[This city is one of the biggest in the Demon Realm after all\~\~]
 
 Kuro brought me to the city where the headquarters of the Seditch Magic Tool
 Trading Company is located. Well, in other words, we’re in the city where Kuro’s
@@ -1291,15 +1291,15 @@ impact.
 [No, it’s just because of some reasons... Or rather, it’s been a while since
 I’ve seen that stuffed costume.]
 
-[Ahh~~ Well, I’m a “clone body” after all~~ I have to dress myself as the shop
-owner.]
+[Ahh\~\~ Well, I’m a “clone body” after all\~\~ I have to dress myself as the
+shop owner.]
 
 [Yeah. Come to think of it, Fate-san said something like that when she was
 here... I’d like to throw a tsukkomi about how being this shop’s owner makes you
 think that it should be dressed with a stuffed costume... Before that, am I
 correct in understanding that this clone is, in essence, like an alter ego?]
 
-[That’s right~~ The main body Alice-chan is over here!]
+[That’s right\~\~ The main body Alice-chan is over here!]
 
 [Uwoaahhh?!]
 
@@ -1313,7 +1313,7 @@ Alices here like this is quite a sight to behold.
 [The real me! Alice-chan who is taking care of you!]
 
 [ [ When we’re together, we become Perfect Alice-chan!!! Well, we still don’t
-have any customers though~~ ] ]
+have any customers though\~\~ ] ]
 
 [Amazing... Double the people, double the annoyance... Doubling yourself doesn’t
 have any value at all. I’ve realized yet again that even if you multiply the
@@ -1333,7 +1333,7 @@ main body shows me around.
 [I-It’s amazing but... Doesn’t the size of this room obviously don’t match the
 size of the room from the outside?]
 
-[I’ve expanded the room with Spatial Magic~~]
+[I’ve expanded the room with Spatial Magic\~\~]
 
 [I see.]
 
@@ -1358,8 +1358,8 @@ w-what the heck just happened? I thought Alice was just brandishing her knife,
 but then, the thick branch turned into fine pieces of wood... Moreover, they
 appeared in front of me as if they had been polished with a file.
 
-[Whoosh, perfect~~ I’ve also inscribed them with matching designs, so you can
-just join them together~~]
+[Whoosh, perfect\~\~ I’ve also inscribed them with matching designs, so you can
+just join them together\~\~]
 
 [...T-Thanks...]
 

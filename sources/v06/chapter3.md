@@ -42,7 +42,7 @@ minutes? Perhaps, it’s just me who finds 5 months too long as a human being...
 
 Gently shaking Kuro’s body again, she slowly turns to me, her eyes half-opened.
 
-[...Nyaahhh? ...Ahh~~ It’s Kaito-kun~~]
+[...Nyaahhh? ...Ahh\~\~ It’s Kaito-kun\~\~]
 
 [?!]
 
@@ -76,7 +76,7 @@ opened and she slowly pulled away from me. I felt that it’s quite a shame when
 our lips parted ways, but I think it can’t be helped... I’m a young man too, and
 I can’t resist it if I’m being kissed by someone I love.
 
-[...Arehh? Kaito-kun? Good morning~~]
+[...Arehh? Kaito-kun? Good morning\~\~]
 
 [G-G-G-Good morning?!]
 
@@ -110,7 +110,7 @@ As expected of a Demon that’s at least 20,000 years old... She’s really on a
 different level.
 
 [Kaito-kun’s arm feels so warm and makes me feel so happy... so without
-realizing it, I fell asleep~~]
+realizing it, I fell asleep\~\~]
 
 [............]
 
@@ -192,7 +192,7 @@ an attempt to calm myself down, as I’m gradually getting more nervous. But
 unfortunately, my nervousness didn’t stop the flow of time and the situation
 didn’t wait for me to calm down.
 
-[Kaito-kun! Sorry to keep you waiting~~]
+[Kaito-kun! Sorry to keep you waiting\~\~]
 
 Turning my head to her voice... I see an angel descend. Along with a frilly
 tunic that makes her more feminine than usual, Kuro is wearing her trademark
@@ -306,7 +306,7 @@ before, and I thought this would be a good place to go out with Kuro.
 [It’s that, you know? Thin layers of candy were being piled up together. It
 tastes really great and melts on the mouth.]
 
-[Heehhhh~~]
+[Heehhhh\~\~]
 
 When I entered the small candy shop, I saw Kuro, who has a sweet tooth, pull my
 arm along as her eyes sparkled and began looking inside. The candy that Kuro
@@ -426,7 +426,7 @@ impact fruit... What the heck are they doing, that’s scary.
 [It’s a very hard fruit, but the stronger the strike you deal towards it, the
 more tender and tasty it becomes.]
 
-[Heehhh~~ I see. So that’s why everyone is hitting it with a hammer huh.]
+[Heehhh\~\~ I see. So that’s why everyone is hitting it with a hammer huh.]
 
 In short, it seems to be a fruit that you can eat if you “give” it “impact”. I
 don’t know if I should say that it’s to be expected from another world or not
@@ -445,7 +445,7 @@ and use the hammer to make the impact fruit softer. but Kuro brightly smiled and
 took the fruit from my hand. Thereupon, Kuro brings her other hand next to the
 fruit, and after bringing her middle finger next to her thumb...
 
-[Hoi~~]
+[Hoi\~\~]
 
 [?!]
 
@@ -472,7 +472,7 @@ delicious.
 
 [Indeed, it’s quite unusual but... it’s delicious.]
 
-[Right~~, isn’t it delicious... Ahh, Kaito-kun, don’t move for a bit.]
+[Right\~\~, isn’t it delicious... Ahh, Kaito-kun, don’t move for a bit.]
 
 [Ehh?]
 
@@ -663,7 +663,7 @@ feeling Kuro’s warmth behind my back, Kuro and I moved to our destination.
 When we finally reached that riverbank, Kuro brought her wings back on her
 jacket and slowly stretched out her body.
 
-[Hnnn~~ The wind feels nice.]
+[Hnnn\~\~ The wind feels nice.]
 
 [Indeed.]
 

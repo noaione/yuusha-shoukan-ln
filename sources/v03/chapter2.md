@@ -44,7 +44,7 @@ fairy who looked less than 50cm... I think she's roughly around 30cm tall.
 
 [...Raz-san?!]
 
-[Long time no see~~]
+[Long time no see\~\~]
 
 The young fairy girl who I met when Kuro invited me to have barbecue before,
 Razelia-san, a family member of Kuro's, flits around me with her small wings,
@@ -53,8 +53,8 @@ with a bright smile on her face.
 [It's been a while. I never expected that I would meet you here. Is Raz-san here
 for the Sacred Tree Festival too?]
 
-[That's right~~ The fairies also live in this forest after all, so there are
-plenty of Raz's friends here~~]
+[That's right\~\~ The fairies also live in this forest after all, so there are
+plenty of Raz's friends here\~\~]
 
 [I see, but I'm glad to see you again.]
 
@@ -73,9 +73,10 @@ It feels like I'm near Shallow Vernal-sama.]
 
 [Shiro-san did give me her blessings so...]
 
-[Ahhh~~ I see. Shallow Vernal-sama is the God of the world, so Kaitokun-san, who
-received Shallow Vernal-sama's blessing, is loved by the world. That's why Raz
-who was born from nature feels so comfortable with Kaitokun-san's magic power~~]
+[Ahhh\~\~ I see. Shallow Vernal-sama is the God of the world, so Kaitokun-san,
+who received Shallow Vernal-sama's blessing, is loved by the world. That's why
+Raz who was born from nature feels so comfortable with Kaitokun-san's magic
+power\~\~]
 
 [Heehhh, I didn't know the blessing I received had that effect.]
 
@@ -101,12 +102,12 @@ Raz-san is a fairy, a human's common sense wouldn't apply to her.
 
 [Did you come here alone, Raz-san?]
 
-[Nope~~ I came with Neun.]
+[Nope\~\~ I came with Neun.]
 
 [With Neun-san?]
 
 [Yes. Neun looked like she's depressed, so we came here for a change of
-scenery~~]
+scenery\~\~]
 
 [She's depressed, you say, what is Neun-san doing now?]
 
@@ -122,9 +123,9 @@ armor?
 
 [What happened, for her to be like that?]
 
-[That's the thing~~ Since Kaitokun-san taught her how to make tofu before, Neun
-was very excited about it. At first, Ein-san was the one making it, but she was
-determined to make it herself next time.]
+[That's the thing\~\~ Since Kaitokun-san taught her how to make tofu before,
+Neun was very excited about it. At first, Ein-san was the one making it, but she
+was determined to make it herself next time.]
 
 [Fumu fumu.]
 
@@ -338,11 +339,11 @@ huh?
 
 [Neun-san looked very bewildered, but do you have any idea why?]
 
-[Raz also doesn't know. But I'm glad to see she's gotten better~~]
+[Raz also doesn't know. But I'm glad to see she's gotten better\~\~]
 
 [That's right.]
 
-[Yes! And that's thanks to Kaitokun-san~~ Thank you!]
+[Yes! And that's thanks to Kaitokun-san\~\~ Thank you!]
 
 Looking at Neun-san's departing back, I just tilted my head along with Raz.
 
@@ -401,7 +402,7 @@ beautiful as blooming flowers before she spoke.
 [Since Neun has gone somewhere, Raz is now left alone. I think Neun went back to
 the inn, but Raz still wants to look around the stalls. But but, going around by
 myself feels very lonely, so Kaitokun-san, why don't we go look around
-together~~?]
+together\~\~?]
 
 To be honest, the suggestion Raz-san spoke with her unique cuteness, was more
 than anything I could've hoped for. I had Sieg-san go to Lilia-san and the
@@ -538,7 +539,7 @@ it's just a small scoop with the spoon, this amount is quite a lot for Raz-san
 and of course, she couldn't eat it in a single bite, so she ate it in several
 bites.
 
-[Fuwaahhh~~ It's very delicious.]
+[Fuwaahhh\~\~ It's very delicious.]
 
 Soothed by the happy smile on Raz-san's face, I repeatedly fed her a few
 times... After she had eaten about half of the jelly, Raz-san turned to me and

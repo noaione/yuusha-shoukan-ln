@@ -18,7 +18,7 @@ smiled as she brought the cup of choccy milk to her lips.
 [? ? ? is also not here today, so the atmosphere in this place is great. Ahh, I
 could feel it. The current is coming. The Serious Big Wave is...]
 
-[Heyyaaaa~~]
+[Heyyaaaa\~\~]
 
 [.........]
 
@@ -42,7 +42,7 @@ identity is unknown... Under King.]
 basing your identity in a nameplate you’re wearing!!! Moreover, isn’t that
 nameplate you’re wearing is totally exposing your identity?!]
 
-[Well, well, putting that aside... I brought you some provisions~~]
+[Well, well, putting that aside... I brought you some provisions\~\~]
 
 Serious-senpai, quickly unleashing her sharp tsukkomi slashes, was lightly
 brushed off by Under King as she took out a large paper bag.
@@ -78,7 +78,7 @@ Unexpectedly finding out the culprit as to why more baby castellas were popping
 out in the room, Serious-senpai shouted towards the absent ? ? ?. After gazing
 at such a Serious-senpai with a smile on her face, Under King spoke.
 
-[...Speaking of which, I brought you some provisions from Kaito-kun too~~]
+[...Speaking of which, I brought you some provisions from Kaito-kun too\~\~]
 
 [...I have a bad feeling about that.]
 

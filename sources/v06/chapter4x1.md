@@ -100,10 +100,10 @@ powerleeeeeess.]
 
 [..........]
 
-[Lilianne-sama certainlyyyyy might have amazing poweeeeer~~. Howeveeeeer, if you
-use that power to hurt someoooooone, then you’re just a bad persooon who can be
-found anywheeeeeere. It is onlyyyyy when you use your power properlyyyy that you
-can become a respectable persooooon.]
+[Lilianne-sama certainlyyyyy might have amazing poweeeeer\~\~. Howeveeeeer, if
+you use that power to hurt someoooooone, then you’re just a bad persooon who can
+be found anywheeeeeere. It is onlyyyyy when you use your power properlyyyy that
+you can become a respectable persooooon.]
 
 [...Uuuu, but...]
 
@@ -151,12 +151,12 @@ When Illness saw Lilianne speaking with a heartfelt happy smile on her face,
 unlike the graceful smile she had when she thanked people’s praises in the
 arena, she stopped cleaning and smiled.
 
-[Kuhihi, I seeeee~~ Congratulatiooooons. Lilia-samaaaa, “you really did your
+[Kuhihi, I seeeee\~\~ Congratulatiooooons. Lilia-samaaaa, “you really did your
 beeeeest”.]
 
 [E-Ehehe... T-That’s not the case. I still have a long way to go.]
 
-[Even soooo~~ That’s very admirableeee. Shall I baaaake you a caaaaake as a
+[Even soooo\~\~ That’s very admirableeee. Shall I baaaake you a caaaaake as a
 rewaaaaard?]
 
 [T-Thank you! I’m so happy!]
@@ -211,7 +211,7 @@ Her best friend who lost her voice, her position as a Duchess, and what lies in
 the future... because of these inexplicable anxieties, she wanted Illness... her
 “other mother” by her side.
 
-(For the time beiiiiiiing, I’ll report to Shalltear-samaaaaa~~ I wonder if she
+(For the time beiiiiiiing, I’ll report to Shalltear-samaaaaa\~\~ I wonder if she
 gives me permissioooooon? I think a replacement spy would need to be
 arrangeeeeeed, but I can’t leave this anxious child aloooooone. It would be
 great if I receive permissioooooon.)
@@ -254,7 +254,7 @@ sooooome?]
 
 [Thank you. I’ll have some.]
 
-[Yeeeees~~]
+[Yeeeees\~\~]
 
 Because of her position as the head of a Duchy, Lilia has eaten many kinds of
 cakes at soirées and tea parties. But still, she liked the cakes baked by
@@ -279,7 +279,7 @@ The feeling of being gently stroked on her head, the gentleness that softly
 enveloped her heart. Looking at Illness’ peculiar smile, which had scared her a
 bit at first, but she had now grew to love, Lilia happily smiled.
 
-[...Howeveeeeer~~ Doing your best too muuuuuuch is no good, okaaaaaaaay?]
+[...Howeveeeeer\~\~ Doing your best too muuuuuuch is no good, okaaaaaaaay?]
 
 [Ugghhhh... B-But, Illness is the one who’s doing too much... Even today, you
 only took about 5 hours off and went back to work. You can rest a little longer,

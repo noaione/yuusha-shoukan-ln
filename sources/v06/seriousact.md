@@ -37,9 +37,9 @@ started saying things that agitated Serious-senpai.
 
 [...She’s Alice’s subordinate, right?]
 
-[Right~~ She’s one of Alice-chan’s subordinates and one of the Executives of the
-Phantasmal King Corps, the Ten Demons. Incidentally, Pandora, who came out in
-Volume 5 of the series, is the leader of the Ten Demons.]
+[Right\~\~ She’s one of Alice-chan’s subordinates and one of the Executives of
+the Phantasmal King Corps, the Ten Demons. Incidentally, Pandora, who came out
+in Volume 5 of the series, is the leader of the Ten Demons.]
 
 In response to ? ? ? ‘s stance that she isn’t Alice, Serious-senpai heavily
 sighed before she continued.

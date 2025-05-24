@@ -185,8 +185,8 @@ good place to thank Isis-san.
 [By the way, if we’re going to have a fancy lunch, which restaurant is Kuro’s
 top choice?]
 
-[Let’s see~~ I have several restaurants in mind, but roughly speaking, which one
-do you like better, meat or fish?]
+[Let’s see\~\~ I have several restaurants in mind, but roughly speaking, which
+one do you like better, meat or fish?]
 
 [...I wonder?]
 
@@ -477,7 +477,7 @@ look at her collection later.
 
 [...Errr... Flowers... Fruits... Plushies.]
 
-[Heehhh~~]
+[Heehhh\~\~]
 
 Unnn, I could already imagine how cute it would be. I would really love to see
 Isis-san hugging a plushie. Flowers and such also suits the lovely Isis-san...
@@ -613,7 +613,7 @@ picking up some stones that were lying nearby and placing them in the four
 corners, just to make sure it won’t be rolled up by the wind, I took out the
 lunch box that I had prepared.
 
-[Ahh~~ But, errr, Isis-san.]
+[Ahh\~\~ But, errr, Isis-san.]
 
 [...Unnn?]
 

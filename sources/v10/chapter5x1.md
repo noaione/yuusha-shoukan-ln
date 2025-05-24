@@ -363,7 +363,7 @@ disappearance of that girl again, Magnawell reflexively leaped up to the skies.
 
 [...As I had expected, you lizards have soft underbellies.]
 
-[Whha?! That b*stard... she’s making that instantenous movement again...]
+[Whaa?! That bastard... she’s making that instantenous movement again...]
 
 With the astonished and the others at her back, the girl quietly takes aim at
 Magnawell that has leapt into the sky.
@@ -863,7 +863,7 @@ course, the short-tempered Megiddo almost boils over immediately, but he is
 aware that he is the cause of this problem, so he stifles his anger and
 responds.
 
-[Y-You b*stard, just because I’m silently listening, you’re yapping all you
+[Y-You bastard, just because I’m silently listening, you’re yapping all you
 want... Listen here, my name is...]
 
 [Ahh\~\~ No, it’s alright. I’m not interested. It’s probably just some stupid
@@ -1198,13 +1198,13 @@ Megiddo-san?]
 
 [Fuuu, Instructor Gorilla huh... Ahaha, that doesn’t suit you at all\~\~]
 
-[You b*tch... Do you have to make fun of me every time you open your d*mned
+[You bitch... Do you have to make fun of me every time you open your damned
 mouth?!]
 
 [What, you want to be called that instead? Teacher Gorilla huh... Ahahaha, that
 sounds stupid... Ah, I’m sorry, I guess that’s really rude of me huh!]
 
-[Fine, you b*stard! Let me kill you myself!]
+[Fine, you bastard! Let me kill you myself!]
 
 Seeing Shalltear laughing her head off, Megiddo finally snaps. It seems like
 today too, the conversation between the two developed into a fight... and they
@@ -1339,7 +1339,7 @@ couldn’t help hating her weak self.
 [I bet you do.]
 
 [I hate myself for being weak! I hate myself for not being able to fight! I hate
-myself for not killing him! That f*cking piece of sh*t!!!]
+myself for not killing him! That fucking piece of shit!!!]
 
 [...Those are good eyes you have. Magnificent.]
 

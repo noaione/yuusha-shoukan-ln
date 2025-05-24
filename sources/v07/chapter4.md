@@ -191,7 +191,7 @@ the King, and Amalie-san, the leading actress of this party, appeared. This
 indicates that the party will soon begin, and a whisper that resounded in my
 ears confirmed it.
 
-[It’s going to start huh~~]
+[It’s going to start huh\~\~]
 
 [...Alice? Where are you?]
 
@@ -759,11 +759,11 @@ someone she deems as an obstacle to the world... and will mercilessly erase
 them. That is to say, the fact that the Phantasmal King appeared in front of
 them makes it frighteningly clear what their future will be.
 
-[...Whether it’s Kaito-san and Duchess Lilia, they are both kind, aren’t they~~
-They just exposed your crime and left the rest for the country to judge... Well,
-if you ask me, that’s quite naive of them... I also like Kaito-san’s naiveness
-and simpleness, so that’s exactly why I wrote them such a scenario... However, I
-secretly added a little something in the ending.]
+[...Whether it’s Kaito-san and Duchess Lilia, they are both kind, aren’t
+they\~\~ They just exposed your crime and left the rest for the country to
+judge... Well, if you ask me, that’s quite naive of them... I also like
+Kaito-san’s naiveness and simpleness, so that’s exactly why I wrote them such a
+scenario... However, I secretly added a little something in the ending.]
 
 [...Ahhh, ahhh...]
 
@@ -837,7 +837,7 @@ simple.]
 
 [...Shalltear... You’re getting back to your old tone, you know?]
 
-[...Arya? Excuse me... It looks like I got unusually passionate~~]
+[...Arya? Excuse me... It looks like I got unusually passionate\~\~]
 
 Jokingly saying that, the Phantasmal King, clothed in deep darkness, melted away
 in the darkness of the night, before quietly muttering a whisper that didn’t
@@ -887,7 +887,7 @@ at the right time again, I take some slices of roast beef onto a small plate and
 quickly move the plate to the right... and the roast beef that was on it
 disappears.
 
-[Hnnn~~ As expected of the royal palace, it tastes wonderful! Nothing really
+[Hnnn\~\~ As expected of the royal palace, it tastes wonderful! Nothing really
 tastes better than free food.]
 
 [Come on, if you’ve got any more food you want to eat, I’ll go take some.]

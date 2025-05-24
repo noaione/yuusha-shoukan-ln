@@ -343,7 +343,7 @@ we mostly relied on Lilia-san for conversation and such.]
 
 [As for Seigi... Well, he was in perfect shape.]
 
-Hmmm~~ Should I say it's as I thought or something like that, but looking at
+Hmmm\~\~ Should I say it's as I thought or something like that, but looking at
 their expressions, I guess they didn't seem to have much time to enjoy
 themselves huh? No, well, that should be obvious... they were only surrounded by
 unknown noble strangers, so it would be impossible for them not to be withered
@@ -351,7 +351,7 @@ from the party.
 
 [I see, so Mitsunaga-kun was treated as a state guest huh?]
 
-[That's right~~ He's probably treated very well. It was like he was talking to
+[That's right\~\~ He's probably treated very well. It was like he was talking to
 me from above some kind of pedestal that I thought about hitting him a couple of
 times.]
 
@@ -405,7 +405,7 @@ he's aiming for Aoi-senpai. Look, Aoi-senpai is pretty, has good grades and is
 very popular... Well, Aoi-senpai doesn't look like he felt anything just now
 though.]
 
-[Ah~~ I see.]
+[Ah\~\~ I see.]
 
 [...?]
 
@@ -430,11 +430,11 @@ that, but she just really disliked it. It seems that it didn't turn into those
 stories in games as I thought.
 
 Ah, but... Speaking of games, there was a quest like that in an online game I
-played with a high school setting, isn't there~~. I remembered a storyline where
-they were childhood friends and the guy had romantic feelings for her, but the
-girl doesn't feel anything for him at all. If I remember it correctly, wasn't it
-about helping that guy who doesn't realize it at all with various ways to
-approach the girl, or something like that?
+played with a high school setting, isn't there\~\~. I remembered a storyline
+where they were childhood friends and the guy had romantic feelings for her, but
+the girl doesn't feel anything for him at all. If I remember it correctly,
+wasn't it about helping that guy who doesn't realize it at all with various ways
+to approach the girl, or something like that?
 
 In the end, the guy's love was fruitless and he ended up just running around
 like a hamster in his wheel. However, I remembered that the dialogue of other

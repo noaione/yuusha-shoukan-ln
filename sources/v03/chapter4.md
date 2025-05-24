@@ -592,7 +592,7 @@ participating in this event, and many safety measures have been taken in that
 area.
 
 [Well then, Aoi-chan and Hina-chan. Word of advice from someone with
-experience~~ The Spirits might show up after a while that you were in the
+experience\~\~ The Spirits might show up after a while that you were in the
 forest... But Spirits are still very timid. Don't just approach them all of a
 sudden, but wait for them to come to you. As long as you remember that, “the two
 of you” can get good results.]
@@ -681,7 +681,7 @@ Just as these two stayed alert, but relaxed as they continued to keep the
 security in the area, with somewhat serene expressions on their faces, a man and
 a woman approached them.
 
-[Ooiiii~~. Rei, Fia!]
+[Ooiiii\~\~. Rei, Fia!]
 
 [Oya, I never thought I'd meet you here.]
 
@@ -2166,7 +2166,7 @@ As soon as I came back, Lunamaria-san looked like she's somewhat in a good mood
 as she held out an envelope to me, and when I received it, I tilted my head and
 looked inside... And I found quite a bit of money in there.
 
-[Well~~ I've earned quite an amount from Miyama-sama. I'm already in a state
+[Well\~\~ I've earned quite an amount from Miyama-sama. I'm already in a state
 where I can't stop smiling. And so, this is just an expression of what I'm
 feeling.]
 

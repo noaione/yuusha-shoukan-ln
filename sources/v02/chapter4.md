@@ -318,7 +318,7 @@ all!!!]
 
 [...I brought you a snack but...]
 
-[Well~~ Kaito-san, I missed you! I really missed you so much! It should have
+[Well\~\~ Kaito-san, I missed you! I really missed you so much! It should have
 only been a few days, but I feel like I've been waiting for your arrival for
 years! Now, now, please sit. I'll go make you some tea!]
 
@@ -572,7 +572,7 @@ to the store and found her emancipated and dying.
 
 I'm sorry to say this, but I'll have to rely on Kuro's help.
 
-[Eh? Kaito-san has a connection with a company~~ Which company is it?]
+[Eh? Kaito-san has a connection with a company\~\~ Which company is it?]
 
 [Errr, I think it was called Seditch Magic Tool Company...]
 
@@ -890,12 +890,12 @@ With her half-opened eyes that had the same reddish-purple color as her hair,
 the woman looked at me as if she's feeling sleepy, while I tilted my head and
 asked her back.
 
-[Me? Ahh~~ I'm that... What's my name again? Ahh~~ Well, there's that. You can
-just call me “Fate”~~ Nice to meet you~~]
+[Me? Ahh\~\~ I'm that... What's my name again? Ahh\~\~ Well, there's that. You
+can just call me “Fate”\~\~ Nice to meet you\~\~]
 
 [Ah, yes. It's nice to meet you... Errr, I'm Miyama Kaito.]
 
-[Unnn, nice to meet you~~ Kai-chan.]
+[Unnn, nice to meet you\~\~ Kai-chan.]
 
 [Kai-chan?!]
 
@@ -906,7 +906,7 @@ tells me “she's that”...
 
 Seemingly oblivious to my confusion, Fate-san languidly spoke to me again.
 
-[So~~ Kai-chan. I've got something I want to ask you...]
+[So\~\~ Kai-chan. I've got something I want to ask you...]
 
 [Something you want to ask? What is it?]
 
@@ -920,8 +920,8 @@ has a close meaning to what she said, could she be talking about that?
 
 [...Did you mean working is losing?]
 
-[That's the one! That's what I'm talking about. Hmm~~ I knew that the other
-world is pretty advanced~~ Those words make up a terrific saying! And not only
+[That's the one! That's what I'm talking about. Hmm\~\~ I knew that the other
+world is pretty advanced\~\~ Those words make up a terrific saying! And not only
 that, there are even a profession in the other world for those who don't work,
 right?]
 
@@ -1094,9 +1094,9 @@ trembling finger pointed at Fate-san.
 
 [...G-G-Goddess... of Fate-sama?]
 
-[Yahhooo~~ Nice to meet you, I will be under your “support” for a long time!]
+[Yahhooo\~\~ Nice to meet you, I will be under your “support” for a long time!]
 
-[...Why is she... suddenly... my heart's still not ready yet... Kyyuuu~~]
+[...Why is she... suddenly... my heart's still not ready yet... Kyyuuu\~\~]
 
 [Milady?!]
 
@@ -1114,7 +1114,7 @@ say? The Goddess of Fate?
 
 [...And you're one of the Supreme Gods?]
 
-[Yep~~ I'm the one in charge of fate.]
+[Yep\~\~ I'm the one in charge of fate.]
 
 [...Seriously?]
 
@@ -1153,16 +1153,16 @@ Chronois-san.
 
 [Being pursued? The God of Fate-sama is?]
 
-[Heeeyyy~~ Lili-tan.]
+[Heeeyyy\~\~ Lili-tan.]
 
 [Lili-tan?!]
 
 [Calling me as God of Fate sounds stiff and unpleasant, so you can just call me
-Fate~~]
+Fate\~\~]
 
 [N-No, but... that would be rude...]
 
-[Geez, Lili-tan, you're too serious~~ Just like the God of Time and Space.]
+[Geez, Lili-tan, you're too serious\~\~ Just like the God of Time and Space.]
 
 Bewildered by the languid Fate-san, Lilia-san also seemed surprised when she
 heard that she was being pursued. However, Fate-san was still the same as before
@@ -1438,12 +1438,12 @@ Fate-san, who has decided to stay here for the day for whatever reason, has
 moved to my room as if it was a matter of course, lounging around from her
 floating cushion and now, on my bed.
 
-[Ahh~~ happiness, I wish it will remain this way forever~~]
+[Ahh\~\~ happiness, I wish it will remain this way forever\~\~]
 
 [You're too carefree...]
 
 [I mean, I have no choice but to work diligently tomorrow, so while I'm free,
-let me stretch my wings~~]
+let me stretch my wings\~\~]
 
 [Tomorrow... So if Shiro-san were to tell you that, that would be your top
 priority?]

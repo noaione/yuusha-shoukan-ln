@@ -323,7 +323,7 @@ easier to talk with her if you brought her with you, right?]
 [Really?! Indeed, if that's the case, it would be really reassuring... But it's
 really sudden, so I wonder if it would be convenient for Ein-san to come?]
 
-[It'll probably be alright. Wait for a sec, okay... Ein~~ Will you go to the
+[It'll probably be alright. Wait for a sec, okay... Ein\~\~ Will you go to the
 temple with Kaito-kun tomorrow?]
 
 [Understood.]
@@ -1807,7 +1807,7 @@ and the fact that they can talk to each other without reservation about their
 true feelings shows how close they are... Well, but if that were the case, I
 would have liked it if she explained they were like that beforehand...
 
-[It seems like Kaito-kun went through lots of troubles huh~~]
+[It seems like Kaito-kun went through lots of troubles huh\~\~]
 
 [It feels like most of them were Kuro's fault though...]
 
@@ -1855,7 +1855,7 @@ festival somewhere every day.]
 the different kinds of festivals there are.]
 
 [Unnn, unnn. If you're going to a festival in the Demon Realm, I'll show you
-around if I'm available~~]
+around if I'm available\~\~]
 
 [That's reassuring. Then, I'll be counting on you at that time.]
 

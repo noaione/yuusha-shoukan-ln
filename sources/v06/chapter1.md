@@ -720,7 +720,7 @@ gently extended her hand towards me...
 ...Gently poking my forehead with her index finger, she said this in a soft
 tone, as if she was gently scolding an inattentive child.
 
-[I seeeeee~~ I understaaaaand that the story is complicateeeeed. I could also
+[I seeeeee\~\~ I understaaaaand that the story is complicateeeeed. I could also
 understaaaaaand why Kaito-sama had suuuuuuch high expectations were placed on
 your shouldeeeeeers. Howeeeeeever, that won’t do, Kaito-samaaaaa. You mustn’t
 avert your eyes from what’s moooooost important.]
@@ -736,8 +736,8 @@ expectations? Was it to save Underworld King-samaaaaa?]
 As if I’d been hit on the head with a hammer, Illness-san’s words shook me.
 
 [The years of liiiiife that Underworld King-samaaa and Kaito-sama have lived are
-differeeeeeent. Of couuuuuurse~~ Underworld King-sama wouuuuuld have secrets
-that Kaito-sama wouldn’t knoooooow. Howeveeeeer~~ That’s somethiiiiiing you’ve
+differeeeeeent. Of couuuuuurse\~\~ Underworld King-sama wouuuuuld have secrets
+that Kaito-sama wouldn’t knoooooow. Howeveeeeer\~\~ That’s somethiiiiiing you’ve
 known for a long time, riiiiiight?]
 
 That’s right, it was just as she said. No matter what Kuro’s past was like... “I
@@ -745,10 +745,10 @@ came to love today’s Kuro”... I love today’s Kuro, and I want to continue 
 with her, so I thought I’d tell ehr how I feel about her.
 
 [There’s nooooothiing wrong with shouldering the surrounding people’s
-expectatioooons. Howeveeeer~~ If you lose sight of what’s importaaaaant, you’re
-getting your priorities backwaaaards. If you keep your brows wrinkled like
-thaaaaat~~, you’ll never get to do anything weeeeeell. That’s whhhhhhy, I was
-pointing out your eeeeeyes.]
+expectatioooons. Howeveeeer\~\~ If you lose sight of what’s importaaaaant,
+you’re getting your priorities backwaaaards. If you keep your brows wrinkled
+like thaaaaat\~\~, you’ll never get to do anything weeeeeell. That’s whhhhhhy, I
+was pointing out your eeeeeyes.]
 
 [............]
 
@@ -806,7 +806,7 @@ anything.
 
 [U-Unnn... Something like that, I guess?]
 
-[I’m so looking forward to it~~ I’m gonna get dressed up for my date with
+[I’m so looking forward to it\~\~ I’m gonna get dressed up for my date with
 Kaito-kun!]
 
 [...Yeah.]
@@ -897,15 +897,15 @@ Before I knew it, the golden fruit that I should have been holding in my hand
 had disappeared, and out of the corner of my eyes, a pair of golden eyes
 suddenly appeared in the pitch-black landscape.
 
-“Arehh~~? You look much better than I thought? Hehhh... A barrier made by those
-kids huh... Fufufu, hahahaha!!!”
+“Arehh\~\~? You look much better than I thought? Hehhh... A barrier made by
+those kids huh... Fufufu, hahahaha!!!”
 
 [...Kuro?]
 
 An eerie voice, as if tainted with madness, echoes in the space, using a voice
 that should have been familiar, but sounds unfamiliar at the same time.
 
-“...Ahh~~ Finally... Finally... It’s been a long time~~”
+“...Ahh\~\~ Finally... Finally... It’s been a long time\~\~”
 
 Her eyes flicker in the black space along with a mocking voice. What in the
 world is she talking about? Alice said that Kuro would reject me... but Kuro’s
@@ -927,7 +927,7 @@ feeling right now is already mitigated by the Defensive Magic that Alice and the
 others have prepared for me... With this amount of pressure, it’s already been
 reduced? How powerful... could Kuro’s true power be...
 
-“...Kaito-kun~~ Have you ever played the domino toppling game?”
+“...Kaito-kun\~\~ Have you ever played the domino toppling game?”
 
 [Domino?]
 

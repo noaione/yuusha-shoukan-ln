@@ -87,8 +87,8 @@ that far away from here.]
 
 [...Central Area?]
 
-[Ahh~~ Errr, let’s see. Since we’re on the topic, would you like me to teach you
-a bit about the geography of Symphonia’s royal capital while we walk?]
+[Ahh\~\~ Errr, let’s see. Since we’re on the topic, would you like me to teach
+you a bit about the geography of Symphonia’s royal capital while we walk?]
 
 [Unnn, please.]
 
@@ -463,7 +463,7 @@ all, and just lightly tosses a few words of scouting to me. As I was chatting
 with Driver-san about other trivial matters, I heard the sound of flapping
 wings.
 
-[Kyuuk~~!!!]
+[Kyuuk\~\~!!!]
 
 The baby dragon that was attached to me before was flying towards our direction,
 and I smiled for a moment when I saw its cute little flap of wings but... when
@@ -502,7 +502,7 @@ my face with her wings. What the heck is with this situation... My Sympathy
 Magic can’t clearly read someone and make me understand what they’re saying as
 words, but it can help me somehow understand the baby dragon’s emotions. If I
 had to describe it in words, it’s like she’s angry at me while saying
-“Cheater~~”... Why?
+“Cheater\~\~”... Why?
 
 [She’s probably feeling jealous because of the Behemoth. This child likes you
 “as the opposite gender” after all.]
@@ -575,7 +575,7 @@ an expression that seems to tell me that there’s no way she’s letting go.
 
 [Hey! You’re causing trouble to Miyama-san!]
 
-[Kyuuu~~~~~~?!]
+[Kyuuu\~\~\~\~\~\~?!]
 
 Driver-san seems to have also figured it out and tried persuading her, but the
 baby dragon is adamant that she won’t leave. If she tried forcing her away, my
@@ -622,7 +622,7 @@ back soon, I started moving to bring Bell back to the mansion first.
 ---
 
 [...How should I say this... Kaito-san, you’re really soft-hearted, aren’t
-you~~?]
+you\~\~?]
 
 [Unnn. Well, it can’t be helped since things were already like this... But I
 thought I could talk to Magnawell-san about it.]
@@ -638,7 +638,7 @@ are many monsters on the way.
 [I’m sorry, but I’ll be relying on you, Alice... I don’t think I’ll be able to
 get there on my own.]
 
-[Yes, yes. Roger that~~ Well then, let’s go through it with a bang... Upsy
+[Yes, yes. Roger that\~\~ Well then, let’s go through it with a bang... Upsy
 daisy!]
 
 [...Wait a sec, oi. Why are you carrying me?]
@@ -674,7 +674,7 @@ in the worst way possible. As my body was on the way down in the air, my body
 was caught by Alice, who appeared before I knew it, and as my body was held in
 her grip, my vision rotated again.
 
-[And once more~~]
+[And once more\~\~]
 
 [Gyyaaaahhhhh?!]
 
@@ -706,7 +706,7 @@ throwing me while I screamed.
 
 [...You really are...]
 
-[Well~~ Kaito-san’s screams were also quite dreamy. I feel I’m about to awaken
+[Well\~\~ Kaito-san’s screams were also quite dreamy. I feel I’m about to awaken
 to something new... Arehh? Why am I somehow feeling shivers...]
 
 The moment Alice muttered that, a huge icicle appeared in the direction of where
@@ -859,7 +859,7 @@ place, Isis-san was angry because she was thinking I was being bullied by Alice.
 Magnawell-san was also just caught up with the battle, so I asked her not to
 reproach him too much as well.
 
-[...Ummm~~ Kaito-san. What about me?]
+[...Ummm\~\~ Kaito-san. What about me?]
 
 [As for Alice and Megiddo-san, please scold them as much as you want.]
 
@@ -1124,7 +1124,7 @@ me.
 
 [Unnn. With this, I can take you with me the next time I visit.]
 
-[Kyuii! Kyuukyuu~~]
+[Kyuii! Kyuukyuu\~\~]
 
 [Ahaha, that tickles—]
 
@@ -1336,7 +1336,7 @@ to eat barbecue by Kuro. It seems that he came in human form just as I asked him
 to do before, greatly waving his hand as he walked towards me with a refreshing
 smile on his face.
 
-[Well~~ My bad, we took the wrong turn earlier and arrived a bit late.]
+[Well\~\~ My bad, we took the wrong turn earlier and arrived a bit late.]
 
 [No, it’s fine. Welcome, Acht.]
 
@@ -1667,7 +1667,7 @@ Lilia-san’s face.
 
 [Yes.]
 
-[...Ah, errr, hawawawawa... I-I’m sorry for my impoliteness... Kyuuuuu~~]
+[...Ah, errr, hawawawawa... I-I’m sorry for my impoliteness... Kyuuuuu\~\~]
 
 [Milady?!]
 

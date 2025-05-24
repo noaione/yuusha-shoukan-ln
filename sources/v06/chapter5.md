@@ -634,8 +634,8 @@ last five seconds?!
 
 [...If you could do that, you could have just done it on a regular basis.]
 
-[Geez, even the God of Time and Space is being mischievous too~~ I’m the always
-serious and energetic Fate-chan, you know?!]
+[Geez, even the God of Time and Space is being mischievous too\~\~ I’m the
+always serious and energetic Fate-chan, you know?!]
 
 [...I want to ask you one thing. Why do you look so lively right now?]
 
@@ -651,7 +651,7 @@ Chronois-san said, she loudly declared.
 
 [...Oiiii... Fate-saaannn.]
 
-[Well~~ I visited you multiple times but you haven’t reacted well at all, so I
+[Well\~\~ I visited you multiple times but you haven’t reacted well at all, so I
 was thinking that Kai-chan was actually homo...]
 
 [Oi, stop right there, useless goddess.]
@@ -685,8 +685,8 @@ her cheek seemed to be twitching.
 [...No, even if you say it like you’re just going to have beer for now in some
 izakaya... I refuse.[^izakaya]]
 
-[Ehhh~~ Isn’t it fine, it’s just a contact with our lips. If you do it now, I’ll
-even let you get the option of feeling my breasts!!!]
+[Ehhh\~\~ Isn’t it fine, it’s just a contact with our lips. If you do it now,
+I’ll even let you get the option of feeling my breasts!!!]
 
 [..........]
 
@@ -720,7 +720,7 @@ glaring at Fate-san.
 ![Insert 4](../../_Images/v06/Insert4.jpg#.insert)
 
 [...This... This is amazing... I... I have never felt like this before... I
-haven’t felt death this close... N-No way~~ I-I-I-It’s just skinship... you
+haven’t felt death this close... N-No way\~\~ I-I-I-It’s just skinship... you
 know?]
 
 [Fate-san! Apologize!!! Quickly!!!]
@@ -807,7 +807,7 @@ what she deserves.
 
 Well, I’m absolutely 100% sure... that she won’t learn from this...
 
-[Hey, Kai-chan. Console me... Just a gentle hug is fine, okay~~?]
+[Hey, Kai-chan. Console me... Just a gentle hug is fine, okay\~\~?]
 
 [Mnhh? Underworld King, you’re back?]
 
@@ -820,7 +820,7 @@ with a pale look on her face when she hears Chronois-san’s lie.
 
 [Fumu, I could use this...]
 
-[God~~ of Time~~ and Space~~!
+[God\~\~ of Time\~\~ and Space\~\~!
 
 [Well, my bad. However, you should reflect a bit more.]
 
@@ -852,7 +852,7 @@ wouldn’t he be the first Human to enter?]
 [Umu... Or rather, other than ourselves, it would only be the Underworld King
 who entered that place.]
 
-[As I thought~~ We mediated at that time with “Hikarin”, so there haven’t been
+[As I thought\~\~ We mediated at that time with “Hikarin”, so there haven’t been
 any Human who entered the Sanctuary before.]
 
 It seems that Shiro-san’s Sanctuary really is a particularly sacred place in the
@@ -866,7 +866,7 @@ Life-san’s name... However, we received no response.
 
 [...For the time being, how about we go enter?]
 
-[Right~~]
+[Right\~\~]
 
 [Eh? Are you sure?]
 
@@ -1315,7 +1315,7 @@ Shiro-san’s scary.
 Just as I exhaled out a sigh of relief, the door to the changing room adjacent
 to the hot spring immediately opened, revealing Fate-san and Life-san.
 
-[Kai-chaaannn~~. Thank you for the wait~~]
+[Kai-chaaannn\~\~. Thank you for the wait\~\~]
 
 [ ~ ~ ?! ]
 
@@ -1369,7 +1369,7 @@ something.
 
 [...Ummm, where’s Chronois-san?]
 
-[...God of Time and Space~~ come over here already! It’s disrespectful to keep
+[...God of Time and Space\~\~ come over here already! It’s disrespectful to keep
 Shallow Vernal-sama waiting!]
 
 [I-I-I-I know... I-I-I’m coming...]
@@ -1511,12 +1511,12 @@ first time drinking Japanese sake, but the sharp taste feels pleasant and
 refreshing to the throat. Looking at me as I drank the sake, Fate-san somewhat
 looked like she’s having fun and slowly spoke.
 
-[Seriously, Kai-chan, you’re so cold~~ Even though a beauty like me is already
+[Seriously, Kai-chan, you’re so cold\~\~ Even though a beauty like me is already
 presenting herself to you.]
 
 [Those words mean nothing if you’re talking about yourself.]
 
-[Ahaha, I guess~~]
+[Ahaha, I guess\~\~]
 
 [Speaking of which, I’ve been meaning to ask you for a while now...]
 
@@ -1535,7 +1535,7 @@ about for some time.
 be moved the way Fate-san wanted them to be?]
 
 [Unnn, I guess you could describe it like that... Other than Shallow
-Vernal-sama, I’m the most powerful God in the God Realm~~ Ehhen!]
+Vernal-sama, I’m the most powerful God in the God Realm\~\~ Ehhen!]
 
 [Eh? Really?!]
 
@@ -1616,7 +1616,7 @@ for her if Fate-san, a Supreme God, were to ask her to do so.
 It was a really unimaginably cold voice that was unlike the usual Fate-san.
 
 [Kai-chan, you know, I hate troublesome things. But even more than that, I hate
-boring things~~]
+boring things\~\~]
 
 [..........]
 
@@ -1655,12 +1655,12 @@ Seeing my smile, a big smile appeared on Fate-san’s face, and as if she’s re
 having fun, she declared.
 
 [Well, be prepared... I may find things troublesome, but I’m single-minded and
-persistent, you know? I’ll never give up on Kai-chan~~]
+persistent, you know? I’ll never give up on Kai-chan\~\~]
 
 [...That’s quite the frightening words you said there.]
 
 [Ahaha... Well, lately, it’s been a bit... really just a bit... I’m beginning to
-think that if it’s for Kai-chan, I’d be willing to work a little bit~~]
+think that if it’s for Kai-chan, I’d be willing to work a little bit\~\~]
 
 [...Eh?]
 
@@ -2528,7 +2528,7 @@ can’t talk to this person at all!!! As the dumbfounded me silently put away th
 ripple pie into my magic box, Ein-san politely thanked me before leaving. Yep, I
 feel like I’m caught up in something once again.
 
-[Well~~ As expected of Kaito-san, I never expected that you would also catch
+[Well\~\~ As expected of Kaito-san, I never expected that you would also catch
 Ein-san into your basket...]
 
 [Hey, Alice... Ein-san was just joking, right?]

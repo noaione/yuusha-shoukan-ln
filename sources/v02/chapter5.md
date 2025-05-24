@@ -380,7 +380,7 @@ that case, I guess it's better to give her something as a present. That being
 said though, what should I give to Kuro, the richest person in the world and one
 of the pinnacles of the Demon Realm?
 
-[Kaito-kun? Oiiii~~]
+[Kaito-kun? Oiiii\~\~]
 
 [..........]
 
@@ -522,7 +522,7 @@ That means, I can ask her to make a baking mould for me.
 
 [...Can I ask you to make one?]
 
-[Kaito-san is my only regular after all~~ Even if I'm like this, I'd like to
+[Kaito-san is my only regular after all\~\~ Even if I'm like this, I'd like to
 help you if possible but...]
 
 [...But?]
@@ -1148,7 +1148,7 @@ bed for some reason, was tapping her thighs with a bright smile on her face.
 
 [W-Why so suddenly?]
 
-[Hmmm~~ I don't know why, but I kinda wanted to give Kaito-kun a lap pillow?]
+[Hmmm\~\~ I don't know why, but I kinda wanted to give Kaito-kun a lap pillow?]
 
 [...E-Errr.]
 

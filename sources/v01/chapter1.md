@@ -1283,7 +1283,7 @@ with that smile still on her face.
 
 [Ahh, I'm Miyama Kaito...]
 
-[Kaito-kun, right?! Nice to meet you~~]
+[Kaito-kun, right?! Nice to meet you\~\~]
 
 [N-Nice to meet you too. E-Errr, Kuromueina-san?]
 
@@ -1293,7 +1293,7 @@ know?]
 
 [I-In that case, I'm in your care. Kuro?]
 
-[Unnn. I'm also in your care! Well then, since we're close... have one~~]
+[Unnn. I'm also in your care! Well then, since we're close... have one\~\~]
 
 It seems that Kuro has some half-baked knowledge about the other world, just
 some stuff she had heard from other Heroes, and she may not look like it, but
@@ -1736,8 +1736,8 @@ traumatized by baby castellas.
 
 [...or rather, how come you're here, Kuro?]
 
-[Well~~ what an amazing coincidence it is, isn't it? Bumping into each other in
-a place like this, it felt like fate!]
+[Well\~\~ what an amazing coincidence it is, isn't it? Bumping into each other
+in a place like this, it felt like fate!]
 
 [No, no matter how I look at it, we're in a personal residence, right?!]
 

@@ -8,8 +8,8 @@ The 15th Day of the Wind month.
 
 I thought it would be nice to relax in my room once in a while, so I was
 currently busy reading in my room. Incidentally, the book I’m currently reading
-is “Eating Tour in its Entirety Guide: Symphonia Kingdom ~~Volume: Food
-Stalls~~”, written by Kuro. There were apparently several different types of
+is “Eating Tour in its Entirety Guide: Symphonia Kingdom \~\~Volume: Food
+Stalls\~\~”, written by Kuro. There were apparently several different types of
 Eating Tour Guides just for Symphonia Kingdom alone, and I’m now reading them in
 order. Naturally, there are many of these restaurants I don’t know about, but
 it’s interesting to read Kuro’s subjective impressions and evaluations of them.
@@ -62,8 +62,8 @@ Tour in its Entirety Guide?!]
 
 [Uwooohhh?!]
 
-Lunamaria-san vigorously approached... Ahh~~ Come to think of it, Lunamaria-san
-was Kuro’s fanatic.
+Lunamaria-san vigorously approached... Ahh\~\~ Come to think of it,
+Lunamaria-san was Kuro’s fanatic.
 
 [T-This is the first time I’ve seen the real thing... S-So this is the
 legendary...]
@@ -395,7 +395,7 @@ In response to Alice’s words of confirmation, Illness softly smiled.
 everythiiiiing is devoted to Kaito-samaaaaa. If it’s to secure the futuuuuuure
 that Kaito-sama waaaaaaants... I will gladly offer him my 5000 yeeeeeeears.]
 
-[Fyuuu~~ Kaito-san sure is loved huh. In that case, can I leave this to you?]
+[Fyuuu\~\~ Kaito-san sure is loved huh. In that case, can I leave this to you?]
 
 [Yes, “Aesir”, “my eyeeees”, I will use them if it’s necessaryyyyyy.]
 
@@ -457,7 +457,7 @@ as if she didn’t notice them, but there was a bead of sweat trickling down her
 forehead.
 
 (They got meeeee. I can feel the direction of that preseeeeeence, but I can’t
-detect the souuuuurce~~. This would be the first time in a long time that I’m
+detect the souuuuurce\~\~. This would be the first time in a long time that I’m
 being outclaaaaaaassed.)
 
 After thinking about it, she turned towards the direction of the presence. To

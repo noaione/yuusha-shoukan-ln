@@ -680,7 +680,7 @@ it was a good suggestion, I decided to presume upon her kindness.
 
 ---
 
-[Fuuuu~~]
+[Fuuuu\~\~]
 
 After washing myself thoroughly, I soaked in the bathtub and heavily exhaled.
 

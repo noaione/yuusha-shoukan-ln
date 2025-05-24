@@ -97,7 +97,7 @@ with the previous topic.
 
 [I don't really mind, but what are we going to talk about?]
 
-[Hmmm~~ I guess we'll start talking about our preferences! What kind of boy
+[Hmmm\~\~ I guess we'll start talking about our preferences! What kind of boy
 would Shiro like to be in love with?]
 
 [Let's see... First of all, as a prerequisite, I think it should be someone I
@@ -115,9 +115,10 @@ evidently had no intention of falling in love.
 
 [How about you, what kind of partner would you like to have, Kuro?]
 
-[Hmmm. In my case, as expected, I'd want a cute child~~ I'd like to have a child
-who seems anxious because of not knowing anything, but still, they would desire
-for something. I'd like a child who I can teach various things like that~~]
+[Hmmm. In my case, as expected, I'd want a cute child\~\~ I'd like to have a
+child who seems anxious because of not knowing anything, but still, they would
+desire for something. I'd like a child who I can teach various things like
+that\~\~]
 
 [That's just your definition of a baby bird, isn't it?]
 
@@ -133,7 +134,7 @@ fate!!]
 
 [...It's because they're all women, isn't it?]
 
-[Uggghhh... Why aren't there any boys that make me feel that spark~~]
+[Uggghhh... Why aren't there any boys that make me feel that spark\~\~]
 
 After her sharp, expressionless tsukkomi pierced through her heart again,
 Kuromueina looked crestfallen as her shoulders slumped once again.
@@ -155,7 +156,7 @@ in love? Is it just like how people fall in love in our world?]
 
 [I don't know. Shall we see for ourselves?]
 
-[Unnn. I'll leave that to you~~]
+[Unnn. I'll leave that to you\~\~]
 
 As if Kuromueina suddenly thought of an idea, she asked Shallow Vernal about
 love in another world. Shallow Vernal also doesn't know anything about how it is
@@ -213,7 +214,7 @@ her next words with a curious expression on her face.
 in terms of a value called “Affection”.]
 
 [Eeehhh?! They're quantifying the contents of their hearts? The things in the
-other world really are awesome~~]
+other world really are awesome\~\~]
 
 [Yes, as you encounter and engage in conversation with your target, you
 accumulate a value called “Affection”, and when it reaches a certain point,
@@ -274,7 +275,7 @@ them a present.]
 [Yes, I think it would also be easier for you to get to know the otherworlders
 better.]
 
-[Ehhh~~ I'll remember that.]
+[Ehhh\~\~ I'll remember that.]
 
 And thus, another piece of incorrect knowledge from another world appeared...
 and was handed down to a small part of this world.

@@ -118,7 +118,7 @@ where the royalty who summoned them were actually the evil ones. And yet, there
 are others about how ordinary people who were summoned and labeled as
 incompetent actually had cheat skills...
 
-[...Errr, excuse me~~]
+[...Errr, excuse me\~\~]
 
 With that being the case, I guess what we really need now is information? Even
 if there's that phrase “the truth is stranger than fiction,” I can't just

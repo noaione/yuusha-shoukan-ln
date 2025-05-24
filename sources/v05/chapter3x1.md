@@ -104,8 +104,8 @@ fulfill. If I decided it was impossible for him, I would immediately pull him
 away from Kuro-san. With that thought in mind, I disguised myself as a human and
 contacted him...
 
-[...Hahhh~~ Kaito-san should be in the Demon Realm by now huh~~ How boring...
-wait, arehh?]
+[...Hahhh\~\~ Kaito-san should be in the Demon Realm by now huh\~\~ How
+boring... wait, arehh?]
 
 I became surprised with the words I muttered while sitting at the counter in the
 late afternoon. Boring? What am I saying? That kinda sounds like I’m missing

@@ -31,7 +31,7 @@ larger than it looked outside, having many shelves lined up in a row.
 I tried looking around, but unable to see the owner, I tried calling out to
 them... but I received no response.
 
-[Arehh? Anyone there~~?!]
+[Arehh? Anyone there\~\~?!]
 
 I tried calling out again, a little louder this time, but still, no response
 came back. The door wasn't locked, which should mean they were open...
@@ -62,7 +62,7 @@ In short, a stuffed cat-like object is mumbling while it's counting coins.
 
 Why is this person wearing a stuffed animal costume indoors? Is she an idiot?
 
-[Ahh~~ I wonder if there are any good stories about how to make money without
+[Ahh\~\~ I wonder if there are any good stories about how to make money without
 working... I thought if I just opened a store, customers would come with all
 their money even if I don't move, but stocking up goods is a hassle and this
 shop isn't even getting popular at all.]
@@ -106,8 +106,8 @@ Facing this situation where it clearly looks like she won't let me get away, I
 reflexively stepped back... No, seriously, this is quite the strange shop I
 entered.
 
-[May I ask what you're looking for? Well~~ It was esteemed customer's lucky day.
-For we have just finished stocking up on our supplies!]
+[May I ask what you're looking for? Well\~\~ It was esteemed customer's lucky
+day. For we have just finished stocking up on our supplies!]
 
 [...N-No, errr...]
 
@@ -209,7 +209,7 @@ of here as soon as possible.
 
 [Alright. This will do, right?]
 
-[...That's okay~~. I can see a want-to-go-home-as-soon-as-possible aura but...
+[...That's okay\~\~. I can see a want-to-go-home-as-soon-as-possible aura but...
 I'm a merchant, so it's my duty to release your want-to-buy aura!]
 
 Suddenly looking energized, the shopkeeper in a costume vigorously stood up.
@@ -306,7 +306,7 @@ this won't do, don't let yourself be dragged on her pace.
 
 [Haahhh... Once again, nice to meet you.]
 
-[It's nice to meet you too~~!]
+[It's nice to meet you too\~\~!]
 
 Letting out a big sigh, I regained my composure and held out my hand to shake
 hands with her.
@@ -462,7 +462,7 @@ sounds good, I guess they would be quite expensive?
 
 [Errr, how much are they?]
 
-[Let's see~~. Well, how about 100R?]
+[Let's see\~\~. Well, how about 100R?]
 
 [Eh? I'll buy it.]
 
@@ -586,8 +586,8 @@ her specs are that high?
 [...Why isn't this store popular at all when you are selling so much good stuff
 for a really cheap price?]
 
-[That's the thing. Well~~ Even I don't know why, but most of the customers would
-leave the moment they opened the door. Is it because the decorations in my
+[That's the thing. Well\~\~ Even I don't know why, but most of the customers
+would leave the moment they opened the door. Is it because the decorations in my
 interior look bad?]
 
 [.........]
@@ -656,7 +656,7 @@ I don't know if Alice has good taste or not, but I couldn't help but buy them
 because they were all elegant and made to look good even if it were nobles who
 were wearing them.
 
-[Well~~ This is the first time I've sold this much since I've opened my store!
+[Well\~\~ This is the first time I've sold this much since I've opened my store!
 Kaito-san, please visit our store again!]
 
 [Unnn. All of these “items that I never thought were made by the shopkeeper” are
@@ -722,7 +722,7 @@ anywhere.]
 
 [..........]
 
-[...Or something like that~~ Well, Just keep in mind that humility is the best
+[...Or something like that\~\~ Well, Just keep in mind that humility is the best
 policy.]
 
 [Y-Yeah...]
@@ -817,7 +817,7 @@ stack of papers.
 Alice reads what is written on the paper for a while, and when she finishes
 reading, she hands the stack of paper back to the man.
 
-[Alrighty~~. Then, regarding this request... the deadline is?]
+[Alrighty\~\~. Then, regarding this request... the deadline is?]
 
 [If possible, within 10 days.]
 

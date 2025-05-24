@@ -29,7 +29,7 @@ now? It’s almost midnight...]
 
 [It’s alright. I’ve adjusted my work with my Trading Companies and other such
 business for that purpose so that I can have the whole day tomorrow, so we can
-do it tomorrow~~]
+do it tomorrow\~\~]
 
 ...Would it be alright if I refuse here? I don’t have the power of foresight,
 but I can somehow see myself fainting in agony after eating a very bad baby
@@ -214,7 +214,7 @@ face.
 [...Well, it’s a request from none other than Kuro-san! As Kuro’s family, of
 course, I will do my best to help you!!!]
 
-[Thanks~~]
+[Thanks\~\~]
 
 See that, she really was bribed. I don’t know if I should say she doesn’t betray
 expectations or not...
@@ -256,7 +256,7 @@ going to make the first prototype after starting this project, and with a
 slightly astounded look on her face, Alice went behind the counter... and came
 out in “about ten seconds”.
 
-[It’s ready~~]
+[It’s ready\~\~]
 
 [Isn’t that too fast?!]
 
@@ -1082,7 +1082,7 @@ despair. Fortunately, it was just its size that’s out of standard, but we
 shouldn’t have used anything strange in terms of ingredients. In that case, what
 we had created should be something that can be eaten...
 
-[Well then, let’s chill it~~]
+[Well then, let’s chill it\~\~]
 
 [...Kuro, that’s wrong. You didn’t chill it. You froze it.]
 
@@ -1111,9 +1111,9 @@ Even though she says all that, I sincerely thank Alice for coming out despite
 her complaints, and I hope she could improve this humongous object that could no
 longer be called a baby castella.
 
-[Ahh~~ Kuro-san. This baby castella... I don’t really think it’s something that
-can be called “baby” anymore, but it’s a little too big for Kaito-san, a human,
-so can I modify it?]
+[Ahh\~\~ Kuro-san. This baby castella... I don’t really think it’s something
+that can be called “baby” anymore, but it’s a little too big for Kaito-san, a
+human, so can I modify it?]
 
 [I see... Kaito-kun couldn’t convert matter into magic power,right? Then, I’ll
 leave it to you, Shalltear.]
@@ -1132,7 +1132,7 @@ appeared in the dining room in a flash.
 [Here, it’s ready. I’ve arranged it on the plate, and even though I made a few
 changes, I haven’t changed anything vital like the ingredients.]
 
-[Ohh~~ It became tiny baby castellas! I see, even if you say “changing the
+[Ohh\~\~ It became tiny baby castellas! I see, even if you say “changing the
 size”, that doesn’t just mean making things bigger.]
 
 The plate Alice brought was loaded with chocolate-coated baby castellas, each

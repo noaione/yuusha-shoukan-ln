@@ -183,7 +183,7 @@ a happy savoriness in my mouth.
 
 [Tasty...]
 
-[Really? That’s great~~]
+[Really? That’s great\~\~]
 
 The eggs enhance the flavor of the meat, while acting in harmony with the eggs,
 the meat enhances its gentle flavors. This is really good. I especially like
@@ -214,7 +214,7 @@ used to this world’s food culture.
 W-What should I do... The moment I realized it was the meat of a mantis, it felt
 like the tablewares became incredibly heavy. H-However, Kuro went out of her way
 to cook this for me... I-I can’t leave anything behind. I-I guess I have no
-choice but to eat it huh? D\*mn it, if this was going to happen, I should have
+choice but to eat it huh? Damn it, if this was going to happen, I should have
 finished the whole thing first before I asked...
 
 As I was thinking about that and trying to prepare myself, Kuro suddenly clapped
@@ -255,7 +255,7 @@ I should apologize to Kuro... the taste didn’t come into my mind at all! Or
 rather, Alice?! Of all the methods there are, why the heck did she tell her
 about this...
 
-[That’s great~~ There’s still “lots” over here! My mouth is a bit small, so it
+[That’s great\~\~ There’s still “lots” over here! My mouth is a bit small, so it
 might take us a while... But I’ll properly feed you “all of it”!]
 
 [...]
@@ -410,7 +410,7 @@ up and run!]
 
 [Ehh? Ah, wait?! Too fast?!]
 
-[Hey, come on, Kaito-senpai~~ You’ll be left behind, you know~~]
+[Hey, come on, Kaito-senpai\~\~ You’ll be left behind, you know\~\~]
 
 [W-Wait... As expected, running that fast is...]
 
@@ -631,7 +631,7 @@ skies! Her beautiful eyes that make the jewels seem to be nothing but roadside
 stones! Her loving and compassionate appearance was both divine and warm, as
 if...]
 
-[Ahh~~ Lunamaria-san. You’re going to take too long blabbering all that. Can I
+[Ahh\~\~ Lunamaria-san. You’re going to take too long blabbering all that. Can I
 ask you to go on to the next story?]
 
 [...Erhem. I suppose. Well then, next would be how me and Lili... Milady had
@@ -655,9 +655,9 @@ She didn’t have any particular plans other than picking up Noir in the evening
 As she was walking along the street, wondering what to do, Lunamaria suddenly
 spotted a signboard.
 
-[...Symphonia Kingdom Martial Arts Tournament... Ahh~~ Speaking of which, it was
-that time of the year, wasn’t it? I guess this would be a good way to pass the
-time.]
+[...Symphonia Kingdom Martial Arts Tournament... Ahh\~\~ Speaking of which, it
+was that time of the year, wasn’t it? I guess this would be a good way to pass
+the time.]
 
 The martial arts tournament that Lunamaria saw on the signboard was held by the
 Kingdom knights at the end of every year, and it was a tournament that one can
@@ -670,7 +670,7 @@ tickets and spoke.
 
 [Yes... Oya? You look familiar... Aren’t you “Black Lily Lunamaria”?]
 
-[Ahh~~ I did have that nickname, didn’t I?]
+[Ahh\~\~ I did have that nickname, didn’t I?]
 
 [Is it alright to just watch and not join in? If it’s you, I think you’d do well
 even against knights...]
@@ -687,7 +687,7 @@ that she was a top-ranking adventurer.
 
 [It’s a dagger that apparently blows out wind.]
 
-[Ahh~~ A dagger imbued with Air Cutter magic huh. It’s indeed rare and
+[Ahh\~\~ A dagger imbued with Air Cutter magic huh. It’s indeed rare and
 valuable... but I can already cast Air Cutter by myself, and having to fight on
 my day off sounds like a pain.]
 
@@ -915,8 +915,9 @@ referee announced the start of the match, Lunamaria spoke.
 
 [...Didn’t I tell you my name back then?]
 
-[Ahh~~ Yes, yes, I remember that. It was Gorianne or something like that, right?
-What great parents you have, giving an appropriate name to a crazy musclehead.]
+[Ahh\~\~ Yes, yes, I remember that. It was Gorianne or something like that,
+right? What great parents you have, giving an appropriate name to a crazy
+musclehead.]
 
 [...]
 
@@ -1269,9 +1270,9 @@ Lunamaria! I look forward to working with you from now on.]
 
 [Huh? Eh? L-Luna? W-Why is... an adventurer here?]
 
-[I quit being an adventurer. Well~~ if Lili tells me a scouting line like “Will
-we meet again?”, I guess it can’t be helped! As a top-ranked adventurer, it sure
-is easy to get a special recommendation~~]
+[I quit being an adventurer. Well\~\~ if Lili tells me a scouting line like
+“Will we meet again?”, I guess it can’t be helped! As a top-ranked adventurer,
+it sure is easy to get a special recommendation\~\~]
 
 [Eeeeehhhh?! No, I’m not planning to scout you back then, I just mean meeting in
 a normal way... Eeeehhhh...]
@@ -1472,7 +1473,7 @@ to have one of these, you know? Let’s play a bit...]
 
 [Didn’t you say we didn’t have much time?]
 
-[Oops, completely forgot about that. Well~~ What a blunder. Oya, this is?!]
+[Oops, completely forgot about that. Well\~\~ What a blunder. Oya, this is?!]
 
 When she saw Lunamaria stopping to talk to her when she found something
 interesting while cleaning up, Lilianne smiled, looking truly happy.
@@ -1693,9 +1694,9 @@ a Duke like Lilia couldn’t afford it.
 Lilia, who was firing herself up, tilted her head at the unexpected suggestion
 she heard.
 
-[Well~~ I actually got tickets for a sightseeing tour in the Demon Realm. .This
-is just perfect for a breather. We can leave the mansion Illness-sama and Sieg
-to handle, so we can be rest assured and stretch out our wings!]
+[Well\~\~ I actually got tickets for a sightseeing tour in the Demon Realm.
+.This is just perfect for a breather. We can leave the mansion Illness-sama and
+Sieg to handle, so we can be rest assured and stretch out our wings!]
 
 [Eh? N-No, ummm... Why are you suddenly talking about that...]
 
@@ -1807,7 +1808,7 @@ enthusiastic about this matter... and it was making me very anxious.
 Kaito-san should also know some of our subordinates, do you have someone you’d
 like to guide you?]
 
-[Ahh~~ I see... Hmmm.]
+[Ahh\~\~ I see... Hmmm.]
 
 Our subordinates... From the way Alice spoke, I guess that includes Kuro’s
 family. I certainly am acquainted with some of them. I know Fafnir-san,

@@ -546,7 +546,7 @@ Human to be strong enough to compete with the Six Kings and the Supreme Gods.]
 [Even if you say 5000 years, Lilia-san is a Human, so she can’t live that
 long...]
 
-[Ahh~~ Well, I guess that might be the case. Anyway, even though Sieg-san is
+[Ahh\~\~ Well, I guess that might be the case. Anyway, even though Sieg-san is
 inferior to Lilia-san, she has enough ability to cope with the speed of sound,
 and I think she can see some of Lillie-san’s movements as well... but Lillie-san
 was “the slowest” among the Six Kings’ executives.]
@@ -1781,8 +1781,8 @@ When I explained that my Teleportation Magic Tool was something that Kuro gave
 me, Rei-san and Fia-san looked astonished, their eyes wide open. Although they
 stiffened for a while, they started moving a little later.
 
-[...W-Well~~ As expected of Miyama-kun. For Underworld King-sama herself to make
-you a magic tool...]
+[...W-Well\~\~ As expected of Miyama-kun. For Underworld King-sama herself to
+make you a magic tool...]
 
 [T-That’s right. I’ve heard that you’re close... lovers with the Underworld
 King-sama, but I’m surprised again.]

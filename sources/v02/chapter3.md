@@ -420,7 +420,7 @@ it.
 this...]
 
 [N-No, I mean, eh? P-Please wait a moment?! I can't keep up with what's
-happening... Kyyuuu~~]
+happening... Kyyuuu\~\~]
 
 [Milady?!]
 

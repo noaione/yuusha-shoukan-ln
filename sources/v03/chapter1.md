@@ -280,7 +280,7 @@ that you're not used to wearing.]
 
 [I'm thinking of participating in the harvest competition.]
 
-[Ahh~~ In that case, it's better if you bring a knife with you.]
+[Ahh\~\~ In that case, it's better if you bring a knife with you.]
 
 There's obviously no way that an ordinary person like me can go into the forest
 and hunt game, so I'm going to participate in the harvest competition, which is
@@ -584,7 +584,7 @@ I'll come visit again.]
 [Thank you for the weather.]
 
 [...You're welcome... Kai-chan, I wanna give you one advice. “Once the effect is
-over, leap backwards”. Well then, bye bye~~]
+over, leap backwards”. Well then, bye bye\~\~]
 
 With that, Fate-san disappeared. Leaving behind a mysterious piece of advice...
 
@@ -658,7 +658,7 @@ expecting her skin to be tough because of her scales, but it seems like as a
 child, her skin is still surprisingly soft. It's not quite as soft as rice
 cakes, but it's about as soft as rubber and comfortable to touch.
 
-[Kyuuukk~~]
+[Kyuuukk\~\~]
 
 Seeing the little dragon purr as if she was comfortable being petted... looks
 kinda cute. I thought dragons would just be something like a big lizard, but
@@ -684,7 +684,7 @@ holes on my clothes because the materials used in it is good, and as the little
 dragon cried out while climbing up my body, when she reached my right shoulder,
 it looks like she's satisfied, lying down on my shoulder... It's quite heavy.
 
-[Kyuuukuu~~]
+[Kyuuukuu\~\~]
 
 As the little dragon began to relax on my shoulder, it seemed like Lilia-san and
 the others finished talking, and when the Flying Dragon Service's driver turned
@@ -714,7 +714,7 @@ Along with the dumbfounded driver, Lilia-san and Lunamaria-san looked amazed as
 they looked towards me. Although it's thanks to my Sympathy Magic, it seems that
 a baby dragon normally wouldn't get emotionally attached with someone quickly.
 
-[Wow~~ It looks cute. Let me hold it too...]
+[Wow\~\~ It looks cute. Let me hold it too...]
 
 [Fruuuuuuhhh!!!]
 
@@ -855,7 +855,7 @@ quite a sight to behold. Stepping into the city of the Elves that renewed our
 thoughts of how this really is another world—is something nice to do if I was
 able to head straight into the city, but we first have to deal with a problem.
 
-[Kyuuuu~~~~!!!]
+[Kyuuuu\~\~\~\~!!!]
 
 [Errr...]
 
@@ -878,7 +878,7 @@ dragon, so I can't just take it along for my own convenience.
 [Don't worry. We can meet again when we're going back, and we can also meet back
 in the royal capital.]
 
-[Kyuuuu~~]
+[Kyuuuu\~\~]
 
 [Unnn, so you have to diligently listen to what the driver says.]
 
@@ -944,7 +944,7 @@ Crossing with each other in midair, they somersaulted once before landing. And
 with that landing, the two elves struck a pose, standing with their backs behind
 each other.
 
-[ [ WELCOME TO THE ELVEN CITY OF “RIGFORESHIA”~~!! ] ]
+[ [ WELCOME TO THE ELVEN CITY OF “RIGFORESHIA”\~\~!! ] ]
 
 [ [ [ ............ ] ] ]
 
@@ -971,7 +971,7 @@ two slended swords.
 
 [Hahaha, she must surely be feeling bashful!]
 
-[However~~ I feel like she would try to slash me any moment soon...]
+[However\~\~ I feel like she would try to slash me any moment soon...]
 
 [H-Hahaha... W-Wait right there, Sieg. Let's calm down and talk...]
 
@@ -1073,7 +1073,7 @@ Sieg-san's parents again.
 [Now that the situation is settled, once again, everyone, welcome. I am
 Sieglinde's father, my name is Rejnhardt. You can just call me Rei.]
 
-[And I am Sieglinde's mother, Sylphia. Please call me Fia. Nice to meet you~~]
+[And I am Sieglinde's mother, Sylphia. Please call me Fia. Nice to meet you\~\~]
 
 [ [ [ Nice to meet you. ] ] ]
 
@@ -1189,7 +1189,7 @@ into his face again.
 I can't feel any mercy from Sieg-san anymore, as she began swinging her fists
 down, one after another, faster than even before Rei-san could say anything.
 
-[Ara ara, please excuse them~~ They're causing quite a ruckus.]
+[Ara ara, please excuse them\~\~ They're causing quite a ruckus.]
 
 [Eh? Ah, no, is it alright even if you don't stop them?]
 
@@ -1342,8 +1342,8 @@ announced, and that is...]
 
 [The prize? Ah, come to think of it, they still haven't announced it huh.]
 
-[That's right~~ The prize last year was a magic tool, so I was also wondering
-what the prize was this year~~.]
+[That's right\~\~ The prize last year was a magic tool, so I was also wondering
+what the prize was this year\~\~.]
 
 In the hunting competition, a prize will be presented to the winner every year,
 and I've heard that it changes every year. There are a variety of prizes, from
@@ -1380,7 +1380,7 @@ And the person emitting those strong emotions was... Lilia-san.
 missing limbs. I've never seen one of it myself, but I've heard that on rare
 occasions, World King-sama would give to her followers as a gift.]
 
-[It's doesn't just worth a lot of money, it's already priceless~~ Even some of
+[It's doesn't just worth a lot of money, it's already priceless\~\~ Even some of
 World King-sama's followers may have never seen the real thing.]
 
 Rei-san and Fia-san responded to the question Yuzuki-san had asked, but they

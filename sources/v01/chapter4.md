@@ -495,7 +495,7 @@ But unfortunately, it seems that Lilia-san is the type of person who is unable
 to compose herself when she begins to panic.
 
 [T-T-T-That's impossible?! How could something like this happen...
-Awawa—Kyuuu~~]
+Awawa—Kyuuu\~\~]
 
 [Milady?! Wha, Milady?!]
 
@@ -507,7 +507,7 @@ For the time being, we took a break from moving until Lilia-san recovers, and
 while the carriage stopped a short distance away from the main road, Lilia-san
 laid down on her seat with a wet towel on her face.
 
-[Unnyyuuu~~]
+[Unnyyuuu\~\~]
 
 Letting out a smile at Lilia-san who is making such cute groans, we talked about
 what happened earlier.
@@ -655,7 +655,7 @@ have this talk.
 After dinner and a quick chat with Kusunoki-san and the others, I took a bath
 and returned to my room.
 
-[Welcome back~~]
+[Welcome back\~\~]
 
 [......]
 
@@ -729,7 +729,7 @@ understand, with a smile on her face.
 
 [If I were to describe Shiro, I guess you could say that she has an extremely
 impartial doctrine regarding all matters. It might have been strange for me to
-say something like this, but she's really unusual~~]
+say something like this, but she's really unusual\~\~]
 
 [Indeed, she had that mysterious vibe around her but...]
 
@@ -1039,7 +1039,7 @@ kids and tell Lilia-san about it...
 
 Then what was my concern and determination to consult her for?!
 
-[Ahh~~ Errr, Kaito-kun? If you want, do you want me to visit under my name and
+[Ahh\~\~ Errr, Kaito-kun? If you want, do you want me to visit under my name and
 explain to them about it?]
 
 [...Unnn. If you do that, it would be a great help. I mean, I wish you had done
@@ -1466,13 +1466,13 @@ do huh?
 
 [Kuro is the Underworld King huh...]
 
-[Ahh~~ That seems to be the case, but the people around me just called me that
-for their own convenience and I've never really introduced myself with that~~]
+[Ahh\~\~ That seems to be the case, but the people around me just called me that
+for their own convenience and I've never really introduced myself with that\~\~]
 
 [Certainly, somehow, I feel like you wouldn't fit the image of someone with a
 title like that.]
 
-[Ahaha, that's right~~]
+[Ahaha, that's right\~\~]
 
 Seeing me talking to Kuro with the tone I usually had, Lilia-san looked pale,
 but Kuro didn't seem to be bothered by it and replied with a bright smile on her
@@ -1483,7 +1483,7 @@ nervous.
 
 [U-Underworld King-sama... P-Please have some tea...]
 
-[Thanks~~, arehh?]
+[Thanks\~\~, arehh?]
 
 [?!]
 
@@ -1728,7 +1728,7 @@ tasty sweets there. Say, do they also sell some jam there too?]
 
 [Yeah, they're selling different varieties of jams there.]
 
-[Ohh, then I'll go get some later~~]
+[Ohh, then I'll go get some later\~\~]
 
 It seems that she liked the cookies, Kuro began taking one after another with a
 big smile on her face.

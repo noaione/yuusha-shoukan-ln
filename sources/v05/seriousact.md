@@ -20,7 +20,7 @@ clearly tell you’re smug as hell! Just because you’re the main focus in Volu
 5, you’re getting carried away!!!]
 
 [Oh my? I wonder what you’re talking about? I’m just a mysterious being/one of
-Alice-chan’s fans who hasn’t appeared in the story. Well~~ I’m just happy that
+Alice-chan’s fans who hasn’t appeared in the story. Well\~\~ I’m just happy that
 my star Alice-chan is doing so well.]
 
 [.............]
@@ -32,7 +32,7 @@ it harder for Serious-senpai to deal with her.
 [Alice-chan is one of the most popular characters after all. There are many fans
 who have been waiting for this moment, especially when she appears on the front
 cover. Moreover, unlike the previous 4 volumes, the front cover is just made up
-of her and Kaito-san! Well~~ With the situation like this, couldn’t the author
+of her and Kaito-san! Well\~\~ With the situation like this, couldn’t the author
 just name Alice-chan the main heroine instead?]
 
 [...I heard that Alice lost by a wide margin to Isis in a popularity poll for
@@ -60,7 +60,7 @@ place Main Heroine (lol) is going to hit us...]
 [No, no, I’m indebted to her, and I personally like her, so what I’m saying here
 can’t really be said as me speaking ill of her. In fact, I’m rooting for her to
 become more popular. But well, reality is just cruel... Alice-chan just so
-happens to be more popular than her~~]
+happens to be more popular than her\~\~]
 
 [...Ahh.]
 
@@ -80,7 +80,7 @@ name plate “Under King” written on it on her chest, gave an angelic smile
 towards ? ? ?. Thereupon, ? ? ? began shaking, visible even through her costume.
 
 [N-N-N-Now this is q-q-quite the surprise... If it isn’t the Main Heroine (lol)!
-Well~~, no matter how I look at you, your aura sure is different!]
+Well\~\~, no matter how I look at you, your aura sure is different!]
 
 [...Unnn, 3rd place what is it again?]
 

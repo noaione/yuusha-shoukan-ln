@@ -109,7 +109,7 @@ be a bit imprudent of me, but I was happy. I mean, even Fate-san’s here... Unn
 Even Ozma-san’s here. Also, who is that person with the green hair? I feel like
 she’s sleeping while standing up though...
 
-[...U-Ummm~~]
+[...U-Ummm\~\~]
 
 [Eh? Huh?! It’s you!!!]
 
@@ -559,12 +559,12 @@ reflexively hit her in her head.
 
 [I mean, Alice... Ah, no, should I call you Shalltear now?]
 
-[Well~~ It’s fine to call me just as usual. I also like this name too... so,
+[Well\~\~ It’s fine to call me just as usual. I also like this name too... so,
 what is it?]
 
 [Well, Alice is one of the Six Kings, right?]
 
-[That’s right~~ Alice-chan is a remarkable girl. I’m remarkable enough that I
+[That’s right\~\~ Alice-chan is a remarkable girl. I’m remarkable enough that I
 could proudly puff my chest to introduce myself!]
 
 Alice has a smug look on her face as she makes a pose while sticking out her

@@ -665,7 +665,7 @@ understood who had come to visit me.
 
 [Yes. You can come in.]
 
-[Well theeeen~~ Please excuse meeee~~]
+[Well theeeen\~\~ Please excuse meeee\~\~]
 
 With another call, the door opened and a petite woman dressed in a maid uniform
 entered the room. She’s a beauty with slightly long, dark gray and a height of
@@ -678,7 +678,7 @@ provided in the room.
 
 [“Illness-san”, thank you as always.]
 
-[Noooo~~ Please don’t mind iiiiit. This is my job after allllllll.]
+[Noooo\~\~ Please don’t mind iiiiit. This is my job after allllllll.]
 
 Her name is Illness-san, a maid working in Lilia-san’s house and acting as my
 personal maid. Lilia-san tried to give me, Kusunoki-san and Yuzuki-san our own
@@ -701,22 +701,22 @@ she was a scary person when I first met her.
 After putting away the laundry, Illness-san turned her head towards me and
 tilted her head.
 
-[Oyaaa~~ Kaito-samaaaa, you look a little tiiiiired.]
+[Oyaaa\~\~ Kaito-samaaaa, you look a little tiiiiired.]
 
 [Eh? D-Does it look like that?]
 
-[Yeeeees~~ Just a little biiiiiit. Wait for a moment, okaaaaay? I’ll brew you
+[Yeeeees\~\~ Just a little biiiiiit. Wait for a moment, okaaaaay? I’ll brew you
 some teeeeeeea.]
 
 [T-Thank you very much.]
 
-[No, noooooo~~]
+[No, noooooo\~\~]
 
 With that peculiar smile on her face, Illness-san went out of the room again. A
 few moments later, she came back pushing a cart with a pot on it, and served me
 a nice smelling tea and some sweet smelling cookies.
 
-[Here you goooo~~ They’re a little hooooot, so be careful, okaaaaay?]
+[Here you goooo\~\~ They’re a little hooooot, so be careful, okaaaaay?]
 
 [Thank you very much. They’re really tasty.]
 
@@ -766,17 +766,17 @@ easily consult with.
 
 [Ummm, Illness-san. Do you have some time to spare right now?]
 
-[Yeeess~~ It should be alriiiiiiight. Is something the matteeeeer~~?]
+[Yeeess\~\~ It should be alriiiiiiight. Is something the matteeeeer\~\~?]
 
 [I actually received this letter, but I’m not really sure what it meant...]
 
-[Would it be alright to look at iiiiiiit~~?]
+[Would it be alright to look at iiiiiiit\~\~?]
 
 [Yes.]
 
-[Well theeeen, please excuse meee~~ Oya, now this is quiiiiiite a high-class
-letter, isn’t iiiiiit? I seeeeee~~ It’s from Archlesia Empire’s Emperor
-huuuuuuh. It’s no wondeeeeer~~ I remember this beautiful handwritiiiiiing.]
+[Well theeeen, please excuse meee\~\~ Oya, now this is quiiiiiite a high-class
+letter, isn’t iiiiiit? I seeeeee\~\~ It’s from Archlesia Empire’s Emperor
+huuuuuuh. It’s no wondeeeeer\~\~ I remember this beautiful handwritiiiiiing.]
 
 While I was grateful for her mature response that doesn’t bring up the contents
 of the letter, a question popped into my head. Illness-san looked at the letter
@@ -784,15 +784,15 @@ and said it had beautiful handwriting. This means that although it seemed like
 there was lots of useless stuff written on it, was this perhaps just a common
 way of writing in this world?
 
-[So~~ what part of the letter do you not understand?]
+[So\~\~ what part of the letter do you not understand?]
 
 [Errr, there were phrases, or rather, words that I’m not familiar with...]
 
-[Ahh~~ I seeeee. These are called decorative words.]
+[Ahh\~\~ I seeeee. These are called decorative words.]
 
 [Decorative words?]
 
-[Yeeeeees~~ It’s the nobility’s custom to add decorative words to adjust the
+[Yeeeeees\~\~ It’s the nobility’s custom to add decorative words to adjust the
 length of sentences and make the whole letter look more balanced.]
 
 I see, so they’re not words that have any particular meaning, but just words
@@ -834,9 +834,9 @@ understanding my thoughts, Illness-san kindly offered me a helping hand.
 
 [W-Would it be alright?]
 
-[Of coooooourse. Kaito-samaaa, please tell me what you’d like me to respoooond~~
-I’ll write that in the letteeeer. There shouuuuuldn’t be a problem with me
-writing your response for youuuuu.]
+[Of coooooourse. Kaito-samaaa, please tell me what you’d like me to
+respoooond\~\~ I’ll write that in the letteeeer. There shouuuuuldn’t be a
+problem with me writing your response for youuuuu.]
 
 [I’m really thankful for that... but errr, would be alright for you,
 Illness-san? Ummm, your work, I mean...]
@@ -882,7 +882,7 @@ her in no time.
 
 [Thank you so much.]
 
-[No, nooooo~~]
+[No, nooooo\~\~]
 
 I always find myself relying on the kind Illness-san. Rather, even when I don’t
 think about it, I would always be helped in many ways. I wish there was

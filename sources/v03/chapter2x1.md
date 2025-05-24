@@ -171,7 +171,7 @@ I'm playing a male character in that MMO we both played, under the username
 
 And after that, I'll ask him: [Miyama-san, are you “Ciel-san”?]
 
-[Aoi-senpai~~ What are you doing? Let's go already~~]
+[Aoi-senpai\~\~ What are you doing? Let's go already\~\~]
 
 [Unnn, sorry. I'm coming.]
 

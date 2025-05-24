@@ -1371,7 +1371,7 @@ voice sounded in the room.
 
 [...There’s no need for that though? I’m here for Kaito-san after all. No matter
 if it’s hundreds or thousands, I would just make them regret that they are
-born~~]
+born\~\~]
 
 [?!]
 
@@ -1402,9 +1402,9 @@ already given up on all sorts of things.
 
 [P-P-Phantasmal King-sama is Mi-Mi-Miyama-sama’s guard?!]
 
-[That’s right~~ Kaito-san is my lord to whom I offered my sword. That also means
-pointing your sword at Kaito-san... is the same as challenging me and my troops
-to battle~~]
+[That’s right\~\~ Kaito-san is my lord to whom I offered my sword. That also
+means pointing your sword at Kaito-san... is the same as challenging me and my
+troops to battle\~\~]
 
 [...Oh dear, please excuse me. It really was unnecessary of me huh. I didn’t
 expect for Phantasmal King-sama herself to be his guard...]
@@ -1883,7 +1883,7 @@ that should be obvious huh...]
 [...A regular customer?]
 
 [Well, it seems that he’s changing the person he was sending to me to make his
-request~~]
+request\~\~]
 
 There’s some hidden meaning in what Alice is saying... That means he’s a client
 for her underworld job huh.
@@ -1920,7 +1920,7 @@ decided to change the subject.
 time?]
 
 [Unnn? Ahhh, the evidence from that incident four years ago. We’ve gathered
-them~~]
+them\~\~]
 
 Saying this, Alice pulled out various items out of nowhere and placed them on
 the desk.
@@ -1964,7 +1964,7 @@ driven out to the frontier about two years ago.]
 [Yes, as I said before, that guy has a good nose. It seems that he has already
 found out who the culprit is... but he can’t find any evidence. That’s why they
 were dealt with a little high-handedly because of some “other matter”, and kept
-them away from Duchess Albert~~]
+them away from Duchess Albert\~\~]
 
 [If Ryze-san told that to Lilia-san...]
 
@@ -2037,7 +2037,7 @@ using it all up is unforgivable...]
 
 [How much?]
 
-[Ehh? Ahh~~ Well, that is...]
+[Ehh? Ahh\~\~ Well, that is...]
 
 [How much do you have left?]
 
@@ -2149,7 +2149,7 @@ Giving Alice, who for some reason, kind of sounds happy, two white gold coins
 and received the time I had requested... Whoa, this is heavy?! I’d better hurry
 up and put it in my magic box...
 
-[Well then, just call me if you need me again~~]
+[Well then, just call me if you need me again\~\~]
 
 [Yeah... Alice, thank you very much. I can always count on you.]
 

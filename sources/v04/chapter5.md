@@ -710,13 +710,13 @@ upper hand in my conversations with Kuro.
 
 [So, in the end, what’s your favorite food?]
 
-[...Muuuuu~~ Other than baby castellas, maybe pudding?]
+[...Muuuuu\~\~ Other than baby castellas, maybe pudding?]
 
 [Errr, what was it called again? That Special Deluxe Pudding à la mode?]
 
-[Ahh~ That’s the one Ein made for me before. That was quite delicious~~... To be
-honest, I was only half joking when I told her about it, but for her to really
-make it, Ein’s really amazing.]
+[Ahh~ That’s the one Ein made for me before. That was quite delicious\~\~... To
+be honest, I was only half joking when I told her about it, but for her to
+really make it, Ein’s really amazing.]
 
 She just said she’s half joking... Ahh, I see, Kuro thought it was an absurd
 request to ask, but Ein-san completed it like it’s obvious. She’s a cheat, just
@@ -724,7 +724,7 @@ as usual.
 
 [However, Kaito-kun. Why are you suddenly asking me what I like?]
 
-[Ahh~~ Well, errr... You see, when we went out together last time—]
+[Ahh\~\~ Well, errr... You see, when we went out together last time—]
 
 [On a date!]
 
@@ -745,7 +745,7 @@ a bit, before she smiled like a blooming flower.
 
 [Eh? Wait, Kuro?! Your hand?!]
 
-[We’ve held hands before already, so don’t mind, don’t mind~~]
+[We’ve held hands before already, so don’t mind, don’t mind\~\~]
 
 Looking at Kuro who’s happily laughing as she pulled my hand along, aware that a
 natural smile appeared on my mouth, I went to Alice’s general store together
@@ -1015,7 +1015,7 @@ something to eat.]
 
 [Recommended? What kind of food do they serve?]
 
-[Errr~~ I think they’re using “striped frog meat” to...]
+[Errr\~\~ I think they’re using “striped frog meat” to...]
 
 [Change please.]
 
@@ -1069,7 +1069,7 @@ around 10am should be fine.]
 
 [Then, I’ll send them a hummingbird stating that.]
 
-[Unnn, I’ll leave it to you~~ Also, change some of the shapes of the samples,
+[Unnn, I’ll leave it to you\~\~ Also, change some of the shapes of the samples,
 just in case.]
 
 [Understood.]
@@ -1390,7 +1390,7 @@ mind. Quietly approaching Alice, I slightly glared at her and spoke.
 [...Listen here. I’ve told you this multiple times already, but don’t waste your
 money on gambling and other useless stuff while I’m gone, okay?]
 
-[Ehhh? Ah, well~~ that’s...]
+[Ehhh? Ah, well\~\~ that’s...]
 
 [You hear me?! If I come back and I hear you say you don’t have any money
 left... I’ll make sure you’ll pay for that.]
@@ -1443,7 +1443,7 @@ is going this time... For the set of four books, 30R! What do you think?]
 
 [...I’ll buy it.]
 
-[Thank you for the purchase~~]
+[Thank you for the purchase\~\~]
 
 In the end, Alice’s sales talk got the better of me again, and I ended up buying
 the four-book set. Well, there are quite a few pages in each book, and if it’s

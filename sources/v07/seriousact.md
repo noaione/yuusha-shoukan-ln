@@ -82,7 +82,7 @@ Volume 7.]
 
 [...Eh?]
 
-[Well then, I’m going back now, okay~~ Thank you for your hard work,
+[Well then, I’m going back now, okay\~\~ Thank you for your hard work,
 Serious-senpai. See you in the next volume.]
 
 [......Eh?]

@@ -674,7 +674,7 @@ all-you-can-eat option?]
 
 [So, Kaito-san. What kind of restaurant are we going to today?]
 
-[...You f*cking woman.]
+[You really are...]
 
 Skillfully ignoring me, as expected of the Phantasmal King, her evasion skills
 isn’t something half-hearted... I really want to punch her. Incidentally, Alice
@@ -1465,7 +1465,7 @@ The wings behind her back moved to repel the brandished daggers, and Alice used
 the impact to turn her body around and unleashed a spinning kick towards Earth
 God’s neck, but it dealt no damage to Earth God.
 
-(Ahhh, geez! What is this d\*mned toughness?! Almost no damage even when I
+(Ahhh, geez! What is this damned toughness?! Almost no damage even when I
 successfully made a clean strike... I feel like I only dealt 1 HP damage to an
 enemy with more than 10 billion HP... Moreover, it has Hyper Regeneration, the
 ability to erase and recreate damaged parts, infinite energy reserves, and a
@@ -1745,7 +1745,7 @@ No voices were spoken out of her mouth. However, I feel like I heard those words
 clearly in my ears, and immediately afterwards, the angel smiled deeply and a
 chill ran down my back.
 
-T-T-The f\*ck is that... That’s scary! W-What the heck is that?! It’s a smile
+T-T-The fuck is that... That’s scary! W-What the heck is that?! It’s a smile
 that gives me goosebumps, as if a predator has found its prey! The smile on the
 angel’s face was so frightening that the words I heard before, “smiles were
 originally an aggressive expression”, come to my mind. N-No, her face is still

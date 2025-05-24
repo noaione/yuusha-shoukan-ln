@@ -70,8 +70,8 @@ throw a tsukkomi at her. Rather, even in this 3rd volume, the proportion of
 seriousness isn't really that large, but it doesn't seem like that matters to
 Serious-senpai.
 
-[Well~~ It seems like I'll be busy from now on~~. I'll have to do some serious
-work on the main story, so I won't be here any... Arehh?]
+[Well\~\~ It seems like I'll be busy from now on\~\~. I'll have to do some
+serious work on the main story, so I won't be here any... Arehh?]
 
 Thereupon, Serious-senpai stopped moving for a moment and began looking around
 her surroundings. After she did that for a little while, Serious-senpai sat

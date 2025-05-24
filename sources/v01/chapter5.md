@@ -33,7 +33,7 @@ thing in the world. It's unusual for Kuro to have come in the daytime today, but
 to be honest, I'm used to her suddenly appearing, so I didn't bother throwing a
 tsukkomi at her.
 
-[Unnn? It looks like it's about to rain~~]
+[Unnn? It looks like it's about to rain\~\~]
 
 [...Eh?]
 
@@ -458,7 +458,7 @@ becoming one...
 
 [Ah, no... I was just a little surprised to see you dressed so differently.]
 
-[Ah~~ I see. What do you think? Does it suit me?]
+[Ah\~\~ I see. What do you think? Does it suit me?]
 
 [Ah, yeah. It looks really good on you.]
 
@@ -544,7 +544,7 @@ away from here, so let's go there first.]
 [Oh, the food stalls of this world huh... That sounds like fun.]
 
 [Unn, unnn. The Symphonia Kingdom has an advanced food culture, so there's lots
-of good food around here~~]
+of good food around here\~\~]
 
 Seeing the happy smile on Kuro's face, a smile inadvertently appeared on my face
 as I nodded my head.
@@ -608,7 +608,7 @@ to a restaurant that Kuro recommended.
 There are benches and tables in front of the small wooden restaurant, and I
 personally prefer the atmosphere of a restaurant that caters to the masses.
 
-[Good afternoon~~]
+[Good afternoon\~\~]
 
 [Oya? If it isn't the Underworld King. Welcome.]
 
@@ -618,7 +618,7 @@ her face, a woman of delicate age who seemed to be Human came out of the store.
 The woman, who looks like the owner of the store, notices Kuro and smiles back,
 as if she had spoken with her before.
 
-[I'm here to eat lunch~~]
+[I'm here to eat lunch\~\~]
 
 [Thanks for your patronage. Oya? Is that child over there Underworld King's
 acquaintance?]
@@ -645,7 +645,7 @@ meat and vegetables sandwiched in between. This certainly looks delicious.
 
 [Thank you for the wait, this is our special “Red Bear” sandwich! Now, dig in.]
 
-[Yay~~]
+[Yay\~\~]
 
 [...........]
 
@@ -675,7 +675,7 @@ with mysterious monster meat whose flavor I couldn't even imagine.
 
 [...Tasty.]
 
-[Isn't it?! The food they make here in this shop is really good~~!]
+[Isn't it?! The food they make here in this shop is really good\~\~!]
 
 I've heard that bear meat has a strong, gamey stink and taste, but this meat
 doesn't have any stink at all. Rather than having any leftover gamey taste, it
@@ -711,7 +711,7 @@ wiping another table and approached us.
 wyverns up north in the mountains. It looks like the Adventurer's Guild and the
 Knight Order have been working together since this morning to take them down.]
 
-[Heehhh~~ It's very unusual for a wyvern to build its nest so close to the
+[Heehhh\~\~ It's very unusual for a wyvern to build its nest so close to the
 city.]
 
 [D-Doesn't that sound pretty bad...]
@@ -808,11 +808,11 @@ fact, this shop seems to be a place where you usually pay in advance.
 However, it seems that the shopkeeper auntie's confidence in Kuro is so high, as
 Kuro's her regular customer, it's alright for her even if Kuro pays later.
 
-[Thanks for the food~~ It was delicious.]
+[Thanks for the food\~\~ It was delicious.]
 
 [Ah, Kuro. Here's the money.]
 
-[Eh? It's okay. I'm the one who invited you, so I'll pay for it~~]
+[Eh? It's okay. I'm the one who invited you, so I'll pay for it\~\~]
 
 [No, as expected, that is...]
 
@@ -912,8 +912,8 @@ still looking at me in wonder.
 
 [So, where are we going next?]
 
-[Let's see~~ We just finished having lunch, so let's just take a look around for
-now. Ah, I think we should get something to drink.]
+[Let's see\~\~ We just finished having lunch, so let's just take a look around
+for now. Ah, I think we should get something to drink.]
 
 I said to Kuro as we walked down the street lined up with stalls again, and Kuro
 replied with a bright smile on her face.
@@ -926,7 +926,7 @@ It seems that she also had some recommended shops for drinks, so Kuro pulled my
 hand and brought me to a stall... To a shop that somehow looks like a small
 greengrocer.
 
-[Hello~~ Do you have some Seal Fruit?]
+[Hello\~\~ Do you have some Seal Fruit?]
 
 [If it isn't Underworld King-sama, welcome. Seal Fruit, right? Yes, there's a
 good one here.]
@@ -1440,7 +1440,7 @@ Almost bitten by a strange colored flower in a flower shop...
 [Hmmm. Kuro normally wears black clothes, so wouldn't the silver necklace suit
 you better?]
 
-[I see~~ But this one's quite short. It might snap if I go into my Demon Beast
+[I see\~\~ But this one's quite short. It might snap if I go into my Demon Beast
 Mode.]
 
 [...and what is this Demon Beast Mode?]
@@ -1452,7 +1452,7 @@ about the size of Acht.]
 
 Window shopping at a shop that sells ornaments...
 
-[Kaito-kun, I bought some meat skewers~~ Let's eat.]
+[Kaito-kun, I bought some meat skewers\~\~ Let's eat.]
 
 [Yeah, thanks... Yes, it's good, but this meat tastes kinda unusual. What kind
 of meat is this?]
@@ -1494,10 +1494,10 @@ wyvern.]
 
 [Understood. We will now conduct a “bloodbath”.]
 
-[I'll leave it to you~~]
+[I'll leave it to you\~\~]
 
-[No, no, you shouldn't say “I'll leave it to you~~” there though?! Ein-san stop,
-stahp!!!]
+[No, no, you shouldn't say “I'll leave it to you\~\~” there though?! Ein-san
+stop, stahp!!!]
 
 Just when I think that the threat of the wyverns in this country is gone,
 realizing that another threat (the maid) is about to befall the royal palace...
@@ -1505,7 +1505,7 @@ realizing that another threat (the maid) is about to befall the royal palace...
 We passed our time like that, there were some hectic times and times filled with
 fun, and before I knew it, time went by in a flash.
 
-[That's quite a day~~ I had lots of fun~~]
+[That's quite a day\~\~ I had lots of fun\~\~]
 
 [Yeah. I feel like some absurd stuff happened here and there though, but it
 certainly was fun.]

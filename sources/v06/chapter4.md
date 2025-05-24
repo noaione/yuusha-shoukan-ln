@@ -127,7 +127,7 @@ often serve at the mansioooooon.]
 
 [Are those tea leaves rare?]
 
-[Nooooope~~ That isn’t really the caaaaaase. It’s just thaaaaat they might not
+[Nooooope\~\~ That isn’t really the caaaaaase. It’s just thaaaaat they might not
 be suitableeeeee for the Albert Duchyyyyyy.]
 
 [Unnn?]
@@ -140,7 +140,7 @@ gave me a small smile and explained.
 qualityyyyy. Though I said thaaaaaat, the brand name variiiiies somewhat
 depending on whiiiiiich part of residence it waaaaas. Simply puuuuut, there are
 some teaaaaas that Milady doesn’t liiiiiike, while there are also sooooome teas
-that doesn’t match the sweets being served at the same tiiiiiime~~]
+that doesn’t match the sweets being served at the same tiiiiiime\~\~]
 
 [I see.]
 
@@ -163,7 +163,7 @@ the mansion, incluuuuuding tea leaaaaaaves.]
 [Eeeehhh?! Y-You’re also handling the selection of ingredients... I-Is that
 really alright? Isn’t it rough...]
 
-[Noooope~~ It doesn’t really take that much effoooooort.]
+[Noooope\~\~ It doesn’t really take that much effoooooort.]
 
 [..........]
 
@@ -314,12 +314,12 @@ anticipated that a development like this would happen?!
 [E-Errr, Illness-san? Could it be that, along with me saying to eat lunch in the
 park, everything went just as you anticipated?]
 
-[Noooo~~ That isn’t the caaaaase. I just prepared something for Kaito-samaaa to
-eat when you get hungry during our shoppiiiiiing.]
+[Noooo\~\~ That isn’t the caaaaase. I just prepared something for Kaito-samaaa
+to eat when you get hungry during our shoppiiiiiing.]
 
 [T-Thank you.]
 
-[No, nooooo~~]
+[No, nooooo\~\~]
 
 She really is just like a holy mother. However, I wonder what this sense of
 defeat I’m feeling...
@@ -360,7 +360,7 @@ tiiiiiime, so I’ve brought something to celebraaaaaaate.]
 
 [To celebrate?]
 
-[Yeeees~~ It might be smaaaaalll, but it’s to celebraaaaaate that Kaito-sama’s
+[Yeeees\~\~ It might be smaaaaalll, but it’s to celebraaaaaate that Kaito-sama’s
 feelings have reached Underworld King-samaaaaaa.]
 
 Saying this, Illness-san put some tea and a cake on the table in front of the
@@ -407,7 +407,7 @@ Illness-san felt, and I really had fun with our shopping today.
 It’s just, somehow... I really wish I could just properly express my gratitude
 to Illness-san...
 
-[I diiiiiid already receive your gratituuuuuude~~]
+[I diiiiiid already receive your gratituuuuuude\~\~]
 
 [...Eh?]
 

@@ -379,12 +379,12 @@ landscape turned into static and her power vanished.
 
 [?!]
 
-[...How scary, you are~~ You can even tamper the principle of causalities, you
+[...How scary, you are\~\~ You can even tamper the principle of causalities, you
 Gods really are quite outrageous beings.]
 
 (When did she?! How come I didn’t sense her approach?)
 
-[In that case~~ Let’s confine you right here!]
+[In that case\~\~ Let’s confine you right here!]
 
 Shaking her chained robe, Shalltear declared with an unserious tone. Warding off
 those words with her indifferent gaze, Fate quietly replied to her.
@@ -1028,7 +1028,7 @@ Both Fate and Shalltear originally had lax personalities, and even though they
 had just battled, they enjoyed tea with each other and hung out frequently
 afterwards... becoming something like best friends.
 
-[Well~~ You really are strong! That was a great fight! Let’s do this again!]
+[Well\~\~ You really are strong! That was a great fight! Let’s do this again!]
 
 [...I don’t want to see you again, shitty gorilla.]
 

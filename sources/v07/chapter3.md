@@ -105,7 +105,7 @@ A few moments after Kaito left, Lunamaria muttered, and Lilia looked back at
 her, looking shaken.
 
 [...I don’t know, but perhaps, if Miyama-sama becomes comfortable with the
-common sense of this world... Then Milady might also have a chance, right~~?]
+common sense of this world... Then Milady might also have a chance, right\~\~?]
 
 [W-W-What are you talking about?! I-I-It’s not like I...]
 
@@ -344,7 +344,7 @@ waited for Dr. Vier to get ready for the examination. Dr. Vier quickly proceeded
 with her preparations and asked me how come I came here with Noir-san on my
 back, so I briefly explained the situation.
 
-[Hehhh~~ Then, Miyama-san worriedly called out to Noir-san when you just first
+[Hehhh\~\~ Then, Miyama-san worriedly called out to Noir-san when you just first
 met huh. Unnn, I think it’s a very fantastic of you to naturally help those in
 need.]
 
@@ -908,8 +908,8 @@ added benches and an altar, and made it look like a church.]
 
 [I see. So that’s why Dr. Vier, a doctor, is also a priest as well.]
 
-[...W-Well~~ I’m not really doing anything priestly, and as for me, just being a
-doctor is good enough but... Well, I guess that’s just what the public’s
+[...W-Well\~\~ I’m not really doing anything priestly, and as for me, just being
+a doctor is good enough but... Well, I guess that’s just what the public’s
 perception has turned out huh?]
 
 Dr. Vier looked beautiful when she chuckled when she said that, and combined
@@ -1133,7 +1133,7 @@ confusion, Dr. Vier looks amused for some reason.
 
 [N-No, it’s not like I’m...]
 
-[I don’t know about that~~ Well, no matter... Thank you, Miyama-kun.]
+[I don’t know about that\~\~ Well, no matter... Thank you, Miyama-kun.]
 
 [Ehh? Eh? Ah, yes. Y-You’re welcome.]
 
@@ -1141,8 +1141,8 @@ I don’t know what the heck happened, but it looks like Dr. Vier seems to be
 feeling better, and she tightly interlocked her hands with each other in front
 of her breasts.
 
-[Al~right~~, I’m filled with determination! I’m going to work harder today than
-I ever have before!]
+[Al~right\~\~, I’m filled with determination! I’m going to work harder today
+than I ever have before!]
 
 [Ah, errr, yes.]
 

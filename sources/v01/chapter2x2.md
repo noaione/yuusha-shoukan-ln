@@ -63,7 +63,7 @@ There exists a high-ranking Demon called Kuromueina. She held immense power, yet
 unconcerned with wealth and power, as she walked around as if she's wearing the
 very concept of freedom.
 
-[Whoa, this is quite tasty, isn't it~~? One more please~]
+[Whoa, this is quite tasty, isn't it\~\~? One more please~]
 
 [Thank you for your patronage!]
 

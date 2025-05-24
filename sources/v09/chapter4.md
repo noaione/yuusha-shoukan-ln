@@ -57,7 +57,7 @@ maids who devote every moment to their duties, resting is being spoiled”.
 [Well, in the case of Sister Ein who says that her days off were “enough for
 several months”, she was often scolded by Kuromu-sama.]
 
-[Ahh~~ I stand corrected. She really ended up just as I imagined.]
+[Ahh\~\~ I stand corrected. She really ended up just as I imagined.]
 
 [Fufufu.]
 
@@ -253,8 +253,8 @@ she takes a bite of the skewer in my hand. No, I knew it would be inevitable
 when I gave her a bite of my skewer, but her face came closer than I had
 expected, so my heart couldn’t help skipping a beat.
 
-[Thanks~~ Unnn, this is delicious too! If you want, how about tasting my seafood
-skewer too?]
+[Thanks\~\~ Unnn, this is delicious too! If you want, how about tasting my
+seafood skewer too?]
 
 [Eh? Ah, yes. I’ll have some.]
 
@@ -478,7 +478,7 @@ almost bumped into someone.
 
 [...Ahh, sorry.]
 
-[No~~ I’m also sorryyyyyy.]
+[No\~\~ I’m also sorryyyyyy.]
 
 It isn’t that she bumped into her. She would just pass the “petite woman in a
 maid’s uniform” with only a brief exchange of words, and they would go on their

@@ -29,7 +29,7 @@ something unexpected with a cute smile on her face.
 [Ehh? No, no?! I still haven’t... Wait, why are you grabbing my arm?! Also,
 what’s with that magic circle?!]
 
-[Then, let’s go~~]
+[Then, let’s go\~\~]
 
 [Whaa?!]
 
@@ -157,7 +157,7 @@ have an idea.]
 the Hydra Kingdom, the country you’re in charge of, and personally attend the
 meeting.]
 
-[Eeehhhh~~ No way. Why should I bother doing that...]
+[Eeehhhh\~\~ No way. Why should I bother doing that...]
 
 Chronois nonchalantly said that while her eyes stare at Fate, but of course,
 Fate doesn’t follow her and voices out her displeasure. However, Chronois looks
@@ -218,8 +218,8 @@ extent.
 so I guess that’s fine... But don’t expect me to say anything in that meeting,
 okay?]
 
-[Ahh~~ That’s okay. The meeting will be done by me and “my subordinates”, so
-Kai-chan can go randomly sightseeing during that time~~]
+[Ahh\~\~ That’s okay. The meeting will be done by me and “my subordinates”, so
+Kai-chan can go randomly sightseeing during that time\~\~]
 
 [I-I understand.]
 
@@ -251,7 +251,7 @@ Fate-san was looking at me with her arms outstretched.
 
 [...Errr, what is it?]
 
-[Kai-chan, carry meee~~]
+[Kai-chan, carry meee\~\~]
 
 [...Huh?]
 
@@ -267,15 +267,15 @@ Seriously, what the heck is she saying?
 
 [Where is that flying cushion you usually have?]
 
-[Well~~ I thought this situation would happen, so I le—I forgot about it!]
+[Well\~\~ I thought this situation would happen, so I le—I forgot about it!]
 
 Just now, didn’t she just completely say that she left it behind? Did you do
 that on purpose? Hey, did you do that on purpose?
 
 [...How about we just get going already?]
 
-[Don’t wanna~~! Carry me, give me a piggybaaaaack! Kai-chan, you won’t leave me
-behind, right? You wouldn’t leave this frail me behind, right?!]
+[Don’t wanna\~\~! Carry me, give me a piggybaaaaack! Kai-chan, you won’t leave
+me behind, right? You wouldn’t leave this frail me behind, right?!]
 
 [.............]
 
@@ -301,7 +301,7 @@ disproportionately large for her height, are pressed against my back.
 
 [L-L-L-Let’s go!]
 
-[Yaaayyyy~~]
+[Yaaayyyy\~\~]
 
 The soft feeling behind me made my heart pound, but I stood up and started
 walking towards the temple, pretending to be as calm as possible. Fate-san seems
@@ -309,8 +309,8 @@ to have shifted into her full slacker mode though, as she was sticking her body
 closer to me than I expected... Or rather, with her chin on my shoulder, she’s
 lazily sticking on my body just like melted cheese.
 
-[Fuaahh~~ Kai-chan’s back feels warm~~ It feels really good here~~ I’ll just go
-live here. I’ll go spend all my life on Kai-chan’s back~~]
+[Fuaahh\~\~ Kai-chan’s back feels warm\~\~ It feels really good here\~\~ I’ll
+just go live here. I’ll go spend all my life on Kai-chan’s back\~\~]
 
 [Please don’t do that.]
 
@@ -330,7 +330,7 @@ rather petite woman, around 150 cm, with long white sidelocks that are longer
 than the rest of her hair... She’s wearing a black robe over her dark green
 sailor uniform... Why is she wearing a sailor uniform?
 
-[Thank you for the wait~~]
+[Thank you for the wait\~\~]
 
 [No, thank you for gracing us with your presence, God of Fate-sama.]
 
@@ -426,7 +426,7 @@ at me.
 [...Eh?]
 
 [How many times do you think God of Fate-sama had forced her work on me, saying
-“I’m going to go visit Kai-chan~~” It’s all your faaaauuuullllttttt!!!]
+“I’m going to go visit Kai-chan\~\~” It’s all your faaaauuuullllttttt!!!]
 
 [.........]
 
@@ -541,7 +541,7 @@ I’m not praising you! You airhead goddess!!!
 Looking at the chaotic situation in front of me while quickly slapping a
 tsukkomi towards the voice that echoed in my brain.
 
-[Ahh~~ I’m so tired~~ I don’t want to walk a single step more~~]
+[Ahh\~\~ I’m so tired\~\~ I don’t want to walk a single step more\~\~]
 
 [...I want... to go home.]
 
@@ -578,7 +578,7 @@ place I’m staying at today... Eh? I mean, they’ve already decided to stay in
 place that I don’t know about? W-Well, I’d certainly like to have a tour around
 the Hydra Kingdom... so it should be fine.
 
-[Well then~~ I’m looking forward to our date after the preparatory meeting,
+[Well then\~\~ I’m looking forward to our date after the preparatory meeting,
 okay?!]
 
 [...Errr... Ah, yes.]
@@ -650,8 +650,8 @@ thinking about having something to eat while sightseeing, when I heard a
 familiar voice. When I looked back at the direction of the voice, there was a...
 blue... blue... fish... stuffed animal.
 
-[They’re freshly fresh~~ Freshest of all fresh~~! They’re all fishes fresh from
-the net!!!]
+[They’re freshly fresh\~\~ Freshest of all fresh\~\~! They’re all fishes fresh
+from the net!!!]
 
 [.........]
 
@@ -679,7 +679,7 @@ attacked by two idiots... What a terrifying formation, they have.
 
 [...I’ll repeat it again. What the heck are you doing here?]
 
-[Well~~ You see, just the general store won’t feed my gam... my stomach, so I
+[Well\~\~ You see, just the general store won’t feed my gam... my stomach, so I
 was having my clones take a second job too...]
 
 [...You said gambling just now, didn’t you?]
@@ -759,12 +759,12 @@ were teasing me, you know?! I never thought that you really would...]
 
 [I-I’m really sorry!]
 
-[...Anyway, anyway, I’m such a convenient woman for Kaito-san after all~~]
+[...Anyway, anyway, I’m such a convenient woman for Kaito-san after all\~\~]
 
 [N-No, I’m not thinking that way at all...]
 
-[It’s just Alice, so it can’t be helped~~ I can feel at ease since it’s just
-Alice~~]
+[It’s just Alice, so it can’t be helped\~\~ I can feel at ease since it’s just
+Alice\~\~]
 
 T-This is bad, she’s completely sulking. No, it was my fault in the first place,
 so it was obvious that she’d get angry but... W-What should I do? I-Is there
@@ -939,7 +939,7 @@ Gods staying in the Hydra Kingdom. Where’s the draft?]
 
 ---
 
-[Omnomnom... Pfuaahhh~~ That was quite sumptuous!]
+[Omnomnom... Pfuaahhh\~\~ That was quite sumptuous!]
 
 [T-That’s great then.]
 
@@ -952,7 +952,7 @@ W-Well, we’re talking about Alice here, so I guess it can’t be helped?
 [W-Well, anyway, with this... I guess we’ll go on a date right after we get back
 to the Symphonia Kingdom?]
 
-[Okey-dokey~~! Well~~ It’s been a long time since I ate lots of food~~
+[Okey-dokey\~\~! Well\~\~ It’s been a long time since I ate lots of food\~\~
 Alice-chan is satisfied.]
 
 [I-I see...&#160; Wait, oi, oi, Alice.]
@@ -1502,7 +1502,7 @@ that it’s evening already. What should I have for dinner? As I was sitting on
 the sofa in the large room thinking about what to do... I heard a knock on the
 door.
 
-[I’m coming~~]
+[I’m coming\~\~]
 
 Hearing the knock, I walk towards the door. It seems that this inn is currently
 reserved, so the only people who should be visiting me are the inn’s employees
@@ -1520,8 +1520,8 @@ she rushed in like that, the pit of my stomach received a critical hit from
 Fate-san’s head strike. As if all the air in my lungs were pushed out from the
 impact, I felt like I would faint from agony.
 
-[Kai-chan! I’m really tiiiirreeeddd! I did lots of woooorrrkkk! Heal me~~ Pamper
-me~~]
+[Kai-chan! I’m really tiiiirreeeddd! I did lots of woooorrrkkk! Heal me\~\~
+Pamper me\~\~]
 
 [Cough, cough, F-Fate-san... Wait, step away for a bit...]
 
@@ -1562,7 +1562,7 @@ usual, as she isn’t forcibly trying to do dangerous deeds like usual...
 
 [...Errr, you did great on your work today.]
 
-[Really~~ Why in the world do works exist... No way~~ I still have to work
+[Really\~\~ Why in the world do works exist... No way\~\~ I still have to work
 tomorrow. I hope tomorrow never comes.]
 
 She’s speaking like a student on the last day of summer vacation, but in case
@@ -1631,7 +1631,7 @@ even the God of Time and Space or God of Life can resist my power.]
 [I’ve shown them to you once before, haven’t I? When I seriously use my
 abilities, my eyes change to the same color as Shallow Vernal-sama’s. Or rather,
 this is the original color of my eyes, and I usually just suppress my power
-because it’s too powerful~~]
+because it’s too powerful\~\~]
 
 When Fate-san said that with a chuckle, her eyes, which had changed to the same
 golden color as Shiro-san’s, returned to their original reddish-purple color.
@@ -1647,9 +1647,9 @@ Kai-chan.]
 
 [...That’s because of Shiro-san’s blessing, right?]
 
-[Right. That’s why I was so happy~~ when I first found Kai-chan... I felt really
-excited at that time. It’s the first time I’ve met someone who can be my “soul
-friend” since I met Shall-tan.]
+[Right. That’s why I was so happy\~\~ when I first found Kai-chan... I felt
+really excited at that time. It’s the first time I’ve met someone who can be my
+“soul friend” since I met Shall-tan.]
 
 [............]
 
@@ -1677,7 +1677,7 @@ I just told her my honest opinion.
 [Yes, I certainly thought that Fate-san is a troublesome person, but I’ve never
 once disliked or felt displeased by you.]
 
-[Ahaha, I see~~]
+[Ahaha, I see\~\~]
 
 After hearing my words, Fate-san smiled somewhat happily before tightening her
 hold on to my arm.
@@ -1687,7 +1687,7 @@ someone like me be a “target of your lust”?]
 
 [Bfuuhh?! W-What are you...]
 
-[It’s fine, isn’t it? Tell me~~]
+[It’s fine, isn’t it? Tell me\~\~]
 
 It seems like she has returned to her usual tension, as Fate-san asked me
 something outrageous in a relaxed voice that sounds as if she was having fun.
@@ -1697,7 +1697,7 @@ up, and spoke.
 
 [...I think... you are...]
 
-[Fufufu, is that so~~ I see~~]
+[Fufufu, is that so\~\~ I see\~\~]
 
 Somehow, I felt like the flow was turning into a dangerous direction. Especially
 since we’re in a really bad position... My escape route is blocked. If she comes
@@ -1705,12 +1705,12 @@ at me just like she usually does in this situation, I may not be able to escape.
 As my body stiffened while thinking about it, Fate-san, perhaps sensing my
 thoughts, turned only her face towards me and gave me an innocent smile.
 
-[You don’t have to put your guard up, I won’t be doing anything else today~~]
+[You don’t have to put your guard up, I won’t be doing anything else today\~\~]
 
 [Eh?]
 
-[I’m plenty satisfied for today. Ahh~~ Kai-chan feels so warm~~ It feels much
-more comfortable against your body compared to my cushion.]
+[I’m plenty satisfied for today. Ahh\~\~ Kai-chan feels so warm\~\~ It feels
+much more comfortable against your body compared to my cushion.]
 
 [...E-Errr...]
 
@@ -1723,7 +1723,7 @@ to fall asleep like that.
 
 [Eh? What is it?]
 
-[Kai-chan is really interesting~~]
+[Kai-chan is really interesting\~\~]
 
 [...Unnn?]
 

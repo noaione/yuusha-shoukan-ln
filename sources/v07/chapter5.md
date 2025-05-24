@@ -160,7 +160,7 @@ confused me, Funf-san looked shocked.
 She was feeling nervous? Does Funf-san have a body constitution that makes it so
 that her hair color changes when she gets nervous?
 
-[Ahh~~, let’s see. How do I explain this... Have you ever seen Megiddo-sama’s
+[Ahh\~\~, let’s see. How do I explain this... Have you ever seen Megiddo-sama’s
 mane turn black?]
 
 [Yes.]
@@ -279,7 +279,7 @@ As I thought, she’s really humble, or rather, she has low self-esteem.
 I do find you attractive.]
 
 [Really? Fufu, thanks. Being told that makes me happy. That being the case, I
-wonder if Kaito really is here to invite me to tea~~?]
+wonder if Kaito really is here to invite me to tea\~\~?]
 
 [Uuuu... Errr, ummm, if Funf-san isn’t so busy, I’d certainly like to invite
 you.]
@@ -751,7 +751,7 @@ combat experience.]
 the family...]
 
 [O-Oldest... Kaito, I’m a woman, you know? Being told I’m old like that, you
-hurt my feelings~~]
+hurt my feelings\~\~]
 
 [Ah, n-no! I’m sorry! I didn’t mean it like that!]
 

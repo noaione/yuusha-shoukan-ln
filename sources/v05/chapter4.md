@@ -58,8 +58,8 @@ I was quite surprised but... Well, I’m sure most of her money is gone again
 anyway, and she’s helped me with all sorts of stuff and I asked for her help
 just now... I guess treating her is fine.
 
-[...Even so, there are yakiniku restaurants in this world huh~~ I guess this was
-also passed down by one of the people who held the role of Hero back then?]
+[...Even so, there are yakiniku restaurants in this world huh\~\~ I guess this
+was also passed down by one of the people who held the role of Hero back then?]
 
 [Yes, they were partly why these restaurants exist. Of course, the culture of
 eating grilled meat already existed in this world, but thanks to the
@@ -255,7 +255,7 @@ I’m not going to ask anymore.
 [Speaking of which, I think it’s already quite late... but I thought you wanted
 to talk to me about something.]
 
-[...Ahh~~ you’re right. What should I do? Hmmm.]
+[...Ahh\~\~ you’re right. What should I do? Hmmm.]
 
 I ask, remembering why we went here in the first place, but Alice crosses her
 arms and looks as if she’s finding difficulty to think of how to say something.
@@ -296,8 +296,8 @@ where the earlier Alice went to earlier, I let out a big sigh.
 
 [...Why is an idiot like this one of the Six Kings?]
 
-[Oiiiii~~, Kaito-san? You spoke out your inner thoughts out loud, you know? It’s
-all wide and fully opened, spoken with your ikemen voice, you know?!]
+[Oiiiii\~\~, Kaito-san? You spoke out your inner thoughts out loud, you know?
+It’s all wide and fully opened, spoken with your ikemen voice, you know?!]
 
 She’s boisterous and irritating... Just like what Chronois-san said. And such a
 person is one of the strongest beings in the world... She’s really quite the
@@ -327,7 +327,7 @@ Life.
 [I have received an extremely important task.]
 
 [Ueeggghhh, stapphhh... I get a fever when I hear words like tasks and duties.
-Ahh~~ trousome.]
+Ahh\~\~ trousome.]
 
 [Stop messing around and get serious! God of Life, you too...]
 
@@ -598,7 +598,7 @@ eyes are focused on me now, you know?! They’re looking at me with eyes that se
 to ask “Who the heck is that guy?”, you know?! When I replied to her while cold
 sweat dripped behind my back, Chronois-san nodded in satisfaction.
 
-[Kai-chan, yaahhoo~~]
+[Kai-chan, yaahhoo\~\~]
 
 [Good morning. Fate-san.]
 

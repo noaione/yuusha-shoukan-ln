@@ -783,8 +783,8 @@ head as she spoke.
 
 [Ah, it's Introduction to Magic.]
 
-[Heeehhh~~ You're trying to learn magic huh. Ah, is that why you wanted to meet
-me?]
+[Heeehhh\~\~ You're trying to learn magic huh. Ah, is that why you wanted to
+meet me?]
 
 [Well, something like that? I've been reading a bit, but there seems to be eight
 different types of magic and I don't know which one to start with...]
@@ -877,7 +877,7 @@ feel like studying it when you want to become a magic tool creator, or use more
 complicated and powerful magic... I'm guessing that for the Humans, they felt
 that a child who could use magic should be equal to someone who can make magic
 tools. And that's why they're making you study the theories accompanied with
-magic~~ That seriousness really is like the Humans.]
+magic\~\~ That seriousness really is like the Humans.]
 
 I see, Kuro's explanation is easy to understand. I think it's also clear that
 humans have a complicated way of thinking.
@@ -998,7 +998,7 @@ However, this year, they have unusually sent an invitation, and the masked demon
 said that the reason was probably due to her visit to the castle the other day
 at the request of the King of Symphonia.
 
-[...I only went there because I happened to be in the neighborhood~~]
+[...I only went there because I happened to be in the neighborhood\~\~]
 
 [Ah, by the way, you went to buy some jam, didn't you? Did you get a good one?]
 
@@ -1011,7 +1011,7 @@ nodded as if he himself was pleased.
 
 [...And so, how should we reply?]
 
-[I'm not interested, so tell them I'm not going~~]
+[I'm not interested, so tell them I'm not going\~\~]
 
 [Hahaha, I should have known.]
 
@@ -1024,13 +1024,13 @@ would be her reply that he just nodded without any questions asked.
 this year?]
 
 [I don't think I'd be interested in the one acting the role of the hero this
-year~~ I've also found my “favorite” child...]
+year\~\~ I've also found my “favorite” child...]
 
 [Oya oya, my my... It seems that Kuromu-sama's extremely lucky to have found
 this person.]
 
 [Yeah, that's right! It has truly been a long time! I felt that spark just at
-first sight~~ I feel like it's fate!]
+first sight\~\~ I feel like it's fate!]
 
 The expression of disinterest on her face just now has changed, Kuromueina now
 have a big smile on her face. As if he likes the person in front of him so much,
@@ -1052,8 +1052,8 @@ surprised. There was only one person that Kuromueina would call by that
 nickname. She's such an existence that she especially calls with a nickname, but
 for the masked demon, she's at least an existence higher than the clouds.
 
-[Just keep it simple~~ If it's Shiro, I think she'd understand even if you just
-say “Please give Kaito-kun your blessings~~”.]
+[Just keep it simple\~\~ If it's Shiro, I think she'd understand even if you
+just say “Please give Kaito-kun your blessings\~\~”.]
 
 [...Understood.]
 
@@ -1063,7 +1063,7 @@ what Kuromueina just said.
 At the same time, Kuromueina, who was lying on a luxurious sofa, vigorously
 sprung up.
 
-[Hah?! I feel like Kaito-kun is calling me! I'm going out for a bit~~]
+[Hah?! I feel like Kaito-kun is calling me! I'm going out for a bit\~\~]
 
 [Eh? Ah, yes. Have a good day...]
 
@@ -1231,8 +1231,8 @@ idiot's misbehaviour will be punished accordingly!!!]
 
 [That's fine, but please put away the sword for now!]
 
-Ahh~~ I guess that's what happened. Lilia-san was supposed to have arranged for
-the three of us to go to the evening party, but the Siscon King, who doesn't
+Ahh\~\~ I guess that's what happened. Lilia-san was supposed to have arranged
+for the three of us to go to the evening party, but the Siscon King, who doesn't
 like men approaching Lilia-san in the first place, only prepared invitations for
 Kusunoki-san and Yuzuki-san, but not for me. In the first place, he probably
 doesn't like the fact that I, being a man, am living in Lilia-san's mansion.
@@ -1261,7 +1261,7 @@ thinking about us seriously. I'm really lucky and grateful that the first person
 I met when I came to the other world was Lilia-san. If possible, I'd like to
 repay her in some way...
 
-[Ah, welcome back~~]
+[Ah, welcome back\~\~]
 
 [.........]
 
@@ -1321,7 +1321,7 @@ she have come up with this time.
 [...Huh?]
 
 [You see, since you didn't like those stiff events, let's do it with just us and
-my family~~ There's a nice scenic spot south of the kingdom, so let's have
+my family\~\~ There's a nice scenic spot south of the kingdom, so let's have
 barbecue there!]
 
 [...Fumu.]
@@ -1347,8 +1347,8 @@ expected, it would be difficult for me to go without explaining to her.
 Lilia-san is really anxious about our circumstances, and I don't want to sneak
 out because I'm feeling guilty, hiding Kuro from her.
 
-[Ah, it will be alright~~ I'll go ask an acquaintance to extend a normal dinner
-invitation to you.]
+[Ah, it will be alright\~\~ I'll go ask an acquaintance to extend a normal
+dinner invitation to you.]
 
 [Would Lilia-san agree to that?]
 
@@ -1433,8 +1433,8 @@ you. I will have the person who will pick you up this evening to visit Duchess
 Albert's residence and I would appreciate it if you would let me know at that
 time if you will not participate. In addition, I have a message for Miyama
 Kaito-sama from a friend of mine, and I will include it in the letter—Kaito-kun,
-I'll be waiting, okay~~?—is what she said. Again, my apologies for the delay in
-getting in touch with you. I would appreciate your consideration.—Sei
+I'll be waiting, okay\~\~?—is what she said. Again, my apologies for the delay
+in getting in touch with you. I would appreciate your consideration.—Sei
 Riverstar”...]
 
 [........]
@@ -1505,7 +1505,7 @@ common, a letter appeared in the air.
 
 We're having barbecue, so I brought some comfortable clothes for you to wear~
 You won't be able to see the inside of the carriage from the outside, so you can
-change your clothes there~~”
+change your clothes there\~\~”
 
 Ah, I see... It was called a dinner party, so I came out in formal wear, but I'm
 pretty sure Kuro said we're having barbecue right from the start. In that case,
@@ -1537,7 +1537,7 @@ and looked in the direction he pointed at... The open area on the river's edge
 where we would have barbecue was immediately in sight, so I made my way towards
 there.
 
-[Ah, Kaito-kuuuuun~. Over here~~!]
+[Ah, Kaito-kuuuuun~. Over here\~\~!]
 
 After walking for a bit, in front of me... was Kuro in her black coat she's
 usually wearing, widely waving her hand at me.
@@ -1545,13 +1545,13 @@ usually wearing, widely waving her hand at me.
 A petite woman in a maid's uniform, about 150cm in height, standing next to
 Kuro. She deeply bowed as I approached.
 
-[Let's have lots of fun today~~]
+[Let's have lots of fun today\~\~]
 
 [Y-Yeah... Or rather, you sent me an outrageous invitation... Thanks to that,
 the people on my side have been really nervous.]
 
 [Ahaha, sorry, sorry. But, it's alright. As I said yesterday, I'm only inviting
-my family here today, so you can relax~~. Ah, let me introduce you. This child
+my family here today, so you can relax\~\~. Ah, let me introduce you. This child
 here is Ein.]
 
 [It's a pleasure to meet you, Miyama Kaito-sama. My name is Ein.]
@@ -1566,7 +1566,7 @@ her or she has a very relaxed atmosphere around her? She's supposed to be
 looking like Lunamaria-san, who's the same maid as her, but there's something
 different about Ein-san's vibe.
 
-[Now then, since Kaito-kun's here... Ein~~ Start preparing.]
+[Now then, since Kaito-kun's here... Ein\~\~ Start preparing.]
 
 [Understood.]
 
@@ -1597,7 +1597,7 @@ dragon?
 
 [Kuromu-sama, would three flying dragons be enough?]
 
-[Unnn. I think that should be enough~~]
+[Unnn. I think that should be enough\~\~]
 
 [?!]
 
@@ -1612,7 +1612,7 @@ us.
 
 [Kuromu-sama~ I brought the vegetables~.]
 
-[Thanks~~]
+[Thanks\~\~]
 
 [?!?!]
 
@@ -1646,12 +1646,12 @@ as her. This barbecue had turned into an assortment of various races.
 Well, I'm relieved that the condiments they have brought were those that I knew
 like salt and pepper.
 
-[Ein~~ We have all the participants today, right?]
+[Ein\~\~ We have all the participants today, right?]
 
 [Yes. Kuromu-sama said that Miyama-sama shouldn't be dwarfed by the presence of
 the other participants, so I've limited the participants to 5 people.]
 
-[Right. Well then, I'll leave the cooking to Ein~~]
+[Right. Well then, I'll leave the cooking to Ein\~\~]
 
 [Understood.]
 
@@ -1661,7 +1661,7 @@ A conversation between Kuro and the maid—Ein-san. If you were to just look at
 the two of them, they would only be the normal ones in this place. Or rather,
 the other members are just too scary! Especially the giants!
 
-[Acht-kun, please change into your human form~~. You're scaring Kaitokun-san,
+[Acht-kun, please change into your human form\~\~. You're scaring Kaitokun-san,
 you know~?]
 
 [Eh? Me? I think Lord Sechs is scarier to look at than me though...]
@@ -1877,7 +1877,7 @@ Maid-san is amazing... No, could I even call her a maid at this point?
 [Then, everyone has their drinks, so let's get started! This time is to welcome
 Kaito-kun's arrival from another world and of course, I may have talked to him
 about various things too, but I'm glad that Kaito-kun and everyone else are
-getting along with each other. Let's just relax and have fun~~!]
+getting along with each other. Let's just relax and have fun\~\~!]
 
 When Kuro speaks with the usual smile on her face, I felt my heart warm up a
 bit. In fact, after coming here, I have the impression that everyone, including
@@ -2361,7 +2361,7 @@ probably sensed this too as they haven't approached us.
 
 [Are you talking about Wabi-sabi...?][^wabisabi]
 
-[Arehh? Too bad, I was so close to the right one huh~~]
+[Arehh? Too bad, I was so close to the right one huh\~\~]
 
 Well, I feel like laying out your tatami on the river's edge doesn't seem quite
 right, but it's already too late to say that now.
@@ -2417,7 +2417,7 @@ company, so it's possible that she could do these things if she wanted to. Hmmm,
 how should I say this, I once again realized how amazing Kuro is. Is it better
 if I use honorifics when talking to her?
 
-[...Mhmm, I won't like it if you stop talking like usual~~.]
+[...Mhmm, I won't like it if you stop talking like usual\~\~.]
 
 [...Roger that.]
 
@@ -2592,7 +2592,7 @@ Apparently, this thing is called a Magic Box. Probably sensing my lack of
 understanding, Raz-san added some additional explanation.
 
 [The amount of stuff that can be put into the Magic Box depends on the magic
-power of the creator~~]
+power of the creator\~\~]
 
 [Is that so?]
 
@@ -2860,7 +2860,7 @@ think my partner would want to meet Kaito as well, so that would be perfect.]
 
 [Ahaha, you have to at least try to look human though, Acht.]
 
-[Raz is also coming~~]
+[Raz is also coming\~\~]
 
 [Yes. By all means.]
 

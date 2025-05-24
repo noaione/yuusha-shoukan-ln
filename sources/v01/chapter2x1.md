@@ -179,7 +179,7 @@ there has never been a wall in my heart right from the start.
 
 And then, as if it were natural, she reached out her hand to the crouching me.
 
-———Mhmm, I won't like it if you stop talking like usual~~.
+———Mhmm, I won't like it if you stop talking like usual\~\~.
 
 Being pushed around sometimes like a friend do...
 

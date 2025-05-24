@@ -45,8 +45,8 @@ When I astoundedly asked, Alice quickly moved her gaze away.
 
 [Only two days had passed since then, so how did you become broke?]
 
-[W-Well~~ That’s strange, isn’t it? Before I knew it, all my money disappeared.
-Could it be... a thief snuck in?!]
+[W-Well\~\~ That’s strange, isn’t it? Before I knew it, all my money
+disappeared. Could it be... a thief snuck in?!]
 
 [I see... So, did you feel like you had a good chance of winning this time?]
 
@@ -136,7 +136,7 @@ small. It seems that the better-performing ones are around this size. While I’
 looking at the Teleportation Magic Tool with interest, she reaches out to me
 while touching the Teleportation Magic Tool.
 
-[I’m going to touch you for a moment~~ We can’t transfer at the same time if
+[I’m going to touch you for a moment\~\~ We can’t transfer at the same time if
 we’re not in contact with each other.]
 
 [Ahhh, so... In the end, where are we going?]
@@ -145,7 +145,7 @@ we’re not in contact with each other.]
 
 [...Huh?]
 
-[Let’s go~~]
+[Let’s go\~\~]
 
 [Wait?! Stop?!]
 
@@ -206,7 +206,7 @@ next to me.
 are many Dwarves here in the Archlesia Empire. Incidentally, the “Hydra Kingdom”
 to the south has lots of Mermaids because they’re a country near the sea.]
 
-[Heeehhhh~~ Different countries have different characteristics huh.]
+[Heeehhhh\~\~ Different countries have different characteristics huh.]
 
 [Yes, since we’re on the topic, do you want me to explain them to you?]
 
@@ -315,7 +315,7 @@ characteristics of the three countries.]
 
 [Unnn, thanks. I’ve learned a lot.]
 
-[No, no~~ Ahh, just at the right moment, we’ve finally arrived!]
+[No, no\~\~ Ahh, just at the right moment, we’ve finally arrived!]
 
 As soon as Alice finishes her story, we finally arrived at the restaurant we’re
 heading for... Unnn? What in the world is with this large building? This doesn’t
@@ -401,7 +401,7 @@ Paying for our entrance fees, Alice and I entered this Monster Race place.
 From what I’ve heard, it’s just like horse racing back on Earth, but the details
 may be different in many ways.
 
-[Even so, that’s a terrific crowd they have here~~]
+[Even so, that’s a terrific crowd they have here\~\~]
 
 [Wham, omnom... Fuehh?]
 
@@ -576,7 +576,7 @@ Tyrant Turtle, you know, a slow turtle?!]
 
 [...No, I’m not really sure who to bet on, so I just randomly bet on someone.]
 
-[Moreover, you bet 500R... Ahaha, isn’t that quite a waste~~?]
+[Moreover, you bet 500R... Ahaha, isn’t that quite a waste\~\~?]
 
 Seeing the ticket I had bought, Alice laughed her head off. It seems that the
 Tyrant Turtle I bought was the least popular by far. Unnn, I thought that even
@@ -770,7 +770,7 @@ in their first race but...]
 [I think it’s looking over here.]
 
 [Behemoths are extremely temperamental and aggressive, so maybe it’s thinking
-that Kaito-san is its prey~~]
+that Kaito-san is its prey\~\~]
 
 [Don’t say frightening things...]
 
@@ -965,7 +965,7 @@ Behemoth were “red”.]
 
 [Red horns? No, but that Behemoth’s horns are black though?]
 
-[That’s right~~ That’s why, if it’s really what I think...]
+[That’s right\~\~ That’s why, if it’s really what I think...]
 
 “Now, the main race has finally started!”
 
@@ -1116,7 +1116,7 @@ has a smile on his face. Come to think of it, I’ve heard that horse races and
 the like are structured to make the bookmaker profitable no matter what, so I
 wonder, was it the same case for the monster race too?
 
-[Excuse me~~. More sweets please—Gyaaahhh?!]
+[Excuse me\~\~. More sweets please—Gyaaahhh?!]
 
 [Can’t you just be reserved for even a bit...]
 
@@ -1553,8 +1553,8 @@ eyes. However, Alice didn’t seem to mind them, as she took out a small knife o
 of thin air and put it on the table, moving it around as if she was playing with
 it.
 
-[Well, each person’s sense of value is different, you know~~? I have a habit of
-putting a value on others in my head... As for His Majesty, the Emperor, you
+[Well, each person’s sense of value is different, you know\~\~? I have a habit
+of putting a value on others in my head... As for His Majesty, the Emperor, you
 would just be one of the freebies I would give out, so around “one copper coin”,
 I guess?]
 
@@ -1582,7 +1582,7 @@ were stunned, speechless about what they heard.
 [They will do everything for their country. If it’s for the sake of their
 country and their people, no matter how much dishonor it brings to them, they
 will bow down to just anyone. Just like a tool for the betterment of their
-country... What a noble thought that is~~, but you’re too boring.]
+country... What a noble thought that is\~\~, but you’re too boring.]
 
 [...Boring?]
 
@@ -1603,9 +1603,9 @@ things, but she’s obviously too different from the usual.
 However, Alice doesn’t seem to be bothered by my shout, as she proceeds to place
 a third knife on the desk before turning to me.
 
-[Kaito-san is as kind as ever~~ That’s why I like Kaito-san so much, and I want
-to listen to you as much as I can... Unfortunately, I can’t do that this time...
-Right~~?!]
+[Kaito-san is as kind as ever\~\~ That’s why I like Kaito-san so much, and I
+want to listen to you as much as I can... Unfortunately, I can’t do that this
+time... Right\~\~?!]
 
 [?!]
 
@@ -1654,7 +1654,7 @@ apparently tied to the knives she threw, as the knives on the ceiling and one of
 the knives on the walls quickly returned to Alice’s hand... but the other one
 stuck in the wall didn’t come back, as if it was stuck deep.
 
-[Arehh? I think I may have used a little bit more force~~ What a failure, this
+[Arehh? I think I may have used a little bit more force\~\~ What a failure, this
 is.]
 
 Seeing that she couldn’t pull it off, Alice scratched her head with a wry smile
@@ -1691,8 +1691,8 @@ now, you know?]
 With a voice lower than usual... Alice, who said those words that even gave me
 chills, glanced at me.
 
-[...I normally rarely do this~~ Only when the remuneration is good and I’m in a
-good mood. The job of guarding a person, I mean...]
+[...I normally rarely do this\~\~ Only when the remuneration is good and I’m in
+a good mood. The job of guarding a person, I mean...]
 
 With a cold voice and her grip still on the sword, Alice slowly moved her gaze
 to Chris-san and the surrounding knights.
@@ -1713,7 +1713,7 @@ It was frightening how she naturally said that uncomfortable line. Those cold
 words tells me the obvious, as if she has taken a number of lives until now...
 The sound disappears from the surroundings and silence dominates the room.
 
-[Or something like that~~!]
+[Or something like that\~\~!]
 
 In the cold silence, Alice sounds like she lost interest and lowers the sword
 she was holding up. Then, after putting away that sword somewhere... probably in
@@ -1784,7 +1784,7 @@ have every right to eat this dinner!]
 
 [...Huh? W-What the heck are you...]
 
-[Like I said~~ I went along with “His Majesty, the Emperor’s farce”, and moved
+[Like I said\~\~ I went along with “His Majesty, the Emperor’s farce”, and moved
 along with what he wanted...]
 
 [Eh?]
@@ -1900,7 +1900,7 @@ for his country.]
 ways to convince the fools around me... Thanks to Alice-sama’s work earlier, I
 think I’ll be able to easily hold them down. Once again, thank you.]
 
-[Ahh~~ yes, yes.]
+[Ahh\~\~ yes, yes.]
 
 [..........]
 
@@ -1956,7 +1956,7 @@ there’s some information I need you to hear. Please come to my room later.]
 After quietly saying that, he began heading for the door again. And when
 Chris-san reached the door, Alice opened her mouth.
 
-[Ahh~~ His Majesty, the Emperor, do you have a moment?]
+[Ahh\~\~ His Majesty, the Emperor, do you have a moment?]
 
 [What is it, Alice-sama?]
 
@@ -2695,7 +2695,7 @@ abilities. Hearing my words though, Alice just gave me a teasing smile, before
 scampering towards a food stall. The fact that she’s moving at a speed that I
 can see means that she’s properly holding herself back.
 
-[I’m not an idiot who waits just because she gets told to~~]
+[I’m not an idiot who waits just because she gets told to\~\~]
 
 [Ahh, the restaurant over there looked like they’re selling tasty stuff.]
 

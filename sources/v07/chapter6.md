@@ -14,7 +14,7 @@ going out for a while.]
 
 [Eh? Ahh, I guess you really have those kinds of meetings huh.]
 
-[Ahh~~ no, we don’t have regular meetings... It’s just that we were sometimes
+[Ahh\~\~ no, we don’t have regular meetings... It’s just that we were sometimes
 called to a meeting. As expected, there’s no way I could just have my clone
 attend for me, so I’m going to attend with my main body.]
 
@@ -55,7 +55,7 @@ time. I was curious about who would be guarding me, so I asked her, but Alice
 somewhat happily replied that it was a secret.
 
 [Well, you just have to look forward to when you find out... Well then, I’ll be
-off~~]
+off\~\~]
 
 [Ahh, Alice! Wait a moment!]
 
@@ -68,7 +68,7 @@ some pastries from my magic box and gave it to her.
 
 [You probably aren’t eating properly again anyway...]
 
-[Kaito-san... Kuhhh~~~ As expected, even if you say all those stuff, you’re
+[Kaito-san... Kuhhh\~\~~ As expected, even if you say all those stuff, you’re
 really a kind person! For you, for you to love me this much—Fugyyaahhh?!]
 
 [Just take them already.]
@@ -506,7 +506,8 @@ people whispering to her.
 [...How should I say this, it certainly is strangely realistic since the other
 party is Kaito-san, isn’t it?]
 
-[Right~~ If it’s about Kaito-senpai, it can’t be helped if you think like that.]
+[Right\~\~ If it’s about Kaito-senpai, it can’t be helped if you think like
+that.]
 
 [...Hey, I have something to talk about with you two later.]
 
@@ -1138,7 +1139,7 @@ better at protecting me... How should I say this, that’s a strangely difficult
 topic they’re talking about.
 
 [...Well, honestly speaking, with me by Kaito-san’s side, I’m enough in terms of
-offense and defense, so there isn’t any problem~~]
+offense and defense, so there isn’t any problem\~\~]
 
 [...Rather than that, why are you just nonchalantly eating my cookies there?]
 

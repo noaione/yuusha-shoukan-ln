@@ -21,7 +21,7 @@ doesn’t get any customers...
 With this in mind, I arrived at the general store and opened the door... and
 found someone unexpected in there.
 
-[Unnn? Arehh? If it isn’t Kai-chan. Yahooo~~]
+[Unnn? Arehh? If it isn’t Kai-chan. Yahooo\~\~]
 
 [Fate-san?]
 
@@ -176,7 +176,7 @@ absolute God of the world, Shallow Vernal-sama. At the same time, authority is
 also something that the Gods govern. The fact that Gods were referred to as “God
 of 〇〇〇” denotes the authority they govern.]
 
-[Ehhh~~ In that case, how is that any different from magic?]
+[Ehhh\~\~ In that case, how is that any different from magic?]
 
 [Yes, they may be similar, but they’re also very different. The authority allows
 them control over the concept itself, so it’s a higher power than magic.]
@@ -447,7 +447,7 @@ what Raz-san needs my help with.
 
 [...Unnn?]
 
-[Raz is asking you to come and eat parfait with me~~]
+[Raz is asking you to come and eat parfait with me\~\~]
 
 [...Eh?]
 
@@ -515,8 +515,8 @@ eyes... I could no longer choose any option other than affirmation.
 
 [T-Then... Raz and Kaitokun-san are a couple?]
 
-[T-That’s right! Well~~ I was just lost in thought earlier. Raz-san and I are a
-couple!]
+[T-That’s right! Well\~\~ I was just lost in thought earlier. Raz-san and I are
+a couple!]
 
 [Yayyy, I’m happy! Yayyy, yaayyy!]
 
@@ -530,7 +530,7 @@ cursing myself for being so easily swung around, my shoulders slumped down.
 
 [...Yes. Let’s go.]
 
-[Yayyyyy~~! Kaitokun-san, I love you!]
+[Yayyyyy\~\~! Kaitokun-san, I love you!]
 
 Raz-san, whose body was stretched out as much as she can, with her arms reaching
 out above her, and was flapping around on her little wings, was so murderously
@@ -589,7 +589,8 @@ to our seats, she accepted my order easily and without questions. Since
 Raz-san’s size is also like that, I also decided to ask her to bring us a
 teaspoon that is used for black tea while I’m at it.
 
-[I’m looking forward to it~~ Is it ready yet~~? Would they bring it sooner now?]
+[I’m looking forward to it\~\~ Is it ready yet\~\~? Would they bring it sooner
+now?]
 
 [Raz-san... We just ordered it.]
 
@@ -611,7 +612,8 @@ prediction seems to have been correct, as after we chatted for a while, a large
 parfait... the couples-only parfait that was for two people was brought to us.
 It looks like it’s made with lots of fruit and looks bright and delicious.
 
-[Wow~~! I’ve been waiting~~! Kaitokun-san! Kaitokun-san! Let’s eat quickly!!!]
+[Wow\~\~! I’ve been waiting\~\~! Kaitokun-san! Kaitokun-san! Let’s eat
+quickly!!!]
 
 When the parfait appeared, Raz-san’s excitement went through the roof, as she
 stared at the parfait, that was bigger than her own body, with a twinkle in her
@@ -638,7 +640,7 @@ smile, I asked her.
 
 [Yes. This spoon seems to be too big for you.]
 
-[Wow~~ Kaitokun-san is really kind! Thank you!!!]
+[Wow\~\~ Kaitokun-san is really kind! Thank you!!!]
 
 If it’s difficult for Raz-san to eat it herself, then I can just feed her. With
 that in mind, I ask her while holding the spoon in my hand, and after thinking
@@ -653,7 +655,7 @@ When I scooped up the requested portion and put it in front of Raz, she spread
 her mouth open and took a bite of the parfait... Well, she still didn’t eat half
 of that spoon though...
 
-[Hnnn~~ It’s delicious!]
+[Hnnn\~\~ It’s delicious!]
 
 [Really? That’s good to hear.]
 
@@ -685,7 +687,7 @@ I’ll get something as a souvenir for her—Unnn?]
 
 [...Arehh?]
 
-[Ah~~! It’s Acht-kun and Eva-san!]
+[Ah\~\~! It’s Acht-kun and Eva-san!]
 
 When Raz-san and I turned to the direction of the voice, there was a large
 blue-skinned man and an equally large woman with wolf ears, and when she saw
@@ -695,7 +697,7 @@ them, Raz-san loudly called out their names.
 
 [Long time no see, Acht, Eva.]
 
-[Long time no see~~ I see, Kaito was brought here by Sis Raz?]
+[Long time no see\~\~ I see, Kaito was brought here by Sis Raz?]
 
 [Yeah, well...]
 
@@ -705,7 +707,7 @@ apologetic look on her face.
 
 [I see, I’m sorry, Sis Raz. My idiot here is quite insensitive.]
 
-[It’s fine~~ Acht-kun and Eva-san are husband and wife, so he’s right to
+[It’s fine\~\~ Acht-kun and Eva-san are husband and wife, so he’s right to
 prioritize you!]
 
 [Thank you for saying that... Kaito too, thanks.]
@@ -805,7 +807,7 @@ at me with a charming smile on her face,
 
 [...Fuzzy?]
 
-[Yes! As warm and gentle as the sun! Raz-san loves the gentle Kaitokun-san~~]
+[Yes! As warm and gentle as the sun! Raz-san loves the gentle Kaitokun-san\~\~]
 
 [Ahaha, thank you.]
 
@@ -827,14 +829,14 @@ home.
 
 [No, no, I’ve also had quite a lot of fun today.]
 
-[Raz had a lot of fun too! Ehehe, we’re the same~~]
+[Raz had a lot of fun too! Ehehe, we’re the same\~\~]
 
 [Ahaha, I guess so.]
 
 Seeing Raz-san looking like she had lots of fun with her arms open wide, I
 smiled back at her and responded.
 
-[Kaitokun-san, let’s go hang out again, okay~~]
+[Kaitokun-san, let’s go hang out again, okay\~\~]
 
 [Yes, with pleasure.]
 
@@ -855,7 +857,7 @@ cheek... Eeehhhh?!
 
 [Wait, R-Raz-san?! What are you...]
 
-[Ehehe, did you know? Being kissed by a fairy will make you happy~~]
+[Ehehe, did you know? Being kissed by a fairy will make you happy\~\~]
 
 [...I-I-I see...]
 
@@ -866,12 +868,12 @@ It seems that I was the only one shaken by what she did, as Raz-san seemed to be
 smiling rather happily. Being kissed by a fairy will make you happy... So to
 speak, is this something like a fairy’s version of Blessings?
 
-[By the way, this is the first time Raz-san did this~~! I also love Kuromu-sama,
-but Kuromu-sama is a woman after all~~]
+[By the way, this is the first time Raz-san did this\~\~! I also love
+Kuromu-sama, but Kuromu-sama is a woman after all\~\~]
 
 [...I-Is that so... However, is it really fine in my case?]
 
-[Of course~~ Kaitokun-san and Raz are a couple. We’re veeeeery close friends!]
+[Of course\~\~ Kaitokun-san and Raz are a couple. We’re veeeeery close friends!]
 
 [I-I see...]
 
@@ -882,12 +884,12 @@ She still seems to be misunderstanding what being a couple means but... Does
 this mean that if I don’t think too much about it, I can just become good
 friends with Raz-san?
 
-[Kaitokun-san! Next time, you come visit Raz’s field~~ Let’s go pick vegetables
-and fruits together!]
+[Kaitokun-san! Next time, you come visit Raz’s field\~\~ Let’s go pick
+vegetables and fruits together!]
 
 [Eh? Ah, yes. Certainly.]
 
-[Yayyy. I’m looking forward to it~~]
+[Yayyy. I’m looking forward to it\~\~]
 
 [.........]
 
@@ -1222,7 +1224,7 @@ I have no problem eating tomatoes. Rather, I can even say this is my favorite.
 Raising a fist up within my heart, I accept the ripe tomatoes from Raz-san.
 
 [Ayaya, seeing you that happy also makes Raz happy. Kaitokun-san likes
-tomato-san huh~~]
+tomato-san huh\~\~]
 
 While rejoicing in the good fortune of having my petty pride protected, I took a
 bite on the tomato I received... which tasted really great. How should I say
@@ -1246,7 +1248,7 @@ it seems that her words were true.
 
 [Yes. Raz-san is an expert at growing vegetables.]
 
-[Yaaaaay! Kaitokun-san complimented me~~!]
+[Yaaaaay! Kaitokun-san complimented me\~\~!]
 
 Seemingly very happy to be praised by me, Raz-san raised her hands and flew
 around me in circles... How should I say this... She’s really cute in every
@@ -1325,8 +1327,8 @@ that looked like the main house. Thereupon, just as Kuro said, seated on the
 porch... was Neun-san, wearing a rough kimono, which seemed to be her casual
 clothing, and was currently eating something.
 
-[Hnn~~ I knew changing the red bean was the right choice instead! This taste,
-it’s splendid. Haahhh~~ Anmitsu really is the best after a hard day’s work. I
+[Hnn\~\~ I knew changing the red bean was the right choice instead! This taste,
+it’s splendid. Haahhh\~\~ Anmitsu really is the best after a hard day’s work. I
 also can’t help but feel uplifted. I feel like I could do anything! Like
 perhaps, saying stuff like... Ehehe, I totes love... anmitsu... Eh?]
 
@@ -1462,7 +1464,7 @@ work is only hindered by the fact that she’s too famous. One can’t call her 
 NEET, nor can anyone call her pathetic. Trying to support her with such thoughts
 in mind, a new visitor arrived right at that moment.
 
-[Neun~~]
+[Neun\~\~]
 
 [...R-Raz-sama?! Ah, ummm, now is...]
 

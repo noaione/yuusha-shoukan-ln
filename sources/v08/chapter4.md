@@ -339,7 +339,7 @@ Memorabilia: A State-of-the-Art Teleportation Magic Tools
 
 —filled up with outrageous stuff.
 
-[...W-What is... t-this... this is... Kyuuuu~~]
+[...W-What is... t-this... this is... Kyuuuu\~\~]
 
 [Milady?!]
 

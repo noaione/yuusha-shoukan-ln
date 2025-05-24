@@ -616,7 +616,7 @@ As I watched Rei-san and Fia-san get beaten up by Siegg-san, Alice, who appeared
 before I knew it, told me that with her usual tone, to which I astoundedly
 replied.
 
-[Well~~ It’s just that I went and blew it a little bit the other day, so I
+[Well\~\~ It’s just that I went and blew it a little bit the other day, so I
 actually only have 1R now—Hah?! Oh no?!]
 
 [...Come here for a bit. We need to talk.]

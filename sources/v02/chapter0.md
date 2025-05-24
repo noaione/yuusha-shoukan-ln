@@ -65,7 +65,7 @@ getting ready for bed.
 Seeing my movements, Kuro also got up from the sofa and started preparing to
 leave.
 
-[Well then, Kaito-kun. Good night, see you tomorrow~~]
+[Well then, Kaito-kun. Good night, see you tomorrow\~\~]
 
 [Yeah, good night. See you tomorrow.]
 
