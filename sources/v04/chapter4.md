@@ -278,7 +278,7 @@ care about it at all.
 
 [Go around? Slip through your guard? Stop speaking stupid things!]
 
-[Huh?! ... Are you an idiot? No matter how much you attack, it’s useless. The
+[Huh?! ...Are you an idiot? No matter how much you attack, it’s useless. The
 strength of my shield is...]
 
 [I don’t care!!!]
@@ -2262,7 +2262,7 @@ magic power blew in the air.
 
 [...Are you looking for a fight, cause I’m buying it. Lillywood.]
 
-“All right. Apparently, just talking to you isn’t enough ... Let’s change
+“All right. Apparently, just talking to you isn’t enough... Let’s change
 places.”
 
 [I’m right behind you!]

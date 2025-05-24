@@ -26,7 +26,7 @@ don’t appear in the main story yet, so leave!]
 passing Alice-chan fan, just your “usual Transcendental Beauty”, “? ? ?”-chan,
 you know?]
 
-The self-proclaimed Alice fan ? ? ? ... Incidentally, it seems that you actually
+The self-proclaimed Alice fan ? ? ? ...Incidentally, it seems that you actually
 read her name as “Hatena-chan”. Moreover, she totally has nothing to do with the
 general store owner, Alice-chan that appears in the main story, and totally just
 a fan. Of course, that was just what she herself proclaims...[^hatenachan]

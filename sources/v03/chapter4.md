@@ -702,9 +702,9 @@ question.
 
 [Ah, no, I'm not joining this year. I'm just here to pick her up.]
 
-[I was actually going to join the guard force ... But he insisted that I join
-for some reason, so I'm joining the harvest competition. I'm just heading back
-for lunch.]
+[I was actually going to join the guard force ...But he insisted that I join for
+some reason, so I'm joining the harvest competition. I'm just heading back for
+lunch.]
 
 [Well, that should be obvious. It wouldn't be much fun without you joining this
 festival, as you're “last year's winner”.]

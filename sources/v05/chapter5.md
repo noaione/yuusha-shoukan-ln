@@ -2381,5 +2381,5 @@ happiness.]
 Letting out a smile filled with happiness, Anima’s beast ears happily twitched.
 As she looked as cute as a spoiled puppy, I continued stroking Anima’s head for
 a while. At first, I was confused with all that stuff being a master and having
-subordinates ... But even after all those stuff, Anima, Eta and Theta... Before
-I knew it, I think all of them—have really become someone important to me.
+subordinates ...But even after all those stuff, Anima, Eta and Theta... Before I
+knew it, I think all of them—have really become someone important to me.

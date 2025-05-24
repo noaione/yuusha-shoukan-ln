@@ -196,7 +196,7 @@ please.
 
 [It's been a while, Death King.]
 
-[...Chronois? ... What are you... doing here?]
+[...Chronois? ...What are you... doing here?]
 
 [I know the homeowner of this place... At any rate, it seems that you had come
 to visit at a reasonable time.]

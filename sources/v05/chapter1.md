@@ -1064,7 +1064,7 @@ up with a little embarrassment, right?! A-Alright...
 
 [...T-Thank you for the food.]
 
-[...Arehh? ... Kaito too... I want...]
+[...Arehh? ...Kaito too... I want...]
 
 [...Ahhnn...]
 
@@ -1405,7 +1405,7 @@ about different premises here?
 
 [Why, you ask... Isn’t that normal?]
 
-[...Eh? ... There are some differences... between men... but a man would
+[...Eh? ...There are some differences... between men... but a man would
 usually... marry around “4 or 5 women” though?]
 
 [...Huh?]
@@ -1435,7 +1435,7 @@ opened my mouth to confirm what she said.
 
 [...In other words, this world practices “polygamy” huh.]
 
-[...Poligami? ... you say... what’s that?]
+[...Poligami? ...you say... what’s that?]
 
 [Ahh, errr...]
 
@@ -1570,7 +1570,7 @@ organize my mind enough to accept her feelings right here and now.
 
 [....Can I say something very selfish?]
 
-[...Eh? ... Unnn.]
+[...Eh? ...Unnn.]
 
 While staring at Isis-san with a serious expression on my face, I gradually
 spoke out my thoughts, that I haven’t even sorted out my own thoughts yet.
