@@ -31,6 +31,7 @@
     "hast-util-to-html": "^9.0.5",
     "hast-util-to-string": "^3.0.1",
     "hastscript": "^9.0.1",
+    "mdast-util-find-and-replace": "^3.0.2",
     "mdast-util-from-markdown": "^2.0.2",
     "mdast-util-frontmatter": "^2.0.1",
     "mdast-util-gfm-footnote": "^2.1.0",

@@ -9,6 +9,7 @@ import { frontmatter } from 'micromark-extension-frontmatter';
 import { fromMarkdown } from 'mdast-util-from-markdown';
 import { frontmatterFromMarkdown } from 'mdast-util-frontmatter';
 import { raw as hastRaw } from 'hast-util-raw';
+import { findAndReplace } from 'mdast-util-find-and-replace';
 
 import { gfmFootnoteFromMarkdown } from 'mdast-util-gfm-footnote';
 import { gfmFootnote } from 'micromark-extension-gfm-footnote';
@@ -18,7 +19,7 @@ import {
   type VolumeMetaSchemaType,
   type VolumeToCType,
 } from './schema';
-import { toHast } from 'mdast-util-to-hast';
+import { toHast, type State } from 'mdast-util-to-hast';
 import { h } from 'hastscript';
 import { toHtml } from 'hast-util-to-html';
 import { defaultSchema, sanitize } from 'hast-util-sanitize';
@@ -32,6 +33,31 @@ export function fromMarkdownToMdast(fileContent: string): MdastRoot {
     extensions: [frontmatter(['yaml']), gfmFootnote()],
     mdastExtensions: [frontmatterFromMarkdown(['yaml']), gfmFootnoteFromMarkdown()],
   });
+
+  // Find and replace some patterns
+  findAndReplace(processed, [
+    [
+      // replace ^^text^^ with <sup>text</sup>
+      /\^[^^]+\^/g,
+      // @ts-expect-error
+      ($0) => {
+        return {
+          type: 'superText',
+          children: [{ type: 'text', value: $0.slice(1, -1) }],
+        };
+      },
+    ],
+    // @ts-expect-error
+    [
+      /%[^%]+%/g,
+      ($1) => {
+        return {
+          type: 'subText',
+          children: [{ type: 'text', value: $1.slice(1, -1) }],
+        };
+      },
+    ],
+  ]);
   return processed;
 }
 
@@ -135,6 +161,15 @@ export function mdastToHast(
             h('span', { style: 'margin-left:1em; margin-right: 1em;' }, ['*']),
           ],
         );
+      },
+      // @ts-expect-error
+      superText: (state: State, node) => {
+        return {
+          type: 'element',
+          tagName: 'sup',
+          properties: {},
+          children: state.all(node),
+        };
       },
     },
   });

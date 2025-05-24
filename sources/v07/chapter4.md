@@ -233,10 +233,11 @@ standing on the stage and slowly spoke.
 Amalie’s birthday. I’m glad to see so many faces, and I’m happy to see the
 strength of the unity of our Symphonia Kingdom once again.]
 
-The majestic and confident tone of voice, and the fact that he uses “I” (余/Yo)
-rather than “I” (私/Watashi) that he often use in private, made me realize once
-again that Ryze-san is a king. Ryze-san then began talking about the country for
-a while, before ending his speech with a small smile on his face.
+The majestic and confident tone of voice, and the fact that he uses “I”
+^(余/Yo)^ rather than “I” ^(私/Watashi)^ that he often use in private, made me
+realize once again that Ryze-san is a king. Ryze-san then began talking about
+the country for a while, before ending his speech with a small smile on his
+face.
 
 [...Well then, hoping that this day will be a good memory for everyone, this is
 where I end my speech.]
