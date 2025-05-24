@@ -31,6 +31,9 @@ See progress at [PROGRESS.md](PROGRESS.md).
 - **Everything elses**: nao (me)
 - **Base EPUB**: HowUnfortunate, taken from cat website.
 
+You can contact me at Discord: `@noaione`<br />
+Please send me a message immediately so it go through my Message Request.
+
 ## Changes from the Original
 - Fixed some stutters (If I managed to catch it)
 - Changed Banginterro (!?) into Interrobang (?!)
