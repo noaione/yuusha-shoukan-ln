@@ -1061,7 +1061,7 @@ Makina, who was about to be crushed by all the emotions in the world, certainly
 heard that voice in her ears. And at the same time, she definitely saw a
 dazzling ray of hope...
 
-———Exceed my limits! And now, weave the world! Hekatonkheires!
+———Exceed my limits! And now, weave the world! _Hekatonkheires_!
 
 By the hand of the Hero, the Artificial God had been destroyed. Unfortunately
 though... that didn’t mean everything went back to how it was before. Indeed,
