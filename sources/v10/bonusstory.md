@@ -2,7 +2,7 @@
 toc: true
 ---
 
-![Bonus Story Cover](../../_Images/v10/SS01-Cover.jpg#.insert)
+![Bonus Story Cover](../../_Images/v10/SS01-Cover.png#.insert)
 
 A land of extreme cold where it snows all year round and everything is frozen.
 In this place, feared by those who live in the Demon Realm as the Land of Death,
