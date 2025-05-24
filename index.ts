@@ -17,7 +17,7 @@ import {
   prettifyXml,
   splitContentAtImage,
 } from './utils/markdown';
-import { Epub } from '@smoores/epub';
+import { Epub, type DcCreator } from '@smoores/epub';
 import {
   autogenColophon,
   autogenAuthorSign,
@@ -42,6 +42,43 @@ if (!(await exists(finalFolder))) {
 function makeFileName(meta: ProjectMetaSchemaType, volumeNumber: number) {
   const paddedNumber = String(volumeNumber).padStart(2, '0');
   return `${meta.title} v${paddedNumber} [${meta.publisher.name}] [${meta.translator.name}] [${meta.compiler.name}].epub`;
+}
+
+function coerceAuthorFileAs(originalName: string) {
+  // Split by spaces
+  const parts = originalName.split(' ');
+  if (parts.length < 2) {
+    return originalName.toUpperCase();
+  }
+
+  // Get the first part and put it as last
+  const firstPart = parts.shift();
+  if (!firstPart) {
+    return originalName.toUpperCase();
+  }
+
+  // Join the rest of the parts
+  const rest = parts.join(' ').toUpperCase();
+  return `${rest}, ${firstPart.toUpperCase()}`;
+}
+
+function metaRoleToEpubRole(role: ProjectMetaSchemaType['teams'][number]['role']) {
+  switch (role) {
+    case 'translator':
+      return 'trl';
+    case 'proofreader':
+      return 'pfr';
+    case 'editor':
+      return 'edt';
+    case 'lettering':
+      return 'ltr';
+    case 'cover':
+      return 'cov';
+    case 'designer':
+      return 'bkd';
+    case 'quality-checker':
+      return 'rev';
+  }
 }
 
 async function processVolume(projectMeta: ProjectMetaSchemaType, volumeNumber: string) {
@@ -73,32 +110,39 @@ async function processVolume(projectMeta: ProjectMetaSchemaType, volumeNumber: s
   locale.textInfo = {
     direction: 'ltr',
   };
+
+  const creators: DcCreator[] = [
+    {
+      name: projectMeta.author.writer,
+      fileAs: coerceAuthorFileAs(projectMeta.author.writer),
+      role: 'aut',
+    },
+  ];
+  if (projectMeta.author.illustrator) {
+    creators.push({
+      name: projectMeta.author.illustrator,
+      fileAs: coerceAuthorFileAs(projectMeta.author.illustrator),
+      role: 'ill',
+    });
+  }
+  creators.push({
+    name: projectMeta.translator.name,
+    fileAs: coerceAuthorFileAs(projectMeta.translator.name),
+    role: 'trl',
+  });
+  projectMeta.teams.forEach((team) => {
+    creators.push({
+      name: team.name,
+      fileAs: coerceAuthorFileAs(team.name),
+      role: metaRoleToEpubRole(team.role),
+    });
+  });
+
   const epub = await Epub.create({
     title: meta.title,
     language: locale,
     identifier: meta.identifier,
-    creators: [
-      {
-        name: 'Toudai',
-        fileAs: 'TOUDAI',
-        role: 'aut',
-      },
-      {
-        name: 'Ochau',
-        fileAs: 'OCHAU',
-        role: 'ill',
-      },
-      {
-        name: 'Foxaholic',
-        fileAs: 'FOXAHOLIC',
-        role: 'trl',
-      },
-      {
-        name: 'LazyCat',
-        fileAs: 'LAZYCAT',
-        role: 'trl',
-      },
-    ],
+    creators,
   });
   console.log(`-- Loaded: ${meta.title}`);
 
@@ -282,7 +326,7 @@ async function processVolume(projectMeta: ProjectMetaSchemaType, volumeNumber: s
         );
         // Append new thing to the end of the file
         if (afterwordFile.type === 'root') {
-          afterwordFile.children.push(autogenAuthorSign());
+          afterwordFile.children.push(autogenAuthorSign(projectMeta.author.writer));
         }
         const html = await prettifyHtml(hastToHtml(afterwordFile, newFilename, 'chapter', toc, meta));
 
@@ -487,7 +531,7 @@ async function processVolume(projectMeta: ProjectMetaSchemaType, volumeNumber: s
   console.log(` --]> Adding metadata`);
   await epub.addMetadata({
     type: 'dc:rights',
-    value: `Copyright © ${meta.year} Toudai`,
+    value: `Copyright © ${meta.year} ${projectMeta.author.writer}`,
     properties: {},
   });
   await epub.addMetadata({

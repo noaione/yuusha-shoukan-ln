@@ -67,7 +67,15 @@ const ProjectMetaSchema = z.strictObject({
   teams: z.array(
     z.strictObject({
       name: z.string(),
-      role: z.enum(['translator', 'proofreader', 'editor', 'lettering', 'designer', 'quality-checker']),
+      role: z.enum([
+        'translator',
+        'proofreader',
+        'editor',
+        'lettering',
+        'cover',
+        'designer',
+        'quality-checker',
+      ]),
     }),
   ),
 });
