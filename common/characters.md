@@ -84,7 +84,7 @@ A Magic Doll.A member of Kuromueina’s camp, in charge of managing the land Kur
 
 #### Baachus
 
-One of the War King’s Five Generals, also known as the “Ironblooded”. A unique species of Demon. He’s a muscular, old heavy warrior who fights with a battle-axe…… or so he looks like, but in fact, he’s the second youngest of the War King’s Five Generals, with Kong younger than him. Eta and Theta’s former superior.
+One of the War King’s Five Generals, also known as the “Ironblooded”. A unique species of Demon. He’s a muscular, old heavy warrior who fights with a battle-axe... or so he looks like, but in fact, he’s the second youngest of the War King’s Five Generals, with Kong younger than him. Eta and Theta’s former superior.
 
 #### Kong
 
