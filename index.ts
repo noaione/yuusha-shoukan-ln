@@ -1,7 +1,7 @@
 import type { Element as HastElement } from 'hast';
 import { basename, dirname, extname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { exists, lstat, mkdir, readdir, readFile } from 'node:fs/promises';
+import { exists, lstat, mkdir, readdir, readFile, writeFile } from 'node:fs/promises';
 import {
   ProjectMetaSchema,
   VolumeMetaSchema,
@@ -670,7 +670,9 @@ async function processVolume(projectMeta: ProjectMetaSchemaType, volumeNumber: s
   // Write the epub file
   const outputName = makeFileName(projectMeta, meta.volume);
   console.log(` --]> Writing EPUB file: ${outputName}`);
-  await epub.writeToFile(join(finalFolder, outputName));
+  const outputPath = join(finalFolder, outputName);
+  const bufferArray = await epub.writeToArray();
+  await writeFile(outputPath, bufferArray);
 }
 
 // Read meta.json file
