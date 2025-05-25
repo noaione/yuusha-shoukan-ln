@@ -2,7 +2,7 @@
 toc: true
 ---
 
-# Extra: Peaceful Sky Ozma Doesn't Tell
+# Intermission: Peaceful Sky Ozma Doesn't Tell
 
 The Capital of the Archlesia Empire.
 
