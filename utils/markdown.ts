@@ -22,7 +22,6 @@ import {
 import { toHast, type State } from 'mdast-util-to-hast';
 import { h } from 'hastscript';
 import { toHtml } from 'hast-util-to-html';
-import { defaultSchema, sanitize } from 'hast-util-sanitize';
 import chapterTemplate from './template/chapter';
 import insertTemplate from './template/insert';
 import { toString } from 'hast-util-to-string';
