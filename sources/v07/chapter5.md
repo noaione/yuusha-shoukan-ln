@@ -422,7 +422,7 @@ heart, Funf-san returned.
 [Thank you for waiting, here’s an iced coffee and some cookies. The cookies come
 in several flavors, so pick out what you like.]
 
-![Insert 4](../../_Images/v07/Insert4.jpg#.insert)
+![Insert 4](../../_Images/v07/Insert4.png#.insert)
 
 [T-Thank you very much. Sorry for having to trouble you.]
 

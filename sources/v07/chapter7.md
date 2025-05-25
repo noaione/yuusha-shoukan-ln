@@ -364,7 +364,7 @@ Hearing my words, Isis-san nodded with some tears in her eyes and returned her
 gaze to the stage with me. The stage, which had begun with Alice’s surprise, had
 the format of switching between two points of views.
 
-![Insert 5](../../_Images/v07/Insert5.jpg#.insert)
+![Insert 5](../../_Images/v07/Insert5.png#.insert)
 
 On one hand, there’s the woman who seeks others and wishes not to be alone, but
 because of her special circumstances, she is rejected by those around her and

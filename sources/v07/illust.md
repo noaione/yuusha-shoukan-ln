@@ -9,4 +9,4 @@ numbering: padzero
 
 ![Illustration 03](../../_Images/v07/Illust03.jpg#.insert)
 
-![Illustration 04](../../_Images/v07/Illust04.jpg#.insert)
+![Illustration 04](../../_Images/v07/Illust04.png#.insert)

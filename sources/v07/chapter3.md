@@ -546,7 +546,7 @@ Dr. Vier intervenes between me and Noir-san, who is hurriedly and
 enthusiastically licking my finger, and easily pulls Noir-san away... Pulling
 her off so easily, I guess Dr. Vier must be pretty strong too...
 
-![Insert 3](../../_Images/v07/Insert3.jpg#.insert)
+![Insert 3](../../_Images/v07/Insert3.png#.insert)
 
 [Noir-san?]
 

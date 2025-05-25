@@ -635,7 +635,7 @@ moment. Hearing what the two of them were saying, my head, which had been so
 flushed, regained a little bit of composure... and after slowly putting my hands
 on Kuro and Isis-san’s shoulders... I strongly embraced them.
 
-![Insert 2](../../_Images/v07/Insert2.jpg#.insert)
+![Insert 2](../../_Images/v07/Insert2.png#.insert)
 
 [Kaito-kun?!]
 

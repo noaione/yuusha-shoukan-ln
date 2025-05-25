@@ -987,7 +987,7 @@ Hearing Alice’s words, I looked at the products in her stall and found
 old-fashioned pennants, key chains I didn’t understand, wooden carvings of
 animals, and so on. It’s seriously a souvenir shop.
 
-![Insert 1](../../_Images/v07/Insert1.jpg#.insert)
+![Insert 1](../../_Images/v07/Insert1.png#.insert)
 
 Also, the overall price seems strangely high, but I guess that’s really the cost
 for items in the tourist spots, isn’t it? I mean, I’ve thought of this many
