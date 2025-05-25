@@ -365,7 +365,7 @@ of what happened before, and Alice might have invited her because they had once
 fought together. Lunamaria-san, Aoi-chan, and Hina-chan seemed to have been
 invited by Kuro, and Lunamaria-san seemed to be especially happy about it.
 
-![Insert 3](../../_Images/v08/Insert3.jpg#.insert)
+![Insert 3](../../_Images/v08/Insert3.png#.insert)
 
 And a little while later, Lilia-san regained her consciousness and gathered with
 everyone, staring at me... No, at the envelope in my hand.

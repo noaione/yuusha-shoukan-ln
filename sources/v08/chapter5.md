@@ -1763,7 +1763,7 @@ Kaito-san.]
 Lunamaria-san’s back as she left, speaking in a surprisingly gentle voice as she
 called me in a way that she doesn’t usually do, somehow seemed very large.
 
-![Insert 4](../../_Images/v08/Insert4.jpg#.insert)
+![Insert 4](../../_Images/v08/Insert4.png#.insert)
 
 ---
 

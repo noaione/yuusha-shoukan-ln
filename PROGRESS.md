@@ -190,7 +190,7 @@ The following are all the progress of each volumes.
 **Typesetting**:
 
 - [x] Cover
-- [ ] Illustrations (`45%`)
+- [ ] Illustrations (`75%`)
 - [x] Characters (`100%`)
 - [ ] Special Page (`0%`)
 

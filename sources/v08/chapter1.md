@@ -1142,7 +1142,7 @@ Although my appearance here should be the same as my real body... The scenery
 you see now is probably a reflection of your image of me that you have conjured
 up by perceiving my magic power.]
 
-![Insert 1](../../_Images/v08/Insert1.jpg#.insert)
+![Insert 1](../../_Images/v08/Insert1.png#.insert)
 
 Lillie-san is explaining my question to me... but I haven’t said anything, have
 I? Perhaps, could Lillie-san read minds like Shiro-san?

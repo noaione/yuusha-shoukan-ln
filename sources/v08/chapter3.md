@@ -1280,7 +1280,7 @@ to me, Sieg-san gently smiled before pouring some alcoholic fruit juice into my
 glass. The color of the fruit juice is light brown, so I thought it was plum
 wine for a moment, but the faint aroma wafting through the air is fruity...
 
-![Insert 2](../../_Images/v08/Insert2.jpg#.insert)
+![Insert 2](../../_Images/v08/Insert2.png#.insert)
 
 [It’s an alcohol made from ripple fruit, called Rivel.]
 

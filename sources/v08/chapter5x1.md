@@ -219,4 +219,4 @@ moved that she shed tears to the point that she can’t cry anymore, secretly
 pledging her loyalty to Kaito in her heart... but that’s a story for another
 time.
 
-![Insert 5](../../_Images/v08/Insert5.jpg#.insert)
+![Insert 5](../../_Images/v08/Insert5.png#.insert)
