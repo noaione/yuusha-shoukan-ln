@@ -894,7 +894,7 @@ Her voice reaching my ears sounded so pleasant that I thought it was gospel, but
 at the same time, I felt a strong sense of discomfort that I can't put into
 words.
 
-![Insert 4](../../_Images/v01/Insert4.jpg#.insert)
+![Insert 4](../../_Images/v01/Insert4.png#.insert)
 
 It didn't really take that long for me to understand why I felt that way. It's
 because it was hard for me to believe that the words I just heard emanated from

@@ -2837,7 +2837,7 @@ first time she may be able to eat tofu for a long time, and as a big fan of
 Japanese food, it must have been a real delight for Neun-san. In any case, I'm
 glad that she's happy about it.
 
-![Insert 3](../../_Images/v01/Insert3.jpg#.insert)
+![Insert 3](../../_Images/v01/Insert3.png#.insert)
 
 Thereupon, the time to say goodbye came and everyone saw me off as I got into
 the carriage that's picking me up.

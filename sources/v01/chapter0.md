@@ -66,7 +66,7 @@ When I shift my gaze over to the three high school students who are in the same
 situation, they seem to be in a similar state as me, glancing at me with
 confused expressions on their faces.
 
-![Insert 1](../../_Images/v01/Insert1.jpg#.insert)
+![Insert 1](../../_Images/v01/Insert1.png#.insert)
 
 [T-This is that, right?! Three of them just got caught up in the “summoning”, or
 something like that, right?!]
@@ -74,7 +74,7 @@ something like that, right?!]
 [M-Most probably... What should we do about this, Millady?]
 
 [What should we do, you ask? It's not like I can just say “I messed up,
-_teehee!_ so for now, why don't we explain the situation to everyone... Ah, but
+_teehee!_” so for now, why don't we explain the situation to everyone... Ah, but
 first, we need to figure out who the hero is...]
 
 [_Teehee!_ ...you say. Milady, I believe you're a bit too old to do such a thing

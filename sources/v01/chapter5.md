@@ -1040,7 +1040,7 @@ juice with Kuro right in the middle of the road.
 I see. I heard that the juice from the seal fruit is very tasty... but in this
 situation, I can't taste it at all!
 
-![Insert 5](../../_Images/v01/Insert4.jpg#.insert)
+![Insert 5](../../_Images/v01/Insert5.png#.insert)
 
 I will answer one of the outrageous questions of this world.
 

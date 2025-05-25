@@ -1998,7 +1998,7 @@ leave, even if you don't know what you want to do, you would instead be able to
 acquire the answer to “what you've done” and “what you've discovered”... That's
 why, it's okay for you to be empty for now.]
 
-![Insert 2](../../_Images/v01/Insert2.jpg#.insert)
+![Insert 2](../../_Images/v01/Insert2.png#.insert)
 
 With those words, Kuro let go of the hand that was holding me. I'm falling?! is
 what I thought for a moment, but my body wasn't rapidly falling, finding myself
