@@ -744,8 +744,8 @@ direction I don’t know at all... Also, I feel like she’s having some kind of
 misunderstanding here.
 
 [W-Well, I can certainly make clones... and since I can change my sizes and
-proportions at will, I can certainly respond to all sorts of diverse plays... B-
-But even I need to prepare my heart for such...]
+proportions at will, I can certainly respond to all sorts of diverse plays...
+B-But even I need to prepare my heart for such...]
 
 [...Errr... Alice?]
 

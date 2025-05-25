@@ -868,7 +868,7 @@ would risk being found out before I could accomplish my goal.
 
 [...By the way, how did you know I was hiding something from you?]
 
-[...It was... written... on his face.]
+[...It was... written... on your face.]
 
 [I’ve been told that by a lot of people... am I really that easy to understand?]
 
@@ -876,8 +876,8 @@ would risk being found out before I could accomplish my goal.
 
 I’ve been told by many people since I came into this world that my emotions
 could easily be seen on my face... As for how exactly it was that I’m easy to
-read, it seemed like even the kind Isis-san can’t support me on this matter. H-
-Hmmm. I wonder how I can change this...
+read, it seemed like even the kind Isis-san can’t support me on this matter.
+H-Hmmm. I wonder how I can change this...
 
 After a few minutes of travel, we arrived at the mountain, which was our
 destination. Alice told me that it was about 1200 m above sea level and rarely
@@ -987,15 +987,13 @@ Hearing Alice’s words, I looked at the products in her stall and found
 old-fashioned pennants, key chains I didn’t understand, wooden carvings of
 animals, and so on. It’s seriously a souvenir shop.
 
-![Insert 1](../../_Images/v07/Insert1.png#.insert)
-
 Also, the overall price seems strangely high, but I guess that’s really the cost
 for items in the tourist spots, isn’t it? I mean, I’ve thought of this many
 times before, but this guy definitely knows Earth...
 
 [...Shalltear... What... is this?]
 
-[It’s one of those key chains sold everywhere that people just don’t understand.
+[It’s one of those keychains sold everywhere that people just don’t understand.
 It’s the first of those useless souvenirs that you just buy on the spur of the
 moment, thrown in a drawer at home, and eventually go missing.]
 
@@ -1019,6 +1017,8 @@ don’t you think? Here, “bottled tea”.]
 [...Give me two.]
 
 [Thank you for the purchase\~\~]
+
+![Insert 1](../../_Images/v07/Insert1.png#.insert)
 
 I’m so tired that I don’t feel like throwing a tsukkomi anymore, so I just
 accepted the bottle tea offered to me as if it’s a matter of course and paid for

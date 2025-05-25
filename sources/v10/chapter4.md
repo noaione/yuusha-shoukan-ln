@@ -1031,8 +1031,8 @@ my father took custody of me while mother took care of my little sister.]
 
 [...]
 
-I thought this might be the core of the story, but it wasn’t at all huh... H-
-Hmmm. I wonder what this feeling of disappointment upon hearing something
+I thought this might be the core of the story, but it wasn’t at all huh...
+H-Hmmm. I wonder what this feeling of disappointment upon hearing something
 unrelated...
 
 [Well, even if it was me, her big sister that’s saying this, my little sister

@@ -1177,8 +1177,8 @@ conscious of your status as Master’s servant!]
 
 Hmmm. Looking at them like this, I feel like Anima is pretty attached to her
 position of being the Chief Retainer. I guess it’s partly because she was able
-to get over something that happened yesterday, but I’m somewhat relieved. W-
-Well, putting that aside, it’s going to be a long sermon at this point... I
+to get over something that happened yesterday, but I’m somewhat relieved.
+W-Well, putting that aside, it’s going to be a long sermon at this point... I
 think it’s a problem that they got into a fight, but I feel thankful to Eta and
 Theta since they were fighting for my sake, so I’ll give them a little help.
 

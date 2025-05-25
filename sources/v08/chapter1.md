@@ -1026,8 +1026,8 @@ Sieg-san would be staying in this room too.
 [No, you see, we don’t have a lot of rooms... Ah, don’t worry, I properly
 changed the bed to a double size.]
 
-[Wha?! T-T-That’s not the point, f-f-for me to stay in the same room as K-
-K-K-Kaito-san...]
+[Wha?! T-T-That’s not the point, f-f-for me to stay in the same room as
+K-K-K-Kaito-san...]
 
 [Do your best, Sieg. Father is rooting for you.]
 

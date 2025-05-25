@@ -307,8 +307,8 @@ Mitsunaga-kun, who was protecting Princess Cattleya with his body. Immediately
 after that, Alice appeared in the form of the Phantasmal King, and I had also
 confirmed that Princess Cattleya and Mitsunaga-kun were safe.
 
-[…...?! Seigi! A-Are you alright?! Are you injured? Does it hurt anywhere? I-
-I’ll get a doctor right away... N-No, a healing mage...]
+[…...?! Seigi! A-Are you alright?! Are you injured? Does it hurt anywhere?
+I-I’ll get a doctor right away... N-No, a healing mage...]
 
 [I-I’m alright, Cathy. I’m not injured anywhere...]
 
@@ -429,8 +429,8 @@ down?!]
 
 [...These fools... tormenting Kaito... I will kill them.]
 
-[No, no, I’m telling you, the attacker was already taken away long ago... I-
-Isis-san?! Can you calm down for now...]
+[No, no, I’m telling you, the attacker was already taken away long ago...
+I-Isis-san?! Can you calm down for now...]
 
 [...I will turn him into ice... and break him into pieces... so that not a
 single piece of his flesh... would be left in this world.]

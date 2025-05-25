@@ -349,8 +349,8 @@ Fate-san and I can truly enjoy...]
 
 She started wavering! Good, the flow of things is good... I need one more push,
 and I need to take out one more decisive card. However, piling up more things
-regarding our date would be difficult, so is there anything else I could use? T-
-That’s right...
+regarding our date would be difficult, so is there anything else I could use?
+T-That’s right...
 
 [If Fate-san comes home tired from work... Errr, should I give you a massage?]
 

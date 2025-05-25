@@ -202,8 +202,8 @@ meat, I asked Kuro.
 
 Eh? Wait a moment? What did she just say? Giant Mantis? ...When she mentioned
 Mantis... Did she mean that insect with two scythes? The moment I grasped the
-meaning of Kuro’s words, a great amount of sweat began to flow down my body. N-
-No more, I don’t want the meat of this world anymore... I thought I’ve become
+meaning of Kuro’s words, a great amount of sweat began to flow down my body.
+N-No more, I don’t want the meat of this world anymore... I thought I’ve become
 accustomed to this world, but I think it will take some time for me to become
 used to this world’s food culture.
 
@@ -927,8 +927,8 @@ Therefore, at Lunamaria’s words, a vein popped out of Lilianne’s forehead.
 
 [Are you ready?]
 
-[Don’t wanna hear your gibbers, so let’s just finish this already... Ro-yal-
-Prin-cess.]
+[Don’t wanna hear your gibbers, so let’s just finish this already...
+Ro-yal-Prin-cess.]
 
 [You!]
 

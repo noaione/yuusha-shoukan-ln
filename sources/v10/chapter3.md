@@ -485,8 +485,8 @@ got before and she fainted in surprise, but she wanted some of them huh... She
 should have just told me... Magnawell-san would always give me some when I visit
 him, saying that it’s my allowance, so I had lots of them.
 
-[...U-Ummm, Lilia-san? I could give you some... Dragon King’s scales, I mean. I-
-I’ll also give you some fangs!]
+[...U-Ummm, Lilia-san? I could give you some... Dragon King’s scales, I mean.
+I-I’ll also give you some fangs!]
 
 [...Erhem. Well, I’m sure Kaito-san didn’t mean any harm, and I don’t really
 intend to scold you that harshly...]

@@ -1352,8 +1352,8 @@ out to me in a panic.
 them on... I also think that this would look good on you, Sieg-san. Besides, I’m
 your lover, so let me at least give you clothes as a present.]
 
-[N-No, but... If you include the accessories, that’s over 30,000R, you know?! T-
-That’s expensive...]
+[N-No, but... If you include the accessories, that’s over 30,000R, you know?!
+T-That’s expensive...]
 
 [Ahh, Lilia-san too, please let me give you that dress I picked as a present.]
 

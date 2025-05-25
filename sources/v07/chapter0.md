@@ -15,8 +15,8 @@ Kuro. It hasn’t been that long since we became lovers, but how should I say
 this... I’m feeling a lot of changes, such as my heart skipping a beat by Kuro’s
 smallest gestures, and the scenery we see together feeling so refreshing.
 
-It’s just, I’m still groping around, not really knowing everything, but well, I
-think that’s fun in itself too... but I’d like to get some advice. I wonder...
+It’s just, I’m still stumbling around, not really knowing everything, but well,
+I think that’s fun in itself too... but I’d like to get some advice. I wonder...
 If Mom and Dad were still alive today, would we have a conversation like this
 and would I be able to hear about your experiences? Mom is quite petite, so I
 wonder if Dad had trouble being aware of everyone around him?

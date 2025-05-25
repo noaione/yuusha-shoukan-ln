@@ -1459,9 +1459,9 @@ They’re smooth and soft, yet elastic enough, and it feels as if they’re suck
 my hand, making them comfortable to touch... This could turn into a habit. And
 it seems that she really is very sensitive, as every time my hand moves over her
 ear, Sieg-san makes a small, erotic moan. Somehow, it’s kinda making my heart
-beat really fast though?! Eh? I’m just touching her ears now, right?! H-
-However, because of the alcohol, Sieg-san strangely looks erotic... T-This is
-dangerous, any more than this...
+beat really fast though?! Eh? I’m just touching her ears now, right?! H-However,
+because of the alcohol, Sieg-san strangely looks erotic... T-This is dangerous,
+any more than this...
 
 [T-Thank you.]
 
