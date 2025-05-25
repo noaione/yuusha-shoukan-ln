@@ -332,7 +332,7 @@ The young girl... Alice dumbfoundedly mumbled as she continued staring at me,
 and immediately afterwards, as if the sound of an explosion resounded, her face
 turned bright red.
 
-![Insert 2](../../_Images/v02/Insert2.jpg#.insert)
+![Insert 2](../../_Images/v02/Insert2.png#.insert)
 
 [Hyyyyyaaaaaaaaahhhhhhhhhhhh?!]
 
@@ -1193,7 +1193,7 @@ Ummm, what should I do in this situation? I need to say something... Errr...
 When I timidly suggested so, as I carefully choose the words I say... Isis-san's
 cheeks turned red and she happily smiled.
 
-![Insert 3](../../_Images/v02/Insert3.jpg#.insert)
+![Insert 3](../../_Images/v02/Insert3.png#.insert)
 
 [...Friends... Kaito's friend... I'm happy.]
 

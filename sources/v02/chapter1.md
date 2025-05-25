@@ -2335,7 +2335,7 @@ Sieg-san treated me as a friend as a matter of course, I felt happy.
 [What I tried making before? I tried making apple pie... Errr, a fruit pie
 before, but it kinda looked flattened out here and there...]
 
-![Insert 1](../../_Images/v02/Insert1.jpg#.insert)
+![Insert 1](../../_Images/v02/Insert1.png#.insert)
 
 After having some conversation with Sieg-san for a while, I walked down the
 hallway again.

@@ -1231,7 +1231,7 @@ she ran away from it. Arehh? Doesn't that mean it was entirely Fate-san's fault?
 As Fate-san tries to escape, Chronois-san quickly catches her by the scruff of
 her neck.
 
-![Insert 4](../../_Images/v02/Insert4.jpg#.insert)
+![Insert 4](../../_Images/v02/Insert4.png#.insert)
 
 [Good grief.... You're even causing problems for Lilia too... Come, we're going
 back!]

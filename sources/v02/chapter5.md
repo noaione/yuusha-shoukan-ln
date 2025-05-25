@@ -1133,7 +1133,7 @@ festivals as well, and it seemed like the best one to go to around this time
 really would be the Sacred Tree Festival. Thus, I'm planning on inviting
 Lilia-san to participate in the Sacred Tree Festival soon.
 
-![Insert 5](../../_Images/v02/Insert5.jpg#.insert)
+![Insert 5](../../_Images/v02/Insert5.png#.insert)
 
 [...Kaito-kun. Come here.]
 
