@@ -73,12 +73,14 @@ export function extractFrontmatter(fileContent: string): {
   };
 }
 
-export function mdastToHast(
+export async function mdastToHast(
   mdastRoot: MdastRoot,
   filename: string,
-  footNotesReferences: (label: string, filename: string) => { n: number; fn: string },
-  footNotesDefinition: (label: string, hastNode: HastElement) => void,
-): HastNodes {
+  imagesReference: (src: string) => Promise<void>, // Verify image src (and add it to metadata)
+  footNotesReferences: (label: string, filename: string) => { n: number; fn: string }, // Get footnotes references numbering
+  footNotesDefinition: (label: string, hastNode: HastElement) => void, // Add footnotes definition to metadata
+): Promise<HastNodes> {
+  const collectedImages: string[] = [];
   const hastRoot = toHast(mdastRoot, {
     allowDangerousHtml: true,
     clobberPrefix: '',
@@ -131,8 +133,9 @@ export function mdastToHast(
         ];
       },
       image: (state, node: Image) => {
+        const cleanImgUrl = node.url.replace(/#\..*/, '');
         // Fixup image node src
-        const baseSrc = basename(node.url);
+        const baseSrc = basename(cleanImgUrl);
         const hastNode = h('img', {
           src: `../Images/${baseSrc}`,
           alt: node.alt,
@@ -141,11 +144,11 @@ export function mdastToHast(
         // Extract the #., which is class name
         const className = node.url.match(/#\.(.*)/);
         if (className) {
-          // Remove from src
-          // @ts-expect-error
-          hastNode.properties.src = hastNode.properties.src!.replace(/#\..*/, '');
+          // If className is present, add it to the hastNode properties
           hastNode.properties.class = className[1];
         }
+
+        collectedImages.push(cleanImgUrl);
 
         return hastNode;
       },
@@ -173,6 +176,10 @@ export function mdastToHast(
       },
     },
   });
+
+  for (const imageSrc of collectedImages) {
+    await imagesReference(imageSrc);
+  }
 
   return hastRaw(hastRoot);
 }

@@ -163,30 +163,6 @@ async function processVolume(projectMeta: ProjectMetaSchemaType, volumeNumber: s
     await readFile(join(baseDir, 'common', 'styles.css')),
   );
 
-  // Import all images
-  const imageFiles = await readdir(baseImageFolder);
-  for (const imageFile of imageFiles) {
-    const validExtensions = ['.jpg', '.jpeg', '.png', '.gif', '.webp'];
-    const extension = extname(imageFile).toLowerCase();
-    if (!validExtensions.includes(extension)) {
-      continue;
-    }
-
-    const imagePath = join(baseImageFolder, imageFile);
-    if (imagePath === coverPath) {
-      continue;
-    }
-    const readImage = await readFile(imagePath);
-    await epub.addManifestItem(
-      {
-        id: basename(imagePath),
-        href: `Images/${basename(imagePath)}`,
-        mediaType: `image/${extension.replace('.', '')}`,
-      },
-      readImage,
-    );
-  }
-
   if (projectMeta.translator.image) {
     const projectMetaImage = join(baseDir, projectMeta.translator.image);
     if (!(await exists(projectMetaImage))) {
@@ -224,6 +200,25 @@ async function processVolume(projectMeta: ProjectMetaSchemaType, volumeNumber: s
     const tocContent = await readFile(tocFile, {
       encoding: 'utf-8',
     });
+
+    const imagesReference = async (src: string) => {
+      const imagePath = join(volumeFolder, src);
+      if (!(await exists(imagePath))) {
+        throw new Error(`Image file does not exist: ${imagePath}`);
+      }
+
+      const readImage = await readFile(imagePath);
+      const baseImage = basename(imagePath);
+      const extension = extname(baseImage).toLowerCase().replace('.', '');
+      await epub.addManifestItem(
+        {
+          id: baseImage,
+          href: `Images/${baseImage}`,
+          mediaType: `image/${extension}`,
+        },
+        readImage,
+      );
+    };
 
     const footNotesReferences = (label: string, filename: string) => {
       const current = rawFootnotesCounter;
@@ -318,9 +313,10 @@ async function processVolume(projectMeta: ProjectMetaSchemaType, volumeNumber: s
         break;
       }
       case 'afterword': {
-        const afterwordFile = mdastToHast(
+        const afterwordFile = await mdastToHast(
           markdownParsed,
           newFilename,
+          imagesReference,
           footNotesReferences,
           footNotesDefinition,
         );
@@ -370,7 +366,13 @@ async function processVolume(projectMeta: ProjectMetaSchemaType, volumeNumber: s
             });
           }
 
-          const extracted = mdastToHast(split, justName, footNotesReferences, footNotesDefinition);
+          const extracted = await mdastToHast(
+            split,
+            justName,
+            imagesReference,
+            footNotesReferences,
+            footNotesDefinition,
+          );
           const html = await prettifyHtml(
             hastToHtml(extracted, justName, split.fullImage ? 'insert' : 'chapter', toc, meta),
           );
@@ -673,6 +675,7 @@ async function processVolume(projectMeta: ProjectMetaSchemaType, volumeNumber: s
   const outputPath = join(finalFolder, outputName);
   const bufferArray = await epub.writeToArray();
   await writeFile(outputPath, bufferArray);
+  await epub.close();
 }
 
 // Read meta.json file
