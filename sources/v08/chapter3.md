@@ -966,7 +966,7 @@ didn’t hear me. Sieg-san just moved her gaze towards Fia-san and muttered.
 [Yeah, how many years do you think we’ve been Sieg’s parents? I knew it the
 moment the both of you came home and saw your face.]
 
-[ ~ ~ ?! ]
+[ \~ \~ ?! ]
 
 In response to Sieg-san’s dumbfounded words, Rei-san and Fia-san looked
 astonished when they replied to her.
@@ -1039,7 +1039,7 @@ side but... Please give her happiness.]
 going to do my best, and not just let Sieg-san support me. I want to be there
 for Sieg-san as well.]
 
-[ ~ ~ ?! ]
+[ \~ \~ ?! ]
 
 While being exposed to his gaze extremely filled with his fatherly thoughts, I
 still firmly looked back into Rei-san’s eyes and replied to his words. I am a
@@ -1644,7 +1644,7 @@ reasoning will break...
 
 [Hnnn...]
 
-[ ~ ~ ?! ]
+[ \~ \~ ?! ]
 
 I moved my face when my name was called, but at that moment, Sieg-san’s head
 also moved... and her lips lightly touched mine. It was really just a simple

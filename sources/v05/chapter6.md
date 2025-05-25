@@ -71,7 +71,7 @@ W-What is this pinnacle of annoyingness... For her to make such an infuriatingly
 smug look on her face, how easy-to-read can my face be? She’s probably reading
 too much in my mind...
 
-[Not being able to just honestly invite me~ You~ You~! You one big
+[Not being able to just honestly invite me\~ You\~ You~! You one big
 tsund—Fugyaaahhh?!]
 
 I wonder why? I feel like I’m making a mistake for inviting her... Well, though

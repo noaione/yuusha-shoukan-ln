@@ -68,7 +68,7 @@ some pastries from my magic box and gave it to her.
 
 [You probably aren’t eating properly again anyway...]
 
-[Kaito-san... Kuhhh\~\~~ As expected, even if you say all those stuff, you’re
+[Kaito-san... Kuhhh\~\~\~ As expected, even if you say all those stuff, you’re
 really a kind person! For you, for you to love me this much—Fugyyaahhh?!]
 
 [Just take them already.]
@@ -478,7 +478,7 @@ Lunamaria-san, who looks like she would die from shame...
 [Lu-chan, it’s as Miyama-san said, we’re talking about blood. It’s not like we
 had sexual intercourse, you know?]
 
-[ ~ ~ ?!?! ]
+[ \~ \~ ?!?! ]
 
 And there goes the finishing blow?! With a calm look on her face, she just dealt
 the finishing blow?! Noir-san... How frightening, this person is...

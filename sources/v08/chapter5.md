@@ -950,7 +950,7 @@ like she thought, inside the pit hole, Lilianne’s body shook in anger. And the
 in a fit of rage, she jumped out and tried to get out of the hole... and smashed
 her head on “a wall of air that seemed to act as a lid on that hole”.
 
-[ ~ ~ ?! ]
+[ \~ \~ ?! ]
 
 [I don’t know if I should say you’re simple-minded or just a straightforward
 fool... but you’re trapped just as I want you to be.]

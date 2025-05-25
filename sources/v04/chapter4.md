@@ -589,7 +589,7 @@ displeasure.
 I mean, Alice, he just met you and he immediately calls you a clown...
 
 [No, look, a high-ranked Demon about the Count-ranked would really be
-monsters... So it would be a tough fight\~\~~ is what I thought... but I’m glad
+monsters... So it would be a tough fight\~\~\~ is what I thought... but I’m glad
 that I’m just fighting a “weakling”.]
 
 [...You... Are you mocking me?]
@@ -885,8 +885,8 @@ don’t like seeing someone die.
 
 [Alice?]
 
-[Ahh~ Kaito-san, is it alright for me to go home after all? As expected, I can’t
-beat that one...]
+[Ahh\~ Kaito-san, is it alright for me to go home after all? As expected, I
+can’t beat that one...]
 
 [Eh?]
 
@@ -1361,7 +1361,7 @@ World Tree, I couldn’t bring myself to accept the invitation of such a person,
 nor would I want to be friendly with them. Even if I am going to be killed here
 and now, I still wouldn’t bow my head to him.
 
-[ ~ ~ ?! ]
+[ \~ \~ ?! ]
 
 [Oi, Sieg. Please consider the situation at all. Stop looking happy over there.]
 
@@ -2612,7 +2612,7 @@ world huh\~\~]
 
 [Pfft?!]
 
-[ ~ ~ ?! ]
+[ \~ \~ ?! ]
 
 Wait a minute there, you gorilla?! What kind of thought process do you have to
 reach that kind of incomprehensible story?!

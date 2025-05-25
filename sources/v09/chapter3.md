@@ -267,7 +267,7 @@ now... I’m always troubling and surprising you, but you still kindly smiled at
 me. The you who were concerned about me like it was natural... made me love
 you.]
 
-[ ~ ~ ?! ]
+[ \~ \~ ?! ]
 
 His words echoed deep within me, as if they had physical power, shaking me
 greatly. As my body was surrounded by his numbing warmth, I felt my mind boiling
@@ -1402,7 +1402,7 @@ Lilia-san said and turned around... There wouldn’t be anyone... around?
 
 [...I-It’s embarrassing...]
 
-[ ~ ~ ?! ]
+[ \~ \~ ?! ]
 
 The heck is this, have I already died? Is this heaven? A beautiful woman, a
 princess straight out of the stories, is soaking herself in the hot water
@@ -1905,7 +1905,7 @@ time we returned home, Lilia-san was as relaxed as she was before... No, we are
 now able to exchange words with each other much more intimately than before. In
 that sense, I’d have to thank Lunamaria-san for pulling the strings behind the
 scenes for this one. Well, but then, that Lunamaria-san... As soon as we got
-home, she was slapped by Lilia-san and was “buried in the wall” but... Well~ I
+home, she was slapped by Lilia-san and was “buried in the wall” but... Well\~ I
 didn’t know that people can have half of their body buried in a wall like
 that...
 

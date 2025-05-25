@@ -430,7 +430,7 @@ here in a race, are they fast enough to compete with the others?
 
 [Speaking of which, you said we’ll play a game but... What about the rules?]
 
-[Ahh~ that’s right. Then, let’s just say that our total budget is 1000R, but
+[Ahh\~ that’s right. Then, let’s just say that our total budget is 1000R, but
 we’re free to bet how much we want. There are ten races that will be happening
 from now on, so whoever makes the most money in the end wins.]
 

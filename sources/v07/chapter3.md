@@ -125,7 +125,7 @@ for his help to me...]
 
 [Ahh, I see you’re really planning to give it to Miyama-sama huh.]
 
-[ ~ ~ ?! ]
+[ \~ \~ ?! ]
 
 [Good gracious, even Milady has become quite the maiden in love... You look
 quite lovely.]

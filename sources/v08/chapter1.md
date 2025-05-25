@@ -1082,7 +1082,7 @@ next, right? Also, Sieg-san’s underwear are in the drawer on the right, third
 shelf... The State Preservation Magic is designed to be unlocked when you open
 the drawer. You can take at least one of them home with you—Gafuuu?!]
 
-[ ~ ~ ?! ]
+[ \~ \~ ?! ]
 
 Her iron fist is again, shot into Rei-san’s face just as he made a thumbs-up.
 Why does this father even know where his daughter’s underwear are stored... No,

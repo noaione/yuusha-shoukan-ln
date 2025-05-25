@@ -148,7 +148,7 @@ tall girl like me, right?]
 [N-No, I don’t think of such things at all... Also, Sieg-san is a really lovely
 woman. Your height is also part of your charm.]
 
-[ ~ ~ ?! ]
+[ \~ \~ ?! ]
 
 Sieg-san is about the same height... or maybe a bit taller than me, and she
 seems to be pretty conscious about that. She has already asked it multiple times
@@ -470,7 +470,7 @@ felt my eyelids getting heavier, she gave me a gentle, reassuring smile. Then,
 she slowly approached me, and as I felt my hair being gently stroked, I heard
 her beautiful voice.
 
-[ ~ ~ ♪ ~ ~ ]
+[ \~ \~ ♪ \~ \~ ]
 
 [...A song?]
 
@@ -479,7 +479,7 @@ unpleasant, should I stop?]
 
 [No, you can keep going if you want.]
 
-[Yes... ~ ~ ♪ ]
+[Yes... \~ \~ ♪ ]
 
 The gentle, beautiful melody comfortably echoes in my ears and slowly lulls me
 to sleep. So Sieg-san... is a good singer too. She really seems like a mature

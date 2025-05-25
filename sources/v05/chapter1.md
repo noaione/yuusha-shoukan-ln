@@ -715,7 +715,7 @@ Strange, that’s weird?! I mean, if that’s the case, it’s like...
 
 I-I see... It must have been just my “hallucinations” huh!
 
-Well~ That’s no good, me... No matter how unpopular I am, if I not only start
+Well\~ That’s no good, me... No matter how unpopular I am, if I not only start
 dreaming delusions, I’m also hearing hallucinations, it’s already the end for
 you! It might just be because I’ve been unknowingly exhausted for the day...
 Alright, it’s all in my head! It’s definitely just in my head! Even if I turn
@@ -896,7 +896,7 @@ slightly directed to other things, I was able to become calmer than before...
 
 [...Ahh... sorry... I dropped it.]
 
-[ ~ ~ ?!?! ]
+[ \~ \~ ?!?! ]
 
 The sponge flopped off her hand and rolled in front of me, and just as Isis-san
 reached out from behind me to pick it up... Those stuck behind my back. The
@@ -1138,7 +1138,7 @@ something, as she reached her hand towards me.
 
 [....Nom.]
 
-[ ~ ~ ?!?! ]
+[ \~ \~ ?!?! ]
 
 Isis-san took a piece of pie crust stuck on my lips with her finger and brought
 it to her mouth like it’s something quite natural to her. This action
@@ -1244,7 +1244,7 @@ mouth of Isis-san, who is sleeping as if she were chasing after me.
 
 [...Nuuuu... Kaitooo...]
 
-[ ~ ~ ?! ]
+[ \~ \~ ?! ]
 
 Her sweet, bewitching voice shook my mind, as if someone just slammed my head
 with a baseball bat. A-A little touch should be fine, right...

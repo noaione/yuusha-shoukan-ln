@@ -714,7 +714,7 @@ upper hand in my conversations with Kuro.
 
 [Errr, what was it called again? That Special Deluxe Pudding à la mode?]
 
-[Ahh~ That’s the one Ein made for me before. That was quite delicious\~\~... To
+[Ahh\~ That’s the one Ein made for me before. That was quite delicious\~\~... To
 be honest, I was only half joking when I told her about it, but for her to
 really make it, Ein’s really amazing.]
 

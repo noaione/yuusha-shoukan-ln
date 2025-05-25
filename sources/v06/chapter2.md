@@ -666,7 +666,7 @@ on and quietly closes her eyes.
 [I thought Shallow Vernal-sama would finally take care of everything but... The
 situation has changed. I can’t leave any stone unturned.]
 
-[...Ahh~ That looks dangerou—Gaahhh?!]
+[...Ahh\~ That looks dangerou—Gaahhh?!]
 
 Seeing Fate muttering in a low voice, Shalltear, who sensed the unusual
 atmosphere around her, immediately tried to distance herself from her, but in

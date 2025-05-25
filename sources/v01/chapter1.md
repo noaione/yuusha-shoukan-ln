@@ -1372,7 +1372,7 @@ with her.
 
 [Anyway, thank you very much!]
 
-[Don't worry about it~ Let's talk again when we get the chance.]
+[Don't worry about it\~ Let's talk again when we get the chance.]
 
 [Yeah.]
 

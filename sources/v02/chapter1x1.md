@@ -15,7 +15,7 @@ expressions with semi-short hair, black clothes, and an appearance of a very
 young girl. Other than the color of her hair and eyes, you could even say that
 it was like they were opposites.
 
-[Heeeyyy~ Shiro, let's have some girls' talk.]
+[Heeeyyy\~ Shiro, let's have some girls' talk.]
 
 [Girls' talk?]
 

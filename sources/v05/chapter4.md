@@ -146,7 +146,7 @@ this way, I can get the latest information right away.]
 
 [...Does that mean she also knows who Alice is?]
 
-[Ahh~ No, I’ve given all of my subordinates a magic tool that only responds to
+[Ahh\~ No, I’ve given all of my subordinates a magic tool that only responds to
 my magic power, so if I were to give them instructions, they’ll know where I
 am.]
 
@@ -1249,7 +1249,7 @@ brought it to her breast—Ehhhhhh?!
 
 [Well, it looks like you’re looking at them with great interest.]
 
-[ ~ ~ ?!?! ]
+[ \~ \~ ?!?! ]
 
 What the heck is this person doing?! H-How sof... isn’t what I should be
 thinking?! T-T-This is bad, this is bad, I-I-I should pull away my hand, or it

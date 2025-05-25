@@ -1216,7 +1216,7 @@ words that Fia-san nonchalantly said.
 [I mean, the letters that Sieg-chan sends lately have always been about
 you—mghhhmmm?!]
 
-[ ~ ~ ~ ]
+[ \~ \~ \~ ]
 
 [Sieg-san?]
 

@@ -58,7 +58,7 @@ resist.
 
 [Whamfff... Chuuuu... Nchyuuu...]
 
-[ ~ ~ ?!?! ]
+[ \~ \~ ?!?! ]
 
 Kuro’s lips met mine, and she continued to kiss me again and again.
 
@@ -96,7 +96,7 @@ knew it wouldn’t be good to continue like this.
 
 [R-Rather than that... Kuro, are you bad with mornings?]
 
-[Hmm~ It’s been a while since I slept, so I don’t really know.]
+[Hmm\~ It’s been a while since I slept, so I don’t really know.]
 
 Come to think of it, I think I heard something like this before... It seems that
 for a high-ranking Demon like Kuro, eating and sleeping isn’t a necessity, but
@@ -381,7 +381,7 @@ I slowly tried to pull my finger out of Kuro’s mouth.
 
 [Hnnn.]
 
-[ ~ ~ ?! ]
+[ \~ \~ ?! ]
 
 The moment my finger leaves her mouth, Kuro gives my fingertips one final lick,
 as if she didn’t want my fingers to leave her mouth. Feeling as if I had just
@@ -571,7 +571,7 @@ speak and change the subject but... Kuro won’t let me off the hook.
 [...H-However... ummm... If it’s... with Kaito-kun... Doing it with Kaito-kun...
 i-is fine with me, you know?]
 
-[ ~ ~ ?! ]
+[ \~ \~ ?! ]
 
 [Hyaahhh?! K-Kaito-kun?!]
 

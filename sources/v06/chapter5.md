@@ -515,7 +515,7 @@ about matters other than Shiro-san.
 [Hmmm. I don’t really know what other people think, and I also don’t think my
 standards are absolute but... I think Chronois-san is a beautiful woman.]
 
-[ ~ ~ ~ ~ ?!?! ]
+[ \~ \~ \~ \~ ?!?! ]
 
 When I told her that, Chronois-san’s mouth opened and closed again, and she
 looked down, the redness of her face reaching her ears. Unnn, such thoughts may
@@ -1317,7 +1317,7 @@ to the hot spring immediately opened, revealing Fate-san and Life-san.
 
 [Kai-chaaannn\~\~. Thank you for the wait\~\~]
 
-[ ~ ~ ?! ]
+[ \~ \~ ?! ]
 
 Fate-san did say before that her body might be petite, but she certainly has
 breasts... And it’s certainly as she says, as even though she’s small enough to
@@ -1332,7 +1332,7 @@ destructive power was tremendous.
 [...It’s the first time I’ve heard of onsen... but it certainly has quite the
 good atmosphere.]
 
-[ ~ ~ ~ ~ ?!?! ]
+[ \~ \~ \~ \~ ?!?! ]
 
 And Life-san is... something that is difficult to describe in words... as those
 things could already be considered as weapons. Along with Lillywood-san’s, her
@@ -1873,7 +1873,7 @@ to be a being above me.]
 [That’s why, you obviously have the privilege to do as you please with my
 body... If you want to continue, you can always come to my temple.]
 
-[ ~ ~ ?!?! ]
+[ \~ \~ ?!?! ]
 
 With a voice so sweet as if it’s the voice of an angel, she whispered to me as
 if it’s the Devil itself that is trying to tempt me... I-I don’t know if I

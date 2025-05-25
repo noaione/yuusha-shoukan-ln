@@ -906,7 +906,7 @@ other party’s walking pace... I wonder why I don’t feel such things?
 
 [...]
 
-[Whammm, Ahh~ Tasty\~\~]
+[Whammm, Ahh\~ Tasty\~\~]
 
 Deciding that we would eat the food we saw at the stall, my date still kept
 lying down on the cushion, opened her mouth and asked me to feed her, while I

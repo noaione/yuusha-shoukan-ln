@@ -500,7 +500,7 @@ it was just a breeze.
 ask her hard enough, she’ll agree to most of the plays you can think of, you
 know?]
 
-[ ~ ~ ?!?! ]
+[ \~ \~ ?!?! ]
 
 [Oi, stop right there, you useless maid...]
 
@@ -566,7 +566,7 @@ sorts of stuff to think about...]
 
 [That means, that the problem isn’t on Lili’s side then?]
 
-[ ~ ~ ~ ?!?! ]
+[ \~ \~ \~ ?!?! ]
 
 Hearing Lunamaria’s words, Lilia looked like she had reached her limit, as she
 opened her mouth in response, but no words came out.
@@ -1678,7 +1678,7 @@ looked kind, as if he was being nostalgic of the past. After a brief moment of
 silence came again, a gentle smile appeared in Ryze-san’s lips before he spoke.
 
 [...However, Lilianne adored me. She would embrace me, calling me out ” Elder
-Brother~, Elder Brother~ “, and always cared for me. When the unfamiliar duties
+Brother~, Elder Brother\~ “, and always cared for me. When the unfamiliar duties
 of a King made me tired and I wasn’t feeling well, she was there to take care of
 me. I cried at my own stupidity... I wondered why I had even loathed such a kind
 little sister. Since then, that girl has been irreplaceable to me....]

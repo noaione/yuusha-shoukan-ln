@@ -294,7 +294,7 @@ T-That gaze must be that, right? Just a gaze of embarrassment?]
 [...My name is Miyama Kaito, nice to meet you... Also, can I punch you once?]
 
 [It sounds like there's something frightening added to your self-introduction
-though?! I-I can call you Kaito-san, right~? Well~ Your cool face really suits
+though?! I-I can call you Kaito-san, right~? Well\~ Your cool face really suits
 your fantastic name, just gazing at you makes my heart skip a beat... That's
 why, umm, errr, please put those clenched fists of yours away...]
 
@@ -617,7 +617,7 @@ behavior is ruining it all.
 No, rather, at this rate, even if she were to wholesale her items to a company,
 I think she would still fail.
 
-[Ahhh~ But speaking of which, I went to apply to open a store before but... I
+[Ahhh\~ But speaking of which, I went to apply to open a store before but... I
 was almost beaten up by them, telling me not to come back.]
 
 [...Did you go there in that stuffed costume of yours?]
@@ -676,7 +676,7 @@ interesting trinkets and magic items, so I'll come back to look around again.
 When I finished shopping, I thanked Alice and was about to leave the store, but
 at that moment, Alice spoke.
 
-[Ahh~ Kaito-san. Can I have a moment?]
+[Ahh\~ Kaito-san. Can I have a moment?]
 
 [Unnn?]
 

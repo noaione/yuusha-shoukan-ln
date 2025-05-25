@@ -1476,7 +1476,7 @@ trying to say, but when I actually witnessed it like this, I was overwhelmed.
 Fate-san had a very serious look on her face, but she immediately collapsed on
 the bed.
 
-[Well~ that's how it is. To be honest, it would be great if I could serve
+[Well\~ that's how it is. To be honest, it would be great if I could serve
 Shallow Vernal-sama... That even if I were to resign my post as one of the
 Supreme Gods, it will be fine for me.]
 

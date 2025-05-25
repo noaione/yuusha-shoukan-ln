@@ -308,7 +308,7 @@ like that wasabi-filled baby castella I ate back at Shiro-san's place?
 
 [You're not supposed to say that with your own mouth!]
 
-[Staaaaaarrrreeeeeeee\~\~\~\~~]
+[Staaaaaarrrreeeeeeee\~\~\~\~\~]
 
 [T-Thank you for the food.]
 

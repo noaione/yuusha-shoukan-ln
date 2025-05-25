@@ -259,7 +259,7 @@ disaster... but I also feel like it’s a bad idea to just abruptly move here.
 
 [Keeping close to Kaito-kun is happiness.]
 
-[ ~ ~ ?! ]
+[ \~ \~ ?! ]
 
 Kuro walked up to me and spontaneously sat on my lap. What the heck is this girl
 doing?! That’s dangerous, doing that is really bad! Awawa, it feels like the
@@ -491,7 +491,7 @@ back of my neck...
 
 [Nchuu... chuuu... nuaahhh...]
 
-[ ~ ~ ?! ]
+[ \~ \~ ?! ]
 
 Her lips pressing against mine, her tongue inserted into my mouth freely and
 viscously, as if to taste everything in my mouth. I desperately tried escaping
@@ -546,7 +546,7 @@ expectant look in her eyes.
 
 [...I also want... to kiss... Kaito.]
 
-[ ~ ~ ?! ]
+[ \~ \~ ?! ]
 
 Aaaahhhhh?! She really saaaaaawwww iiiitttt?! No, no, as expected, it’s already
 impossible for me?! I’m absurdly trying hard to persevere here, desperately
@@ -571,7 +571,7 @@ mine.
 
 [...Chyuupp... Chyuuu... Puaahhh.]
 
-[ ~ ~ ?!?! ]
+[ \~ \~ ?!?! ]
 
 It’s sweet... The taste of her mouth is just plain sweetness and warmth...
 Kissing her lips is already melting my thoughts... It feels like I’m turning
