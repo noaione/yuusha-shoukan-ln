@@ -1695,7 +1695,7 @@ As she muttered those words, the wind blew and the flowers in the floating
 garden swayed as if they're dancing. The cloudless sky is crystal clear, and the
 vast land remains calm as time peacefully passes.
 
-It's as if her heart is reflected in the sky—That she truly had fun—
+It's as if her heart is reflected in the sky... That she truly had fun...
 
 [^chu2]:
     Kaito totally not chuuni name is "Jet-black Darkness", the character

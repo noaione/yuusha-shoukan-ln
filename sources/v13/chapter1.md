@@ -751,7 +751,7 @@ forward, I unleashed my final strike.
 As if responding to my thoughts, the white trajectory that was released from my
 hand sharply burst forth and successfully caught its target.
 
-...Well, even with all the bullsh\*t I said, I’m actually just playing target
+...Well, even with all the bullshit I said, I’m actually just playing target
 practice...
 
 [Congratulations! You have scored five points and will receive a stamp.]
@@ -1248,7 +1248,7 @@ what Kaito-san will do about that?]
 
 [If you’re not confident, we can always stop, you know?]
 
-[...Leave the bullsh*try to when you’re sleeping.]
+[...Leave the bullshittery to when you’re sleeping.]
 
 [Fufufu, then, I’ll be leaving him in your care... Partner.]
 

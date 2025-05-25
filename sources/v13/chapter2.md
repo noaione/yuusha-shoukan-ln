@@ -465,7 +465,7 @@ with Alice, who has spent tens of thousands of years and has completely mastered
 her monstrous physical abilities. What Iris is feeling now is that when she
 regained consciousness, her body was suddenly much stronger than it used to be.
 In addition, Iris has been out of practice for tens of thousands of years, so in
-other words, she’s like an amateur who was suddenly made to ride a g\*ndam.
+other words, she’s like an amateur who was suddenly made to ride a G\*ndam.
 
 And now, Iris couldn’t move... Unable to control her own body, she could barely
 fight as a fixed turret, which was what she was good at before her death. Even
@@ -946,7 +946,7 @@ about 30 minutes ago, and it was obviously unnatural for so many people to be
 here. No, in the first place, where the heck did these people get their
 information... wait, I guess I didn’t have to think about it too much... There
 is only one person who can communicate information to so many people in such a
-short time. That f\*cking idiot... What the heck is she doing?!
+short time. That idiot... What the heck is she doing?!
 
 Seeing the me who’s stunned by the sheer number of spectators, Megiddo-san
 happily smiled.
@@ -1041,7 +1041,7 @@ information about that secret item is confidential?! You’ve just raised a deat
 flag on top of my head, you know?! Kaito-san is already looking at me like an
 oni, you know?!_&gt;
 
-&lt;_Oooiiii\~\~ Kai-chaaaan\~\~ Do your best\~\~~_&gt;
+&lt;_Oooiiii\~\~ Kai-chaaaan\~\~ Do your best\~\~\~_&gt;
 
 &lt;_You’re not listening at all?!_&gt;
 
@@ -1092,7 +1092,7 @@ sculpture’s quality. I think it’s a good decision I made back then. With onl
 minutes left, I looked at my sculpture, which was nearing completion, and one
 thought came to my mind.
 
-...What the f\*ck is this? This... “creepy creature”...
+...What the hell is this? This... “creepy creature”...
 
 “Skin as lumpy as crags”, “legs that looked like a squashed fruit”, “face that
 is so close to the ground for some reason”, “a tail... that doesn’t look like a
@@ -2532,7 +2532,7 @@ mood around here and probably won’t barge in.
 
 As I was thinking about this, Megiddo-san loudly put down his cup and shouted.
 
-[...Speaking of which, oi, you b*stard! Ozma!!! For only your place to have an
+[...Speaking of which, oi, you bastard! Ozma!!! For only your place to have an
 80% pass rate, what does this mean?! Look at Agni’s place, she hasn’t let anyone
 but Kaito through!!!]
 

@@ -1022,8 +1022,8 @@ dangerous instead.
 After Eden-san left, Alice and I spent our time together only with each other
 again, leisurely looking after the store.
 
-[Fuhehe... One white gold coin, two white gold coins... so many... Fuhe——
-Fugyaaahhh?!]
+[Fuhehe... One white gold coin, two white gold coins... so many...
+Fuhe——Fugyaaahhh?!]
 
 [You really are...]
 

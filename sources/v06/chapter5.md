@@ -1281,10 +1281,10 @@ it.
 [Why did you wrap it just around your hips?!]
 
 Yes, Shiro-san appeared... and she certainly had a towel wrapped around her,
-just as I asked her... but it was wrapped as if she was a man... And than—
-because of this, Shiro-san’s rich, shapely bulges and the beautiful protrusion
-on her naked breasts made me swallow my saliva and blood instantly rose to my
-face.
+just as I asked her... but it was wrapped as if she was a man... And
+than—because of this, Shiro-san’s rich, shapely bulges and the beautiful
+protrusion on her naked breasts made me swallow my saliva and blood instantly
+rose to my face.
 
 Shiro-san always goes way beyond my expectations... and it seems that what I was
 thinking was still too naive. Or rather... A-As expected of Shiro-san... She’s

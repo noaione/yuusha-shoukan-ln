@@ -1527,7 +1527,7 @@ When she saw Laguna-san, Fors-san waved her right hand towards her with a bright
 smile on her face. However, Laguna-san didn’t respond to her greeting and
 leaping towards Fors-san, Laguna-san slammed her knuckle on her head.
 
-[What the heck are you doing, you b*tch?!]
+[What the heck are you doing, you bitch?!]
 
 [Ghaak?!]
 
@@ -1597,7 +1597,7 @@ when I concentrate, my thoughts become narrow. I’ll reflect on this... By the
 way, I actually found some interesting plants on my way along the Rigforeshia
 forest. I was so excited harvesting them that I couldn’t help myself...]
 
-[You b*tch! Doesn’t that make it the reason why you’re late?!]
+[You bitch! Doesn’t that make it the reason why you’re late?!]
 
 [N-No, that certainly might be one of the factors but... calm down, Humans are
 beings capable of discussion. Put down that raised fist. If you hit me any

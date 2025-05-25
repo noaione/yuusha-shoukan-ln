@@ -306,8 +306,8 @@ after we get down! You better remember that!]
 Like a roller coaster, Alice carried through many leaps and bounds, spinning
 around the air.
 
-[W-Well\~\~ It was just that, you know... I got really excited... Ehe—
-Fugyaaahhh?!]
+[W-Well\~\~ It was just that, you know... I got really excited...
+Ehe—Fugyaaahhh?!]
 
 [You really are\~\~]
 
@@ -1215,8 +1215,8 @@ I see, games huh... Is this something like this world’s version of a game
 center? This place would certainly be a great way to pass the time and with all
 the various games we could play, we could have lots of fun.
 
-[...Ahh, by the way, the “chips for games” can be exchanged over th—
-Fugyaaahhh?!]
+[...Ahh, by the way, the “chips for games” can be exchanged over
+th—Fugyaaahhh?!]
 
 [Isn’t this a freaking casino?!]
 

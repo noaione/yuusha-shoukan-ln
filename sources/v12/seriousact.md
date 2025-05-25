@@ -95,7 +95,7 @@ she’s in here, what the heck is with that clean swapping of you two? Geez,
 you’ve already met on the Web Novel, so you don’t need to take such
 considerations!]
 
-[...Ahh~~ I see now... I could guess the gist of the situation.]
+[...Ahh\~\~ I see now... I could guess the gist of the situation.]
 
 Within her stuffed costume, ? ? ? , who had guessed who the dangerous person
 Serious-senpai was talking about, smiled wryly as she thought of her best

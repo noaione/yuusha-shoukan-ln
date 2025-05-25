@@ -8,7 +8,7 @@ the Underworld King! Furthermore, people from the Demon Realm and God Realm
 started appearing one after another around Kaito... After having been invited by
 the Emperor of Archlesia Empire, Kaito somehow ends up having a drinking contest
 with the War King, and finally learns of the threat posed by the mysterious
-Phantasmal King—
+Phantasmal King...
 
 ## What is the Festival of Heroes?
 

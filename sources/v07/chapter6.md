@@ -797,7 +797,7 @@ that moment... I noticed that Anima, who should have been beside me, wasn’t
 there, and at the same time, I heard a low, intimidating voice from behind.
 
 [...You bastards dare bumping into Master, and that kind of apology... is worth
-death! Let me see your empty heads rub against the ground—
+death! Let me see your empty heads rub against the ground—]
 
 [Anima, stop!!!]
 
