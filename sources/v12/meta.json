@@ -1,0 +1,120 @@
+{
+    "title": "I Was Caught up in a Hero Summoning, but That World Is at Peace: Volume 12",
+    "volume": 11,
+    "identifier": "i-was-caught-up-in-a-hero-summoning-v12",
+    "cover": "Cover.jpg",
+    "year": 2021,
+    "version": "1.0.0",
+    "toc": [
+        {
+            "title": "Cover",
+            "type": "frontmatter",
+            "filename": "cover.md"
+        },
+        {
+            "title": "Illustrations",
+            "type": "frontmatter",
+            "filename": "illust.md",
+            "numbering": "padzero"
+        },
+        {
+            "title": "Contents",
+            "type": "frontmatter",
+            "filename": "toc.md",
+            "landmark": "toc"
+        },
+        {
+            "title": "Story",
+            "type": "frontmatter",
+            "filename": "story.md",
+            "numbering": "padzero"
+        },
+        {
+            "title": "Characters",
+            "type": "frontmatter",
+            "filename": "characters.md",
+            "numbering": "padzero"
+        },
+        {
+            "title": "Prologue",
+            "type": "chapter",
+            "filename": "chapter0.md",
+            "landmark": "bodymatter",
+            "break": true
+        },
+        {
+            "title": "Chapter 1: Betting on Each Other's Thoughts",
+            "type": "chapter",
+            "filename": "chapter1.md"
+        },
+        {
+            "title": "Chapter 2: Denouement",
+            "type": "chapter",
+            "filename": "chapter2.md"
+        },
+        {
+            "title": "Chapter 3: Post-Incident Explanations",
+            "type": "chapter",
+            "filename": "chapter3.md"
+        },
+        {
+            "title": "Chapter 4: Freabell Nidzveld",
+            "type": "chapter",
+            "filename": "chapter4.md"
+        },
+        {
+            "title": "Intermission: Nidzveld — The Path the Red Dragon Took",
+            "type": "chapter",
+            "filename": "chapter4x1.md"
+        },
+        {
+            "title": "Chapter 5: Arrival at the Venue",
+            "type": "chapter",
+            "filename": "chapter5.md"
+        },
+        {
+            "title": "Intermission: Kuromueina — The Starry Sky with You",
+            "type": "chapter",
+            "filename": "chapter5x1.md"
+        },
+        {
+            "title": "Chapter 6: The Night Before the Six Kings Festival",
+            "type": "chapter",
+            "filename": "chapter6.md"
+        },
+        {
+            "title": "Epilogue",
+            "type": "chapter",
+            "filename": "chapter7.md"
+        },
+        {
+            "title": "Special: Character Design Reveal",
+            "type": "backmatter",
+            "filename": "special.md",
+            "numbering": "padzero",
+            "landmark": "backmatter",
+            "break": true
+        },
+        {
+            "title": "Afterword",
+            "type": "backmatter",
+            "filename": "afterword.md"
+        },
+        {
+            "title": "Serious-senpai's Room: Act 12",
+            "type": "backmatter",
+            "filename": "seriousact.md"
+        },
+        {
+            "title": "Translation Notes",
+            "type": "backmatter",
+            "filename": "notes.md",
+            "optional": true
+        },
+        {
+            "title": "Colophon",
+            "type": "backmatter",
+            "filename": "colophon.md"
+        }
+    ]
+}
