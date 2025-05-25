@@ -207,7 +207,7 @@ the same.]
 
 [Yes!]
 
-![Insert 4](../../_Images/v04/Insert4.jpg#.insert)
+![Insert 4](../../_Images/v04/Insert4.png#.insert)
 
 ---
 
@@ -1331,7 +1331,7 @@ stops in front of us. Up close, he really looks tremendously enormous, and the
 intimidation of his gaze as he seemed to look down on me isn’t being suppressed
 at all.
 
-![Insert 5](../../_Images/v04/Insert5.jpg#.insert)
+![Insert 5](../../_Images/v04/Insert5.png#.insert)
 
 [You’re Miyama Kaito, right?]
 

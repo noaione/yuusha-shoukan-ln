@@ -757,7 +757,7 @@ around my body.
 The words that she muttered to me with her face against my chest were so
 destructive that I felt a blush immediately rising up my cheeks.
 
-![Insert 3](../../_Images/v04/Insert3.jpg#.insert)
+![Insert 3](../../_Images/v04/Insert3.png#.insert)
 
 After a while, Isis-san calmed down and let go of my body, and we resumed our
 interrupted lunch, but it turned out to be a little troublesome. No, I’m glad to

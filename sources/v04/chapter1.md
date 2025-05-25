@@ -1069,7 +1069,7 @@ Behemoth! It’s the Behemoth!”
 Lightly knocking Alice on her head for being so excited about making so much
 money, I smiled at the Behemoth looking at me from the goal.
 
-![Insert 1](../../_Images/v04/Insert1.jpg#.insert)
+![Insert 1](../../_Images/v04/Insert1.png#.insert)
 
 ---
 
@@ -2090,7 +2090,7 @@ different. With the short haircut and her gender-neutral face, the first time we
 met, I had misunderstood because she was wearing a man’s suit, but now that I
 see her like this, she completely looks like a woman.
 
-![Insert 2](../../_Images/v04/Insert2.jpg#.insert)
+![Insert 2](../../_Images/v04/Insert2.png#.insert)
 
 Looking back, Chris-san never said he was a man, and Alice said they were the
 third child of the former emperor, but never did she refer to Chris-san as a
