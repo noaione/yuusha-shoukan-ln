@@ -1171,7 +1171,7 @@ picturesque, and I somehow felt elegance about her.
 
 [I-I’m sorry...]
 
-![Insert 5](../../_Images/v12/Insert5.jpg#.insert)
+![Insert 5](../../_Images/v12/Insert5.png#.insert)
 
 Kuro is the organizer of the event and the one enjoying this the most, but it
 seems like she only has half-baked knowledge about fireworks themselves. While

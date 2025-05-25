@@ -1774,7 +1774,7 @@ hakama and kimono... making her look like a woman from the Taisho era. She then
 grabbed her long, beautiful black hair, tucking it behind her neck, and without
 any hesitation, she cut her long hair with the Japanese katana in her hand.
 
-![Insert 1](../../_Images/v12/Insert1.jpg#.insert)
+![Insert 1](../../_Images/v12/Insert1.png#.insert)
 
 [Fufufu, now that looks really nostalgic... Here.]
 
@@ -3121,7 +3121,7 @@ I’ve been moving around all for this moment. I still don’t know what the out
 of their meeting will be... But even if that’s so, Kuro and Dr. Vier, at this
 moment... for the first time in a thousand years, they met again.
 
-![Insert 2](../../_Images/v12/Insert2.jpg#.insert)
+![Insert 2](../../_Images/v12/Insert2.png#.insert)
 
 Slowly, Kuro stepped towards Dr. Vier. Dr. Vier looked pale, and her shoulders
 jerked every time took a step closer.

@@ -246,7 +246,7 @@ see in delinquent mangas. She had a long kiseru pipe in her mouth, like those
 you see from ancient dramas, making her look as if she was a female delinquent
 leader.
 
-![Insert 3](../../_Images/v12/Insert3.jpg#.insert)
+![Insert 3](../../_Images/v12/Insert3.png#.insert)
 
 Her iridescent eyes, with their long, vertical pupils, looked as sharp as a bird
 of prey’s, and she seemed to release an inexplicable sense of intimidation. I

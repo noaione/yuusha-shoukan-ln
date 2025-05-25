@@ -92,7 +92,7 @@ Yes, the girls have noticed. The feverish gaze Caraway had towards Kaito...
 Rather, they’ve clearly noticed that “her tail turned into the shape of a heart”
 when she’s talking with Kaito...
 
-![Insert 4](../../_Images/v12/Insert4.jpg#.insert)
+![Insert 4](../../_Images/v12/Insert4.png#.insert)
 
 [...Fumu, to see through Master’s loftiness, that High-ranking Demon... It seems
 like she would have quite the bright future.]
