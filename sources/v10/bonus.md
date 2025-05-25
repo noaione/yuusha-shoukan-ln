@@ -60,4 +60,4 @@ toc: true
 
 ![Bonus 28](../../_Images/v10/Bonus28.jpg#.insert)
 
-![Bonus 29](../../_Images/v10/Bonus29-Cut.png#.insert)
+![Bonus 29](../../_Images/v10/Bonus29-Cut.jpg#.insert)

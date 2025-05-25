@@ -632,7 +632,7 @@ swayed with each of her pleasured moans and movements of her body.
 
 [...]
 
-![Insert 2](../../_Images/v10/Insert2.jpg#.insert)
+![Insert 2](../../_Images/v10/Insert2.png#.insert)
 
 She glanced at me just now... It seems that she’s really enjoying doing this. I
 feel like my face is so hot right now, and no matter how much I try to free my
@@ -1294,7 +1294,7 @@ girl ran past us Shea-san and I with a happy expression on her face... At that
 moment, I saw what looked like a glowing line on the young girl’s body flash in
 an instant.
 
-![Insert 3](../../_Images/v10/Insert3.jpg#.insert)
+![Insert 3](../../_Images/v10/Insert3.png#.insert)
 
 [S-Shea-san?! That is... What is that?]
 

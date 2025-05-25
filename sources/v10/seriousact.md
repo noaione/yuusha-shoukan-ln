@@ -107,4 +107,4 @@ voluuuuuuume!!!]
 And so, once again today, the waiting room was filled with Serious-senpai’s
 bitter cries.
 
-![Bonus Illustration](../../_Images/v10/SS01-Illust-Cut.png#.insert)
+![Bonus Illustration](../../_Images/v10/SS01-Illust-Cut.jpg#.insert)

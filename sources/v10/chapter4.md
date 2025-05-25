@@ -2027,7 +2027,7 @@ the first step.]
 With tears streaming down her face, Alice put her hands around my neck and
 hugged me as if she were clinging to me.
 
-![Insert 5](../../_Images/v10/Insert5.jpg#.insert)
+![Insert 5](../../_Images/v10/Insert5.png#.insert)
 
 [However, I don’t think I can go to the place where my close friends are... I
 fell in love with Kaito-san and you accepted my feelings... My desire to die has

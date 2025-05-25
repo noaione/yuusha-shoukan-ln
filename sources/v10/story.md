@@ -2,4 +2,4 @@
 template: images
 ---
 
-![Story Summary](../../_Images/v10/StorySummary.jpg#.insert)
+![Story Summary](../../_Images/v10/StorySummary.png#.insert)

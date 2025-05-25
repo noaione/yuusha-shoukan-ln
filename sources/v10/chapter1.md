@@ -480,7 +480,7 @@ target...]
 
 [What about me?!]
 
-![Insert 1](../../_Images/v10/Insert1.jpg#.insert)
+![Insert 1](../../_Images/v10/Insert1.png#.insert)
 
 No, I mean, I think that if it’s Alice, she would somehow be able to get away
 from it...

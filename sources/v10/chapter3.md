@@ -884,7 +884,7 @@ tremendous rage.
 With those words that seem to give out a command, at that moment, this strange
 space was filled with numerous lights.
 
-![Insert 4](../../_Images/v10/Insert4.jpg#.insert)
+![Insert 4](../../_Images/v10/Insert4.png#.insert)
 
 ---
 
