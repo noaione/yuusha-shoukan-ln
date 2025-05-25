@@ -158,9 +158,9 @@ export async function mdastToHast(
             class: 'centerp diamond',
           },
           [
-            h('span', { style: 'margin-left:1em; margin-right: 1em;' }, ['*']),
-            h('span', { style: 'margin-left:1em; margin-right: 1em;' }, ['*']),
-            h('span', { style: 'margin-left:1em; margin-right: 1em;' }, ['*']),
+            h('span', { style: 'margin-left:1em; margin-right: 1em;' }, ['✻']),
+            h('span', { style: 'margin-left:1em; margin-right: 1em;' }, ['✻']),
+            h('span', { style: 'margin-left:1em; margin-right: 1em;' }, ['✻']),
           ],
         );
       },

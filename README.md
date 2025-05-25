@@ -40,6 +40,7 @@ Please send me a message immediately so it go through my Message Request.
 - Move TL Notes as Footnotes, and remove the more obvious one.
 - Changed some excessive em/en-dash `———-` -> `—`
 - Changed excessive ellipsis `……` -> `...`
+- Replace `＊` separator with a customized thematic break.
 - Adjust some weird use of spacing, punctuation, missing bracket, etc.
 - Minor adjustment to some sentences.
 
