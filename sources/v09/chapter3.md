@@ -580,7 +580,7 @@ smiled.
 
 [Yes... wait, Dr . Vier?! In front! There’s a signboard!]
 
-[Eh? —Fugyaaahhhh?!]
+[Eh? Fugyaaahhhh?!]
 
 ---
 

@@ -1150,7 +1150,7 @@ than I ever have before!]
 
 [Ahh?! Dr. Vier, watch your feet! There’s a step there!!!]
 
-[Fuehh? —Kyaaahh?!]
+[Fuehh? Kyaaahh?!]
 
 [?!]
 

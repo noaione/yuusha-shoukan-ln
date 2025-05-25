@@ -957,7 +957,7 @@ sung in praise even now.
 
 [And thus, the battle of the First Hero ended. In the land where the treaty of
 friendship was concluded, the three realms worked together to create one city.
-The name of the city was —“Hikari”, named after the First Hero-sama. This is the
+The name of the city was—“Hikari”, named after the First Hero-sama. This is the
 city where the main event of the Hero Festival is to be held.]
 
 ...Hmm? Hikari? If that's the name of the First Hero, then the First Hero was a

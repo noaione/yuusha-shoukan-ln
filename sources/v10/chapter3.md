@@ -879,7 +879,7 @@ And with those words, Alice puts her hand on the mask on her face, removes it
 and throws it away, and stares at the angel with eyes that are filled with
 tremendous rage.
 
-[——Blade of my heart, burst forth! ——Weave my bonds! —— _Hekatonkheires_!!!]
+[——Blade of my heart, burst forth! ——Weave my bonds! ——_Hekatonkheires_!!!]
 
 With those words that seem to give out a command, at that moment, this strange
 space was filled with numerous lights.
@@ -1253,7 +1253,7 @@ grow in this battle to become “a me that can win”!!!]
 As if in response to Alice’s will, her _Hekatonkheires_ shines brighter, and
 numerous meteors began raining incessantly on Alice’s body.
 
-[Here—At this moment—The farthest my heart had reached—Exceed my limits——And
+[Here——At this moment——The farthest my heart had reached—Exceed my limits——And
 now, weave the world! ——_Hekatonkheires_!!!]
 
 With a shout, Alice’s magic power and her body begin to glow with a shimmering

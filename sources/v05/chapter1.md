@@ -198,7 +198,7 @@ again. It might be impossible, but it was like the earth was shaking due to
 
 “...How unusual. For him to get out of his home...”
 
-[Eh? —?!]
+[Eh?!]
 
 Lillywood-san, who turned around and said that in surprise, made me look back...
 and made me lost for words.

@@ -1793,8 +1793,8 @@ My heart pulsed so fast as if it’s going to burst open. A searing heat dwells
 within my entire body, and as if to match with my emotions, the light of
 _Hekatonkheires_ dancing around me pulsates.
 
-[Here—At this moment—The farthest my heart had reached—Exceed my limits—And now,
-weave the world! ——_Hekatonkheires_!!!]
+[Here——At this moment——The farthest my heart had reached—Exceed my limits——And
+now, weave the world!——_Hekatonkheires_!!!]
 
 This is the ultimate form of _Hekatonkheires_, the ability that I wasn’t able to
 use in my battle with Kuro-san. Bringing all the bonds I accumulated into my
