@@ -1010,7 +1010,7 @@ cares about me.]
 
 [A-Amazing...]
 
-[In exchange, Hekatokheires by itself have no fighting power. It can’t do
+[In exchange, _Hekatokheires_ by itself have no fighting power. It can’t do
 anything by itself, but the more bonds I weave, the stronger it becomes... I had
 such an ability back then.]
 

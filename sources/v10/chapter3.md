@@ -1077,7 +1077,7 @@ surrounded in was sucked into her body, and Alice’s appearance changed. “Her
 hair had become a reddish-purple twintail” and “her golden eyes” glared at the
 surrounding light bullets...
 
-[ “Deviate!” ]
+[“_Deviate_!”]
 
 [Hoohh, Law of Causality Derivation, that’s a domain equivalent to a God’s
 power... Truly interesting.]
@@ -1099,9 +1099,9 @@ a girl with two shades of gray and black hair, appeared and held up her staff.
 Thereupon, Alice’s magic power explosively increased and began converging on the
 tip of her wand.
 
-[Devour, Tyrannical Beast—Apocalypse!]
+[Devour, Tyrannical Beast——_Apocalypse_!]
 
-[ ? ! ]
+[?!]
 
 As if to say that it was revenge from her attack earlier, a huge jet-black
 magical bombardment burst towards Earth God. Watching it quietly, Earth God
@@ -1419,7 +1419,7 @@ Alice. In an instant, an extraordinary amount of magic power gathered in her
 hand and was released in a flash that filled her field of vision, but at about
 the same time, Alice had a huge wand appear in her hand and held it ready.
 
-[Devour! Tyrannical Beast—Apocalypse!!!]
+[Devour! Tyrannical Beast——_Apocalypse_!!!]
 
 The black flash from Alice’s staff and the white flash unleashed by Earth God
 collided, causing a huge explosion that engulfs the surrounding area. Thereupon,
