@@ -1226,7 +1226,7 @@ all that happened, all of that disappeared right at that instant. How should I
 say this... it seems that even until the end—It may just be under Alice’s
 expectations.
 
-![Insert 3](../../_Images/v05/Insert3.jpg#.insert)
+![Insert 3](../../_Images/v05/Insert3.png#.insert)
 
 ---
 

@@ -290,7 +290,7 @@ H-He’s outrageously intimidating... The combination of his voice and magic
 power, as well as the visual magnitude, makes my body tremble, as if I’m being
 crushed.
 
-![Insert 1](../../_Images/v05/Insert1.jpg#.insert)
+![Insert 1](../../_Images/v05/Insert1.png#.insert)
 
 However, even so, it’s not as bad as when I first encountered Isis-san. I think
 it was quite rude to greet him while I’m trembling, so I closed my eyes once,
@@ -880,7 +880,7 @@ to kill off my reason.
 
 You’re distracting me here, so shut up there, airhead Goddess.
 
-![Insert 2](../../_Images/v05/Insert2.jpg#.insert)
+![Insert 2](../../_Images/v05/Insert2.png#.insert)
 
 I fired back at the airhead Goddess who responded to my inner thoughts as if it
 was obvious, but just at that moment, I felt something like a sponge touch my

@@ -876,7 +876,7 @@ send me an invitation... But His Majesty, the King’s apology was a
 straightforward one that didn’t have any excuses, and that’s why I could firmly
 feel his sincerity.
 
-![Insert 5](../../_Images/v05/Insert5.jpg#.insert)
+![Insert 5](../../_Images/v05/Insert5.png#.insert)
 
 Anyway, I wasn’t the least bit bothered about it from the start, so I told him
 that I accepted His Majesty, the King’s apology. I’m the protagonist here, and

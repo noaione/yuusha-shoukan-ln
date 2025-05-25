@@ -1674,7 +1674,7 @@ think about anything else anymore. All I could think about was the soft and
 sweet feeling of Shiro-san’s breasts that seemed to entrance all my attention,
 along with the pleasant scent that tickled my nostrils.
 
-![Insert 4](../../_Images/v05/Insert4.jpg#.insert)
+![Insert 4](../../_Images/v05/Insert4.png#.insert)
 
 [You say all that, but Kaito-san seems to be really happy about it, aren’t you?]
 
