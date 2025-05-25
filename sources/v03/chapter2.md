@@ -761,7 +761,7 @@ Life. It's not that he's vigorously pushing my back forward, nor does he just
 unsparingly reject my thoughts... He would just give me gentle advice that isn't
 too intrusive. It felt like something that would gently brush my mind.
 
-![Insert 1](../../_Images/v03/Insert1.jpg#.insert)
+![Insert 1](../../_Images/v03/Insert1.png#.insert)
 
 [I think Miyama-kun will continue to be troubled with a lot of things in the
 future. There would be times where you wouldn't arrive at any answer, and there

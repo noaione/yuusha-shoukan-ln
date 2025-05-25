@@ -543,7 +543,7 @@ and Kuromueina said her thoughts that she would never have told Kaito directly
 
 [...I love you... Kaito-kun.]
 
-![Insert 5](../../_Images/v03/Insert5.jpg#.insert)
+![Insert 5](../../_Images/v03/Insert5.png#.insert)
 
 ---
 

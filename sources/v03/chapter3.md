@@ -696,7 +696,7 @@ location of the inn, and after listening to her, Isis nodded before following
 after Lilia. The existence of the Black Bear trashes were no longer within her
 head, and she only cared about Kaito, who was still unconscious in her arms.
 
-![Insert 2](../../_Images/v03/Insert2.jpg#.insert)
+![Insert 2](../../_Images/v03/Insert2.png#.insert)
 
 ---
 

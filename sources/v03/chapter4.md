@@ -1083,7 +1083,7 @@ seemed like the trunk of the tree was rotating before——Eh?
 
 [Wha?!]
 
-![Insert 4](../../_Images/v03/Insert4.jpg#.insert)
+![Insert 4](../../_Images/v03/Insert4.png#.insert)
 
 The tree moved as if it were looking back, and my voice involuntarily leaked out
 at the sight that met my eyes. In the tree's trunk... just around the center,
