@@ -323,7 +323,7 @@ the size of my palm, has a small magic crystal attached to it, and just like the
 magic box, it seemed to have been structured to restrict its use to a limited
 number of people.
 
-![Insert 3](../../_Images/v09/Insert3.jpg#.insert)
+![Insert 3](../../_Images/v09/Insert3.png#.insert)
 
 In other words, this music box is a magic tool that can only be used by me in
 this world... Something that was really made just for me alone.... Uuughhh...

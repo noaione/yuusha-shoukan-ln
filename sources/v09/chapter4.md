@@ -459,7 +459,7 @@ say, that she had told her what she needed to tell her...
 Meanwhile, Funf just looked at her back in silence... tears dripping down her
 sad eyes.
 
-![Insert 4](../../_Images/v09/Insert4.jpg#.insert)
+![Insert 4](../../_Images/v09/Insert4.png#.insert)
 
 Funf walked through the city at dusk with a determined expression on her face.
 She was able to reaffirm her intentions by meeting Vier face to face and

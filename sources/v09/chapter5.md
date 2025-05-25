@@ -321,7 +321,7 @@ against my neck, and more than this ticklish feeling, I felt my face somehow
 getting hot, and pushed by my embarrassment, I walked a bit faster to the
 temple.
 
-![Insert 5](../../_Images/v09/Insert5.jpg#.insert)
+![Insert 5](../../_Images/v09/Insert5.png#.insert)
 
 When I reached the front of the temple with Fate-san on my back, two women were
 waiting for us there. One is slender and tall, with bright pink hair neatly

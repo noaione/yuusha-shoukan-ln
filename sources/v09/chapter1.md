@@ -1073,7 +1073,7 @@ castella like this before!]
 A huge, chocolate-coated baby castella, five meters in diameter, was now sitting
 in front of us.
 
-![Insert 1](../../_Images/v09/Insert1.jpg#.insert)
+![Insert 1](../../_Images/v09/Insert1.png#.insert)
 
 That’s strange? I thought I did my best to prevent this from happening.... I
 guess it really was that huh? I could prevent her from using strange

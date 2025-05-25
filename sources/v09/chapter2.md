@@ -123,7 +123,7 @@ nothing strange about it. Within such a conversation, my thoughts went blank
 when Lilia-san stood on tiptoes and brought her face close to mine, and I felt a
 soft touch on my cheek.
 
-![Insert 2](../../_Images/v09/Insert2.jpg#.insert)
+![Insert 2](../../_Images/v09/Insert2.png#.insert)
 
 [...Eh?]
 
