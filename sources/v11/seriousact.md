@@ -12,8 +12,8 @@ sitting across from her.
 
 [...Unnn?]
 
-[Why the heck are you still here!? Why is it, as if it’s the most obvious thing
-in the world, that you return here in the next volume’s back cover!? You’ve
+[Why the heck are you still here?! Why is it, as if it’s the most obvious thing
+in the world, that you return here in the next volume’s back cover?! You’ve
 already conveyed enough how dangerous you are in the main story...]
 
 [How dangerous I am?]

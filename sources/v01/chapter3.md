@@ -1452,7 +1452,7 @@ were a patchwork of worlds, and I can see Shiro-san a little further away.
 
 [Now, I'm “interested” in you—Therefore, I will be doing this seriously.]
 
-[?!?!?!?!?]
+[?!?!?!?!]
 
 With the words she mumbled out, a tremendous sense of intimidation was released
 from Shiro-san's body to the point that I couldn't find the words to describe
