@@ -858,7 +858,7 @@ presented it to Kuro.
 
 When she saw the fruit I held out to her, Kuro’s eyes shook greatly.
 
-![Insert 1](../../_Images/v06/Insert1.jpg#.insert)
+![Insert 1](../../_Images/v06/Insert1.png#.insert)
 
 A great deal of turmoil and mixture of fear, Kuro’s eyes opened wide... and
 stared at me, stunned. I’ve often heard that you don’t need a reason to love

@@ -717,7 +717,7 @@ immediately understood what that black fog was, and as her face began turning
 pale, she began sweating like a waterfall as golden eyes appeared in mid-air,
 glaring at Fate-san.
 
-![Insert 4](../../_Images/v06/Insert4.jpg#.insert)
+![Insert 4](../../_Images/v06/Insert4.png#.insert)
 
 [...This... This is amazing... I... I have never felt like this before... I
 haven’t felt death this close... N-No way\~\~ I-I-I-It’s just skinship... you

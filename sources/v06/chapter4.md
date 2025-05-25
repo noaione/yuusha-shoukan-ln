@@ -309,7 +309,7 @@ superb timing, she took out a basket of rice balls? All of the food that
 Illness-san wanted to buy were also suitable for side dishes... Arehh? Had she
 anticipated that a development like this would happen?!
 
-![Insert 3](../../_Images/v06/Insert3.jpg#.insert)
+![Insert 3](../../_Images/v06/Insert3.png#.insert)
 
 [E-Errr, Illness-san? Could it be that, along with me saying to eat lunch in the
 park, everything went just as you anticipated?]

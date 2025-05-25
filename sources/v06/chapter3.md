@@ -62,7 +62,7 @@ resist.
 
 Kuro’s lips met mine, and she continued to kiss me again and again.
 
-![Insert 2](../../_Images/v06/Insert2.jpg#.insert)
+![Insert 2](../../_Images/v06/Insert2.png#.insert)
 
 One minute, she’s nibbling on my upper lip as if she’s play-biting it, but the
 next moment, I felt her soft tongue enter my mouth. A sensation so sweet, so

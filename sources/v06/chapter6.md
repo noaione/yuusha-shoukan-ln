@@ -671,7 +671,7 @@ take a bite before eating the rest. Raz-san twists around and smiles with
 happiness with each bite, almost to the point of exaggeration. She really is
 quite the cute person.
 
-![Insert 5](../../_Images/v06/Insert5.jpg#.insert)
+![Insert 5](../../_Images/v06/Insert5.png#.insert)
 
 As we proceeded to eat our parfait in this way, I was soothed by Raz-san’s
 cuteness... when I heard some familiar voices.
