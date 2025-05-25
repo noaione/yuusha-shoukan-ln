@@ -45,7 +45,7 @@ swore that she would show everyone how she burns down the heavens...
 The was the oldest memory of the memory of the challenger, “Freabell Nidzveld”
 and her beginnings.
 
-＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊
+---
 
 With ambition burning like the fire in her heart, she continued to challenge
 those stronger than her. Even though she lives in a world where it’s the

@@ -38,7 +38,7 @@ Fafnir-sama, a Count-rank Dragon and a super-ancient true dragon...]
 
 ...Well, Lilia-san looks happy, so I guess it’s fine.
 
-＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊
+---
 
 I had heard that the Six Kings Festival would be held on an island in the Demon
 Realm, but the place I arrived at was nothing short of breathtaking. They made a
@@ -70,7 +70,7 @@ unconsciously doing that? If so, that’s kind of cute.
 Saying this, Caraway-san smiled at me. It may just be my imagination, but her
 expression somehow feels softer than when we had met before.
 
-＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊
+---
 
 Watching Kaito and Caraway calmly conversing with each other, Lunamaria muttered
 to herself.
@@ -184,7 +184,7 @@ asks for it.
 
 It seems like Lunamaria’s hardships still continue.
 
-＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊
+---
 
 Meeting Caraway-san again, I finished introducing her to Anima and the others,
 who she had never met before. I don’t know why, but Anima had an unusually good

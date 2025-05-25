@@ -476,7 +476,7 @@ going back to her clinic. After thanking and apologizing to us once again, she
 left. I also left the office after having a short discussion with Lilia-san
 about our plans for tomorrow’s date.
 
-＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊
+---
 
 After dinner and a bath, I went back to my room and was writing my diary,
 thinking about the day, when Kuro appeared just as usual.

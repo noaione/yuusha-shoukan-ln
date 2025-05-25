@@ -203,7 +203,7 @@ the end, the match didn’t come to a conclusion. However, seeing the two of the
 enjoying themselves somehow, it seems like it’s just as Kuro said—It’s
 Isis-san’s victory.
 
-＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊
+---
 
 After a pleasant and peaceful dinner, we had a chat over a cup of tea made by
 Ein-san. I don’t know if she thought it’s a good time or not, but Kuro suddenly
@@ -937,7 +937,7 @@ nuaahhh... wai...]
 They started fooling around above my legs. My mind is slowly being whittled
 away... Somebody... Help me...
 
-＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊
+---
 
 Relaxing my flushed body on the couch in the changing room and letting out a
 deep sigh, I wondered if this tiredness I’m feeling is because of the onsen or
@@ -1181,7 +1181,7 @@ sparkler, they were quite lively. As I ate what looked like a watermelon that
 Ein-san had prepared for me, watching that noisy, but fun scene made a smile
 naturally appear on my lips.
 
-＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊
+---
 
 Before I knew it, the fun fireworks ended, and we moved to our overly spacious
 bedroom. However, it was still a little early to go to bed, so just as I was

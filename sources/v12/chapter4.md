@@ -147,7 +147,7 @@ anything right away, so I’m going to put it on hold for the time being. The Si
 Kings Festival is coming up soon, so even if I don’t think of something right
 now, I’m sure I’ll have many opportunities to thank them.
 
-＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊
+---
 
 The 15th Day of the second Fire month.
 
@@ -192,7 +192,7 @@ find many interesting stores there. Alright, it’s decided then. They did say h
 there’s no time like the present, so let’s head to the Archlesia Empire by
 Teleportation.
 
-＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊
+---
 
 Just like that time with the flower garden, Chris-san’s recommendations exceeded
 my expectations. I was very satisfied with the store this time, and not only did
@@ -969,7 +969,7 @@ Frea-san. We are both people who have suffered the same pain, and yet, still
 tried to stand up and fight against it... I guess we really had formed what
 could be called a bond of comradeship.
 
-＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊
+---
 
 While Kaito had experienced a new encounter in Archlesia Empire, in another
 place, a certain person was returning to her family after a thousand years. In

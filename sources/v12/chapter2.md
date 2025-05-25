@@ -579,7 +579,7 @@ And Neun-san just took a bite out of her sales pitch! Unnn, this is hopeless
 already... The situation is completely swaying to Alice’s favor. However, I
 can’t win... I will still buy them.
 
-＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊
+---
 
 While Kaito and Neun were enjoying Alice’s cooking, the people who had gathered
 in front of the church in Symphonia Kingdom were beginning to disperse. When
@@ -780,7 +780,7 @@ advance by letter...]
 be busy with preparations... In that case, I guess it would be better to do it
 at a later date... Or better yet, at the time of the Six Kings Festival.]
 
-＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊
+---
 
 After eating a delicious, but rip-off priced meal at Alice’s stall, Neun and I
 chatted for a while, when Alice suddenly spoke.

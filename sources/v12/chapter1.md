@@ -817,7 +817,7 @@ Neither Sechs-san nor Funf-san complained about Raz-san, Acht and Eva joining
 us, and they respected their wishes. However, I wonder why? It might just be my
 imagination... but Sechs-san somehow looked happy.
 
-＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊
+---
 
 There wasn’t really any signal that started the battle, and it was Lilia and
 Neun who made the first move. High-Density Magic Power Constitution... Lilia’s
@@ -1239,7 +1239,7 @@ Confronting the No. 5 of the God Realm while being attentively watched by two of
 the Six Kings... Sechs was carrying a terrible amount of pressure in his
 shoulders.
 
-＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊
+---
 
 Outside of the Large-Scale Spatial Barrier where the battle had begun and a
 back-and-forth attack and defense was being waged, in a corner of the royal city
@@ -1344,7 +1344,7 @@ enough already, so you could say I am blindly believing in him.]
 
 [Seriously... That’s a surprisingly unique way of putting it.]
 
-＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊
+---
 
 Some time had passed since the battle began.
 
@@ -1444,7 +1444,7 @@ thinking about what we don’t have.]
 After muttering this in a voice that no one could hear, Shea removed her gaze
 from Lilia and the others, and headed towards her opponent.
 
-＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊
+---
 
 It should have only been a few dozen minutes since the battle began... but I
 wonder how many exchanges had taken in such a short time? My eyesight could
@@ -1875,7 +1875,7 @@ battle... a voice quietly rang out.
 Even though her voice was supposed to be so quiet, with a murmur filled with
 intense emotions, tremendous magic power erupted from Funf-san’s body.
 
-＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊
+---
 
 [...Funf-dono?]
 
@@ -2229,7 +2229,7 @@ enough left over to recover...)
 
 For this reason, Illness continues to do her best to hold off Funf alone.
 
-＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊
+---
 
 Moving the time back a little, in another battle... the main battle was reaching
 its climax. Neun ran with a strong gait that didn’t show even a hint of fatigue,
@@ -2521,7 +2521,7 @@ going to reject it.
 
 [That’s why... Can you please leave?]
 
-＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊
+---
 
 When Kaito and Neun passed through that barrier and entered the church, the
 three Executives, who were also outside the barrier, were watching their backs
@@ -2594,7 +2594,7 @@ home.]
 Just like Nidzveld, the two of them decided not to observe the situation any
 further, and each used their own Teleportation Magic to leave the scene.
 
-＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊
+---
 
 Even as she stared at Neun-san and I, there wasn’t a trace of impatience in Dr.
 Vier’s expression. The way she looked at us, I could sense that she was
@@ -2821,7 +2821,7 @@ the God from another world descended, radiating overwhelming magic power.
 
 […Details, Acknowledged.]
 
-＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊
+---
 
 Inside the barrier in front of the church.
 
@@ -3052,7 +3052,7 @@ abouuuuut, a God from another woooooorld?]
 [...A God from another world? She’s someone like Shallow Vernal-sama? For him to
 know such a person, that child is as amazing as usual.]
 
-＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊ ＊
+---
 
 With the appearance of Eden-san, Dr. Vier immediately moved. She immediately
 turned around and ran away without hesitation... realizing in an instant that
