@@ -955,7 +955,7 @@ to the Symphonia Kingdom?]
 [Okey-dokey\~\~! Well\~\~ It’s been a long time since I ate lots of food\~\~
 Alice-chan is satisfied.]
 
-[I-I see...&#160; Wait, oi, oi, Alice.]
+[I-I see... Wait, oi, oi, Alice.]
 
 [...Ehh?]
 
@@ -1051,8 +1051,8 @@ you, you know?]
 
 [R-Rumors?]
 
-[Yes. I’ve heard&#160; a lot of things from Cathy... Ah, no, from Princess
-Cattleya, who’s been accompanying me.]
+[Yes. I’ve heard a lot of things from Cathy... Ah, no, from Princess Cattleya,
+who’s been accompanying me.]
 
 Mitsunaga-kun said that he had heard rumors about me... Come to think of it, as
 I recall, the Second Princess of the Symphonia Kingdom is accompanying the group
@@ -1692,8 +1692,8 @@ someone like me be a “target of your lust”?]
 It seems like she has returned to her usual tension, as Fate-san asked me
 something outrageous in a relaxed voice that sounds as if she was having fun.
 While I’m shaken by her question, pushed by Fate-san, who was rubbing the back
-of her head against my chest, I just resigned myself to fa...&#160; I just gave
-up, and spoke.
+of her head against my chest, I just resigned myself to fa... I just gave up,
+and spoke.
 
 [...I think... you are...]
 

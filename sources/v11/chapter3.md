@@ -645,7 +645,7 @@ were enclosed with the letter, saying that it’s one of Chris-san’s tourist
 attractions she recommends the most and that she strongly recommends that I
 visit it at least once.
 
-Even so, flowers huh ... After I came to this world, I watched nature quite a
+Even so, flowers huh... After I came to this world, I watched nature quite a
 bit... especially forests and trees in Rigforeshia and Yggfresis, but
 surprisingly, I may not have seen that much flowers. The one that left the
 greatest impression on me was the Blue Crystal Flower, which I have many
@@ -687,7 +687,7 @@ seeing her maid’s apron tied in a flower-like knot, and even her handkerchief
 has a flower pattern. From those things, I think that Illness likes flowers...
 especially roses.
 
-[I ceeeertainly like flowers buuuuut ... are you reeeeeeally sure you want to go
+[I ceeeertainly like flowers buuuuut... are you reeeeeeally sure you want to go
 there with meeeeee?]
 
 [Yes, that is if Illness-san is alright with it.]
@@ -710,7 +710,7 @@ others had been telling me to get more rest sooooo...]
 Come to think of it, I think Illness-san is always around. She did take
 something like a half day-off before, but I don’t think she’s ever had a whole
 day off... Eh? Could it be, she doesn’t take any time off at all? Hahaha,
-there’s no way ... no way ... no, I guess that’s possible if it’s Illness-san. I
+there’s no way... no way... no, I guess that’s possible if it’s Illness-san. I
 guess this must be something that makes Lilia-san and the others’ heads ache.
 
 [...Well then, I guess I’ll see you the day after tomorrow.]
@@ -1219,7 +1219,7 @@ me...
 
 While gently stroking the head of Kaito, who was sleeping with a peaceful
 expression on his face, Illness gazes at the scenery with her unfocused eyes.
-Green grass, colorful flowers in the distance, and clear blue skies ... Those
+Green grass, colorful flowers in the distance, and clear blue skies... Those
 were factors that follow the conditions for what can be called a spectacular
 view.
 
@@ -1253,7 +1253,7 @@ acquiring something.
 ———“Even her own self doesn’t matter”.
 
 She must have been rightly empty. No matter what the environment, her heart was
-never satisfied and remained empty ... as it should have been.
+never satisfied and remained empty... as it should have been.
 
 (...Howeveeeeer, I met Kaito-samaaaa, and fell in love with Kaito-samaaaa. My
 heart was filled with emotions I have never felt befoooooore. It was trulyyyyy

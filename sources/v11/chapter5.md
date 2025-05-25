@@ -400,14 +400,14 @@ difficult.
 
 (... Iris, did some kind of trigger for this happen?)
 
-(Hmmm, I can’t think of anything that comes to mind. ... No, come to think of
-it, after talking to you in the dream, I thought I heard a ‘click’ as my
+(Hmmm, I can’t think of anything that comes to mind. ...No, come to think of it,
+after talking to you in the dream, I thought I heard a ‘click’ as my
 consciousness faded away.)
 
 (A sound huh... hmmm, it’s difficult to say with just this information. Even if
 Iris’ current state is the result of some external influence, it is still
 puzzling. I wonder if even Shallow Vernal-sama could cause such an unorthodox
-phenomenon without me noticing. ... But even if she could, she would have no
+phenomenon without me noticing. ...But even if she could, she would have no
 motive for doing so.)
 
 Even if Shallow Vernal could interfere with the heart tool within Alice’s mind

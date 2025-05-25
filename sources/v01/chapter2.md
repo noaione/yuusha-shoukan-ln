@@ -448,7 +448,7 @@ blue.
 
 [...?!]
 
-[...Lu~ na~]
+[...Lu\~ na~]
 
 [Hiiii?! M-My Lady... E-Errr...]
 
@@ -465,7 +465,7 @@ Come to think of it, I hadn't really talked to Kusunoki-san or Yuzuki-san.
 Kusunoki-san and I talked for a bit last night, but our conversation didn't
 really mesh well. I guess I should apologize for that first.
 
-[Ahh~ Errr, Kusunoki-san. Yesterday...]
+[Ahh\~ Errr, Kusunoki-san. Yesterday...]
 
 [I'm sorry.]
 
@@ -783,7 +783,7 @@ head as she spoke.
 
 [Ah, it's Introduction to Magic.]
 
-[Heeehhh\~\~ You're trying to learn magic huh. Ah, is that why you wanted to
+[Heeehhh\~\\~ You're trying to learn magic huh. Ah, is that why you wanted to
 meet me?]
 
 [Well, something like that? I've been reading a bit, but there seems to be eight
@@ -828,7 +828,7 @@ I'm not sure if Kuro had similar doubts, but she wanted to see the introductory
 book I had. I don't have any particular reason to refuse, so I handed her the
 book, and Kuro flipped through it.
 
-[Ah, I see~ This is how we used to teach the Humans magic... With this method,
+[Ah, I see\~ This is how we used to teach the Humans magic... With this method,
 it would definitely take some time to learn magic.]
 
 [Does that mean that the method that the Humans are using to study magic is
@@ -877,7 +877,7 @@ feel like studying it when you want to become a magic tool creator, or use more
 complicated and powerful magic... I'm guessing that for the Humans, they felt
 that a child who could use magic should be equal to someone who can make magic
 tools. And that's why they're making you study the theories accompanied with
-magic\~\~ That seriousness really is like the Humans.]
+magic\~\\~ That seriousness really is like the Humans.]
 
 I see, Kuro's explanation is easy to understand. I think it's also clear that
 humans have a complicated way of thinking.
@@ -920,7 +920,7 @@ things out of her coat, she could create something like that magic tool that
 searches for people you're thinking about, even soaring in the sky, she seems
 like she's at a level where there's nothing she can't do.
 
-[It's alright~ I like Kaito-kun, so if there's something I can teach you, I'll
+[It's alright\~ I like Kaito-kun, so if there's something I can teach you, I'll
 teach you.]
 
 [T-Thank you.]
@@ -1024,13 +1024,13 @@ would be her reply that he just nodded without any questions asked.
 this year?]
 
 [I don't think I'd be interested in the one acting the role of the hero this
-year\~\~ I've also found my “favorite” child...]
+year\~\\~ I've also found my “favorite” child...]
 
 [Oya oya, my my... It seems that Kuromu-sama's extremely lucky to have found
 this person.]
 
 [Yeah, that's right! It has truly been a long time! I felt that spark just at
-first sight\~\~ I feel like it's fate!]
+first sight\~\\~ I feel like it's fate!]
 
 The expression of disinterest on her face just now has changed, Kuromueina now
 have a big smile on her face. As if he likes the person in front of him so much,
@@ -1052,7 +1052,7 @@ surprised. There was only one person that Kuromueina would call by that
 nickname. She's such an existence that she especially calls with a nickname, but
 for the masked demon, she's at least an existence higher than the clouds.
 
-[Just keep it simple\~\~ If it's Shiro, I think she'd understand even if you
+[Just keep it simple\~\\~ If it's Shiro, I think she'd understand even if you
 just say “Please give Kaito-kun your blessings\~\~”.]
 
 [...Understood.]
@@ -1231,7 +1231,7 @@ idiot's misbehaviour will be punished accordingly!!!]
 
 [That's fine, but please put away the sword for now!]
 
-Ahh\~\~ I guess that's what happened. Lilia-san was supposed to have arranged
+Ahh\~\\~ I guess that's what happened. Lilia-san was supposed to have arranged
 for the three of us to go to the evening party, but the Siscon King, who doesn't
 like men approaching Lilia-san in the first place, only prepared invitations for
 Kusunoki-san and Yuzuki-san, but not for me. In the first place, he probably
@@ -1321,7 +1321,7 @@ she have come up with this time.
 [...Huh?]
 
 [You see, since you didn't like those stiff events, let's do it with just us and
-my family\~\~ There's a nice scenic spot south of the kingdom, so let's have
+my family\~\\~ There's a nice scenic spot south of the kingdom, so let's have
 barbecue there!]
 
 [...Fumu.]
@@ -1347,7 +1347,7 @@ expected, it would be difficult for me to go without explaining to her.
 Lilia-san is really anxious about our circumstances, and I don't want to sneak
 out because I'm feeling guilty, hiding Kuro from her.
 
-[Ah, it will be alright\~\~ I'll go ask an acquaintance to extend a normal
+[Ah, it will be alright\~\\~ I'll go ask an acquaintance to extend a normal
 dinner invitation to you.]
 
 [Would Lilia-san agree to that?]
@@ -1566,7 +1566,7 @@ her or she has a very relaxed atmosphere around her? She's supposed to be
 looking like Lunamaria-san, who's the same maid as her, but there's something
 different about Ein-san's vibe.
 
-[Now then, since Kaito-kun's here... Ein\~\~ Start preparing.]
+[Now then, since Kaito-kun's here... Ein\~\\~ Start preparing.]
 
 [Understood.]
 
@@ -1610,7 +1610,7 @@ overload, brings my mind to a halt. And from another direction, I could see a
 huge green blob—or rather, I could see a bundle of vegetables floating towards
 us.
 
-[Kuromu-sama~ I brought the vegetables~.]
+[Kuromu-sama\~ I brought the vegetables~.]
 
 [Thanks\~\~]
 
@@ -1646,7 +1646,7 @@ as her. This barbecue had turned into an assortment of various races.
 Well, I'm relieved that the condiments they have brought were those that I knew
 like salt and pepper.
 
-[Ein\~\~ We have all the participants today, right?]
+[Ein\~\\~ We have all the participants today, right?]
 
 [Yes. Kuromu-sama said that Miyama-sama shouldn't be dwarfed by the presence of
 the other participants, so I've limited the participants to 5 people.]
@@ -1922,7 +1922,7 @@ they seemed to multiply the overall flavor of the dish many times over.
 
 [As expected of Ein-dono... Excellent work.]
 
-[That's right~ It seems like all the vegetables are well grilled, enhancing the
+[That's right\~ It seems like all the vegetables are well grilled, enhancing the
 flavors!]
 
 Sechs is eating a fish skewer and Raz-san is holding a skewer with just
@@ -2580,7 +2580,7 @@ changes properly. It might be strange, but I heard that there even are demons in
 the Demon Realm that have bodies made of ore, so if I just think about small
 details, it would be my loss.
 
-[Muuu~ Even though I thought I would make Kaito-kun's “Magic Box” myself~]
+[Muuu\~ Even though I thought I would make Kaito-kun's “Magic Box” myself~]
 
 [Please give him a break. If Kuromu-sama used her magic power just to make it,
 it would become a national treasure just by itself...]
@@ -2713,8 +2713,8 @@ who grows the highest quality produce regardless of the weather or topography,
 or Ein-sama who could bring out the flavor more skillfully than a skilled cook,
 how am I supposed to win over them...?]
 
-[Ahaha, well, Raz also had fun raising all the rice-san~ You don't need to worry
-about it.]
+[Ahaha, well, Raz also had fun raising all the rice-san\~ You don't need to
+worry about it.]
 
 [I'm a maid, so please don't compare me to a mere cook. Being able to cook all
 kinds of food is the least I can do as a maid.]
@@ -2747,7 +2747,7 @@ the hardships of the different food cultures more than anyone else... And not
 only are you an invaluable friend for Kuromu-sama, Miyama-san, but to us as
 well. You can always count on us for help.]
 
-[She's right~ Raz is always willing to help~ When it comes to plants, you can
+[She's right\~ Raz is always willing to help\~ When it comes to plants, you can
 leave it to me~!]
 
 [Yeah yeah, you don't have to worry about it. Just the thought of repaying this

@@ -47,7 +47,7 @@ sure about is whether “they would suit her or not”. After all, she basically
 does not wear dresses. As the Emperor, she had seen the dresses of other nobles
 at evening parties, and she herself has a good grasp of trends, so she knows
 what is good and what is bad. However, she doesn’t know what kind of design she
-would wear ... and has not yet completed her order. And so, Chris was worried
+would wear... and has not yet completed her order. And so, Chris was worried
 that if she didn’t decide soon, the clothing she ordered wouldn’t be able to
 make it in time. Just like that, Chris thought of it for a while, but then she
 shook her head a bit, got up from her chair with a resigned look on her face,
@@ -58,7 +58,7 @@ and muttered to herself.
 
 ---
 
-Leaving her office, Chris visited the inner palace ... where the wives of the
+Leaving her office, Chris visited the inner palace... where the wives of the
 deceased former emperor, in other words, Chris’ father’s wife... legal wife and
 concubines, lived. Normally, when an Emperor is replaced, the inner palace is
 vacated for the current Emperor to use, but Chris herself had no intention of
@@ -85,7 +85,7 @@ queen, would normally reside. However, Chris’s mother is not the former queen,
 but rather a concubine. In that case, why is it that Chris’s mother, who is
 supposed to be a concubine, is living in the largest room of the inner palace?
 
-The reason for this is simple: ... Chris’s mother is the real ruler of the inner
+The reason for this is simple: ...Chris’s mother is the real ruler of the inner
 palace.
 
 Reaching the room she was looking for, she knocked lightly and waited for a
@@ -373,7 +373,7 @@ you really think.]
 
 [Eh?]
 
-[When did! I ever say that!!?! Hindrance or trash, I never said a single thing
+[When did! I ever say that?! Hindrance or trash, I never said a single thing
 like that!!!]
 
 [...T-Then, why! didn’t you come to see me?! You also always ignored me when I
@@ -488,7 +488,7 @@ or her subordinates took care of him... doesn’t seem likely. He was a prudent
 person, and would not have been able to do anything so drastic that
 “Shalltear-sama” would have deemed it necessary to dispose of him.)
 
-Chris’ mother, Ristia Asmodeus ... actually has another face hidden to others.
+Chris’ mother, Ristia Asmodeus... actually has another face hidden to others.
 She is one of Phantasmal King’s Executive Subordinates, the Ten Demons... given
 the code name “Lilim”, reigns at the top of all Lustful Demons, and is a Peak
 Count-rank Demon, known as the “Sneering Nightmare”.

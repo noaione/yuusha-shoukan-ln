@@ -146,7 +146,7 @@ bashfully revealing her cute face.
 [Unnn. I think you’re really cute.]
 
 [Nyaahhh?! T-T-T-That’s the part where you throw a tsukkomi, you know?! If you
-just honestly responded to it, wouldn’t it be embarrassing!!?!]
+just honestly responded to it, wouldn’t it be embarrassing?!]
 
 [Hahaha, no, my bad, I’m sorry... However, thanks. For listening to my request.]
 
@@ -290,7 +290,7 @@ the clouds like this\~\~]
 While spouting such a joke that she made a mistake with her jump “right after
 jumping again”, Alice leaps high enough to break through the clouds. As expected
 of one of the Six Kings, she got great leg strength... like hell I’d compliment
-her that?! What the heck are you doing, you idiot!!?! I-I mean, if we’re
+her that?! What the heck are you doing, you idiot?! I-I mean, if we’re
 accelerating this fast, the change in atmospheric pressure or something like
 that could be a big problem...
 
@@ -559,7 +559,7 @@ me that. But then, there was someone who reacted to Megiddo-san’s words more
 than me.
 
 [Who did you say is a midget with breasts as flat as her back?! I’m asking you
-who!!?! Fine then, you freaking gorilla, I’m going to rip your mane off!]
+who?! Fine then, you freaking gorilla, I’m going to rip your mane off!]
 
 [Unnn? Ohhh! What, you want to fight? That’s great, isn’t this the greatest!!!]
 
@@ -1167,7 +1167,7 @@ suddenly popped into my head.
 [Alice is much stronger than me, so if you really don’t like it, you could have
 easily shook my hand off...]
 
-[ \~ \~ ! ? ]
+[ \~ \~ ?! ]
 
 Yes, I was trying to drag Alice along a moment ago, but when I think about it,
 if she seriously resisted my pull, there was no way I could move her at all.
@@ -1218,7 +1218,7 @@ the various games we could play, we could have lots of fun.
 [...Ahh, by the way, the “chips for games” can be exchanged over th—
 Fugyaaahhh?!]
 
-[Isn’t this a freaking casino!!?!]
+[Isn’t this a freaking casino?!]
 
 I tried pretty hard to look at it in a favorable way, but this was undeniably a
 casino. Seriously, if I just let down my guard for a bit, this woman would start
@@ -1787,8 +1787,7 @@ make very dangerous statements, but it seemed that she was too confused that she
 wouldn’t come to her senses at all. Please stop alreadyyyyy?! Even though we’re
 away from where the others are generally seated, there still are other guests,
 you know?! We’re grabbing their attention, you know?! Wait?! Don’t just close
-your eyes while shaking like that! What the heck are you trying to make me
-do!!?!
+your eyes while shaking like that! What the heck are you trying to make me do?!
 
 I somehow managed to calm Alice down, but what happened just now was still quite
 embarrassing.

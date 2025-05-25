@@ -956,7 +956,7 @@ me. Arehh? What is this, I’m feeling chilly again...
 [It’s a “part of me”.]
 
 Can you stop with that scary way of speaking?! There’s probably another way of
-saying it, right!!?!
+saying it, right?!
 
 [My beloved child. I will always be your ally. As proof of it... Ahh, could it
 be that this isn’t enough? I understand. If it were possible, I would give you a

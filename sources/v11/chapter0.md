@@ -152,7 +152,7 @@ became so close together that I felt my nervousness reach the climax, and Alice
 sinking half of her face into the futon... she stuck her face between my neck
 and chest.
 
-[ \~ \~ ! ? ]
+[ \~ \~ ?! ]
 
 W-Was that her breath just now?! This is bad, this is really bad... This is so
 extraordinarily bad. Because of her discreet contact, Alice’s warmth is getting
