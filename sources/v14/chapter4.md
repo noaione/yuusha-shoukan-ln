@@ -171,7 +171,7 @@ you up, you know?]
 
 Dr. Vier and Neun-san were sneakily whispering about, but before they knew it,
 Alice had moved in front of them and coldly announced. And then, the two of them
-clearly looked afraid... This is that, right? ... She’s trying to guide them to
+clearly looked afraid... This is that, right? ...She’s trying to guide them to
 do something, as if she’s training someone to do her will.
 
 [Eh? Wait, Kaito-san? Ah, no way\~\~ I-I’m just joking, okay? It’s Alice-chan’s

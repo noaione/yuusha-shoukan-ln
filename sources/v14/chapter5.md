@@ -321,7 +321,7 @@ wanted to introduce the confectionary of my world to Isis-san.
 
 [...N-Never mind... I-I’ll treat you!]
 
-[...Eh? ... Is that alright?]
+[...Eh? ...Is that alright?]
 
 [Yes! Please let me act cool at least in this kind of situation.]
 
@@ -771,7 +771,7 @@ stars. Even from a distance and from the eyes of a layman, I could tell that
 every weapon lined up on the stage was top-notch but… there was one thing that
 bothered me more.
 
-[...Kaito? ... Do you... want that?]
+[...Kaito? ...Do you... want that?]
 
 [Ah, no, that’s not it... It’s just that there’s something bothering me...]
 
@@ -1726,7 +1726,7 @@ become super lovey-dovey with your lover”!]
 
 ...It says “Prosperous Business” on it though?
 
-[Wha?! ... I-I’ll buy it!]
+[Wha?! ...I-I’ll buy it!]
 
 [...Isis-san.]
 

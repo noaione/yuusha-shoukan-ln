@@ -1306,7 +1306,7 @@ there?]
 lots of fun. Let’s go do lots of things together. Let’s go see lots of things
 together! What do you think?]
 
-[ . . . . . . ?!?! ]
+[...?!]
 
 I don’t know if she sensed the thoughts held in my words, but Isis-san looked at
 me with tears in her eyes. It’s clearly different from the tears she was

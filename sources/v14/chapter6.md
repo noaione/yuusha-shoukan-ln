@@ -429,7 +429,7 @@ away... and that’s why... I’ve always... always... hated this world.]
 [...]
 
 [...Why was it... that I was even born? ...Why was it...that the magic power of
-death... dwells within me? ... I thought about it... over... and over again.]
+death... dwells within me? ...I thought about it... over... and over again.]
 
 I can somehow understand the feeling of hating oneself, even if what I felt was
 comparatively smaller than hers. I hated myself for always making some gentle

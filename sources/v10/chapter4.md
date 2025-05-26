@@ -326,7 +326,7 @@ frequently coming to talk to me?” or so I said.]
 speak anything regarding this matter again. Thus, I don’t know who exactly I
 resemble. My bad, I don’t think I can be of much help.]
 
-[No, thank you . It was very helpful. I’ll also be asking other people.]
+[No, thank you. It was very helpful. I’ll also be asking other people.]
 
 There’s some things I was wondering about, but it certainly was as Chronois-san
 said, I don’t think it’s going to help solve the current situation. Let’s go

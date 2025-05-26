@@ -977,7 +977,7 @@ next words.
 “... And for the second time... I was killed by the Hero of Hope. No, it’s more
 correct to say I was almost killed... but I cast aside most of my body and fled
 to another world with only my soul, using the last of my strength,... because I
-didn’t want to die... all alone.”;
+didn’t want to die... all alone.”
 
 Looking at it from a different perspective, it may truly be a heroic tale. The
 Great Evil God who once nearly destroyed the world has returned, and the Hero of

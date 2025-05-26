@@ -578,7 +578,7 @@ smiled.
 
 [I’ll see you later then, Lu-chan.]
 
-[Yes... wait, Dr . Vier?! In front! There’s a signboard!]
+[Yes... wait, Dr. Vier?! In front! There’s a signboard!]
 
 [Eh? Fugyaaahhhh?!]
 
@@ -2194,9 +2194,9 @@ her face, speaks with a slightly wry smile, but not understanding the meaning of
 what she said, I tilted my head. Thereupon, Lillywood-san somewhat gave me a
 happy smile before continuing to speak.
 
-“...I think I can understand why Isis likes you... i-is what I mean.”
+“...I think I can understand why Isis likes you... I-Is what I mean.”
 
-[ . . . . . . ? ? ]
+[...???]
 
 “Fufufu, no, please don’t worry about it... Thank you for the music box. I feel
 really happy about Kaito-san’s thoughtfulness.”

@@ -616,7 +616,7 @@ Thereupon, the woman with green hair approached me.
 She’s a woman of about 160cm wearing a priest’s robe that clearly shows her body
 line, her green hair bundled up and flowing in front of her, and a gentle
 expression on her face... And most importantly, a chest that I think is as large
-as Lillywood-san’s . N-No, it’s extremely rude to look at someone’s breast right
+as Lillywood-san’s. N-No, it’s extremely rude to look at someone’s breast right
 when we first met but... I guess I’m still a young adolescent man, and when
 they’re that big, I can’t help but look at them.
 
