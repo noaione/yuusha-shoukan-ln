@@ -165,7 +165,7 @@ little bit.”
 
 [...H-Huhh... Well, if Lillywood-san is fine with it...]
 
-“Yes. Well then, I’ll be looking forward to that time.]
+“Yes. Well then, I’ll be looking forward to that time.”
 
 From what I’ve heard from Alice regarding the Six Kings Festival, Lillywood-san
 said she would be willing to go around with me if I’m fine with it, but just

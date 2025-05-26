@@ -588,7 +588,7 @@ That she was born to meet this young man—to meet Kaito...
 
 ---
 
-“How unusual. Isis, I never expected that you would visit me...]
+“How unusual. Isis, I never expected that you would visit me...”
 
 [...Lillywood... What do you think... would be a good souvenir?]
 

@@ -670,7 +670,7 @@ and I immediately invited her to the flower garden.
 really alriiiiiight? Wouldn’t it be betteeeeeer if you go with one of your
 lovers?]
 
-“I thought about that, but when I heard about this flower garden, I thought of
+[I thought about that, but when I heard about this flower garden, I thought of
 Illness-san, so I thought this would be a good way to thank you for always
 taking care of me...]
 

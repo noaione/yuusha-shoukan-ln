@@ -275,7 +275,7 @@ of playing with them, she has a bad hobby of “thoroughly driving them to their
 limit and ruining them”.
 
 [Ahh, b-but you see, I properly held back, okay? I didn’t “break him” this time.
-...”
+...]
 
 [Haahhhh... Well, for you, playing with men is like an instinct, and it seems
 like you’ve narrowed it down to the very worst of them and really were holding
@@ -546,7 +546,7 @@ slightly tilted her head.
 [...I mean, this guy sure did well not throwing a tsukkomi back at you in his
 letters. Him teasing you about this is well within my expectations... Well,
 looking at his letters, he seems to be a good-natured person at heart, so I
-guess he didn’t dare to mention it.”
+guess he didn’t dare to mention it.]
 
 After telling her that much, Ristia put the letter on the table and looked as if
 she was thinking about something.

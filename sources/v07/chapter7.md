@@ -403,8 +403,8 @@ again on the stage.
 “How was it? Two people who were walking on different paths joined hands and
 started walking on the same path. My oh my, that’s a love romance of the highest
 order if I had seen one. Oya? You looking for the next part? Unfortunately, I
-don’t know the rest of the story either. After all, the rest of this story “is
-currently being sketched in the future”.]
+don’t know the rest of the story either. After all, the rest of this story ‘is
+currently being sketched in the future.’”
 
 Yes, Alice is matching the end of the play with our, the model of the play’s
 current situation... They had even added a touch of what can only be described

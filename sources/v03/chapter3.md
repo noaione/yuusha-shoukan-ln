@@ -1174,7 +1174,7 @@ face, when she saw what Sieg wrote.
 “However, I knew that Lili was feeling guilty about me. So, I thought that if
 returning my voice would make Lilia feel a little bit better, then I should not
 say anything and just wait. So, if Lili had obtained the Fruit of the World
-Tree, I was going to take it with open arms.]
+Tree, I was going to take it with open arms.”
 
 [...Sieg.]
 

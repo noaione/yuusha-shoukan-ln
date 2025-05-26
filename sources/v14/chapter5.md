@@ -601,7 +601,9 @@ that’s some sort of hand signal?
 
 [...Ah.]
 
-“Whoa there! Someone bid double again!!! “Number 985! One white gold coin!”]
+“Whoa there! Someone bid double again!!!”
+
+“Number 985! One white gold coin!”
 
 [...Eh?]
 

@@ -621,8 +621,8 @@ most unguarded of them all... I felt like I’d been corkscrewed even though we
 just started bathing together. Especially her tremendously destructive body. It
 was completely burned into my brain. T-This is quite dangerous.
 
-“Well then, I’ll be entering the bath too... As I recall, “it’s proper manners
-to not soak your towel in the bath”, right?]
+“Well then, I’ll be entering the bath too... As I recall, ‘it’s proper manners
+to not soak your towel in the bath’, right?”
 
 [No, you can’t!]
 
@@ -937,7 +937,7 @@ to be “a lot bigger” than the sponge she used first...
 
 [...Ummm, Lillywood-san?]
 
-“Yes? Are you feeling itchy somewhere?]
+“Yes? Are you feeling itchy somewhere?”
 
 [Ah, no, I didn’t mean that... I’m sorry if I misunderstood. However, ummm... Is
 your “chest touching my back” by any chance?]

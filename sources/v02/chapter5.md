@@ -1328,7 +1328,7 @@ recalled the conversation she had earlier.
 (That should do it. Just forcing an apology from him will cause some people to
 hold a vile grudge against Miyama Kaito-san. It's best to make them realize that
 he's someone they should treat with friendship, even if he has to bow down to
-him.”
+him.)
 
 Having such a thought in mind, a tired expression appeared on Lillywood's face.
 

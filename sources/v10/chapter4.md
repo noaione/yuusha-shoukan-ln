@@ -933,7 +933,7 @@ accepted and then, faced her at the living room’s table.
 [I’m like Kaito-san, a being that came to this world from “another world”...
 Well, it’s a different world from the one Kaito-san was in.]
 
-[...Unnn.[
+[...Unnn.]
 
 The fact that Alice is a being from another world clears up the phrases she has
 used so far. Since I had come here from my world, there is no reason why others

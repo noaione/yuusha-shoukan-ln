@@ -1026,7 +1026,7 @@ intentionally doing it but...]
 
 “She’s first-rate at breaking things, but she’s not very good at fixing
 things... However, I’m afraid Lillywood-san will be too pitiful if this keeps
-up... Miyama Kaito, we need to give her some help.]
+up... Miyama Kaito, we need to give her some help.”
 
 [Eh? Ah, yes.]
 

@@ -310,7 +310,7 @@ looking away from?]
 “...If you can keep your eyes averted, you will definitely be happy. But if I
 had noticed this, you would have noticed it someday. No, it seems like you’re
 already on the verge of realizing it... In that case, maybe I should just tell
-it to you here?]
+it to you here?”
 
 Saying this, the other Isis looks up at the dark cloud-covered sky. Her hair as
 white as Isis’ hair spilled out from between the gaps in her robe, swaying along
@@ -948,7 +948,7 @@ somewhat nostalgic look on her face. A world different from this one... A God
 from another world huh. Judging from the way she talked about it, it’s also a
 different world from the Earth I lived on.
 
-[...Lonely, I don’t want to be alone... That’s all what I as the Great Evil God
+“...Lonely, I don’t want to be alone... That’s all what I as the Great Evil God
 was thinking about. However, I wasn’t able to speak, and all I could do was
 connect my heart with the hearts of others... That was the only way for me to
 connect with others.”
