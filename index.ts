@@ -28,6 +28,7 @@ import {
   generateXHash,
   type MetaToC,
 } from './utils/autogen';
+import { doVerificationOfMarkdown } from './utils/verification';
 
 const baseDir = fileURLToPath(dirname(import.meta.url));
 const sourcesFolders = join(baseDir, 'sources');
@@ -250,6 +251,7 @@ async function processVolume(projectMeta: ProjectMetaSchemaType, volumeNumber: s
     tocMetaMappings[toc.filename] = compiled.meta;
     const markdownParsed = fromMarkdownToMdast(compiled.content);
     const newFilename = toc.filename.replace(/\.md$/, '.xhtml');
+    doVerificationOfMarkdown(markdownParsed);
 
     switch (compiled.meta.template) {
       case 'cover': {
