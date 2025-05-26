@@ -166,7 +166,7 @@ The following are all the progress of each volumes.
 - [x] Cover
 - [ ] Illustrations (`75%`)
 - [x] Characters (`100%`)
-- [ ] Special Page (`0%`)
+- [x] Special Page (`100%`)
 
 **Quality Check**: `0%`
 
@@ -192,7 +192,7 @@ The following are all the progress of each volumes.
 - [x] Cover
 - [ ] Illustrations (`75%`)
 - [x] Characters (`100%`)
-- [ ] Special Page (`0%`)
+- [x] Special Page (`100%`)
 
 **Quality Check**: `0%`
 
@@ -236,9 +236,9 @@ The following are all the progress of each volumes.
 
 - [x] Cover
 - [ ] Illustrations (`75%`)
-- [ ] Characters (`50%`)
-- [ ] Special Page (`0%`)
-- [ ] Special "Deluxe Edition" Page (`0%`)
+- [x] Characters (`100%`)
+- [ ] Special Page (`25%`)
+- [ ] Special "Deluxe Edition" Page (`13%`)
 
 **Quality Check**: `0%`
 
@@ -258,10 +258,10 @@ The following are all the progress of each volumes.
 
 **Typesetting**:
 
-- [ ] Cover
-- [ ] Illustrations (`0%`)
-- [ ] Characters (`0%`)
-- [ ] Special Page (`0%`)
+- [ ] Cover - Missing HQ images, not typesetting for now
+- [ ] Illustrations (`0%`) - Missing HQ images, not typesetting for now
+- [x] Characters (`100%`)
+- [ ] Special Page (`0%`) - Missing HQ images, not typesetting for now
 
 **Quality Check**: `0%`
 
@@ -283,10 +283,10 @@ The following are all the progress of each volumes.
 
 **Typesetting**:
 
-- [ ] Cover
+- [x] Cover
 - [ ] Illustrations (`0%`)
-- [ ] Characters (`0%`)
-- [ ] Special Page (`0%`)
+- [x] Characters (`100%`)
+- [ ] Special Page (`33%`)
 
 **Quality Check**: `0%`
 
@@ -307,10 +307,10 @@ The following are all the progress of each volumes.
 
 **Typesetting**:
 
-- [ ] Cover
-- [ ] Illustrations (`0%`)
-- [ ] Characters (`0%`)
-- [ ] Special Page (`0%`)
+- [x] Cover
+- [ ] Illustrations (`75%`)
+- [x] Characters (`100%`)
+- [ ] Special Page (`25%`)
 
 **Quality Check**: `0%`
 
@@ -331,9 +331,9 @@ The following are all the progress of each volumes.
 
 **Typesetting**:
 
-- [ ] Cover
+- [x] Cover
 - [ ] Illustrations (`0%`)
-- [ ] Characters (`0%`)
-- [ ] Special Page (`0%`)
+- [x] Characters (`100%`)
+- [ ] Special Page (`25%`)
 
 **Quality Check**: `0%`
