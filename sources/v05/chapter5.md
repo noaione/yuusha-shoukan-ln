@@ -146,9 +146,9 @@ ended up in a position where I was covering Lilia-san, who was lying on her
 back, with me on top of her, and Lilia-san’s face was surprisingly close to
 mine.
 
-[..........]
+[...]
 
-[..........]
+[...]
 
 Beautiful golden hair with a hint of elegance, blue eyes as beautiful as
 sapphires... The blond-haired, blue eyed beauty in front of my eyes is the very
@@ -392,7 +392,7 @@ me, I might have been displeased... but that’s not the case, right?]
 
 [Then, there’s no reason for me to feel troubled by Kaito-san.]
 
-[.........]
+[...]
 
 This person really is too kind even among the kind people I know.
 
@@ -423,7 +423,7 @@ and composed Duchess I’m trying to be. You are absurd, a menace in various
 ways... And yet, you are always kind, warm and caring. There’s no way... that I
 would hate you like that.]
 
-[.........]
+[...]
 
 Those were not lies nor falsehoods, they’re words showing her true feelings.
 Lilia-san’s words, which she gently told me, warmly and gently sunk into my
@@ -480,7 +480,7 @@ eyes... and there was Lunamaria-san standing there with an awkward expression on
 her face. It seems that she noticed that Lilia-san hadn’t returned earlier than
 she expected and came to look for her.
 
-[...It seems that I’m intruding. Please excuse me.... I’ll come back after
+[...It seems that I’m intruding. Please excuse me... I’ll come back after
 “around 2 hours”.]
 
 [Wait?! W-Wait right there, Luna! It’s a misunderstanding!!!]
@@ -639,7 +639,7 @@ the royal castle about that matter...]
 
 [So, I thought I’ll talk to you instead... Won’t you forgive them?]
 
-[.........]
+[...]
 
 Hearing what I said, Kuro was silent for a while befores she let out a big sigh.
 
@@ -865,7 +865,7 @@ about this, his Majesty, the King dropped down to his knees on the ground and
 bowing deeply, he spoke.
 
 [The fact that the invitation was not delivered to Miyama-sama before is all my
-fault, please accept my sincere apologies.... I’m really sorry.]
+fault, please accept my sincere apologies... I’m really sorry.]
 
 [Eh? Ah, yes... E-Errr, p-please raise your head. For my part, I’m not really
 bothered by it, but your apology was duly received.]
@@ -931,7 +931,7 @@ I still have the time.]
 [Yes, this maiden’s heart couldn’t handle the longing of not being able to see
 the gentleman I love.]
 
-[.........]
+[...]
 
 How the heck is this person so brazen about this... I really can’t let down my
 guard against her. While shaking hands with Chris-san, who held out her hand to
@@ -977,7 +977,7 @@ a king to put his personal feelings before looking at his position, and even
 cause trouble for Miyama-sama... Harassing Miyama-sama just because he didn’t
 like you, if you ask me, that’s rudeness that mustn’t be forgiven.]
 
-[.........]
+[...]
 
 I wonder what that is? I’m still feeling there’s something strangely out of
 place, but I’m not sure why.
@@ -992,7 +992,7 @@ king? If you would like, you could come to our country...]
 [Is His Majesty, the King really harassing me... just for the reason that he
 doesn’t like me?]
 
-[..........]
+[...]
 
 My Sympathy Magic is probably the greater reason as to why I’m not clear on this
 right now.
@@ -1049,7 +1049,7 @@ you. He’s a difficult person to deal with... Well, I don’t like that man, an
 seems like the same goes for him. We’re in a relationship where we call each
 other vixen and snake.]
 
-[.........]
+[...]
 
 [However, only to his sister would he be a fool... No, I dare say that he’s also
 aware that it’s a foolish move, but still acted like one in front of her. It’s
@@ -1085,7 +1085,7 @@ this huh... A prospective betrothed for Lilia-san at that time... that means, a
 man she might marry in the future. However, I never heard of His Majesty, the
 King eliminating her partner. I don’t think His Majesty, the King would have
 changed to how he acts now due to his age, and at least before, he wasn’t
-eliminating all the men that had approached Lilia-san huh....
+eliminating all the men that had approached Lilia-san huh...
 
 And then, according to Chris-san, it was only four years ago before he became
 forceful with his elimination... I don’t have to think that hard about what
@@ -1170,7 +1170,7 @@ the first heir to the throne. I am Elder Sister Lilia’s niece.]
 
 Plucking the hem of her beautiful dress, a beautiful girl with long, dark brown
 hair in loose curls gracefully greeted me... Her bright red eyes remind me of
-His Majesty, the King. This person.... Princess Amalie is the first in line to
+His Majesty, the King. This person... Princess Amalie is the first in line to
 the throne. It may be a little uncomfortable for others to hear this, but I had
 this narrow prejudice about how I assumed the prince would be first in line for
 the throne, but in this world where there are many women, it doesn’t seem to be
@@ -1229,7 +1229,7 @@ looked flustered.
 [Mother?! What are you talking about?!]
 
 [It’s alright, Lilia. Mother perfectly understands. Even just by talking to him
-like this, I can feel Miyama-sama’s personality.... With him by your side, you
+like this, I can feel Miyama-sama’s personality... With him by your side, you
 will achieve happiness.]
 
 [You don’t seem to understand anything at all though?!]
@@ -1354,7 +1354,7 @@ understand that feeling very well.
 [But what would happen if I had a number of troops lurking in the area, an
 amount of troops that Lilia couldn’t handle?]
 
-[.......]
+[...]
 
 [Miyama-dono, your value is much higher than you think. I know it’s none of my
 business, but wouldn’t it be better to have a few guards around you at all
@@ -1551,7 +1551,7 @@ world, away from the world you’ve always been familiar with, even though it’
 only for a limited period of time. If I had considered that, I should never have
 acted that way.]
 
-[......]
+[...]
 
 [Keeping that in mind, after you had gained great acquaintances, I suddenly
 pulled my hand away and apologized... I may have looked quite ridiculous. I
@@ -1559,7 +1559,7 @@ don’t mind even if I’m laughed at for being a foolish king.]
 
 [...There was a reason for that, wasn’t there?]
 
-[.........]
+[...]
 
 The words spoken by Ryze-san definitely show sincerity, and the emotions I read
 with my Sympathy Magic also shows deep regret. I really couldn’t believe that he
@@ -1600,7 +1600,7 @@ also rise. Compared to the lustful count, the former princess who protects her
 guests from another world, the people around her will remember her better. In
 that case, Lilianne’s position will also...]
 
-[..........]
+[...]
 
 [Your anger is understandable. When we’re done talking, if you want to hit me, I
 will accept it.]
@@ -1614,7 +1614,7 @@ without thinking at all.
 from my own children, even now, I still regret that I did something stupid
 because of my uneasiness... I know that it sounds like I’m just making excuses.]
 
-[....No, I can see why you really think like that.]
+[...No, I can see why you really think like that.]
 
 [...Thank you.]
 
@@ -1626,7 +1626,7 @@ national interest... A person who throws away other things for the sake of the
 country... In that sense, people like that vixen... Chris has the caliber of
 being a King.]
 
-[.........]
+[...]
 
 [However, I’m no good. I would put Lilianne before the national interest.]
 
@@ -1637,7 +1637,7 @@ while, he continues.
 
 [...Yes. Lilia-san told me about it.]
 
-[I see.... I... I used to “loathe” Lilianne.]
+[I see... I... I used to “loathe” Lilianne.]
 
 [Eh?]
 
@@ -1652,7 +1652,7 @@ suppressing my desire to play. And just when my hard work began to bear fruit...
 The Queen’s child, Lilianne, was born, and there were voices exclaiming for her
 to be the King.]
 
-[............]
+[...]
 
 [I really resented Lilianne’s existence at that time. I have worked so hard all
 my life, and after all that, there’s a chance that I may not become a King...
@@ -1666,7 +1666,7 @@ reality, the one he’s at odds here may be the Queen’s faction instead.
 frailer and wanted to hand over the throne early, it was decided that I would be
 the King... but my fears still didn’t go away.]
 
-[..........]
+[...]
 
 [Lilianne was a rare genius. All the knowledge I spent years learning and the
 skills I cultivated, that girl acquired them in the blink of an eye... I was
@@ -1681,7 +1681,7 @@ silence came again, a gentle smile appeared in Ryze-san’s lips before he spoke
 Brother~, Elder Brother\~ “, and always cared for me. When the unfamiliar duties
 of a King made me tired and I wasn’t feeling well, she was there to take care of
 me. I cried at my own stupidity... I wondered why I had even loathed such a kind
-little sister. Since then, that girl has been irreplaceable to me....]
+little sister. Since then, that girl has been irreplaceable to me...]
 
 [...I see.]
 
@@ -1718,7 +1718,7 @@ seems that he originally planned to refuse the engagement because he didn’t
 think he could handle a girl like her who holds a strong sense of justice...
 Well, I politely asked that man to leave the scene.]
 
-[.......]
+[...]
 
 [...It’s just that Lilianne was quite shocked about it. For a gentle girl like
 her, it seems like someone telling her that she’s scary was painful... She
@@ -1736,7 +1736,7 @@ really bad luck with men. Every man who comes up to Lilianne has some hidden
 ulterior motive... And that’s why I kept them in check... Well, at that time, I
 was just keeping them in check.]
 
-[..........]
+[...]
 
 [...Are you aware about that incident 4 years ago?]
 
@@ -1752,7 +1752,7 @@ getting seriously injured.
 expression on that girl’s face as she apologized to Sieglinde, who had lost her
 voice, as tears streamed down her face...]
 
-[.........]
+[...]
 
 [And even more than that, I blame myself for my worthlessness. Why didn’t I
 protect Lilianne, why couldn’t I protect her, why didn’t I take action before
@@ -1771,7 +1771,7 @@ means possible to thoroughly eliminate anyone that might hurt Lilianne. I would
 investigate the other person’s background, and if I even find a single black
 spot among them, I would crush them without any compassion.]
 
-[.........]
+[...]
 
 [For whatever reasons, all those people who approach her are all men. And before
 I knew it, I was rumored to be someone who would smash apart any man who comes
@@ -1860,7 +1860,7 @@ cookies—Ouchiiieeee?!]
 [How about you start learning how to read the mood?!]
 
 [Ginyyaaaahhhh?! You’ww teaw away my chweeekkkss?! I’m sowwwyyyy!!! You wwo wook
-sewious thewe, so I fewt wike joking awound about it.... You feew me?
+sewious thewe, so I fewt wike joking awound about it... You feew me?
 —Fugyaaahhhh?!]
 
 [That’s even worse!!!]
@@ -1989,7 +1989,7 @@ situation to go, right, Kaito-san?]
 the First Princess’ birthday party on the 21st day of the Earth month. We will
 strike at that time.]
 
-[..........]
+[...]
 
 It seems that Alice has already decided what to do with them. But in the end, I
 still want Lilia-san to be the one deciding this matter. As if she could see
@@ -2009,7 +2009,7 @@ thanks. I chuckled in response, but I’m really filled with gratitude with her.
 
 [...Ahh, I’m getting the goosebumps. Serious mode rele—Ouch?!]
 
-[....You...]
+[...You...]
 
 However, Alice is still the same as she usually is... She immediately started
 messing around again. While I’m wondering if her seriousness can’t last a little
@@ -2067,7 +2067,7 @@ Alice was wearing on her face, I pulled it off.
 
 [...Ehh? A-Arehh?]
 
-[.........]
+[...]
 
 [T-T-That’s my mask... A-Ahhh... Hyyyaaaahhhhh?!]
 
@@ -2112,7 +2112,7 @@ sorry!]
 I tried my best to apologize to Alice, who looked extremely depressed but... she
 quickly became very lively again. Could it be that she was just acting before...
 
-For some reason, it’s not like I don’t think that Alice has set me up but....
+For some reason, it’s not like I don’t think that Alice has set me up but...
 Since I’m the one in the wrong, let’s just say I’m glad that Alice’s mood has
 been restored.
 
@@ -2179,11 +2179,11 @@ definitely come back to visit him.
 [Orchid is a very good and loving husband, and he’s my nephew that I’m proud
 of.]
 
-[....Loving husband? Eh? Please wait a minute. Is Orchid already married?]
+[...Loving husband? Eh? Please wait a minute. Is Orchid already married?]
 
 [Yes, he’s already married to “three” wives.]
 
-[.........]
+[...]
 
 I’m surprised to hear what Lilia-san casually told me. Eh? He’s younger than me,
 but he already has three wives? The heck is that, that’s scary...
@@ -2322,7 +2322,7 @@ They look really cute, just like children who had received a new toy.
 Smiling as I thought about how they looked happy as they ran, I suddenly felt a
 look and turned around.
 
-[..........]
+[...]
 
 [...Eh? Anima, since when are you there?]
 

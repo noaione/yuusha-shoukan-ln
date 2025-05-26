@@ -28,7 +28,7 @@ answer.
 
 [...Munya...]
 
-[..........]
+[...]
 
 ...This goddamn girl. You’re calling people here, why the heck are you traveling
 to Dreamland. I was wondering what I was so nervous about earlier... but I felt

@@ -22,8 +22,8 @@ close to me, I gently squeeze her hand back.
 
 [...Kaito.]
 
-[I will come visit again. As often as I can.... This place has been remembered
-by my Teleportation Magic after all.]
+[I will come visit again. As often as I can... This place has been remembered by
+my Teleportation Magic after all.]
 
 [...Unnn.]
 
@@ -51,16 +51,16 @@ pure and defenseless, and I can’t think of any wicked thoughts for her. That�
 why I feel like my mind and reason is being slowly chipped off, making me feel
 burned out.
 
-[.........]
+[...]
 
-[.........]
+[...]
 
 Even the silence that comes within our time is comfortable, while the warmth of
 Isis-san’s body gently soothes my heart. Even as I feel like passing through
 time like this forever, time still flows and the time for me to return is
 getting closer and closer. Right around that time, Isis-san and I sensed that
 Lillywood-san appeared at the entrance of the castle, and just as we started
-walking towards her filled with reluctance to part ways.... Isis-san pulled my
+walking towards her filled with reluctance to part ways... Isis-san pulled my
 hand.
 
 [...Kaito.]
@@ -77,7 +77,7 @@ Isis-san’s lips, I felt my face heating up that it almost felt like I’m boil
 
 [...I’ve grown to love Kaito... much... much more than... before Kaito came.]
 
-[....I... sis-san.]
+[...I... sis-san.]
 
 [...I’ll always... be waiting... Kaito... I love you.]
 
@@ -130,7 +130,7 @@ Phantasmal King appears, dressed in a robe riddled with chains.
 [I never thought that Magnawell would like you so easily... Good gracious, I can
 no longer find any more words to praise you.]
 
-[..........]
+[...]
 
 [Don’t stare at me that hard, you’re making my heart skip a beat.]
 
@@ -149,7 +149,7 @@ it was also a part of the trial that this fellow is talking about?
 [With the heart... within that fragile body of yours, I want to find out if you
 can be the unique one who can stand in the same field as the Six Kings.]
 
-[.........]
+[...]
 
 While announcing this, the Phantasmal King slowly moves her feet and heads
 towards the huge gate. Then, after she moved right before the gate, she began
@@ -166,9 +166,9 @@ King declared with her uncanny voice. She wants me to take down Kuro...
 [No, my bad, I suppose that’s a bad way to say it. It’s not like I want you to
 hurt Kuromueina or anything like that.]
 
-[.......]
+[...]
 
-[Let’s see... The most appropriate way to say it should be.... Yeah, let’s go
+[Let’s see... The most appropriate way to say it should be... Yeah, let’s go
 with that. “I want you to save Kuromueina.”]
 
 [Save... Kuro?]
@@ -187,14 +187,14 @@ Kuromueina’s darkness.]
 you’re a talent more outstanding than I ever imagined... However, it’s still not
 enough to match against Kuromueina.]
 
-[.........]
+[...]
 
 It doesn’t feel like the Phantasmal King is speaking ill of me... My Sympathy
 Magic can’t read her emotions well, but I understood that she’s speaking her
 true feelings. The Phantasmal King then stops around the middle of the gate, she
 slowly turns toward me before she continues speaking.
 
-[....That’s why, show me that the wings you’ve gained aren’t vanity-painted
+[...That’s why, show me that the wings you’ve gained aren’t vanity-painted
 falsehoods, but the real ones that won’t burn when you get close to the sun...]
 
 [So... You still want me to go through more trials, is what you’re saying?]
@@ -259,7 +259,7 @@ Division that Lilia Albert once led four years ago.]
 it to someone familiar with the underworld... You might be able to find the
 culprit’s tail.]
 
-[..........]
+[...]
 
 Seriously, how much does this guy know? For her to even know about the identity
 of Lilia-san’s target of revenge that she has been looking for... It seems that
@@ -270,7 +270,7 @@ quietly turns around.
 [...Well then, Miyama Kaito. After you pass your fourth trial, let’s meet
 again.]
 
-[..........]
+[...]
 
 With that, the Phantasmal King disappeared, and the area around the gate
 returned to normal, as if nothing had happened. Feeling as if things had
@@ -312,7 +312,7 @@ you actually met with Dragon King-sama, right?]
 
 [...I’m sorry. We met.]
 
-[......]
+[...]
 
 [Milady?!]
 
@@ -328,7 +328,7 @@ connections have been made yet!]
 [T-Thank you, Luna... Kaito-san, ummm, errr... Please don’t tell me that you
 actually got along with him or anything like that, right...]
 
-[.........]
+[...]
 
 [Kaito-san, why are you looking away?]
 
@@ -341,7 +341,7 @@ Magnawell-san gave me from inside my Magic Box.
 
 [...He gave me his scale.]
 
-[.......]
+[...]
 
 All expressions disappeared from Lilia-san’s face. The air was so frightening
 that I couldn’t help but straighten up... but just like a puppet who lost its
@@ -377,7 +377,7 @@ heart and I’m really apologetic for her but...
 
 [...Errr, I’ve got something for you from Isis-san...]
 
-[.........]
+[...]
 
 Hearing the words I timidly said, Lilia-san looked like she was about to start
 crying... No, there are already tears in her eyes. Even though I’m feeling
@@ -521,7 +521,7 @@ she usually had.
 [I just came out to see if I could meet Kaito-san, and what do you know, I was
 spot on. Well\~\~ It feels like fate, doesn’t it?]
 
-[.........]
+[...]
 
 I wonder why... Alice’s tone is the same as usual, but it somehow sounds cold...
 and feels terribly eerie.
@@ -546,7 +546,7 @@ suffocating nervousness.
 [So, Kaito-san... for the sake of my spending money, please get kidnapped by me.
 Let’s go elope in the name of love, that kind of stuff... eh, arya?]
 
-[......?!]
+[...?!]
 
 [...You even had defensive magic that automatically activates against malicious
 attacks?]
@@ -631,7 +631,7 @@ silence was Alice.
 
 [...Eh?]
 
-[...18, 25, 43....]
+[...18, 25, 43...]
 
 [What the heck are you...]
 
@@ -986,7 +986,7 @@ expecting anyone to help you. This room is made of a special kind of ore that
 keeps magic power from leaking out. Besides, this place is far away from the
 city... There’s no one here to help you.]
 
-[.............]
+[...]
 
 I wonder what’s going to happen? Are they going to torture me?
 
@@ -1053,7 +1053,7 @@ head alone while everyone still looked confused.
 brought him here, and you’re free to do what you want with him afterwards... And
 if we want you to overlook it, we need to pay more money...]
 
-[.........]
+[...]
 
 After saying that in an annoyed tone, with a voice that seems calm but there’s
 some hints of anger in it, the man takes out a bag of coins from his pocket and
@@ -1098,7 +1098,7 @@ speak in an even colder voice.
 [...Why I accepted your commission... It’s because it was a commission for
 abduction, not for murder.]
 
-[.........]
+[...]
 
 [If it was a murder request because of personal vendetta, we could have easily
 got this over with... I would just finish it with just “cutting off your head
@@ -1118,7 +1118,7 @@ Kaito-san. Why, isn’t this more efficient... That’s just why I accepted it.]
 [Yeah, I was planning to wipe out the people who were trying to do harm to
 Kaito-san. What of it?]
 
-[....Alice... W-Why?]
+[...Alice... W-Why?]
 
 [Ahh\~\~ Errr, you’re going to ask that?]
 
@@ -1133,7 +1133,7 @@ scratching her head.
 like me, scolds me because he really cares about me, and helps me with all sorts
 of stuff...He’s really quite a softhearted person.]
 
-[.........]
+[...]
 
 [I thought I was a bit dull of a person\~\~. Well, I guess you’ll never know
 what’s going to happen in life.]
@@ -1180,7 +1180,7 @@ start!]
 It’s not that I’m angry at her, and in fact, she was helping me there, and I
 could also understand Alice’s intentions why she did that. Moreover, I was happy
 when I heard what Alice said earlier. However, I don’t know how to clearly
-explain this.... I’m feeling complicated and it’s mainly because it feels like
+explain this... I’m feeling complicated and it’s mainly because it feels like
 I’m dancing on top of Alice’s palm.
 
 [No, well, ummm\~\~ there was another way but... this was the quickest way.
@@ -1193,7 +1193,7 @@ That’s why... Kaito-san? Please don’t be mad at me.]
 Indeed, although it might be quite shameful of me... It seems that I’m sulking a
 bit right now. Seeing me turning away, Alice looked troubled as she bowed her
 head over and over again. No, well, it’s true that complaining to Alice won’t
-help anything but.... being in that situation isn’t funny.
+help anything but... being in that situation isn’t funny.
 
 [Muuu, I understand. I’ll make a proper apology.]
 
@@ -1218,7 +1218,7 @@ apple, was hurriedly putting her opera mask back on.
 [...S-So, please forgive me already... Ummm, that’s my f-first kiss after
 all...]
 
-[...Eh? Y-Yeah....]
+[...Eh? Y-Yeah...]
 
 Nodding reflexively at the words Alice told me, I was unable to get rid of the
 surprise from the kiss on my check. Even though I felt somewhat unsatisfied with
@@ -1292,7 +1292,7 @@ instant and transmitted the information to Chronois.
 
 [...Chronois-sama...]
 
-[Don’t worry, Lilia.... Aside from Shallow Vernal-sama, there’s no one in this
+[Don’t worry, Lilia... Aside from Shallow Vernal-sama, there’s no one in this
 world... who’s faster than I am!]
 
 With those words, Chronois’s figure disappears.

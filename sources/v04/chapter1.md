@@ -15,7 +15,7 @@ Reaching the front of the shop, I slowly opened the door...
 [...I can do it, I should be able to do it... Humans are beings that evolve...
 And this is the day where I learn the “magic to summon food out of nothing”...]
 
-[.........]
+[...]
 
 ...and met upon an idiot muttering something unintelligible to herself as her
 hands were raised to the sky. I’ve talked with Alice quite a bit, but
@@ -35,7 +35,7 @@ something?]
 [I did some shopping before I went to the Sacred Tree Festival, right? What
 happened to that?]
 
-[.........]
+[...]
 
 When I astoundedly asked, Alice quickly moved her gaze away.
 
@@ -82,7 +82,7 @@ loudly sighed and called out to Alice who was sitting on the floor.
 
 [Yay! Kaito-san, you’re so dreamy! I’m falling in love with you!]
 
-[.........]
+[...]
 
 [Arehh? Arerehh? Why are your eyes filled with killing intent in response to
 these words...]
@@ -105,7 +105,7 @@ buy them.
 
 [Ah, if that’s the case, I know a nice place! Let’s go there!]
 
-[.........]
+[...]
 
 Arehh? Was it just my imagination? Hearing what she said strangely gave me a bad
 feeling, especially how she didn’t say “nice restaurant”, and said “nice place”
@@ -182,7 +182,7 @@ with the cold, right, Kaito-san?]
 
 Come to think of it, the people going through the town also seem to be wearing
 heavy clothing. That’s strange? I do feel a little chilly, but it’s not so much
-that I would need to wear warm clothing....
+that I would need to wear warm clothing...
 
 (That’s thanks to my blessing.)
 
@@ -411,7 +411,7 @@ It was very crowded inside and there were a huge number of people in the
 circular hall. I spoke my thoughts after being surprised to see such a scene,
 but Alice had both of her hands full of food and she’s chewing some of it like a
 squirrel. By the way, you just bought those foods from the stall with my
-money.... so, what happened to that extra income of yours?
+money... so, what happened to that extra income of yours?
 
 [Speaking of which, I don’t really know the rules.]
 
@@ -919,7 +919,7 @@ Luna? Where’s Kaito-san?]
 
 [I think he went out earlier this morning?]
 
-[.........]
+[...]
 
 ---
 
@@ -1218,7 +1218,7 @@ but honestly, I’m not confident in my naming sense.
 [Alright, the one known as the authority in terms of naming sense, Alice-chan
 will give him a name!]
 
-[.......]
+[...]
 
 I don’t remember her having such a reputation, but Alice looks like she’s in
 high spirits as she puffed out her small chest. And after putting her hand to
@@ -1365,7 +1365,7 @@ time.
 [I’m Archlesia Empire, First Knight Order’s Commander, Bard. Please forgive us
 for our abrupt impoliteness. His Majesty, the Emperor of Archlesia wishes to see
 you... So if it’s possible, it would be our delight to have you visit the
-castle....]
+castle...]
 
 [Huh? Eh?]
 
@@ -1381,7 +1381,7 @@ Just as I’m unsure of how to reply, Alice dashes in front of me.
 [Whoa there, if you want to invite Kaito-san, you have to go through me, his
 partner, first.]
 
-[.........]
+[...]
 
 Since when did you become my partner... Though I frantically gulped those words
 down my throat. I won’t be able to answer them well at this point, so if Alice
@@ -1631,7 +1631,7 @@ for them to be “monitoring Kaito-san” instead?]
 you three... Get the heck out of here. If you don’t... Those knives would hit
 you next time, okay?]
 
-[..........]
+[...]
 
 With the words Alice quietly said... As if to follow his words, the scenery on
 the walls and the ceiling shook like static, and people dressed in all black
@@ -1663,7 +1663,7 @@ pull it out.
 
 [Arehh? It’s stuck?! I-I can’t pull it out... Fugyaaahhh?!]
 
-[.........]
+[...]
 
 It seems to have been stuck in the wall deeper than she imagined, as Alice
 pulled it with all her might... and fell on her ass.
@@ -1686,7 +1686,7 @@ in black.
 [That’s no good, you should always be careful... You three would have died by
 now, you know?]
 
-[ [ [ .......... ] ] ]
+[ [ [ ...... ] ] ]
 
 With a voice lower than usual... Alice, who said those words that even gave me
 chills, glanced at me.
@@ -1707,7 +1707,7 @@ mask... She looked like an assassin.
 
 [...If I see you lurking around Kaito-san again... I’ll kill you, okay?]
 
-[ [ [ ......... ] ] ]
+[ [ [ ...... ] ] ]
 
 It was frightening how she naturally said that uncomfortable line. Those cold
 words tells me the obvious, as if she has taken a number of lives until now...
@@ -1721,7 +1721,7 @@ her magic box, she sits down in the seat beside me and slowly crosses her arms.
 
 [And that’s why... I hope you would give us a fancy dinner—Ouch?!]
 
-[.......]
+[...]
 
 [Why did you hit me, Kaito-san?!]
 
@@ -1740,7 +1740,7 @@ of time, so I need to switch it up when needed!]
 in my face are going to be a mess. My whole body would break down. So,
 Kaito-san, please give me a gentle massa—Gyyaaaahhh?!]
 
-[..........]
+[...]
 
 [Eh? Play? With this kind of situation and you wanted that kind of play?! No,
 well, I can handle a variety of situations, but I don’t like it painf—You did it
@@ -1869,7 +1869,7 @@ were even “going to get themself killed”.]
 
 [What?!]
 
-[.........]
+[...]
 
 Even though Alice words were quite shocking, Chris-san only smiled and didn’t
 deny it at all.
@@ -1885,7 +1885,7 @@ relationship with Miyama-sama without antagonizing him... And I’m willing to
 give up my life to accomplish that. No matter what Alice-sama says, I am a tool
 for my country. The national interest is far more important than my life.]
 
-[..........]
+[...]
 
 A chill ran down my spine.
 
@@ -1902,7 +1902,7 @@ think I’ll be able to easily hold them down. Once again, thank you.]
 
 [Ahh\~\~ yes, yes.]
 
-[..........]
+[...]
 
 What can I say, I was unintentionally overwhelmed.
 
@@ -1984,7 +1984,7 @@ hummingbird!]
 castle... He wants you to rest assured that he will be treated with the utmost
 courtesy as his state guest...]
 
-[.........]
+[...]
 
 Hearing the words Lunamaria said, Lilia stiffened with a stunned expression on
 her face. Thereupon, after being silent for a while, her hands and mouth
@@ -2039,7 +2039,7 @@ knocked on his door.
 I thought there was something out of place with the she spoke just now, but I
 soon heard a click and the sound of a lock opening, and even though I’m feeling
 a little doubtful, I opened the door. And when I entered, as I thought, there
-was Chris-san inside.... but I didn’t expect to be in this kind of situation.
+was Chris-san inside... but I didn’t expect to be in this kind of situation.
 
 [...Wha?! Eh?]
 
@@ -2109,7 +2109,7 @@ offering my body and earning your affection, we could build a beneficial
 relationship from now on... However, it seems that it was a mistake since you
 didn’t consider me as a woman right from the start.]
 
-[.........]
+[...]
 
 That’s scary?! She just laid down a honey trap like that in that instant?!
 I-It’s like she really thinks she’s just a tool to make her country better...
@@ -2144,7 +2144,7 @@ straight to the real issue.]
 [Fufufu.]
 
 Yep, Chris-san is a frightening person, not in the sense of power, but in a
-different meaning. How should I say this.... I feel a sense of dread that if I’m
+different meaning. How should I say this... I feel a sense of dread that if I’m
 not careful, I won’t be able to escape her grasp before I know it. After giving
 a charming smile that seems to draw me in, Chris-san’s expression changes to a
 serious one and she speaks.
@@ -2172,7 +2172,7 @@ for the participants of the Sacred Tree Festival to have spread word about your
 achievements, and the information about you also isn’t specific enough for them
 to be the ones spreading it.]
 
-[.........]
+[...]
 
 [I don’t have any proof of this. However, I too, have lived through a whirlwind
 of schemes when I was still inexperienced. That’s why, my intuition is telling
@@ -2238,7 +2238,7 @@ surprise, when Chris-san suddenly covered my mouth with her hand.
 [Please, be quiet... My apologies for waking you up. There’s some extremely
 important business I need to talk with you about, so won’t you come with me?]
 
-[.........]
+[...]
 
 For a moment, I thought that this was just like yesterday’s honey trap, but
 Chris-san’s expression was serious, and she really seemed to have something
@@ -2350,7 +2350,7 @@ world, wrapped within the darkness. That’s why, I could tell. I’ll “never 
 able to match” against that person. To me, that person is the most terrifying in
 the world.]
 
-[.........]
+[...]
 
 Emperor Chris-san, who is an excellent strategist that makes her known as the
 Wise Emperor, says that she is absolutely no match against this person... I
@@ -2465,7 +2465,7 @@ definitely stained with blood countless of times. It’s impossible for a human 
 have that sense of intimidation without a lot of experience. I think she’s a
 dangerous being.]
 
-[..........]
+[...]
 
 [...I think she’s not someone you should get involved with...]
 

@@ -98,7 +98,7 @@ anyone’s feeliiiiiings is something anyone can dooooo. What is truuuuuuuly
 amazing is to be able to recognize and proteeeeeeect those who are
 powerleeeeeess.]
 
-[..........]
+[...]
 
 [Lilianne-sama certainlyyyyy might have amazing poweeeeer\~\~. Howeveeeeer, if
 you use that power to hurt someoooooone, then you’re just a bad persooon who can

@@ -20,7 +20,7 @@ could feel it. The current is coming. The Serious Big Wave is...]
 
 [Heyyaaaa\~\~]
 
-[.........]
+[...]
 
 As ? ? ? was busy preparing her role in the next volume, Serious-senpai was
 enjoying the peace and quiet that she hadn’t had in a long time. But sadly...

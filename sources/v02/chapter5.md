@@ -31,7 +31,7 @@ understanding what she meant, I tilted my head.
 [...Who else do you know? World King-sama? God of Life-sama? If you still have
 any other acquaintances, please tell me already!!!]
 
-[...........]
+[...]
 
 How should I say this... It seems that I had really driven Lilia-san to a
 corner. She looked like she's already on the verge of tears... No, I'm really
@@ -188,7 +188,7 @@ to recreate it.
 
 [Eh? No, it was just a common tool back in my world.]
 
-[............]
+[...]
 
 After she finished listening to my explanation, Kuro looked quite surprised at
 first, then she put her hand on her chin and began thinking for a while.
@@ -382,7 +382,7 @@ of the pinnacles of the Demon Realm?
 
 [Kaito-kun? Oiiii\~\~]
 
-[..........]
+[...]
 
 As for accessories, I had that in mind. The necklace that Kuro wanted during our
 previous date... which I actually bought back then. However, it would apparently
@@ -392,7 +392,7 @@ her as a present immediately.
 
 [Kaito-kun's ignoring me...]
 
-[...........]
+[...]
 
 Isn't there something good I could give her? A gift that even I could quickly
 prepare and that will make Kuro happy... Hmmm.
@@ -442,7 +442,7 @@ it ended up being a failure.
 
 [...And that's why, Sieg-san, please teach me how to make sweets.]
 
-[.............]
+[......]
 
 Probably surprised by what I had said, Sieg-san pointed at herself and tilted
 her head. The first person who came to my mind when I thought of someone to
@@ -453,7 +453,7 @@ like that one.
 [I understand that Sieg-san is very busy, so if it's too difficult, you can turn
 me down.]
 
-[.............]
+[......]
 
 Sieg-san is the leader of the security team at the mansion... She naturally has
 a lot of work to do. Thus, I think it wouldn't be strange if she didn't have the
@@ -484,7 +484,7 @@ place?
 
 [I-I'll search for one.]
 
-[...........]
+[......]
 
 Realizing that that would be a problem before I could even be taught how to make
 sweets, after bowing to the nodding Sieg-san, I headed back to town. A few
@@ -933,7 +933,7 @@ something unusual, Isis-san curiously looked at my hands.
 [...My late mother's parents lived in a place rich in nature... She taught me
 how to make them and I've made these several times.]
 
-[...Is.... that so.]
+[...Is... that so.]
 
 ...It feels really nostalgic. Come to think of it, when Mom first taught me how
 to make it, I was looking into her hands just like Isis-san is looking at mine

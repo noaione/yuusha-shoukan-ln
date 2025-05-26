@@ -43,13 +43,13 @@ Theta arrived in Duchess Albert’s mansion this morning in maid uniform, and fo
 some reason, they are now calling me Master. In response to my question, Eta and
 Theta got down on one knee and had their heads lowered as they answered.
 
-[This life was picked up by Master.... Then, I will use this life Master picked
+[This life was picked up by Master... Then, I will use this life Master picked
 up for Master’s cause.]
 
 [I will serve Master. Devote myself to Master. I offer my everything to
 Master... desu.]
 
-[...Ah, unnn, errr....]
+[...Ah, unnn, errr...]
 
 [Y-You bustards... You just appeared out of nowhere, and now, you’re spouting
 incomprehensible things!]
@@ -76,7 +76,7 @@ mouth has been twitching since a while ago, and her cheeks are dyed red, looking
 like she’s feeling the peak of happiness.
 
 [...It seems that you two surpass the others knowing that Master is the best one
-in the world.... Good! Strive hard to be subordinates worthy of Master’s name!]
+in the world... Good! Strive hard to be subordinates worthy of Master’s name!]
 
 [ [ Hahh! ] ]
 
@@ -627,7 +627,7 @@ I felt more strength in each of my steps compared to before.
 
 [...However, you’d be doing this for 5km, you know?]
 
-[Ugghhh....]
+[Ugghhh...]
 
 Somehow, it feels like the distance back home is getting absurdly far away when
 you put it in concrete numbers. N-No, It will be alright. It’s just 5 km...
@@ -823,7 +823,7 @@ she would procure it from her.
 
 [Y-Yes! Give me a few days, and I could prepare a whole bunch of them...]
 
-[Unnn.... I’d say the cost of materials is about 3000R... Then, how about we
+[Unnn... I’d say the cost of materials is about 3000R... Then, how about we
 stock up on them at about 10000R a piece?]
 
 [Pfft?! 1-10000R?!]
@@ -1048,7 +1048,7 @@ good happened today.]
 
 Without denying the words Sechs told her, Kuromueina smiled like a young girl.
 
-[Is that.... a necklace? It’s unusual for Kuromu-sama to wear an accessory.]
+[Is that... a necklace? It’s unusual for Kuromu-sama to wear an accessory.]
 
 [Unnn. Well, I really like it... What do you think? Does it suit me?]
 
@@ -1254,7 +1254,7 @@ Kaito-kun’s work when you haven’t done anything, right?]
 just not needing money, he even has more than 100 white gold coins right now,
 right? Wouldn’t it just be troubling him if he just gets more?]
 
-[T-That is....]
+[T-That is...]
 
 Lilia-san slightly hesitated because of what Kuro quietly said.
 
@@ -1262,7 +1262,7 @@ Lilia-san slightly hesitated because of what Kuro quietly said.
 think about it in Kaito-kun’s position, taking on that kind of hassle would just
 be a hindrance instead, don’t you think?]
 
-[.........]
+[...]
 
 [Of course, like I said before, I understand how you feel, Lilia-chan. So, why
 don’t we do this? Kaito-kun has the patent until Kaito-kun returns to his world,
@@ -1342,7 +1342,7 @@ High-ranking Demon” but...]
 [As expected of Shiro, this shouldn’t have existed in this world... or rather,
 she just made something that exceeds common sense...]
 
-[......]
+[...]
 
 Shiro-san, seriously, what did you create?! You just created something that
 exceeds common sense?! T-This is really outrageous... Or rather, Shiro-san
@@ -1412,7 +1412,7 @@ when Alice hurriedly took out something.
 [If you’re going to the Demon Realm, I have something that I would recommend you
 to have!!!]
 
-[..........]
+[...]
 
 How should I say this, she has quite the business spirit or something like that
 huh... Letting out a big sigh, I looked at the book that Alice vigorously held

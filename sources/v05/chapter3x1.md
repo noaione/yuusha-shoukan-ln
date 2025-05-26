@@ -45,7 +45,7 @@ summoned, “your wish is”...]
 
 [I know that! I don’t know if it’s even possible...]
 
-[......]
+[...]
 
 I can understand why Kuro is trying to do this, and I can honestly feel her
 pain. That’s why I hesitated. Should I stop her, or should I let her go...
@@ -175,7 +175,7 @@ be too long before Kaito-san... stands before you. And then, he will go
 challenge the depths of your soul that neither I nor the other Six Kings have
 been able to reach.]
 
-[......?!]
+[...?!]
 
 Kuro-san looks as if she’s about to cry.
 
@@ -197,12 +197,12 @@ When Kuro-san quietly told me that, I also quietly replied.
 you to the death... and probably “die” because I’m not strong enough to defeat
 you.]
 
-[..........]
+[...]
 
 [It’s nothing special. If Kaito-san dies, I will die too, I didn’t intend to
 fall in love without that level of commitment.]
 
-[..........]
+[...]
 
 At my words filled with determination, Kuro-san remains silent and doesn’t say
 anything. Kuro-san also understands. She also knows that the day when that will

@@ -120,7 +120,7 @@ I... No... Don’t tell me...
 
 [...Unnn... Was the item... a bit too big?]
 
-[.........]
+[...]
 
 It had completely slipped out of my mind. Despite her cute appearance, Isis-san
 is one of the most talented people in this world. She even said that she
@@ -497,7 +497,7 @@ looking for... I think that would also be great.]
 [I see... “It would be great if the day you can be honest with your feelings”
 come soon.]
 
-[.........]
+[...]
 
 Alice didn’t respond to Kuromueina’s words. Kuromueina, perhaps having
 anticipated Alice’s lack of response, says nothing more and turns her attention

@@ -63,7 +63,7 @@ Speaking of which, when I first met Chronois-san, I remembered when she told me
 I was blessed with a strange fate... W-Well, but even then... my life might not
 really be at peace, but I feel like my life has been calm. Besides, it was just
 the past few days that had been abnormal. It’s not like major incidents really
-happen that much....
+happen that much...
 
 [Kaito-san, Kaito-san.]
 

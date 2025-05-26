@@ -104,14 +104,14 @@ teas, you said...
 was always thinking about the risks and stuff like the negative side of things,
 and I always end up not being able to act on anything.]
 
-[.........]
+[......]
 
 [What about now? Yeah, I had some change in mentality... It may be just a bit,
 even if it was really just a bit, but it has helped me to think positively. I'm
 now thinking that if I could somehow do something now if I do my best, but if I
 just give up without even trying, isn't it quite a “shame”...]
 
-[.........]
+[......]
 
 [Ah, no, that's actually also just something I heard before. However, once I was
 able to think like that, the pain I had been experiencing before became much

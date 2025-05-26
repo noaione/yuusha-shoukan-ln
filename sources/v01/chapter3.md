@@ -316,7 +316,7 @@ his heart is set upon something!]
 [I agree. I've honestly changed my opinion of you for a bit... but you're indeed
 an elder that we can rely on.]
 
-[.......]
+[...]
 
 Yuzuki-san, who is already giving me a glittering and respectful look, nodded
 her head in agreement with Kusunoki-san, sincerely nodding along.
@@ -470,7 +470,7 @@ you recommend?]
 
 [...Buy some equipment from a store in town and go with Orc.]
 
-[.........]
+[...]
 
 Kusunoki-san mentioned very famous monsters that would appear in many games.
 Many people would be under the impression that the slime would be the weakest of
@@ -507,7 +507,7 @@ formation to hunt it?]
 
 [A Thief as tank, a Monk with Barrier skill, and a Mage with Fire Magic.]
 
-[......]
+[...]
 
 By the way, the Earth Dragon is a high grade monster with an absurdly high
 attack power, but it only performs physical attacks at close quarters and is
@@ -822,7 +822,7 @@ I honestly want to leave without opening this door that leads to a sausage fest,
 but after taking a few deep breaths, I made up my mind, opened the door and
 entered.
 
-[............]
+[...]
 
 As I entered, the scene I came upon in front of me—wasn't the sausage fest that
 I thought I would find.
@@ -854,7 +854,7 @@ be that this is actually the waiting room? Maybe it's just I who doesn't know
 and this is actually the norm—No, as expected, that isn't possible. I mean, how
 the heck could anyone call this place a room?!
 
-[.........]
+[...]
 
 [Eh?]
 
@@ -888,7 +888,7 @@ in front of me is on a “different level” from me—Is this being perhaps, a 
 [Nice to meet you, Miyama Kaito-san, the human from another world found by
 Kuromueina. I'm “Shallow Vernal”, nice to meet you.]
 
-[.........]
+[...]
 
 Her voice reaching my ears sounded so pleasant that I thought it was gospel, but
 at the same time, I felt a strong sense of discomfort that I can't put into
@@ -904,7 +904,7 @@ the woman in front of me.
 this place at Kuromueina's request. And just as they said, the better the view
 of the surroundings is, the more calming it will be.]
 
-[...........]
+[...]
 
 If I just paid attention to the words she said, I don't think I would have found
 anything strange among them... But I can't sense any intonation in her voice.
@@ -1020,9 +1020,9 @@ facing Shiro-san.
 And then, as if it's natural, a cup of amber-colored liquid appeared in front of
 me.
 
-[.........]
+[...]
 
-[.........]
+[...]
 
 A-Awkward. The combination of her silence and expressionlessness turned
 everything really awkward. A c-conversation... We should have some conversation,
@@ -1039,9 +1039,9 @@ the tea served by God huh... That's right, how about we start with this tea...
 
 [I'm glad you like it.]
 
-[........]
+[...]
 
-[........]
+[...]
 
 I can't push the conversation forward at all?! Or rather, even if I tried to
 push forward our conversation, with the combo of her complete lack of facial
@@ -1144,7 +1144,7 @@ that not only her very being, but even her sense of taste is also weird?
 
 [No, it's so bad that I'd rather eat dirt.]
 
-[.......]
+[...]
 
 Then, at least show a little bit of that kind of feeling in your expression or
 your voice!!
@@ -1170,7 +1170,7 @@ heard was the best thing to welcome you.]
 
 [It tastes so bad that I think its very existence should be a sin.]
 
-[..........]
+[...]
 
 I think I now understand a little bit regarding this person. This person is
 probably... extremely airheaded.
@@ -1190,9 +1190,9 @@ Beauty run away from her superiority, but also possesses outrageously
 troublesome factors as she's expressionless, emotionless, and a natural
 airhead—continues.
 
-[...........]
+[...]
 
-[...........]
+[...]
 
 No, please carry on with our conversation. Could it be that? That pattern where
 it won't do unless I do it myself?
@@ -1206,9 +1206,9 @@ was a lie.]
 
 [...Ah, yes.]
 
-[.......]
+[...]
 
-[.......]
+[...]
 
 It really was a lie?! What should I do with this Goddess... L-Look, since you
 read my mind anyway, you can use that to your advantage to broach a subject for
@@ -1299,7 +1299,7 @@ There was still no inflection in her voice, and her expression still hadn't
 changed at all... But for some reason, she seemed to be sincerely wondering
 about it, unlike earlier.
 
-[...........]
+[...]
 
 Maybe that's why I wasn't able to give her a quick reply. Whether or not humans
 yearn for great power... That may be a question that Shiro-san can ask as a God
@@ -1322,7 +1322,7 @@ wisdom enough to touch upon the truth of the world? Wealth more than you can
 ever use in your whole life? Reputation that makes all of the people respect
 you? Whatever you want is fine.]
 
-[......]
+[...]
 
 [Now, tell me what you desire. I can give you something that no one will ever
 hope to reach.]
@@ -1351,7 +1351,7 @@ utter the answer I got.
 
 [...It's because I think you probably couldn't give me what I really want so...]
 
-[......]
+[...]
 
 Although it's too late now, what I said might have been an extremely rude
 statement to a God holding tremendous power. Even so, I still couldn't believe
@@ -1369,12 +1369,12 @@ However... What came to my mind was Kuro's innocent smile.
 [...I was told so. She has told me... that I'm fine the way I am right now, that
 we just have to look for it...]
 
-[........]
+[...]
 
 [That time, I was so happy. Even if I was struggling and suffering for it, even
 as I unsightly struggled to walk on the ground, she still pushed my back.]
 
-[........]
+[...]
 
 [I'm just a powerless and weak human... Don't you think I'm unworthy of such a
 thing? What you're trying to give me is a little too heavy for me to carry.]
@@ -1390,7 +1390,7 @@ of properties, or unending cheers from other people, I don't need any of that.
 What I really wish for... is “something that I must get myself by my own hands”,
 no matter whether I struggle, suffer, and look unsightly to acquire it.]
 
-[...........]
+[...]
 
 I think that this is an answer that I could say based on the fact that I've been
 blessed. Yes, I've truly been blessed. Whether it's the people around me or the
@@ -1403,7 +1403,7 @@ before me is a God... My answer won't change.
 [Even though you had suggested it to me, I will have to say my apologies. But my
 answer won't change, I will decline what you're proposing.]
 
-[.........]
+[...]
 
 Shiro-san didn't say anything. She just silently listened to my monologue and
 looked at me as I lowered my head.
@@ -1641,7 +1641,7 @@ with Kuro...
 [Yes, by all means. Ah, but can you please stop with the sudden teleportation?
 It's bad for my heart. Please excuse me from anything like that.]
 
-[.........I'll think about it.]
+[...I'll think about it.]
 
 [I'd like it if you could make a prompt decision regarding that if you could
 though.]

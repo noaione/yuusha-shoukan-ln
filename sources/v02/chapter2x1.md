@@ -66,7 +66,7 @@ power of Isis.
 
 [...You're wrong... You're wrong... You're wrong!!!]
 
-“......”
+“...”
 
 With her cries and screams, in response to her fury, Isis's magic power
 exploded, forming an extremely large magic circle in the sky that shook the air.
@@ -106,7 +106,7 @@ while in contrast to her, Isis clenched her teeth.
 how you feel, Isis... But could you at least wait until the world is a little
 more stable?]
 
-[..........]
+[...]
 
 Hearing Kuromueina's words, Isis bit her lip as if to say that she still wasn't
 convinced, but she didn't try to force her way through like she did when she was
@@ -396,7 +396,7 @@ death she was clad in creates an image of death against the subjugation team.
 They had already had their own deaths in their minds many times, and their
 instincts were intensely screaming for them to run away.
 
-[..........]
+[...]
 
 In addition to not being able to find a single Blue Crystal Flower on the
 mountaintop, their reactions clearly made Isis look slightly irritated. At the
@@ -494,7 +494,7 @@ doesn't matter how strong-minded he is. As long as he's a living being, as long
 as he doesn't have the power to oppose Isis, he wouldn't be able to hold the
 hand that she offered to him...
 
-[.............]
+[...]
 
 Looking at the hand that Isis held out to him, the young man clearly became more
 frightened as he took a step backward.
@@ -577,7 +577,7 @@ faced and overcame it, the being who could hold her hand...
 
 [...My name is Miyama Kaito. It's nice to meet you. Isis-san.]
 
-[....Uaahh..]
+[...Uaahh..]
 
 Directed towards her, the words were spoken with his gentle voice and the warm
 smile he had... melted the ice that had enveloped Isis's heart.
@@ -662,7 +662,7 @@ do around that time. At that point in time, it had only been four days since
 they came to this world... In that case, it's possible that he's being unfairly
 treated by the country...”
 
-[......]
+[...]
 
 “Ah, no, it's just a possibility, okay? It's just one of the plausible reasons.”
 
@@ -681,7 +681,7 @@ country...”
 
 [...Any country that torments Kaito... should be destroyed.]
 
-“..........”
+“...”
 
 Lillywood was convinced. If that really was the case, Isis would seriously kill
 all those culprits, even if it meant destroying the Symphonia Kingdom...

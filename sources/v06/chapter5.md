@@ -116,7 +116,7 @@ on the map... It’s an island floating in the skies called “Sanctuary”. In 
 place, even I will not be able to enter without Shallow Vernal-sama’s
 permission.]
 
-[.........]
+[...]
 
 Arehh? That’s weird... I can tell from her tone that it must be an amazing
 place. A place that even the Supreme God, Chronois-san, can’t enter without
@@ -421,7 +421,7 @@ do in the world.]
 Gods will obey your words. You can say that you have absolute command authority
 over the Gods.]
 
-[.........]
+[...]
 
 The heck is that, that’s scary... I-In short, when someone speaks in the name of
 God, that means that their statement is equivalent to when the God herself
@@ -671,9 +671,9 @@ small-statured like me is A-OK!!! Then, I don’t have any choice but to go
 attack!!! I’m aiming for my dream sponger lifestyle!!! I will be the God of
 NEETs!!!]
 
-[..........]
+[...]
 
-[..........]
+[...]
 
 Ahh, she’s still the same old Fate-san... When she said her wish of becoming the
 “God of NEETs”, I can feel an irredeemable uselessness from her. Chronois-san
@@ -688,7 +688,7 @@ izakaya... I refuse.[^izakaya]]
 [Ehhh\~\~ Isn’t it fine, it’s just a contact with our lips. If you do it now,
 I’ll even let you get the option of feeling my breasts!!!]
 
-[..........]
+[...]
 
 Looking at Fate-san who is closing in on me, I backed away, somehow feeling a
 sense of dejavu.
@@ -753,7 +753,7 @@ Chronois-san and I.
 
 [...I’m sorry I was born.]
 
-[.........]
+[...]
 
 She’s already in tatters... Well, since it’s Fate-san, I bet she will become
 lively again... Thereupon, Chronois-san looks at Fate-san and lets out a sigh
@@ -881,7 +881,7 @@ weren’t open.
 
 [Oi, God of Life, we have a guest.]
 
-[...zzz... zzz....]
+[...zzz... zzz...]
 
 [...Well, I knew it. I knew there’s no way that the God of Life would be awake.]
 
@@ -953,7 +953,7 @@ stay too long...]
 [I see, you’re going to Shallow Vernal-sama’s home huh... Well then, if
 Miyama-san is fine with you, how about I also go with you?]
 
-[ [ ......Eh? ] ]
+[ [ ...Eh? ] ]
 
 When Life-san offered to accompany me just like Fate-san did, I heard
 Chronois-san and Fate-san’s voices from behind. When I glanced towards them,
@@ -988,7 +988,7 @@ I will provide you with food, clothing, shelter and a gold coin a day for your
 salary... All the work you need to do is just tell God of Fate and God of Life
 to “do their jobs” once a day!]
 
-[..........]
+[...]
 
 Seriously, how troubled is this person usually? She’s even willing to pay a
 million yen just to hire me... It seems that it’s a really serious problem. I
@@ -1041,7 +1041,7 @@ doubts, nodded once with a blank expression on her face.
 
 [I guess it’s natural that you would ask that... Well then, shall we move on?]
 
-[.........]
+[...]
 
 Unnn. I knew it... I should have known, right? She really won’t answer my
 question huh?!
@@ -1074,7 +1074,7 @@ first. What kind of tree are those over there?]
 
 [They’re “maple” and “ginkgo” trees.]
 
-[..........]
+[...]
 
 The place where Shiro-san led me to is already a stunning onsen, just as she
 said she would make it. The bathtub made of rocks lined up in a perfect balance,
@@ -1093,7 +1093,7 @@ _Shishi-odoshi_?[^shishiodoshi]]
 
 [It’s a _Shishi-odoshi_.]
 
-[.........]
+[...]
 
 She even perfectly prepared a _Shishi-odoshi_... Even Chronois-san, who is
 behind me, is struggling to hold back a headache.
@@ -1134,7 +1134,7 @@ also be joining us.]
 
 [Eh? Chronois-san too?]
 
-[.........]
+[...]
 
 I had heard from Shiro-san beforehand that I was going to be bathing with her...
 and although I completely didn’t agree, I had given up on the idea of refusing
@@ -1145,7 +1145,7 @@ everything.
 
 [...Shallow Vernal-sama’s will take precedence over everything else.]
 
-[............]
+[......]
 
 She’s too pitiable...
 
@@ -1383,7 +1383,7 @@ tall, her appearance while she’s wrapped in her towel looked risque... I feel
 like I would be able to see it if she walked. Chronois-san was wrapped in a
 towel with her hands crossed in front of her chest, her face was already so red
 that it’s as if she would faint from dizziness, and her body was trembling, as
-if she’s a newborn fawn. What is this feeling, hmmm.... I’m feeling very sorry
+if she’s a newborn fawn. What is this feeling, hmmm... I’m feeling very sorry
 for Chronois-san as she desperately tried enduring her embarrassment but...
 Seeing her makes me feel soothed.
 
@@ -1440,7 +1440,7 @@ expressionless as ever though...
 [I’m sure everyone wants to have some time to talk with Kaito-san. I should also
 make sure he won’t feel dizzy...]
 
-[.........]
+[...]
 
 She just started saying frightenings things though?! Not only did she just make
 it impossible for me to faint, you won’t even let me get dizzy?! As I was
@@ -1471,7 +1471,7 @@ them, one after another?!
 
 [Yes.]
 
-[.........]
+[...]
 
 Yep. I knew it, I should have known it but... I guess this kind of protests
 wouldn’t work to Shiro-san huh...
@@ -1618,7 +1618,7 @@ It was a really unimaginably cold voice that was unlike the usual Fate-san.
 [Kai-chan, you know, I hate troublesome things. But even more than that, I hate
 boring things\~\~]
 
-[..........]
+[...]
 
 [Someone who moves the way I want, someone who talks the way I want...They’re no
 fun at all. It’s as if I’m just playing with a doll... It isn’t fun at all.]
@@ -1713,7 +1713,7 @@ speaking.
 time being liked by such a selfish, hardheaded, self-absorbed fool like her...
 You have my sympathies.]
 
-[.........]
+[...]
 
 [To begin with, she’s always been...]
 
@@ -1740,7 +1740,7 @@ how powerful you are, no matter what happened between you and Isis-san in the
 past... If you say bad things about my beloved Isis-san, I’m going to be the one
 you’re standing against.]
 
-[.........]
+[...]
 
 It might be a rude thing to say to a Supreme God... someone who is one of the
 pinnacles of the world. However, this isn’t something I would compromise on. I’m
@@ -1767,7 +1767,7 @@ slowly bowed her head towards me.
 [Fufufu, I wonder, what do you think? However... From the “letter Isis sent me”,
 she seemed to be very happy to have met you.]
 
-[..........]
+[...]
 
 I had just fallen into her trap... I was completely dancing on the palm of her
 hand. If I think about it on the premise that Isis-san and Life-san are good
@@ -1923,7 +1923,7 @@ earlier.
 
 [T-To begin with, what good can it even do to you to take a bath with me?]
 
-[..........]
+[...]
 
 [Why aren’t you talking?]
 
@@ -1987,7 +1987,7 @@ a somewhat solemn voice.
 changed something that hadn’t changed in hundreds, thousands, tens of thousands
 of years, and you’ve changed it so easily.]
 
-[.........]
+[...]
 
 [You are bringing change into this world... This is an undeniable fact. In the
 past, there have been people who have brought about great changes in the
@@ -2006,7 +2006,7 @@ more than that...
 superior just because you brought the change faster than her, but still, Miyama,
 you’re bringing a greater change to this world far faster than the First Hero.]
 
-[.........]
+[...]
 
 [Everyone who is involved with you changes... Shallow Vernal-sama, God of Fate,
 and even God of Life... That’s why I find you so frightening... When I talk to
@@ -2224,7 +2224,7 @@ mouth.
 [In that case, the choices you will have in front of you would be the same as
 the rest of the otherworlders.]
 
-[.........]
+[...]
 
 [However, if you have survived my ordeal... Even if it means “crossing blades
 with the God of your world”... I will grant you your wish.]
@@ -2411,7 +2411,7 @@ happy.]
 to me back when I was a little girl, alone and shivering with nowhere to go, and
 asked me to go with her. She led me to the place where I could call home.]
 
-[..........]
+[...]
 
 While holding onto my clothes, Ein-san tells me with her face down and her small
 shoulders trembling... I just continued quietly listening to her story, trying
@@ -2423,7 +2423,7 @@ That’s why I became her maid, to use this life that Kuromu-sama picked up for
 the sake of Kuromu-sama’s will for the rest of my life... to serve Kuromu-sama
 until the end of my life.]
 
-[.........]
+[...]
 
 [...It’s ironic, isn’t it? I was so drunk with the happiness of serving and
 being by Kuromu-sama’s side... that it was late in realizing the wish in
@@ -2439,7 +2439,7 @@ realized that she was drifting apart from Kuro’s wish...
 my lord. I had formed a self that was proud to serve Kuromu-sama. I couldn’t
 change the way things were anymore.]
 
-[.........]
+[...]
 
 [I felt really pathetic... Even though I knew more than anyone else about
 Kuromu-sama’s suffering, her wishes, and yet, I couldn’t do anything about it...
@@ -2458,7 +2458,7 @@ savior.]
 can unhesitatingly say that my thoughts about you come from my heart. I love you
 second in the world. I will put you second only to Kuromu-sama.]
 
-[.........]
+[...]
 
 What the heck is this, I’m kind of feeling a chill similar to how I felt when I
 first met Isis-san... I don’t really know why, but did I flip some sort of
@@ -2492,7 +2492,7 @@ looked at me again.
 [Eh? Wha?! Wait, E-Ein-san?!]
 
 Right after I nodded, Ein-san took out a box out of nowhere that looked like a
-cake box.... or rather, she’s just giving me a mountain of them?!
+cake box... or rather, she’s just giving me a mountain of them?!
 
 [...U-Ummm, I’ll just ask just in case... but these are?]
 

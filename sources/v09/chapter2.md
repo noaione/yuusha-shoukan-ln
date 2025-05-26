@@ -132,7 +132,7 @@ soft touch on my cheek.
 It took me a few moments to realize what had just happened. In the meantime,
 Lilia-san smiled and went inside the mansion.
 
-[...................Eh?]
+[...Eh?]
 
 I, who was left alone, kept my hand lightly on my cheek and just kept on
 dumbfoundedly staring at the door Lilia-san disappeared to. The only thing I can
@@ -566,7 +566,7 @@ is a freaking monster...
 [Eh? Yeah, well, I can generally do most things. I can use all the instruments,
 and I’ve written about “20000 songs” before...]
 
-[..........]
+[...]
 
 Seriously, what is with Alice’s incomprehensibly high specs? I feel like she
 could make as much money as she wants if she really just wanted to. When I was
@@ -661,7 +661,7 @@ think... it’s easier to dig... I’ll also case... simple Defensive Magic on y
 
 [Thank you! It helps me out a lot.]
 
-[...Unnn... Good luck... While you’re mining... I’ll go prepare you a meal....
+[...Unnn... Good luck... While you’re mining... I’ll go prepare you a meal...
 So... don’t push yourself too hard.]
 
 [Yes!]
@@ -1083,15 +1083,15 @@ muttered with a worried expression on her face.
 [...This morning, I happened to see Kaito-san... For some reason, he looked very
 tired... C-Could it be that he was feeling unwell?!]
 
-[ [ ......... ] ]
+[ [ ...... ] ]
 
 [T-Thinking about it, the environment in this world and the world where
 Kaito-san came from is different... so he may have been unknowingly soaking up
 fatigue...]
 
-[ [ ......Haahhh... ] ]
+[ [ ...Haahhh... ] ]
 
-[.......Eh?]
+[...Eh?]
 
 Seeing Lilia speak with a restless look on her face, Lunamaria and Sieglinde let
 out a big sigh. And with an amazed expression on her face, Sieglinde calls out
@@ -1114,7 +1114,7 @@ became lower and lower, and finally she had an uneasy look on her face.
 [I don’t know if it’s Lili’s fault or not but... It’s true that you’ve been
 avoiding Kaito-san lately, right?]
 
-[T-That’s not it... It’s not like I.... was avoiding him...]
+[T-That’s not it... It’s not like I... was avoiding him...]
 
 [Geez, for just a kiss or two, how long are you going to drag this out... I know
 that you’re feeling awkward, but you could just mend that kind of stuff along
@@ -1279,7 +1279,7 @@ general store, which was the place where I would be working.
 
 [Welcome, Kaito-san!]
 
-[.......]
+[...]
 
 When I opened the door of the general store and saw the stuffed cat that
 immediately greeted me, I closed the door almost as if it was reflex. Unnn...
@@ -1326,7 +1326,7 @@ the counter which is usually not accessible... leading towards the workshop. The
 costumed Alice stays behind as the shopkeeper and the opera mask Alice... The
 main body shows me around.
 
-[W-Whoa....]
+[W-Whoa...]
 
 [What do you think? This is my prided workshop!]
 
@@ -1562,7 +1562,7 @@ a prisoner awaiting his death sentence... before Kuro lets out a big sigh.
 [K-Kuro?]
 
 [Didn’t I tell you that you would make it if you just kept going at this pace?
-And yet, why are you being this rash....]
+And yet, why are you being this rash...]
 
 [T-That is...]
 
@@ -1604,7 +1604,7 @@ sleep... I’m really sorry.]
 all... So I wanted to take this opportunity to properly thank everyone for
 helping me...]
 
-[.........]
+[...]
 
 When I honestly told her why, I timidly looked up at Kuro’s face again... and
 saw Kuro had a complex expression of mixed anger and joy. She tried speaking a
@@ -1672,7 +1672,7 @@ Kuro can see me doing that.
 doesn’t completely heal all of your mental fatigue... So, promise me... After
 Lilia-chan’s birthday, you’ll get at least three days of rest... Understand?]
 
-[....Unnn. I understand.]
+[...Unnn. I understand.]
 
 [Unnn. Then, that’s good.]
 

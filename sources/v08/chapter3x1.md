@@ -194,7 +194,7 @@ couldn’t together. At worst, it’s fine if it was just other people, but make
 sure to include all the attractions that Kuro and Kaito-san visited. Just Kuro
 is unfair.]
 
-[.........]
+[...]
 
 Seeing Shallow Vernal speaking in such a way that doesn’t seem to give her any
 margin, Kuromueina was stunned. Even though Kuromueina had known her for a long

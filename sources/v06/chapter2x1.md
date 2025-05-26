@@ -75,7 +75,7 @@ inferior to Kuro-san... Of course, no matter how much you ask, I could act as
 your equal as many times as you want. However, if I were to do that... I’m sure
 that you would be hurt even more than this.]
 
-[............]
+[...]
 
 Those words coldly pierced my heart. I know Shalltear didn’t mean to hurt when
 she said it like that. I know she only said it out of concern for me... However,
@@ -150,8 +150,8 @@ That’s right, I love this world... That feeling of mine isn’t false.
 That’s why, it’s okay... Even if I don’t have anyone by my side, my beloved
 children are still around me...
 
-Yes, I thought.... that I had given up, and I thought... there wasn’t any hint
-of my wish in my mind at all.
+Yes, I thought... that I had given up, and I thought... there wasn’t any hint of
+my wish in my mind at all.
 
 Festival of Heroes... The world’s biggest festival held once a decade, where
 people from Hikari’s homeworld are invited to play the role of Hero... It wasn’t
@@ -254,7 +254,7 @@ But... However... You are...
 [...Kuro... Thank you... for everything.]
 
 However, you still didn’t let me go away... You won’t let go of my heart. And
-for the first time.... I was defeated. You may have received help from the other
+for the first time... I was defeated. You may have received help from the other
 members of the Six Kings, and you may have received support from Shiro. However,
 those things don’t matter... It’s not because of the others that I was
 defeated... It was because of your straightforward will. I was convinced that

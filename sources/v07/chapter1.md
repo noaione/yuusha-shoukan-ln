@@ -110,7 +110,7 @@ a lot more girls than that... How would you feel, Kuro?]
 [Unnn. I mean, look, that just means my beloved Kaito-kun is a wonderful boy who
 is loved by many other children, right?]
 
-[.........]
+[...]
 
 Our way of thinking really is different. From how I see it, dating more than one
 woman is being unfaithful, but for the people of this world, it seems to be
@@ -361,7 +361,7 @@ confession and waiting for the response isn’t a pleasant one to be in. I don�
 know who this person who has feelings for you, and I wouldn’t ask but... Don’t
 you think she must be feeling uneasy inside?]
 
-[.........]
+[...]
 
 [I understand that you are being sincere. However, I think that you are still
 young... Sometimes, I think it would be better if you forcibly pulled the woman

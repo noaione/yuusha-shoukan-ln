@@ -442,7 +442,7 @@ trade are thriving.]
 [Monsters do exist, but subjugating them is a job for the Adventurer's Guild and
 the Chivalric Order, so, including Mitsunaga-sama, none of you have to fight.]
 
-[.........]
+[...]
 
 Arehh? What's with this conversation? Wait a minute. Please, let me think for a
 moment!
@@ -484,7 +484,7 @@ world has to offer to its fullest, from sightseeing to cultural exchanges, to
 even exploring the once-in-a-decade grand festival this world hosts... You will
 safely be returned to your original world.]
 
-[.................]
+[......]
 
 Dear Mother, Father—I got caught up in a hero summoning, but that world—was at
 peace.

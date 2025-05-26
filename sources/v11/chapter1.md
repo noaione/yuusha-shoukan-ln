@@ -2345,7 +2345,7 @@ properly pick up her towel yet. As I, who had fallen down on my back, turned my
 gaze upward... It is obvious what I will see. One second, two seconds, three
 seconds passed... Alice’s eyes started going around in circles, and then...
 
-[......]
+[...]
 
 [A-Aaahhhhh... Kyaaaaaahhhhhh!]
 

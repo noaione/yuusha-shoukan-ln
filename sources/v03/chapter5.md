@@ -42,7 +42,7 @@ But then... Someone I never expected became my savior.
 
 [How rude! Don't talk to Master so casually, or I'll tear you to pieces!!!]
 
-[.............]
+[...]
 
 Yes, this is where Anima came into play. She gallantly appeared, and just like a
 breakwater, held off the people who were coming at me like a tsunami. Yep... It
@@ -426,7 +426,7 @@ muttered with a gentle tone in her voice.
 [Kaito-kun has been working harder and growing up more than I ever thought you
 would...]
 
-[..........]
+[...]
 
 Kuro, who muttered that, didn't turn towards me, her gaze was still fixed on the
 moon in the sky. Probably because she was originally cute, her figure as she
@@ -459,7 +459,7 @@ times I tried, I wasn't able to get it. I couldn't even find it.]
 [...It's a secret. However... Let's see. If Kaito-kun finds it... I will...
 probably be happy.]
 
-[.............]
+[...]
 
 Under the moonlight, the girl with many secrets smiles. It's a smile so
 beautiful that I can't take my eyes off of it, though it's as fleeting as the
@@ -609,7 +609,7 @@ heard those words, an atrocious smile appeared on his face.
 [I see, hahaha. I'm increasingly looking forward to meeting him! In that case,
 Ozma! Lead him to me!]
 
-[..............]
+[...]
 
 Hearing that Ozma was acquainted with Kaito, Megiddo told him to bring Kaito to
 him, but Ozma didn't nod to his words. Thereupon, he took out a cigarette from

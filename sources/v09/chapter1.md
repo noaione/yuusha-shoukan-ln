@@ -15,7 +15,7 @@ been able to tap into a fraction of its potential. In order to reach its maximum
 potential, we need to challenge ourselves not just with established practices,
 but also look at it from multiple perspectives.]
 
-[.........]
+[...]
 
 Coming to my room at night just like usual, Kuro... no, the Baby Castella Demon
 declared with a serious expression on her face. Is this one of those topics that
@@ -45,7 +45,7 @@ exactly you want to do?]
 Research Group” here, consisting of me and Kaito-kun, we can’t just go testing
 things out at random.]
 
-[..........]
+[...]
 
 When the heck did I become a main member of a research group that gives me a
 headache just from hearing about it? However, I can’t say I don’t have any idea
@@ -468,7 +468,7 @@ Chris looked somewhat puzzled why she was asked such a question.
 
 [Because there is where the baby castellas are after all.]
 
-[...............I see.]
+[...I see.]
 
 Hearing Kuro’s reply, Chris-san’s expression changed several times, which is
 quite unusual for her... before she nodded. She probably just swallowed a lot of
@@ -664,7 +664,7 @@ growth.]
 
 ...If this just wasn’t about baby castellas, it would have sounded like a good
 line that encourages her growth... I’ll say this again, but if this just wasn’t
-about baby castellas....
+about baby castellas...
 
 (Pursuing the possibilities of baby castellas is something I needed? This is the
 first time I’ve heard of this?)
@@ -687,8 +687,8 @@ I’ve heard... but what about changing the size of the food?]
 [Yes. I heard that in the other world, there’s a custom of making food huge by
 naming it something like mega or giga. How about trying such a thing out?]
 
-[....It’s not really a custom, but there certainly are foods that are larger
-than normal.]
+[...It’s not really a custom, but there certainly are foods that are larger than
+normal.]
 
 I nodded in agreement with Life-san’s words, but I had a bad feeling about it.
 I’ve seen such huge dishes on the internet. But if it’s possible, I didn’t want
@@ -867,7 +867,7 @@ glean from me.]
 [I’m not sure what you would describe as strange, but I don’t think I’m doing
 anything weird.]
 
-[............]
+[...]
 
 Just like that, Kuro and Shiro-san stared at each other in silence for a few
 seconds, before Kuro sighed, looking as if she gave up.
@@ -1075,7 +1075,7 @@ in front of us.
 
 ![Insert 1](../../_Images/v09/Insert1.png#.insert)
 
-That’s strange? I thought I did my best to prevent this from happening.... I
+That’s strange? I thought I did my best to prevent this from happening... I
 guess it really was that huh? I could prevent her from using strange
 ingredients, but I couldn’t keep up with her physically? N-No, it’s too early to
 despair. Fortunately, it was just its size that’s out of standard, but we

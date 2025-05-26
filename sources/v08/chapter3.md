@@ -63,7 +63,7 @@ Earth-Attribute Magic. What she always used... was Fire-Attribute Magic.
 Nature or Spirit Magic. Moreover, my greatest aptitude was for the flames, the
 element that burns the forest. That’s the reason why.]
 
-[.........]
+[...]
 
 [Especially since my mother was a Spirit Mage that the Head Spirit Mage called
 her rival, and my father was a Mage so highly skilled that the king bowed down
@@ -259,7 +259,7 @@ quickly. She immediately understood what we wanted to say, and the story’s tem
 is fast. I feel an ease of talking with her unlike when I’m talking with Kuro
 and Alice. If I had to describe it, it’s almost like I’m talking with Shiro-san.
 
-[.........]
+[...]
 
 [Lillie-san?]
 
@@ -297,7 +297,7 @@ Lillie-san thought for a moment before speaking with a cheerful voice.
 Magic that borrows power from its surroundings is capable of demonstrating power
 beyond its user’s own limits, you know?]
 
-[.........]
+[...]
 
 [...Oya?]
 
@@ -384,7 +384,7 @@ her her teachings.
 it must be fate that we’ve become acquainted like this. If you want to be
 stronger, I can at least give you some simple advice.]
 
-[.........]
+[...]
 
 Sieg-san glanced at me as she listened to Lillie-san’s words.
 
@@ -551,7 +551,7 @@ inferior to Lilia-san, she has enough ability to cope with the speed of sound,
 and I think she can see some of Lillie-san’s movements as well... but Lillie-san
 was “the slowest” among the Six Kings’ executives.]
 
-[.........]
+[...]
 
 Lillie-san, who to my eyes doesn’t seem to be moving a single step, is actually
 quite the slow one among the Six Kings... Seriously, the Count-rank is a group
@@ -635,7 +635,7 @@ was enveloped in a pale green light, and her green eyes emitted a strong light.
 The amount of magic power is directly connected to one’s physical ability. Now,
 let’s see your power that exceeds the limit.]
 
-[.........]
+[...]
 
 Sieglinde nodded silently at Lillie’s words, approaching Lillie at a speed far
 faster than before... at a speed which would no longer be an exaggeration to
@@ -844,7 +844,7 @@ emotional attachment to it.
 [...When I was little, but even when I didn’t understand what it meant
 properly... I wanted to get married.]
 
-[.........]
+[...]
 
 [I thought, without any basis to it, that if I married someone, we would get as
 close to each other as Father and Mother did. I heard that in the other world,

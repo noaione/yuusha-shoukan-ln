@@ -16,8 +16,8 @@ getting impaired, so I decided to leave early.
 After parting ways with Alice at the royal capital, I was on my way back to
 Lilia-san’s residence with Bell... when I realized.
 
-Speaking of which, I’m taking Bell home with me.... and Lilia-san’s scary.
-Really damn scary.
+Speaking of which, I’m taking Bell home with me... and Lilia-san’s scary. Really
+damn scary.
 
 The only way to keep Bell is to tell her that I’m going to take responsibility
 for her and that I’m going to take care of her with all my heart but... Yep.
@@ -26,7 +26,7 @@ who picked up an abandoned cat and returned home worried that his parents will
 be angry with him.
 
 Anyway, I can only be prepared for what will happen. I’d better be prepared to
-take a couple of hits... Lilia-san’s power will hit me.... It would be great if
+take a couple of hits... Lilia-san’s power will hit me... It would be great if
 she won’t break my head...
 
 [Guruu?]
@@ -117,7 +117,7 @@ Behemoth being emotionally attached to Kaito-san.]
 
 [No matter how cruel it may be, it’s still reality.]
 
-[.........]
+[......]
 
 [Miyama-sama truly is terrifying... being able to win over a legendary magical
 beast...]
@@ -175,7 +175,7 @@ along with her properly.]
 
 [Gaooo!]
 
-[.........]
+[......]
 
 Sieg-san continues to stare at Bell and after a little while, as if she made up
 her mind, she reaches out her hand. Bell seemed to be listening to what I said
@@ -377,7 +377,7 @@ has been put on hold due to Sieg’s own wish. While the other one is... The
 culprit who fed false information to the 2nd division back then. I want to find
 that out.]
 
-[.......]
+[...]
 
 [The person who can switch the information that Knight Corps had... it would
 probably be a noble with considerable power. Putting aside when I was still part
@@ -404,7 +404,7 @@ sorry that I’m using the power that Kaito-san has given me. However, I still
 thank you from the bottom of my heart. Especially for letting me meet
 Chronois-san, I can’t thank you enough.]
 
-[I don’t know what to say about that one but.... I’m glad if I’m able to help
+[I don’t know what to say about that one but... I’m glad if I’m able to help
 Lilia-san, even if it’s just by accident.]
 
 [...Really, thank you very much. That’s why, even if it’s just this much, please
@@ -419,7 +419,7 @@ Lunamaria-san to switch the conversation.
 [Even so, for Luna to side with Kaito-san so strongly... Are you up to
 something?]
 
-[....H-Hahaha, don’t say something stupid...]
+[...H-Hahaha, don’t say something stupid...]
 
 [...She’s up to something.]
 
@@ -642,7 +642,7 @@ mind, I tilted my head upon seeing the contents of the letter.
 
 [Arehh? What’s this?]
 
-How should I say this.... The letter from Chris-san feels strange. The content
+How should I say this... The letter from Chris-san feels strange. The content
 kinda feels passionate... Like a love letter overflowing with self-interest, but
 there is lots of useless stuff written on it, making it a little difficult to
 read. I have Translation Magic automatically casted on me when I was summoned

@@ -159,7 +159,7 @@ Magic, but I'm troubled since “we almost didn't find any Black Bears”.]
 [It seems that it's also the same case for Milady, I've only fought against one
 Black Bear... Too few considering the time of the year.]
 
-[...........]
+[......]
 
 This hunting competition also serves as a means to thin out the population of
 the vermin, the Black Bears, and for that reason, the Black Bears give out
@@ -486,7 +486,7 @@ the onlookers despair.
 
 [Sieg, come to the frontline with me!]
 
-[..........]
+[......]
 
 [Rei-san, Fia-san, please provide support to everyone!]
 
@@ -631,7 +631,7 @@ have an ounce of lighthearted emotions like suppressing her power.
 Those foolish beasts that have brought out her wrath... The future of those
 fools will be judged by the King.
 
-[.........”Die”.]
+[...“Die”.]
 
 At that moment, the magic power of death from Isis's body... along with violence
 she was originally capable of, was released. The magic power of death, filled
@@ -911,7 +911,7 @@ the others.
 
 [Kaito-san?!]
 
-[.....?!]
+[...?!]
 
 [You've finally woken up huh. Thank goodness.]
 
@@ -992,7 +992,7 @@ one... That is to say, if I hadn't borrowed this, Kaito-san wouldn't have been
 injured like that.]
 
 There's a defensive magic in Kuro's necklace? That's the first time I've heard
-that though.... I thought there was only search magic in it, but it seems that
+that though... I thought there was only search magic in it, but it seems that
 there are lots of other magic in it as well. Lilia-san didn't seem to understand
 all the details about this necklace either, but after the earlier incident, she
 asked the former court mage Rei-san to take a look at this necklace and found
@@ -1061,7 +1061,7 @@ think someone should tell off this overly-serious person.
 [Terrific. I am now inclined to give Miyama-sama a heartfelt round of applause.
 That's really well said...]
 
-[.........]
+[......]
 
 [Lu-Luna?! Sieg too, don't just nod there, please help me out. Kaito-san somehow
 looks kinda scary right now...]
@@ -1109,7 +1109,7 @@ After a brief silence passes, Lilia-san turns to Sieg-san and opens her mouth.
 [Sieg, I'm sorry. I said something like you should look forward to it, but in
 the end, I wasn't able to get the Fruit of the World Tree...]
 
-[............]
+[......]
 
 Receiving Lilia-san's words, Sieg took out a memo pad and pen from her pocket
 before writing something on it and turning it towards our direction.
@@ -1118,7 +1118,7 @@ before writing something on it and turning it towards our direction.
 
 [Eh? W-Wait, Sieg... Don't tell me...]
 
-[.........]
+[......]
 
 What was written there kinda looks exactly what I had just said to Lilia-san a
 while ago. Seeing what's written there, Lilia-san's face turned pale before she
@@ -1152,7 +1152,7 @@ you many times. I'm not blaming you for what happened.”
 “I don't regret losing my voice and resigning from the Knights Order. I'm just
 happy that I was able to protect the people of my best friend.”
 
-[...........]
+[......]
 
 I somehow had the feeling that was the case. Lilia-san was desperately trying to
 heal Sieg's body, but Sieg-san was looking at Lilia-san and the others with a
@@ -1220,12 +1220,12 @@ light made of magic power illuminated.
 
 [?!?!]
 
-[Is... tap... mis.... anders..... tand.... ing...]
+[Is... tap... mis... anders... tand... ing...]
 
 A hoarse, faint, choppy voice that sounds like it's being desperately squeezed
 out... perhaps, she's using magic power to force her throat to tremble,
-producing a “voice-like sound”. It's hard to hear what she's saying.... Still,
-it felt like that was the most beautiful voice I ever heard.
+producing a “voice-like sound”. It's hard to hear what she's saying... Still, it
+felt like that was the most beautiful voice I ever heard.
 
 [Dis... wunds... ay... gat... wir... samting... aym... prawd... of.]
 
@@ -1356,7 +1356,7 @@ to bring stomach medicines no matter where I go.]
 
 [...Yes.]
 
-Yeah, how should I explain this.... Lilia-san kinda has a melancholic expression
+Yeah, how should I explain this... Lilia-san kinda has a melancholic expression
 on her face. I don't know what to say... It's just, I'm sorry.
 
 As Rei-san and Fia-san remained dumbfounded for a while, Lilia-san and
@@ -1368,11 +1368,11 @@ looked at them...
 
 Is this person not equipped with the ability to read to mood or even think about
 the flow of the conversation? And also, isn't it strange to ask “Do you like
-pets”? Wouldn't you ask if someone likes animals first or something like
-that..... Well, anyway, Shiro-san's asking me if I like keeping animals huh? I
-like it. When I started living on my own, I couldn't have a pet because the
-place where I'm living at doesn't allow pets, but my relatives had a dog and I
-used to take care of it a lot...
+pets”? Wouldn't you ask if someone likes animals first or something like that...
+Well, anyway, Shiro-san's asking me if I like keeping animals huh? I like it.
+When I started living on my own, I couldn't have a pet because the place where
+I'm living at doesn't allow pets, but my relatives had a dog and I used to take
+care of it a lot...
 
 (Then, that's great. I've “sent” it in front of the inn.)
 
@@ -1391,9 +1391,9 @@ something where you're sending a pet to me out of the blue!
 (There was one soul left. When I asked its wish, it said that it wanted to serve
 Kaito-san, so I gave it a body and sent it towards you.)
 
-....I have no idea what you're talking about. I don't think I'd get a good
-answer even if I asked, but what I'm more worried about is... that pet that the
-Creator God, Shiro-san, sent, is that a monster or something like that...
+...I have no idea what you're talking about. I don't think I'd get a good answer
+even if I asked, but what I'm more worried about is... that pet that the Creator
+God, Shiro-san, sent, is that a monster or something like that...
 
 Feeling my head ache at Shiro-san's words, I explained the situation to
 Lilia-san and the others and we all decided to move to the front of the inn.
@@ -1457,7 +1457,7 @@ God, Shallow Vernal-sama, and thus, she gave me a new body!]
 start I received, this life and soul, I will repay my master by dedicating these
 to his service! Diminutive I may be, please allow me to serve the great master!]
 
-[..........]
+[......]
 
 The explanation that Anima gave might be called an outrageous bomb that came out
 of nowhere. The beast that injured me? A new body? That black fur cloak and
@@ -1500,7 +1500,7 @@ you decide to serve me?]
 
 [Hahh!]
 
-Compared to when she looks like she's about to swoop down on Rei-san.... where
+Compared to when she looks like she's about to swoop down on Rei-san... where
 Anima's shouting at him like she's threatening her, when I asked her, she
 immediately corrected her posture.
 
@@ -1673,7 +1673,7 @@ join the Sacred Tree Festival?”
 
 [N-No, that is... They were wiped out by Death King-sama.]
 
-“Isis did?! W-why....”
+“Isis did?! W-why...”
 
 She didn't think that Isis' name would be brought up here, making Lillywood
 dumbfounded again. She has known Isis for a long time, and knows her personality
@@ -1933,7 +1933,7 @@ the only person who can touch a Spirit is a Spirit mage?
 
 [Ummm... What's happening?]
 
-[....Mi-Miyama-san?! H-How in the world did you do that?!]
+[...Mi-Miyama-san?! H-How in the world did you do that?!]
 
 [Eh? No, I didn't really do anything...]
 
@@ -1981,7 +1981,7 @@ but with my Sympathy Magic, I know who's visiting me.
 
 [What's the matter? Sieg-san.]
 
-[.........]
+[......]
 
 Yes, the reason I didn't receive any answer after her knock was that the one
 knocking was Sieg-san. It's almost time for the date to change, but when I asked
@@ -1990,7 +1990,7 @@ her what she wanted, Sieg-san made a small motion with her hand.
 [Are you going for a stroll? That sounds great. Yeah, I also couldn't get some
 sleep.]
 
-[..........]
+[......]
 
 I don't know if Sieg-san also couldn't get some sleep either or she's just wide
 awake, but she asked me if I wanted to go for a stroll. Since I was about to get
@@ -2017,7 +2017,7 @@ something and called out to Sieg-san.
 [Speaking of which, Sieg-san. I have been able to thank you properly. For saving
 me, thank you v—Eh?]
 
-[.........]
+[......]
 
 I was going to properly thank her for protecting me from the Black Bear's
 attack, but as I was speaking, Sieg-san held up her index finger in front of my
@@ -2052,7 +2052,7 @@ she's trying to say while looking at me with her beautiful blue eyes.
 “I know that the method you used earlier can't be helped but... please don't be
 too reckless.”
 
-[..........]
+[......]
 
 “You being injured makes me sad... so I hope you'll take care of yourself.”
 
@@ -2127,11 +2127,11 @@ back the path we used, Sieg-san grasped my hand as if it was normal.
 
 [Ehh?!]
 
-[..........]
+[......]
 
 [Sieg-san?]
 
-[..........]
+[......]
 
 I'm surprised by the suddenness of the situation, but Sieg-san doesn't reply and
 just continues walking forward. The cheeks of Sieg-san, who is walking a little
@@ -2150,7 +2150,7 @@ Please remain the kind person as you are now, even in the future. I'm troubled
 since I have lots of rivals, but I will do my best... so if you can, please also
 turn my way once in a while.”
 
-[...........]
+[......]
 
 Looking at this note, written in a way that seems to express something, I tilted
 my head in my room. I guess this means that she likes me, but what does she mean

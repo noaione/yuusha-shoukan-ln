@@ -23,7 +23,7 @@ head.
 [Umu, you're up early. That's a good attitude to keep, Miyama. Humans only have
 a finite amount of time, so try not to waste it.]
 
-[.........]
+[...]
 
 I shut the door in silence.
 
@@ -50,7 +50,7 @@ was because of the worst case possible...]
 
 [No way, did something happen?!]
 
-[.......]
+[...]
 
 [Eh? Ummm... Chronois-san?]
 
@@ -99,7 +99,7 @@ to talk to...]
 worse than the other members of the Six Kings. There are many occasions when she
 doesn't make sense.]
 
-[............]
+[...]
 
 Hearing Chronois-san's words makes me feel a little complicated.
 
@@ -190,9 +190,8 @@ good to see you again, Isis-san.]
 
 Isis-san timidly asked me, so I returned her greeting with a smile on my face.
 
-Thereupon, Isis-san smiled like a blooming flower and happily nodded her
-head.... As I thought, I really can't imagine her as a person that's hard to
-please.
+Thereupon, Isis-san smiled like a blooming flower and happily nodded her head...
+As I thought, I really can't imagine her as a person that's hard to please.
 
 [It's been a while, Death King.]
 
@@ -379,7 +378,7 @@ the head of the people around her hurt, and she would even resort to using force
 when someone disagrees with her... How did you make her listen to you like a
 loyal dog? You... Are you a monster?]
 
-[.........]
+[...]
 
 For some reason, the Supreme God thinks of me as someone inhuman.
 
@@ -606,7 +605,7 @@ already met her...]
 
 [...She is now... calling herself... “Neun”.]
 
-[..........]
+[...]
 
 I feel like something earth-shattering and extremely important have just been
 revealed.
@@ -682,7 +681,7 @@ the table.
 [...Ahh... I'm sorry... It's just that... It's been a long time... since I've
 had so much fun.]
 
-[..........]
+[...]
 
 When I called out to her, worried that something was wrong, Isis-san replied
 with a soft mutter.
@@ -748,7 +747,7 @@ it in between mine.
 been feeling for thousands of years... I can't even say that I understand what
 you're feeling.]
 
-[.......]
+[...]
 
 [I don't think I could even act cool like somehow doing something to ease your
 loneliness... And unfortunately, that's also not something I can say and I think
@@ -766,12 +765,12 @@ I'm sure that this is just one of the things that may be destined to happen...
 And so, whenever you're feeling lonely, you can come wherever you want. There's
 not much I can do, but if it's talking with you, then I will always be here.]
 
-[......]
+[...]
 
 [Don't worry. I will say it now, I will never be afraid and reject you in the
 future. That much, I can promise you.]
 
-[......?!?!]
+[...?!?!]
 
 I don't know if I was able to convey it to her well, but I think I was able to
 somehow convey my feelings. I was able to overcome Isis-san's magic power of
@@ -791,7 +790,7 @@ the flowery scent wafting from her hair.
 
 [...Kaito... I love you... I love you... I really love you.]
 
-[...........]
+[...]
 
 I was surprised when she suddenly hugged me, but when I saw Isis-san burying her
 face in my chest and her shoulders trembling with her voice, I couldn't say
@@ -898,7 +897,7 @@ my expectations. Therefore, I would like to give you a warning.]
 hearing my words, and I don't want to force you to do anything... However, for
 the sake of your future, keep this in mind.]
 
-[..........]
+[...]
 
 I wonder what Chronois-san is going to say? If she said that she's saying this
 after seeing today's events, it would most likely be related to Isis-san... If
@@ -957,7 +956,7 @@ now...
 happened back then... But what happened back then wasn't a war, it was an
 “invasion”.]
 
-[......]
+[...]
 
 [It happened about 20,000 years in the past. An incomparably powerful demon
 united the powerful Demons and invaded the God Realm... This is the truth of the
@@ -1035,7 +1034,7 @@ the god of this world, Shallow Vernal-sama... In fact, I'm still having that
 thought since after that battle with Shallow Vernal-sama, she's still calmly
 living in peace.]
 
-[.........]
+[...]
 
 Shiro-san is the Creator God, the being who created this world. She is the
 closest one the the word “omnipotent” that Ein-san, someone who had equal
@@ -1091,7 +1090,7 @@ magic power of the dead, while the World King is the spirit born from a large
 tree, the World Tree... But no matter how much I investigate, Kuromueina is the
 only one I can't figure out.]
 
-[..........]
+[...]
 
 [That is a being filled with a complete enigma, whether when she appeared or
 where she appeared, and even her purpose is almost completely shrouded in
@@ -1115,7 +1114,7 @@ know what her purpose is. However, Ein had heard Kuromueina say a few words once
 after she finished raising one of her baby birds... That “this one is no good
 too.”]
 
-[...........]
+[...]
 
 This one is no good too... Does that mean that Kuro is raising demons and humans
 for some kind of purpose? I don't know. I don't even know what she's trying to
@@ -1135,7 +1134,7 @@ reasons for your own convenience.]
 said that she's not that pure of a being either but... I don't think there's any
 person in this world who is truly pure aside from Shallow Vernal-sama.]
 
-[.........]
+[...]
 
 No, I don't think that airhead goddess is that pure of a being too... but she'll
 probably get angry if I say this, so I'll just keep this thought to myself.
@@ -1326,7 +1325,7 @@ he still tried to get along with Isis, and desperately tried to adapt while
 being exposed to her magic power of death for a reasonable amount of time. I
 think that's why he was able to adapt to her magic power of death.]
 
-[.........]
+[...]
 
 “T-That's quite an unbelievable person, isn't it? I still can't believe it.”
 

@@ -250,11 +250,11 @@ dimension it's connected in. Alright, let's open the door more carefully...
 [...This is bad... It isn't just on the level where my stomach feels sore
 anymore, it feels like my stomach has a hole in it...]
 
-[..........]
+[...]
 
 [I really can't move anymore... Can't even take a step anymore...]
 
-[..........]
+[...]
 
 A familiar animal costume had her back on the floor, mumbling things to herself.
 To be honest, I've just arrived but I really want to go home as soon as
@@ -294,7 +294,7 @@ A self-tsukkomi...?! As I thought, she really isn't someone simple.
 Kaito-san, don't you think you're too harsh on me? Please gimme some more
 affection! Affection!]
 
-[..........]
+[...]
 
 Looking at Alice, who raised her upper body and joking around with her arms
 spread wide, with a cold gaze, a little while later, as if to get the situation
@@ -322,7 +322,7 @@ all!!!]
 only been a few days, but I feel like I've been waiting for your arrival for
 years! Now, now, please sit. I'll go make you some tea!]
 
-[..........]
+[...]
 
 T-This bastard... I-I wanna hit her so much...
 
@@ -390,7 +390,7 @@ Her voice sounded so sad that I regretted asking such an insensitive question.
 
 [How the heck did all of... Could it be, you have debts to pay?]
 
-[......]
+[...]
 
 [I-If there's anything I can do to help...]
 
@@ -490,7 +490,7 @@ the store?!
 
 [They're stuffed costumes!]
 
-[.........]
+[...]
 
 As I thought, this guy's no good.
 
@@ -546,7 +546,7 @@ helped...]
 
 [...Are you... perhaps... a genius...]
 
-[......]
+[...]
 
 No, it seems I'm mistaken, I quickly gulp down the urge to say she's just that
 much of an idiot.
@@ -559,7 +559,7 @@ thought you have to make is a stuffed costume...
 [Well, I still don't see a future where customers come into this store... so you
 might as well wholesale it somewhere else...]
 
-[....Well, but I'm banned from the company in the royal capital...]
+[...Well, but I'm banned from the company in the royal capital...]
 
 [If I could, should I introduce you to my acquaintance?]
 
@@ -930,7 +930,7 @@ right?]
 [NEET... That's good, that sounds cool! I, for one, entirely respect the NEETs!
 I'm also going to become a NEET!!!]
 
-[.........]
+[...]
 
 Her excitement suddenly increased, Fate-san started praising NEETs.
 
@@ -1001,7 +1001,7 @@ Since she's being pursued, we should get to the mansion as fast as possible...
 
 [Moving is a pain in the ass so...]
 
-[.......]
+[...]
 
 Seriously, are you being pursued?
 
@@ -1233,7 +1233,7 @@ her neck.
 
 ![Insert 4](../../_Images/v02/Insert4.png#.insert)
 
-[Good grief.... You're even causing problems for Lilia too... Come, we're going
+[Good grief... You're even causing problems for Lilia too... Come, we're going
 back!]
 
 [Don't wannnnaaaaaa! I will now live here! I'm going to live here and “have
@@ -1247,13 +1247,13 @@ of a freeloader here, and you're asking me to support you... How much does this
 person not want to work? Chronois-san also looked dumbfounded and seemed to have
 unintentionally let go of her grip.
 
-[...What idiocy are you saying....]
+[...What idiocy are you saying...]
 
 [I mean, Kai-chan's face is my preference! He seems like a good-natured person,
 so if you cling and depend on him, he will support me with “three meals and a
 nap”!]
 
-[.........]
+[...]
 
 I feel like I'm being ridiculed for some reason, but I can't say anything since
 I can't deny it at all. In fact, I wonder... In that situation where she's
@@ -1305,7 +1305,7 @@ began to panic even more.
 
 [No waaaaayyyyy?! Kai-chaaaaaaannnnnn!!!]
 
-[..........]
+[...]
 
 Regarding this matter, Chronois-san is overwhelmingly in the right. She's in a
 position filled with responsibilities as a Supreme God, and there are things you
@@ -1429,7 +1429,7 @@ authority.]
 Could you ask Shallow Vernal-sama to tell the God of Fate and God of Life to
 work, even at least once a year?]
 
-[..........]
+[...]
 
 How should I say this... With just those few words she said just now, I could
 somehow feel how much trouble Chronois-san usually had to go through.
@@ -1461,7 +1461,7 @@ Vernal-sama's words take precedence over everything... If we don't follow
 Shallow Vernal-sama's words and disappoint her, we will lose the very reason for
 our existence.]
 
-[.......]
+[...]
 
 [Shallow Vernal-sama is the supreme and the absolute. If Shallow Vernal-sama
 told me to work for the rest of my life, I would give up my emotions and
@@ -1547,7 +1547,7 @@ away... A hand reached out from my side and grabbed Fate-san's face.
 
 [Huh? Arehh? “Underworld King”?]
 
-[.........]
+[...]
 
 [Eh? Kuro?]
 
@@ -1558,12 +1558,12 @@ something creaking.
 [Gyyyaaahhhhh?! It hurts?! It huuurrrtttssss?! Stop, my head's being crushed!
 It's going to crushed!!!!]
 
-[.........]
+[...]
 
 [Ginyyaaaahhhhh?! It's going to burst open!!! My head's gonna explode like a
 ripe fruit!!!]
 
-[.........]
+[...]
 
 That was unmistakably... the Iron Claw.
 

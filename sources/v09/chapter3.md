@@ -69,7 +69,7 @@ I can’t dislike Kaito-san.
 
 Kaito-san is truly a strange person. He isn’t some stuck-up noble, nor does he
 sophisticatedly brandish his authority, he’s just straightforward, sincere, and
-kind.... His personality attracts and changes many people. Sieg, Luna, me, and
+kind... His personality attracts and changes many people. Sieg, Luna, me, and
 the servants of the mansion... All of us are changing because of Kaito-san’s
 influence. And those changes aren’t in a bad way, as there are more smiles than
 ever before, and the whole mansion is filled with warmth and happiness... I
@@ -127,7 +127,7 @@ is one hour earlier.]
 Yes, none of the many servants, Luna, Sieg, Aoi-san, and Hina-san were in the
 room... Kaito-san was waiting for me alone. After he bowed to the surprised me,
 Kaito-san told me that he had asked the others for me to be in this situation.
-The time that was told to me was 1 hour earlier? W-Why did he....
+The time that was told to me was 1 hour earlier? W-Why did he...
 
 [U-Ummm, K-Kaito-san?]
 
@@ -169,7 +169,7 @@ about three days off to get myself together...
 
 [Errr, like I said... I love you, Lilia-san. As a man to a woman, that is.]
 
-[......Eh?]
+[...Eh?]
 
 At that moment, my mind completely went blank. And thus, after this one night...
 I never expected that my relationship with Kaito-san would drastically change at
@@ -254,7 +254,7 @@ blown away.
 [Wha?! Ahhh...]
 
 Kaito-san approached me, reached out his hands and spontaneously brought my body
-into his embrac.... Eeeeehhhh?!
+into his embra... Eeeeehhhh?!
 
 [Wha, w-w-w-what are you doing, K-K-Kaito-san?!]
 
@@ -326,7 +326,7 @@ number of people.
 ![Insert 3](../../_Images/v09/Insert3.png#.insert)
 
 In other words, this music box is a magic tool that can only be used by me in
-this world... Something that was really made just for me alone.... Uuughhh...
+this world... Something that was really made just for me alone... Uuughhh...
 This is foul play... How can I not be happy from this...
 
 Suppressing this impetuous feeling, I registered myself as the user and opened
@@ -380,7 +380,7 @@ T-Then, what about this strangely good quality wood?
 
 [...Wood made from the branch of the World Tree.]
 
-[.........]
+[...]
 
 I-I feel dizzy... Midnight Crystal? A branch of the World Tree? Seriously, how
 far does this person want to...
@@ -551,7 +551,7 @@ it when I give that travel voucher upfront is...]
 
 [T-That’s not it?! T-This is something that’s entirely for Miyama-sama...]
 
-[..........]
+[...]
 
 [I-I’m telling the truth!]
 
@@ -618,7 +618,7 @@ that day, so I’ll be a little late.]
 
 [No, no, both of us know of that place anyway, so let’s just meet there.]
 
-[....I guess so. Alright then.]
+[...I guess so. Alright then.]
 
 After handing the travel voucher to Lilia, saying that with a serene smile on
 her face, Lunamaria bows and leaves the room... With an impish smile plastered
@@ -739,9 +739,9 @@ Lilia-san came back a while later, properly dressed... and currently sitting
 across from me at the table in the living room, looking down with her face
 blushing red.
 
-[............]
+[...]
 
-[............]
+[...]
 
 It feels awkward, outrageously awkward... How the heck did this situation
 happen? I got a summer resort reservation ticket from Dr. Vier, and came here to
@@ -781,7 +781,7 @@ complain to her for a bit.
 [L-Like I said... M-M-M-My... n-naked body...]
 
 [I-I didn’t see it! Or rather, I couldn’t see it!!! You were properly wearing a
-bathrobe, and I was rather surprised at seeing you at that time....]
+bathrobe, and I was rather surprised at seeing you at that time...]
 
 I wasn’t lying, I’m telling the truth. I did see Lilia-san after her bath, but
 since she was wearing a bathrobe, I didn’t see those ethically dangerous
@@ -814,9 +814,9 @@ problem.]
 
 [...T-That’s right. Alright.]
 
-[.........]
+[...]
 
-[.........]
+[...]
 
 What should I do? Lilia-san’s flustered face turning bright red is just too
 cute, and at the same time, the atmosphere is so bittersweet... that our
@@ -919,7 +919,7 @@ receiving such an attack, I feel cold sweat running down my spine.
 [Next, I revealed to everyone a notebook she wrote when she was about 14 years
 old, filled with ideas for what her finishing magic would be...]
 
-[.........]
+[...]
 
 Please don’t do that... That would really kill someone.
 
@@ -1149,7 +1149,7 @@ from the start? Though it’s not like I’m good at it either...]
 [...I-I mean... I-I’m also a woman too... s-so, even for a bit... I wanted to
 look feminine...]
 
-[.........]
+[...]
 
 Apparently, Lilia-san wanted to show me her femininity, and to do so, she
 decided to try cooking, something that she had no experience with. Why is she so
@@ -1204,7 +1204,7 @@ at making sandwiches and fried eggs. Saying that makes me embarrassed though...
 
 [Already?! Amazing... Kaito-san is an amazing cook huh.]
 
-[......]
+[...]
 
 She started looking at me with honest, admiring eyes?! Just receiving those gaze
 is impossibly making me feel like running away, you know?! I’m sorry, all I did
@@ -1351,7 +1351,7 @@ alone... What the heck is she thinking, going into the bathroom I’m in?
 Ready? For what? Wait a moment, seriously, could you wait?! Even though she had
 hidden her body behind a towel... No, it was exactly because the towel is
 partially hiding her beautiful skin that is as white as an icefish, which I saw
-with great clarity. Lilia-san is the type who looks slender huh.... They’re
+with great clarity. Lilia-san is the type who looks slender huh... They’re
 larger than I thought, those bulges are... wait, what the heck am I thinking?!
 
 In front of the confused me, Lilia-san takes a few deep breaths before she goes
@@ -1510,9 +1510,9 @@ answered, Lilia-san’s body moved and her eyes slowly opened.
 Then, opening her eyes, Lilia-san slowly raised her body up, but her eyes opened
 wide and she stiffened.
 
-[.............]
+[...]
 
-[.............]
+[...]
 
 I realized that I had made a serious mistake. I was so desperate to carry
 Lilia-san that I didn’t think about myself at all... That is to say, I’m
@@ -1566,7 +1566,7 @@ Thinking about it carefully, there may have been better ways for me to do it...
 So, what happened before was my fault.]
 
 [T-That’s not it! Kaito-san didn’t do anything wrong!!! It was originally I who
-took Luna’s words... that I.... that I... have shown you something immodest...]
+took Luna’s words... that I... that I... have shown you something immodest...]
 
 Lilia-san still didn’t turn around, but Lilia-san’s shoulders were slightly
 trembling, and she seemed to be afraid of something. However, from her
@@ -1579,7 +1579,7 @@ is she afraid of...
 
 [T-This naive... pathetic... no good me...]
 
-[.........]
+[...]
 
 Hearing those words which sounded fearful, I finally understood what Lilia-san
 was afraid of. Lilia-san was extremely afraid of being feared or disliked by
@@ -1625,7 +1625,7 @@ certainty and security... And this is the best I can do for her right now.
 [...I’m not going to go anywhere... I’m also not rushing you. I’ll wait as long
 as I can... So it’s fine, let’s take it one step at a time.]
 
-[..........]
+[...]
 
 [I don’t really know what this world’s lovers are like either... However, I
 think we got our own pace.]
@@ -1744,7 +1744,7 @@ if she doesn’t want to answer, but shyly fidgeting, Lilia-san softly responded
 [...Ghosts and Undead... It’s fine if it had a Humanoid form but... other than
 that, I-I’m scared...]
 
-[............]
+[...]
 
 Eh? What? She’s weak to scary things? ...Why is she so cute? An angel? Is she an
 angel? Overwhelmed by Lilia-san’s dazzling cuteness, I was left speechless for a
@@ -1798,7 +1798,7 @@ would say anything about but... and that would make us worried about you.]
 
 [Ahaha.]
 
-What is this, neither of our situations are great.... They may be similar, but
+What is this, neither of our situations are great... They may be similar, but
 the situation where we’re worried about each other not taking it too far is kind
 of funny, and I can’t help but laugh along with Lilia-san. Ahhh, seriously, what
 is this... It’s a conversation that isn’t supposed to be anything special, but
@@ -2248,7 +2248,7 @@ that place.
 [Fwamff, whamm, mushyaamm... Excuse meee. I’ll have from here to there on this
 menu!]
 
-[..........]
+[...]
 
 And now, I move my gaze to this idiot... namely Alice, who is currently
 wholeheartedly devouring yakiniku. Alice is eating the meat so fast that I
@@ -2344,7 +2344,7 @@ one. She has been hiding it behind her usual antics... but perhaps, she was
 deliberately lifting herself up, calling herself a beautiful girl or something
 like that, so that she wouldn’t be praised in a strange way...
 
-This is.... Unnn... I felt like I had found an amusing weakness.
+This is... Unnn... I felt like I had found an amusing weakness.
 
 [...Uwaahhh, Kaito-san. That’s an evil smile you had there.]
 
@@ -2548,14 +2548,14 @@ Hearing my words, Lilia-san, who clearly looks flustered, turned away her
 gaze... That gesture of hers looks very cute, but now, there’s an oni appearing
 within my heart as I continued speaking.
 
-[Heehhh.... That must be quite the urgent business huh?]
+[Heehhh... That must be quite the urgent business huh?]
 
 [Y-Yes, that’s right. Well, so, you just happened to see me when...]
 
 [Lunamaria-san told me that most of the work that Lilia-san is doing today is
 “work that Lilia-san didn’t originally have to do” though...]
 
-[............]
+[...]
 
 It may be that Lilia-san thought she was able to deceive me, but unfortunately,
 I know that she worked until about the same time yesterday and the day before

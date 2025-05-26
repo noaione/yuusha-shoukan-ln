@@ -30,7 +30,7 @@ suddenly gently hugged from behind.
 
 [...Eh?]
 
-[.........]
+[...]
 
 [E-Errr, S-Sieg-san?!]
 
@@ -105,9 +105,9 @@ floor.]
 [In the world where I was in, it was common to sleep on the floor with a futon
 laid out on the floor. It’s fine if I just sleep on the floor.]
 
-[.........]
+[...]
 
-[.........]
+[...]
 
 Lilia-san once described me and Sieg-san as being similar to each other, and I
 think that might actually be true.
@@ -249,7 +249,7 @@ me... while I’m just wearing my underwear?]
 whose chest is small and doesn’t have any glamor... And you see, I’ve heard that
 men like women with big breasts...]
 
-[.........]
+[...]
 
 Eh? What’s with these questions? Ummm, do I have to respond to this? I’m feeling
 so embarrassed just hearing about this... H-Hmmm. It’s just my guess, but I
@@ -628,7 +628,7 @@ where I wanted to change things but was afraid I would make the situation
 worse... And then, Kaito-san has changed what I couldn’t change over the years,
 with ease.]
 
-[.........]
+[...]
 
 [My relationship with Lili, the guilt in her heart, and my lost voice...
 Kaito-san has done so many miracles for me. What I wanted, what was once
@@ -669,7 +669,7 @@ reassurringly guides me... And that’s why such a fantastic person like you...]
 But finally, I have the courage to tell you these thoughts I’ve been holding. I
 want to keep looking at you for the rest of my life. Closer than ever before...]
 
-[.........]
+[...]
 
 I wonder why? My heart is beating absurdly fast. Each word she spoke in a
 serious voice echoes loud and clear in my ears. Although I was confused why, I
@@ -721,7 +721,7 @@ head around it at all, Sieg-san gave me a reassuring smile and spoke.
 [Yes. However, it took me a long time to find the courage to express my
 feelings.]
 
-[.........]
+[...]
 
 How should I answer her? I don’t know... I can’t think of a good response at
 all. SIeg-san is amazing... she’s calmly smiling in a situation like this, while
@@ -744,7 +744,7 @@ but I really wanted to share my feeling with you.]
 [You don’t have to respond now... I won’t rush you for your response. However,
 it would be nice if you could remember it... even in the corner of your mind.]
 
-[.........]
+[...]
 
 Sieg-san’s face, as she said that with a smile, looked like she was about to
 start crying. Thereupon, Sieg-san moved her gaze from me, and reached out to put
@@ -839,7 +839,7 @@ perception of Sieg-san, I still had the feeling that I like her.
 
 [I’m aware that it’s a very selfish thing for me to say.]
 
-[.........]
+[...]
 
 [However... From this moment on, if I were to see and treat Sieg-san as someone
 of the opposite sex... as a love interest... I can assure you that I may like

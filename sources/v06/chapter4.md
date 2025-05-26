@@ -21,7 +21,7 @@ I wanted to thank her though, what should I do?
 
 Embarrassing it may be to say this, but even though I had been under her care
 for a few months already, I can’t say that I know Illness well. She’s a very
-capable maid, extremely kind and reliable.... I do know some things about what
+capable maid, extremely kind and reliable... I do know some things about what
 she’s like when it comes to work, but I don’t know anything about her private
 life.
 
@@ -86,7 +86,7 @@ appointment and called out to me.
 
 [Oyaaaa, my apologieeees. Did I make you waiiiiiit?]
 
-[Ah, no, I also just... ar....rived.]
+[Ah, no, I also just... ar...rived.]
 
 As I was answering her question, I turned around and couldn’t help but be at a
 loss for words. Come to think of it, this should be the first time I’ve seen
@@ -165,7 +165,7 @@ really alright? Isn’t it rough...]
 
 [Noooope\~\~ It doesn’t really take that much effoooooort.]
 
-[..........]
+[...]
 
 No, no, Lilia-san’s mansion is very large and has a lot of servants. If you were
 to include the food for the servants staying in the mansion, the amount of
@@ -260,7 +260,7 @@ stop beating faster.
 
 [Kuhihi, thank you very muuuuuch. Please accompany me a bit longer, okaaaaay?]
 
-H-Hmmm.... I wonder if I’m really managing to thank her like this? I feel like
+H-Hmmm... I wonder if I’m really managing to thank her like this? I feel like
 this situation is going as Illness-san plans though...
 
 After that, I went with her to several stores and accompanied her shopping.
@@ -397,7 +397,7 @@ ingredients Illness-san bought when she went shopping today... Arehh?
 
 [That’s riiiiiight.]
 
-[..........]
+[...]
 
 What in the world is happening... I wanted to thank Illness-san, but instead of
 properly thanking her, I ended up with more things to thank her instead. This
@@ -422,7 +422,7 @@ as she smiled gently and beautifully.
 express gratituuuuude, you thought of meeeee. And nooooow, you had told meeeeee
 that the cake I baked is “deliciouuuuus”.]
 
-[.........]
+[...]
 
 [For meeeee, those were the greeeeeatest gift I could ever haaaaaaave. My heart
 woooooon’t be able to accept any more than thiiiiiiis.]

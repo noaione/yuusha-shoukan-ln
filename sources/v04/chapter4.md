@@ -57,7 +57,7 @@ doesn’t sound good, considering what I’ve heard so far about the War King.
 
 [You will have to follow us.]
 
-[.........]
+[...]
 
 I knew it was that kind of talk... I’m pretty sure Kuro had said that the War
 King wasn’t someone I could talk to very well. Feeling the cold sweat running
@@ -250,7 +250,7 @@ she was truly the worst enemy she could have met.
 far superior to mine, My attacks may not be able to do any damage. However, it’s
 different if it’s your own attack...]
 
-[..........]
+[......]
 
 [You think you can just get around and go through the shield quickly?]
 
@@ -260,7 +260,7 @@ different if it’s your own attack...]
 can get around my shield. And looking at you, you don’t seem to be very good at
 magic... You have no way of getting through my defense.]
 
-[.........]
+[......]
 
 While Theta indifferently said that with a composed expression on her face,
 Anima’s face lowers slightly while she’s kneeling down. She understands the
@@ -508,7 +508,7 @@ takes an iaido-like stance.
 fumbling around on the ground. After all, those two are just underlings...
 They’re not even a bit close to my power...]
 
-[.........]
+[......]
 
 [Now then, enough talk... Here I go!]
 
@@ -523,7 +523,7 @@ that voice, I moved my gaze to a nearby building...
 [**The heavens call! The earth cries out! The crowds roar! All calling on me to
 protect my regulars!** Touuu!!!]
 
-[.........]
+[......]
 
 The strange object that jumps off the roof and lands in front of us looks very
 familiar.
@@ -531,7 +531,7 @@ familiar.
 [**Envoy of love and justice! The Helping Beauty Riddled in Mystery! Lovely
 Magical Girl! Alice-chan has arrived!**]
 
-[.........]
+[......]
 
 Schwingg\~\~ The stuffed cat made a pose... There’s only one such bizarre person
 I know.
@@ -567,7 +567,7 @@ her actions so far, but I think she’s pretty strong.
 made her entrance”... But when I was thinking of a cool way to make my entrance,
 I was surprised to see the whole situation change!]
 
-[..........]
+[......]
 
 I don’t know if we can really rely on this woman...
 
@@ -619,7 +619,7 @@ makes a sphere the size of a baseball appear.
 [A-At a time like this... if only I could have “sold this Newest Portable
 Illumination Magic Tool for 1000R”, I could easily defeat that guy...]
 
-[.........]
+[......]
 
 [Shit, I can’t believe I had to watch you get beaten up, Kaito-san!]
 
@@ -631,7 +631,7 @@ happened.
 [I won’t allow you to hurt Kaito-san, even if the Gods themselves allow it, I
 won’t allow it! Come at me, you servant!!!]
 
-[.........]
+[......]
 
 Arehh? Alice came here to rescue me, right? But what is this, this budding
 feeling of mine... This feeling of wanting to smack her in the head with all my
@@ -936,10 +936,10 @@ Seeing him not looking particularly dangerous at all, I hurriedly nodded at
 Bacchus’s words, who spoke to me as if we were just making small talk.
 
 [Geez, no matter how many barriers there are that can block Death King-sama and
-World King-sama’s detection.... If they harm you, they will be killed
-afterwards, but they don’t know that... I should have warned them a bit more.]
+World King-sama’s detection... If they harm you, they will be killed afterwards,
+but they don’t know that... I should have warned them a bit more.]
 
-[.......]
+[......]
 
 [...However, well, the fact that it happened can’t be helped. I know that it’s
 our side’s fault because they did as they pleased but... I’m sorry, I can’t just
@@ -972,7 +972,7 @@ them to get hurt. However, seeing my actions, Bacchus looked somewhat impressed.
 before my magic power, you have quite the spunk in you huh. And, it is as you
 perceived... I would certainly be troubled if you were to stand before me.]
 
-[.........]
+[......]
 
 I didn’t know what he was talking about.
 
@@ -1002,14 +1002,14 @@ or openings at all... There’s really nothing I can do about him...
 
 [Even though it’s Master’s order, that’s something I won’t follow.]
 
-[Then, good work out there.... Ah, no, it’s a lie. I will stay, yes.]
+[Then, good work out there... Ah, no, it’s a lie. I will stay, yes.]
 
 I was ready to give up and be taken to War King-sama, and just let the three of
 them run away but... They refused. No, there was that one who tried to leave
 normally, but after Sieg-san and Anima glared at her, she flusteredly stood in
 front of me.
 
-[Kaito-san’s lucky power didn’t make explosions yet huh.... I guess I can only
+[Kaito-san’s lucky power didn’t make explosions yet huh... I guess I can only
 prepare myself.]
 
 And now, Bacchus and the three of them... Just as the unwinnable battle was
@@ -1102,7 +1102,7 @@ Perfect Maid.
 [Well then, I will take your word to it... One of War King’s Five Generals,
 Ironblood Bacchus! Ready for battle!]
 
-[.........]
+[...]
 
 [Gafffuuu?!]
 
@@ -1257,7 +1257,7 @@ wide and she turned towards Sieg-san.
 [Anyway, right now, we are checking the situation. Depending on the situation,
 we may need to ask for assistance from the royal palace.]
 
-[.........]
+[...]
 
 [Lili? Did you hear me?]
 
@@ -1284,7 +1284,7 @@ she jumped at Sieg-san.
 
 [It’s totally fine... Compared to Kaito-san...]
 
-[..........]
+[...]
 
 Hearing the voice of her best friend that she had been waiting for for so many
 years has returned, Lilia-san shed tears... And it’s quite a beautiful sight.
@@ -1484,7 +1484,7 @@ first?]
 
 [Yes!]
 
-[..........]
+[...]
 
 The other party is one of the Six Kings... I don’t need to use my Sympathy Magic
 to know that he’s not bluffing when he mentioned killing. Still, I can’t kill
@@ -1858,7 +1858,7 @@ and if we don’t have the best party, then it would be like tarnishing my name!
 [No, I know you’re confused, but he’s this kind of guy... He only cares about
 fighting and having parties.]
 
-[.........]
+[...]
 
 Leaving me, who hasn’t been able to keep up with the situation behind,
 Megiddo-san gives orders to his subordinates one after another to start
@@ -2028,7 +2028,7 @@ Shalltear-samaaaaaa hasn’t acquired information from any of us seveeeeeen.]
 [Most probablyyyyy. Perhaps, Shalltear-sama herseeeelf had searched for the
 information she haaaaaad. She can disguise herself as aaaaaaanyone after all.]
 
-[............]
+[...]
 
 Hearing Pandemonium’s words, Ozma brought his hand to his chin and thought for a
 moment. A few moments later, he asked his next question.
@@ -2123,7 +2123,7 @@ her moves?]
 [Kuhihi, if you were able to comprehend thiiiiiis, you may be able to
 understaaaaaaand Shalltear-sama’s “true intentions”, you knoooooow?]
 
-[.........]
+[...]
 
 Pondering the question posed by Pandemonium, Ozma looked like he was thinking
 about it.
@@ -2211,7 +2211,7 @@ stunned.
 and said that he was going to have a party, so he will be taking some fruits and
 meat...]
 
-“.........”
+“......”
 
 Hearing the situation that her follower had hurriedly told her, Lillywood looked
 out of the corner of her eye... and became speechless from the sight of several
@@ -2348,7 +2348,7 @@ for...]
 [I don’t have any basis for that. I also don’t know the reason... However,
 you’re a different person. You’re not Kuro.]
 
-[.........]
+[...]
 
 Listening to my words I told her filled with a stronger conviction and tone than
 before, “Kuro” became silent. And after a short period of silence again... She
@@ -2387,7 +2387,7 @@ you.]
 
 [However, I’m still not satisfied yet. Show me more... Your possibilities.]
 
-[.........]
+[...]
 
 After announcing in her uncanny voice, that sounded somewhat happy, the
 Phantasmal King looks straight at me and smiles.
@@ -2416,7 +2416,7 @@ again for the Phantasmal King, still wearing Kuro’s face, she happily smiles.
 [I have high hopes for you. Miyama Kaito... I hope you keep up the good work and
 overcome all my trials.]
 
-[......]
+[...]
 
 [And then, I will present myself before you... When you stand before the
 abyss...]

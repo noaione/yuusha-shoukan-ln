@@ -44,7 +44,7 @@ know?!]
 
 [Let’s go!]
 
-[............]
+[...]
 
 It’s a very vigorous response holding no hesitation. In fact, there’s no one
 better to ask than Alice regarding this matter. She’s the most knowledgeable
@@ -61,7 +61,7 @@ poorly?! I think you should be nicer to me, Kaito-san!]
 
 [Those words sure give you a lot of leeway, don’t you think?]
 
-Well, besides... Even though I say all that, being with Alice is fun.... wait,
+Well, besides... Even though I say all that, being with Alice is fun... wait,
 the heck are you smiling about, idiot!
 
 [It can’t be helped. Well, it seems like Kaito-san really wanna go on a date
@@ -287,7 +287,7 @@ Pandora... Or perhaps, if it’s possible, please call me “Filthy Sow”.]
 express my opinion to Miyama-sama. B-By all means, please “punish” me... Of
 course, I also have the tools prepared.]
 
-[.............]
+[...]
 
 For some reason, taking out a large amount of SM goods, she started looking at
 me with expectant eyes... The heck is with this pervert, my mind can’t catch up
@@ -302,7 +302,7 @@ those joke goods aside and come over here.]
 
 [I see, neglect play it is! As expected of Shalltear-sama!!!]
 
-[............]
+[...]
 
 Amazing. This is the first time I’ve ever seen Alice become at a loss for words,
 looking astounded. Pandora’s character is just too thick. Following Alice’s
@@ -352,7 +352,7 @@ to be within those specific people?]
 [...Well, when I told her to obey Kaito-san, she totally looked like a horny
 woman.]
 
-[..........]
+[...]
 
 I’m at a total loss for words. Pandora-san’s dangerous. She’s the most
 outrageous person I’ve ever met in my life. In front of the astounded me, Alice
@@ -581,7 +581,7 @@ Driver-san seems to have also figured it out and tried persuading her, but the
 baby dragon is adamant that she won’t leave. If she tried forcing her away, my
 clothes would be in trouble. How troubling... This is very troubling. The baby
 dragon is desperately clinging to my clothes, and is turning her lonely eyes to
-me as if it is about to cry. Stop, please stop.... I’m weak to those eyes...
+me as if it is about to cry. Stop, please stop... I’m weak to those eyes...
 
 [U-Ummm... I know it’s unreasonable for me to ask, but this baby dragon... Can
 you give her to me?]
@@ -714,7 +714,7 @@ my body is being thrown. And as the huge icicle shattered and turned into pieces
 of ice shards beautifully dancing like flower petals, Isis-san appeared with
 completely glazed eyes.
 
-[.........]
+[...]
 
 [A-Arehh... I-I-If it isn’t Isis-san...]
 
@@ -722,7 +722,7 @@ completely glazed eyes.
 
 [You’re not even going to let me explain?! Wait, Isis-san?! Ginyaaahhh?!]
 
-[...You’re bullying Kaito... You trash.... I will kill you.]
+[...You’re bullying Kaito... You trash... I will kill you.]
 
 [Higyaahhhh?! Wait a mo-?! Using Absolute Zero here is dangeerrrooooussss?!]
 
@@ -817,7 +817,7 @@ reality... I can’t stop them anymore... Especially Megiddo-san who is unlikely
 to stop at all. I’m pretty sure there was some tea in my magic box... I guess
 I’ll go drink some...
 
-And thus....
+And thus...
 
 The battle of the scale of the Great Kaiju War between the members of the Six
 Kings... quickly came to an end a few seconds after it commenced. Currently, in
@@ -1137,7 +1137,7 @@ decided to play with the baby dragon for the remaining time.
 
 ---
 
-[...And so, that’s how it is....]
+[...And so, that’s how it is...]
 
 [...Haahhh... Just when I thought you’d already encountered all the Six Kings
 along with the most powerful Gods... You started reaching out your hands to
@@ -1251,7 +1251,7 @@ Sacred Tree Festival... Milady could have asked the Court Mage to arrange for
 Teleportation Magic to bring us there. The reason why we went there with flying
 dragons is because she just wanted to ride one.]
 
-[.........]
+[...]
 
 I was wondering if Lunamaria-san’s words were spot on, but when I turned to
 Lilia-san, she seemed to have averted her gaze, looking out towards who knows
@@ -1308,7 +1308,7 @@ so let’s just shut up here.
 [I’ll take good care of them, so please bring more monsters. I’d also like to
 have a funny rabbit.]
 
-[.........]
+[...]
 
 And just as they were arguing, Sieg-san was still the same as ever. Her
 sparkling eyes were so pretty that I almost reflexively said yes, but I somehow
@@ -1583,7 +1583,7 @@ That’s right after all. He has already... finished talking with everyone. He
 won’t bring anyone outrageous, making me pass out anymore, right?! Ah, this is
 no good, why am I... getting nervous...]
 
-[............]
+[...]
 
 Seeing Lilia-san, who looks relieved from the bottom of her heart and has a
 bright smile on her face, a tremendous amount of sweat began running down behind
@@ -1629,7 +1629,7 @@ face turning pale, and after moistening my thirsty throat with tea, I spoke.
 [I also ask you the same. Please don’t unnecessarily reveal this to anyone
 else...]
 
-[...Eh? Errr... Neun-sama? What in the world are you....]
+[...Eh? Errr... Neun-sama? What in the world are you...]
 
 Hearing the seriousness from Neun-san and my tone, Lilia-san’s expression turns
 dim and a drop of sweat runs down her forehead. In front of Lilia-san and the
@@ -1641,7 +1641,7 @@ powerful black like obsidian, and combined with her well-defined face, the words
 
 And then, looking at Neun-san’s uncovered face... Lilia-san fell over her chair.
 
-[.........]
+[...]
 
 Then, slowly crawling away from her, she tightly grips Lunamaria-san’s skirt.
 
@@ -1658,7 +1658,7 @@ and she gracefully stands up but... Neun-san mercilessly spoke.
 [Introducing myself once again, I may have changed my name to Neun now... but my
 real name was Kujou Hikari.]
 
-[.........]
+[...]
 
 Hearing the words she forcefully said, all of the expressions disappeared from
 Lilia-san’s face.
@@ -1708,7 +1708,7 @@ small animal...]
 reaction was as if she had met all the Six Kings... No, her reaction far exceeds
 that.]
 
-[.........]
+[...]
 
 I’m sorry, not only did she meet all the Six Kings, she has also met all of the
 Supreme Gods. And then, after Lilia-san just mutters like that, she gets up from
@@ -1820,12 +1820,12 @@ face in public anymore!!!]
 
 [I don’t think that’s something you should be particularly concerned about...]
 
-[Eva-sama... B-But....]
+[Eva-sama... B-But...]
 
 [Speaking of which, in the Friendship City, don’t they have that Hikari Manjuu
 pastry over there?]
 
-[..........]
+[...]
 
 [Acht?! You really had to add unnecessary details...]
 

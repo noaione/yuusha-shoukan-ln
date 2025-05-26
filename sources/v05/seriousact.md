@@ -23,7 +23,7 @@ clearly tell you’re smug as hell! Just because you’re the main focus in Volu
 Alice-chan’s fans who hasn’t appeared in the story. Well\~\~ I’m just happy that
 my star Alice-chan is doing so well.]
 
-[.............]
+[...]
 
 Hearing ? ? ? feigning ignorance, Serious-senpai had a sour look on her face.
 With her excitement on the rise, ? ? ? is even more annoying than usual, making
@@ -73,7 +73,7 @@ spine, she slowly looked behind her.
 [...That’s quite an interesting conversation you have there. I hope you don’t
 mind if I join.]
 
-[.........]
+[...]
 
 It was unknown if she had been hiding until now or not, but a girl wearing a
 name plate “Under King” written on it on her chest, gave an angelic smile

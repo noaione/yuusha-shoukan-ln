@@ -289,7 +289,7 @@ mind.
 After glancing at Kaito as he ate his skewer, Funf slightly smiled.
 
 (Even though he was curious about it earlier... He doesn’t care about them. I
-knew he was a kind child who thinks about others.... Seems like I made him feel
+knew he was a kind child who thinks about others... Seems like I made him feel
 worried about me. What a blunder... I unconsciously thought of Vee.)
 
 While feeling good about her interactions with Kaito, Funf remembered the
@@ -361,7 +361,7 @@ accompanied by those Low-ranking Demons... What were you trying to do?
 ———...Say, Fun. If the family... If the whole world were to become my enemy...
 Will you be my ally, Fun?
 
-———..........
+———......
 
 ———Sorry, it’s nothing. I’m going to go now.
 
@@ -404,7 +404,7 @@ hours finally ended and Vier came outside to put away the sign.
 
 [?!]
 
-[.........]
+[...]
 
 Seeing her, Vier’s face was dyed with astonishment... which isn’t really any
 wonder. The person she wanted to meet but couldn’t, is now right here in front
@@ -638,7 +638,7 @@ response to that, the golden gates gradually opened up.
 
 [Hmm... I see, she certainly holds great magic power.]
 
-[..........]
+[...]
 
 Her richly-colored eyes seem to be a deceptive picture, looking as if it holds
 different colors of the rainbow or holding a single color with different shades.
@@ -793,7 +793,7 @@ However, even though we had said that we’re different beings, deep down, that
 should have been proof that deep down, I’m still half of Shiro and this should
 be my true form.]
 
-[............]
+[...]
 
 Up until now, Kuromueina has exhibited her greatest power when she had the same
 appearance as Shallow Vernal. It was only because Kuromueina recognizes that

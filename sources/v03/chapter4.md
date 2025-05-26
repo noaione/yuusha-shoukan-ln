@@ -32,8 +32,8 @@ Hearing the words she said with a neat salute, I was at a loss for words for a
 moment. Eh? She's been standing guard since 1 o'clock in the morning? ...What
 the heck is this girl doing?
 
-[...I-Is that so. That aside, keep your voice down a bit. ..... Everyone's
-probably still asleep.]
+[...I-Is that so. That aside, keep your voice down a bit. ...Everyone's probably
+still asleep.]
 
 [Y-Yes. I'm sorry.]
 
@@ -121,7 +121,7 @@ a child is seen as nothing more than increasing the number of our kind. In fact,
 I don't even know the parents who gave birth to me. Well, I never really thought
 that I needed to find out who they were.]
 
-[..............]
+[...]
 
 After yesterday's incident, I remembered hearing from Rei-san that Black Bears
 basically don't flock together. Apparently, they grouped up because of a Special
@@ -262,7 +262,7 @@ momentary emotions.
 [And then, my soul caught Shallow Vernal-sama's attention, and she asked me
 this: “What do you want to do now?”...]
 
-[..............]
+[...]
 
 [My wish already came true. However, I also had some regrets. I thought that if
 it could come true, I wish to serve someone of my own will, not be forced to
@@ -293,7 +293,7 @@ bowed her head.
 [...It's natural for Master to be confused. But please, if you will permit it...
 I wish to serve Master's side.]
 
-[.................]
+[...]
 
 I don't need subordinates. I would only be bewildered even if I get one...
 That's definitely my true thoughts about this. However, it's true that Anima's
@@ -444,7 +444,7 @@ had talked a lot about various stuff, I found her earnestness a little cute.
 [Now then, I guess it's about time we go back to the inn and have breakfast.
 Anima too, you eating with us? If it's money, I could pay for you.]
 
-[Eh? Y-Yes. H-However, in that case... I-I would trouble Master....]
+[Eh? Y-Yes. H-However, in that case... I-I would trouble Master...]
 
 [You don't have to mind it that much. Or perhaps, you don't want to eat together
 with me?]
@@ -465,11 +465,11 @@ when we gathered.
 
 [Sieg-san? What's this?]
 
-[...........]
+[......]
 
 [Eh? Our bento huh? Thank you very much!]
 
-[...........]
+[......]
 
 Apparently, Sieg-san packed bentos for the three of us. The harvest competition
 is held from 10:00 AM to 3:00 PM, and while there are some who will return to
@@ -568,7 +568,7 @@ you, in front of her, she'll instantly beat me up.]
 It's only been nearly half a day, how the heck did you make the people around be
 vigilant of you that they're even alerted about this matter?! What the heck did
 you do, Anima?! Even Rei-san's just sighing there like he had completely given
-up on the whole thing....
+up on the whole thing...
 
 Thanks to the sudden attack of Anima, I felt a sense of exhaustion even before I
 participated in the event, and I listened to the man's explanation again.
@@ -640,7 +640,7 @@ don't care if you want to bet or not, but why are you betting on me?!
 
 [Me too!]
 
-[...........]
+[......]
 
 [Kusunoki-san and Yuzuki-san too?! Wait, why are you also taking out your money,
 Sieg-san?!]
@@ -760,7 +760,7 @@ pride I boasted and developed as a Spirit mage... will be smashed to pieces.]
 [I agree with Fia. I don't mean to underestimate you by any means. It's just
 that child is too much of a monster.]
 
-[ [ ......... ] ]
+[ [ ...... ] ]
 
 Seeing Sylphia and Rejnhardt, who recommended abstaining so desperately that it
 even looks like they were talking about an “incoming crisis”, the man and the
@@ -830,9 +830,9 @@ elves.]
 
 [...Yes, it would truly be a historical achievement.]
 
-[..........]
+[...]
 
-[..........]
+[...]
 
 They quietly exchanged words as the woman disappeared from their sight. Looking
 at the direction she had gone in, the two of them quietly looked at each other
@@ -859,8 +859,8 @@ It's about time I took a break anyway, so I guess it's fine if I have lunch?
 Looking at the bag which works the same way as my magic box and doesn't feel
 heavy at all, I thought. I've been harvesting fruits almost without a break so
 far, and I think I've harvested a little more than 400 fruits there. However, as
-a first time participant, I'm not sure if that 400 is a large number or not....
-I wish I had asked Rei-san and the others before...
+a first time participant, I'm not sure if that 400 is a large number or not... I
+wish I had asked Rei-san and the others before...
 
 No, in the first place, I don't know the reason why, but Lilia-san and the
 others treated me like I'm one of the people who had a chance for victory, and
@@ -946,7 +946,7 @@ salt-and-pepper seasoned burger steak is the best, and I don't remember eating
 many burger steaks with demi-glace sauce when I eat in restaurants. That's why I
 can say that the burger steaks made by Sieg-san are my favorite.
 
-[.........]
+[...]
 
 Delicious... really delicious.
 
@@ -984,7 +984,7 @@ there was a Spirit in front of me, staring at my lunchbox with interest.
 
 [...Do you want to eat?]
 
-[.......!]
+[...!]
 
 When I asked her, thinking that she wanted to eat some of my bento when I looked
 at her, the Spirit... no, the Spirits vigorously nodded their heads. H-Hmmm.
@@ -1059,7 +1059,7 @@ more like a rough animal trail. However, the path I'm walking on isn't so much
 that I can't advance because the Spirits are clearing the weeds ahead of me.
 However, I feel like I'm being led to an unexplored region, and I'm a little
 anxious about where they're going to take me. Well, if there are this many
-Spirits, it's probably safe to a certain extent but.... Seriously, where in the
+Spirits, it's probably safe to a certain extent but... Seriously, where in the
 world are we going?
 
 It's probably about 10 minutes or so, and as I follow the Spirits through the
@@ -1111,7 +1111,7 @@ like those “Dryad” monsters.
 
 ...Well, she at least doesn't seem to be a human.
 
-“..........”
+“...”
 
 The woman quietly stared at me with her jewel-like eyes. The woman's face is
 quite high up in the air, and perhaps because she's fused to the tree, it kinda
@@ -1213,7 +1213,7 @@ anything about it. Because I'm a being with power comparable to Isis, I was
 unable to fulfill her wish to come in contact with the powerless as well, and to
 meet someone who would accept her even if such beings don't have power.”
 
-[..............]
+[...]
 
 “I was busy with my own affairs, and seeing Isis growing sad and lonely, I
 always felt frustrated. But then, you appeared at her doorstep.”
@@ -1252,7 +1252,7 @@ no here but... there was one thing that inevitably stuck in my mind.
 important friend to me and I enjoy being with her. So I honestly don't want to
 get rewarded for something like that...]
 
-“..........”
+“...”
 
 [So please consider this as a request that has nothing to do with that. If you
 don't want to do so, you can decline, as I'm very aware that this can be a rude
@@ -1338,7 +1338,7 @@ Lillywood-san calmly spoke with her eyes, looking at me filled with seriousness.
 person is most probably assessing your worth. Whether or not you're a danger to
 this world...”
 
-[...........]
+[...]
 
 “And if that person judges you as a danger, No Face will mercilessly deal with
 you. So, if you notice anything out of the ordinary in the surroundings, please
@@ -1388,7 +1388,7 @@ Borgnes”-sama.]
 [Haahhh, so never thought about it before talking about it to me huh... Want me
 to crush you to pieces?!]
 
-[...........]
+[...]
 
 The messenger can't help but step back.
 
@@ -1399,7 +1399,7 @@ him with a smile on his mouth.
 come here! If he's strong, so be it! If he's weak, I wouldn't be interested in
 as much as a piece of his hair, and I will crush him right there and then.]
 
-[...........]
+[...]
 
 [Tell this to that bastard too. I don't mind you bastards sneaking around, but
 if you interfere in my way... I wouldn't be lenient anymore.]
@@ -1553,7 +1553,7 @@ his mouth.
 
 [W-Why are you here...]
 
-[.............]
+[...]
 
 The two subordinates were astonished when they saw Ozma's sudden appearance and
 spoke, but No Face didn't say a word, only slightly turning their face hidden
@@ -1564,7 +1564,7 @@ exhaling a mouthful of smoke, Ozma turned his gaze to No Face and spoke.
 have much presence after all. Tailing people and stuff like that is kinda my
 specialty.]
 
-[............]
+[...]
 
 [What are you planning, Peaceful Sky Ozma, showing yourself before No
 Face-sama?]
@@ -1576,7 +1576,7 @@ a portable ashtray out of nowhere and extinguished his cigarette, he responded.
 [...That boy is still “a child”. He's just a young child who only lived for 20
 or so years... What in the world are you trying to do to such a child?]
 
-[..........]
+[...]
 
 [You don't even feel like responding? Well, Uncle here doesn't know what
 Phantasmal King-sama is thinking, nor do I know what you're planning to do...
@@ -1589,7 +1589,7 @@ pressure emanating from him clearly contains hostility.
 [...Those who make children grief and suffer... Those who manipulate them and
 break them apart. Uncle here... hates those kinds of things.]
 
-[............]
+[...]
 
 [I don't know what Phantasmal King-sama is thinking, and why you're trying to
 test that boy... but if he ends up shedding tears... know that this Uncle will
@@ -1612,7 +1612,7 @@ hostility, and lightly scratching his head, he begins walking away.
 [...Sorry for interrupting you. However, I hope you'll keep Uncle's words in
 mind.]
 
-[............]
+[...]
 
 Looking at Ozma's back as he said those words, No Face silently saw him off.
 Then, after Ozma was completely out of sight, they spoke to their two
@@ -1825,7 +1825,7 @@ about to faint, while Lunamaria looked stiff when she replied to her. Out of the
 corner of Lilia's eye, the man who is the facilitator of the tournament
 approaches Lillywood with a panicked look and kneels down on one knee.
 
-[W-World King-sama! W-Why have you come....]
+[W-World King-sama! W-Why have you come...]
 
 “Why? I'm also a Spirit, and I don't think there would be any problems
 cooperating with him as a participant under the rules, right?”
@@ -1874,7 +1874,7 @@ Lillywood-san, one of the Six Kings, is currently next to me, which must be a
 shocking situation for the elves who worship Lillywood-san like a god. Looking
 quite nervous, the man who is facilitating the event approaches.
 
-[W-Well then, the bag of fruits you collected.....]
+[W-Well then, the bag of fruits you collected...]
 
 [Ah, yes.]
 
@@ -1987,7 +1987,7 @@ to Lillywood-san's words.
 “You have collected a total number of 2,321 fruits... This is a result unseen
 even back in the past, and it proves that you are truly loved by the Spirits.”
 
-[...........]
+[...]
 
 Most of that number was the fruits collected by Lillywood-san, so it's not
 really collected through my efforts but... Unfortunately, this isn't the place
@@ -2018,14 +2018,14 @@ something...
 Thinking in silence for a few moments, I then came up with an idea before
 looking up towards Lillywood-san.
 
-[W-Well then, this might be rude of me, but I'd like to ask you one thing.....]
+[W-Well then, this might be rude of me, but I'd like to ask you one thing...]
 
 “Yes, please speak.”
 
 [Rigforeshia seems to be in quite a mess from the Black Bear invasion yesterday,
 so I was hoping if you could do something to help them...]
 
-“.........”
+“...”
 
 Yes, what I thought of was in regards with the city of Rigforeshia. Yesterday's
 attack by the Black Bears destroyed the wall that had been protecting the city,
@@ -2260,7 +2260,7 @@ competition, so it's only natural that they would have this reaction if the real
 thing appeared in front of them. Everyone stared at the Fruit of the World Tree
 for a while, and then... the expression on Lilia-san's face disappeared.
 
-[.........]
+[...]
 
 [Ummm, Milady?]
 
@@ -2331,7 +2331,7 @@ quickly reached out her arms to me and hugged me—Eh?
 
 [Wait?! Sieg-san?!]
 
-[...........]
+[......]
 
 Sieg-san, who is almost as tall as I am, hugs the surprised me for a few
 moments, before she removes her arms and brings her mouth close to my ears.
@@ -2366,7 +2366,7 @@ look on his face.
 after the greetings are over to a certain extent, “you will spend the night in
 the Spirits' Forest”.]
 
-[.....That's the first time I heard that though...]
+[...That's the first time I heard that though...]
 
 [Well, my bad. I didn't think any of you were going to win until what happened
 yesterday...]

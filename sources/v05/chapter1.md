@@ -7,8 +7,8 @@ toc: true
 After meeting up with Lillywood-san and exchanging some small talks,
 Lillywood-san spoke with her gentle smile still on her face.
 
-“Since you’re already here, I’d like to take you around Yggfresis but.... I
-guess that would make Isis angry with me.”
+“Since you’re already here, I’d like to take you around Yggfresis but... I guess
+that would make Isis angry with me.”
 
 [Unnn?]
 
@@ -97,7 +97,7 @@ actually came out a prairie filled with greenery.
 
 [Errr...]
 
-“For some reason, it seems that when otherworlders hear of the Demon Realm....
+“For some reason, it seems that when otherworlders hear of the Demon Realm...
 they would think that it’s a place that is dim and rocky.”
 
 Yep. We certainly had an image that it would be like hell, but it’s totally
@@ -157,7 +157,7 @@ Lillywood-san is currently in front of me, I can feel as safe as I can be. When
 the Behemoth notices us, it looks at Lillywood-san and after shifting its body,
 it begins to let out a low growl.
 
-“...How troubling. I was hoping that it would be frightened and run away but....
+“...How troubling. I was hoping that it would be frightened and run away but...
 It looks like it’s planning to attack us because it thinks it can’t escape.”
 
 [Eeehhhh?!]
@@ -176,7 +176,7 @@ a huge tree root covered my vision.
 “Don’t worry... It’s easy to clear away that level of sparks. As long as I’m
 here, I won’t let you get hurt, Kaito-san.”
 
-[.........]
+[...]
 
 Easily defending against that flash of lightning emitted from that tremendous
 giant, Lillywood-san quietly increases the magic power she’s clad in.
@@ -299,8 +299,8 @@ Dragon King straight at his eyes... eye.
 
 [Nice to meet you, I’m Miyama Kaito.]
 
-“...Hoohhh... It seems that youngsters these days know how to be polite....
-Good. You introduced yourself, and I will also do so. Magnawell Baskus Lardo
+“...Hoohhh... It seems that youngsters these days know how to be polite... Good.
+You introduced yourself, and I will also do so. Magnawell Baskus Lardo
 Kurtzvald... I am called the Dragon King.”
 
 [I-I’m in your care.]
@@ -326,7 +326,7 @@ small in front of Magnawell-san’s size.
 He spoke?! Ah, no, Magnawell-san had just talked too, so I guess High-ranking
 Dragons can talk.
 
-“Umu, I can see why the others like this guy.... It looks like you don’t
+“Umu, I can see why the others like this guy... It looks like you don’t
 understand huh. Good, Miyama Kaito, I’m going to ask you a question.”
 
 [Eh? Ah, yes!]
@@ -416,7 +416,7 @@ presence here huh.]
 
 And then, Magnawell-san’s stories were really long, and we ended up talking
 about the past along the way. Nearly an hour into the story telling, I was
-starting to feel tired of his story.... But right just in time, I saw the land
+starting to feel tired of his story... But right just in time, I saw the land
 covered in ice out of the corner of my eye. I’ve never been to those places
 before, but I feel like it would be like North Pole or South Pole, as the land
 covered in ice is beautiful, yet it somehow makes me feel lonely. I mean, it
@@ -445,7 +445,7 @@ muttered as if he found something strange.
 “...What is this? Is something wrong with that Isis fellow? The magic power of
 death around her has become really thin...”
 
-“It’s the other way around. Isis is in an incredibly good mood right now.... She
+“It’s the other way around. Isis is in an incredibly good mood right now... She
 has been like that for hours, feeling happy as she restlessly waited for
 Kaito-san’s arrival.”
 
@@ -827,7 +827,7 @@ T-That is, ummm, isn’t that...
 
 [...I’m really... glad that... Kaito came... today.]
 
-[.........]
+[...]
 
 The words that Isis-san is speaking aren’t entering my mind at all. My reasoning
 is on the verge of collapsing, and all my nerves are focused on the flowery
@@ -849,7 +849,7 @@ was worried.]
 [...That’s why... when you really came... makes me feel glad... When Kaito is
 here... it feels warm.]
 
-[.........]
+[...]
 
 Isis-san, looking happy as she leans her body to me...Feeling the anxiety of the
 loneliness she held in her heart, I pinch my own thighs as hard as I can with
@@ -928,7 +928,7 @@ somehow managed to get through... I did my best. I worked super hard.
 
 [...Washing... It’s now... Kaito’s turn...]
 
-[.........]
+[...]
 
 ...Come to think of it, I think she said she would wash me first. Eh? No way?
 I’m going to wash Isis-san’s back? Even though that part’s standing angry?
@@ -985,7 +985,7 @@ box, but it seems that at Isis-san’s level, she can easily use it to that
 degree. And then, just as I moved my eyes to the food, Isis-san crossed her
 hands in front of her hips, fidgeting as she nervously spoke.
 
-[...I hope... I made them... right....]
+[...I hope... I made them... right...]
 
 [Eh? Did Isis-san make these?]
 
@@ -1048,7 +1048,7 @@ piece of salad and holds it out to me.
 
 [...Shalltear.]
 
-Oi, you bastard, Phantasmal King.... Come out here for a sec. What the heck is
+Oi, you bastard, Phantasmal King... Come out here for a sec. What the heck is
 that bastard doing?! Not only are you scurrying around the shadows, you’re even
 planting weird information everywhere?!
 
@@ -1136,7 +1136,7 @@ something, as she reached her hand towards me.
 
 [Ehh? Wha?!]
 
-[....Nom.]
+[...Nom.]
 
 [ \~ \~ ?!?! ]
 
@@ -1266,7 +1266,7 @@ Just at that moment, I saw something faintly glitter on Isis-san’s face.
 
 [...I don’t want... to be... alone.]
 
-[.........]
+[...]
 
 I don’t know what she’s dreaming about. However, for this person... the fear of
 loneliness really is something that has been following her since long ago. When
@@ -1331,7 +1331,7 @@ heart.
 [...More than anyone else... and more than anything else... in the world... I
 love you... Kaito.]
 
-[.........]
+[...]
 
 Those words that she said greatly shook my heart. If she have already said that
 much, no matter how stupid I am, I will be aware of it.. I see, I... I’m
@@ -1360,7 +1360,7 @@ Isis-san.
 
 [...I know... if it’s about... my beloved Kaito... I know it.]
 
-[.......]
+[...]
 
 Seeing Isis-san’s face smiling as she said that, I felt a throbbing pain in the
 depths of my heart.
@@ -1388,11 +1388,11 @@ matter what number she is... It’s as if she’s making no sense.
 
 [...Eh? ...Why?]
 
-[....Yeah?]
+[...Yeah?]
 
 A-Arehh? That’s really strange. For some reason, Isis-san’s reaction isn’t like
 she can’t give up on her feelings or anything like that... It’s like she’s
-really wondering why. W-What the heck’s going on? Could it be.... we’re talking
+really wondering why. W-What the heck’s going on? Could it be... we’re talking
 about different premises here?
 
 [Errr, Isis-san. Can I ask you one question?]
@@ -1446,7 +1446,7 @@ first explained to her about polygamy.
 
 [In other words, it’s one man having multiple wives.]
 
-[...Then.... this part... of our world... is different... from Kaito’s world?]
+[...Then... this part... of our world... is different... from Kaito’s world?]
 
 After nodding her head as if she somewhat understood my explanation, she tilted
 her head again. Anyway, I know it’s already late to say this... but your face is
@@ -1495,7 +1495,7 @@ often women.
 
 [A-As I thought...]
 
-[...For example.... all the gods are women... not a single one them is a man.]
+[...For example... all the gods are women... not a single one them is a man.]
 
 [Eh? Is that so?!]
 
@@ -1511,7 +1511,7 @@ women.]
 
 [I see... Is that also the same case for the Demons?]
 
-[...As for the Demons... it’s a bit.... complicated... There are some like
+[...As for the Demons... it’s a bit... complicated... There are some like
 Megiddo... who don’t have the concept of gender... or Kuromueina... and
 Shalltear... who can change their gender at will.]
 
@@ -1539,10 +1539,10 @@ gender doesn’t exist for him... them.
 
 [I see... that makes lots of sense. Thank you.]
 
-[...No... If you have things you want to know.... just ask.]
+[...No... If you have things you want to know... just ask.]
 
 Based on what Isis-san said, there really are more women than men in this world.
-Moreover, the ration of men to women may be really quite tilted.... and that’s
+Moreover, the ration of men to women may be really quite tilted... and that’s
 why polygamy has become a common practice in this world...
 
 Now then, I may have heard that polygamy is practiced here in this world... that
@@ -1568,7 +1568,7 @@ organize my mind enough to accept her feelings right here and now.
 
 [...Unnn?]
 
-[....Can I say something very selfish?]
+[...Can I say something very selfish?]
 
 [...Eh? ...Unnn.]
 
@@ -1591,7 +1591,7 @@ expression drastically changed when she heard the words I said next.
 [When I’m ready, these thoughts I have in my heart... I’ll tell Kuro about it.
 After that, I’ll think it over.]
 
-[....Think?]
+[...Think?]
 
 [Yes. To thoroughly think about my own feelings... When I’m ready to accept
 Isis-san’s feelings... At that time, I’ll be the one confessing to Isis-san!]
@@ -1614,7 +1614,7 @@ strongly, but I’m asking her to let me withhold my answer. Isis-san became
 silent for a while after she heard my words, but then, she smiled with large
 drop of tears streaming down her eyes.
 
-[...Unnn... I will wait... no matter... how long it takes... my feelings.... for
+[...Unnn... I will wait... no matter... how long it takes... my feelings... for
 Kaito... will not fade... I really, really... love you... Even after Kaito gives
 me your answer... I will love Kaito... more and more...]
 
@@ -1705,7 +1705,7 @@ Magnawell-san. Since we have the chance, if I read this with Isis-san, who knows
 a lot about the Demon Realm, she’ll be able to teach me lots of things and that
 will be a great help for me... is what I thought when I suggested that but...
 
-[...This book... is very detailed... It must have been written.... by someone...
+[...This book... is very detailed... It must have been written... by someone...
 who knows a lot about the Demon Realm huh.]
 
 [T-T-That’s right.]

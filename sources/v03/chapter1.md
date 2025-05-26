@@ -134,15 +134,15 @@ I'll start by asking about that.
 [S-Speaking of which, I don't even know where the Elven Forest is in the first
 place, but is it far from here?]
 
-[..........]
+[......]
 
 [I see. Then, would it be difficult to go there by carriage?]
 
-[..........]
+[......]
 
 [Arriving there by flight... Through something like magic?]
 
-[..........]
+[......]
 
 [Eh? Dragon? I see... So there's also that way of travelling around here huh.]
 
@@ -157,21 +157,21 @@ airplanes back on Earth.
 [In that case, the time is just about right, isn't it? Is anyone allowed to join
 that festival?]
 
-[............]
+[......]
 
 [That's good. I'm relieved. I heard that it's a festival about hunting and
 harvest before but...]
 
-[............]
+[......]
 
 [Ah, I see. The festival lasts for two days huh.]
 
-[............]
+[......]
 
 [Fumu fumu, so they would hold the hunting competition on the first day, and a
 harvest competition on the second day huh.]
 
-[............]
+[......]
 
 [Ah, is that so? I'm looking forward to that!]
 
@@ -186,7 +186,7 @@ On the night of the second day, the hunted game and harvested fruits are
 prepared and displayed, and everyone eats them while giving thanks for the
 bountiful harvest.
 
-[..........]
+[......]
 
 [Heehhh... Then, a lot of people would come to visit every year huh.]
 
@@ -194,7 +194,7 @@ bountiful harvest.
 
 [Eh?]
 
-[..........]
+[......]
 
 While Sieg-san was courteously explaining about the Sacred Tree Festival, for
 some reason, Lilia-san stopped us for a moment. When Sieg-san and I turned
@@ -230,7 +230,7 @@ talk to myself.
 [I see, Sieg... The reason why you took the initiative in escorting Miyama-sama
 was because you don't need to write to have a conversation with him...]
 
-[.........]
+[......]
 
 After hearing what Lunamaria-san said, Sieg-san deeply nodded once, and for some
 reason, she looked taken aback before turning towards me, and then, began waving
@@ -335,7 +335,7 @@ durability and protection of my clothes, you know?]
 [Unnn, I'm counting on you.]
 
 When I showed my willingness to buy more, Alice's face changed to that of a
-businesswoman so vividly that I can easily tell. How should I say this....
+businesswoman so vividly that I can easily tell. How should I say this...
 Smiling as I see that Alice is just like usual, my preparations for the Sacred
 Tree Festival are fully ready.
 
@@ -435,7 +435,7 @@ obvious thing in the world... What about your work?]
 
 [Nope, not really.]
 
-Before I knew it, I saw this useless Goddess..... The God of Fate, Fate-san,
+Before I knew it, I saw this useless Goddess... The God of Fate, Fate-san,
 slovenly lounging around on the bed, and with an astounded expression on my
 face, I spoke. As usual, she skipped her work and escaped. Well, I'm sure
 Chronois-san will come and retrieve her soon enough. I know it's useless to tell
@@ -475,7 +475,7 @@ immediately laid down on the bed in a prone position again.
 [Unnn? I didn't do much. I just made it so that fate deems it that tomorrow
 until the end of the Sacred Tree Festival will be sunny.]
 
-[H-Huhh....]
+[H-Huhh...]
 
 What in the world is happening? From the way she just said it, did she just use
 her power as the God of Fate?
@@ -627,7 +627,7 @@ parents while looking at us with vigilance.
 
 [Fruuuuuuhhh!]
 
-[...........]
+[......]
 
 When I took a step closer, I was met with a tremendously hostile look.
 
@@ -793,7 +793,7 @@ Hearing my words, Lilia-san and Lunamaria-san explained.
 Tree Festival is also considered as a festival to give thanks to World King-sama
 for the good harvest.]
 
-[............]
+[......]
 
 Sieg-san vigorously nodded in affirmation to Lunamaria-san's words.
 
@@ -946,7 +946,7 @@ each other.
 
 [ [ WELCOME TO THE ELVEN CITY OF “RIGFORESHIA”\~\~!! ] ]
 
-[ [ [ ............ ] ] ]
+[ [ [ ...... ] ] ]
 
 How the heck am I supposed to react to this? Something's wrong. Their tensions
 were obviously greater than even we, who had just come here, had. And then,
@@ -957,7 +957,7 @@ people are...
 
 [Mhmm, could it be that our pose is a little too sophisticated for them?]
 
-[ [ [ .......... ] ] ]
+[ [ [ ...... ] ] ]
 
 I guess that's to be expected from elves, the blonde man and the red-haired
 woman are both tremendously beautiful, but how should I say this... Their
@@ -965,7 +965,7 @@ excitement was excessively out-of-place. In front of the dumbfounded us,
 Sieg-san, who was holding her head in her hands, slowly stands up and draws her
 two slended swords.
 
-[............]
+[......]
 
 [A-Arehh? Sieg-chan? What's wrong? Your face looks really scary.]
 
@@ -982,11 +982,11 @@ two slended swords.
 Sieg-san, who had turned into a shura, attacked the two elves and their
 miserable screams rang out.
 
-[.....Umm, Lilia-san. Could those people be...]
+[...Umm, Lilia-san. Could those people be...]
 
 [Yeah, errr, they're Sieg's “parents”.]
 
-[ [ [ ........... ] ] ]
+[ [ [ ...... ] ] ]
 
 What can I say here, no... I don't even think that there's anything I can say.
 Just when she's about to attend a festival in her hometown with people she
@@ -1001,12 +1001,12 @@ trembling in fear.
 
 [...Ummm, I'm sorry. It's not that I meant any harm, I just forgot to say it...]
 
-[..........]
+[......]
 
 [No, it really was just an accident. It's just that after I sent a letter of our
 visit to Rigforeshia, they graciously accepted to show us around so...]
 
-[..........]
+[......]
 
 Right next to Lunamaria-san's neck were two swords, pierced on the ground, while
 in front of her imposingly stands Sieg-san, her face filled with anger.
@@ -1018,7 +1018,7 @@ useless maid's fate is already set in stone...
 [S-Sieg-chan. Luna-chan didn't really mean any harm, so just leave it at
 that...]
 
-[..........]
+[......]
 
 [Hiihhhh?!]
 
@@ -1039,12 +1039,12 @@ people's eyes so... Ah, geez!!!
 
 [...U-Ummm, Sieg-san. Will you please let her get away for now?]
 
-[...........]
+[......]
 
 [No, I understand how you feel, but I'm sure Lunamaria-san is reflecting, so
 please just leave it at that.]
 
-[...........]
+[......]
 
 Hearing my persuasion, Sieg-san looks like she's still quite unsatisfied even as
 she nodded her head, and she pulled out the sword away from Lunamaria-san's
@@ -1168,7 +1168,7 @@ happy... and today, for the first time in her life, Sieg came home to her
 parents with a man in tow! Even if tears still fall from my eyes, I'm all ready
 to accept, even if she's coming here to inform us of her marriage!]
 
-[...........]
+[......]
 
 [And yet... you can't go on like this! It's fine if you sometimes act like a
 man, go assault her like the beast you are! Alright, I'll give you some money,
@@ -1181,7 +1181,7 @@ fist was trembling. She looks very angry.
 
 [S-Sieg, c-calm down. Daddy is just thinking about Sieg's sake—Bfueehhh?!]
 
-[.........]
+[......]
 
 As Rei-san fell on his buttocks and tried to explain, Sieg-san's fist slammed
 into his face again.
@@ -1282,7 +1282,7 @@ also that amazing?]
 Regarding Lilia-san's ability, I could definitely see it from the fact that she
 was already the runner-up in a martial arts tournament even just when she was a
 teenager, but I've never heard of Lunamaria-san being strong before. Ah, but
-come to think of it..... I can't really imagine it because of how she usually
+come to think of it... I can't really imagine it because of how she usually
 acts, but didn't Lunamaria-san mention that she was a former adventurer?
 
 [I think it's safe to say that Luna is one of the favorites in winning the
@@ -1293,7 +1293,7 @@ muscle strength, we have superior vision and hearing, and we're also unrivaled
 in hunting in the forests. Especially since Sieg's sword skills are even better
 than mine.]
 
-[..........]
+[......]
 
 [I see.]
 
@@ -1433,7 +1433,7 @@ haunted her...
 
 [She... Sieg “lost her voice because of me”!]
 
-[..........]
+[......]
 
 [Sieg's voice couldn't be restored even by Recovery Magic... If there's a chance
 that it could be healed, then I... I will...]

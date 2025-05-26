@@ -507,7 +507,7 @@ an Elf, but who is she?
 [Yes. We have received word from World King-sama to be courteous to Miyama-sama
 when you arrive.]
 
-[.........]
+[...]
 
 Arehh? What the heck is this? I think I saw this kind of development a few
 moments ago.
@@ -725,7 +725,7 @@ that person that came out of nowhere...]
 [...Father. Kaito-san’s lovers are the Underworld King-sama and Death
 King-sama.]
 
-[.........]
+[...]
 
 Rei-san, who looked as one would expect from an overly doting parent, was
 gnashing his teeth, but when he heard what Sieg-san said, he stopped. And then,
@@ -734,7 +734,7 @@ ground.
 
 [...Please accept my apologies.]
 
-[.........]
+[...]
 
 A really polished and no faltering dogeza. I don’t really know who he was bowing
 for... No, I can somewhat guess who because Rei-san’s shoulders are slightly
@@ -931,7 +931,7 @@ Thanks to that, the wall surrounding the city has become stronger, the Spirits
 have become more friendly to us, and moreover, and even Lillie-sama was
 dispatched here... You’re almost like a hero for the populace.]
 
-[.........]
+[...]
 
 I felt dumbfounded from what Rei-san told me. N-No, no, I mean, it was
 Lillywood-san who fixed the city, and my record at the harvest festival was all
@@ -963,7 +963,7 @@ well.
 about Miyama-kun, and she seems to be praising it well... so they’ve decided to
 publish a sequel.]
 
-[.........]
+[...]
 
 Isis-san! What the heck are you doing?! Rather, doesn’t that mean it was
 Isis-san who demanded for the continuation of those books... Geez, seriously...
@@ -1219,7 +1219,7 @@ quietly spoke.
 always a good thing. Being able to feel even the malice of others, isn’t it
 difficult?]
 
-[.........]
+[...]
 
 This is probably based on Lillie-san’s experience. In fact, I would be lying if
 I said I didn’t have an idea of what she was talking about. Bluntly speaking,
@@ -1327,7 +1327,7 @@ pointing to an empty chair.
 
 [Come now, Miyama-kun, sit down.]
 
-[.........]
+[...]
 
 The moment I heard those words, a nostalgic scene flashed in my mind.
 

@@ -788,7 +788,7 @@ him any harm... I don’t care.]
 [I’m not saying that you have to overlook them. However, you can’t kill them...
 If that happens, I’m sure Kaito-kun will feel responsible.]
 
-[.........]
+[...]
 
 Suddenly appearing and glaring at each other, the Phantasmal King and the
 Underworld King... The Frontier Count and the Viscount are so confused by the

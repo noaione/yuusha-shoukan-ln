@@ -21,6 +21,17 @@ const REVERSED_BALANCED_BRACKETS = Object.fromEntries(
 );
 const REVERSED_BALANCED_QUOTES = Object.fromEntries(Object.entries(BALANCED_QUOTES).map(([k, v]) => [v, k]));
 
+const DISALLOWED_CTX = [
+  // Elipsis characters
+  '…', // U+2026 HORIZONTAL ELLIPSIS -> ...
+  '‥', // U+2025 TWO DOT LEADER -> ..
+  '⁞', // U+205F VERTICAL FOUR DOTS -> ....
+  '–', // U+2013 EN DASH -> -
+  '&#160;', // U+00A0 NO-BREAK SPACE -> &nbsp;
+  '&nbsp;', // HTML entity for non-breaking space
+  '　', // U+3000 IDEOGRAPHIC SPACE -> full-width space
+];
+
 function checkBalancing(first: string, last: string, expectFirst?: string, expectLast?: string) {
   if (expectFirst && expectLast) {
     return first === last && expectFirst === expectLast;
@@ -132,6 +143,26 @@ export function isParagraphHasQuotesInQuotes(paragraph: Paragraph): boolean {
   if (hasQuotes.some((quote) => insideText.includes(quote))) {
     console.warn(`!!! Paragraph has quotes inside quotes: ${text}`);
     return false; // If there are quotes inside quotes, it's incorrect
+  }
+  return true; // If no issues found, we consider it correct
+}
+
+export function isParagraphDisallowedCtx(paragraph: Paragraph): boolean {
+  if (paragraph.type !== 'paragraph') {
+    return true; // Not a paragraph, so we consider it correct
+  }
+
+  const text = toString(paragraph);
+  const strippedText = cleanupParagraphText(text);
+  if (!strippedText.length) {
+    return true; // Empty paragraph is considered correct
+  }
+
+  for (const ctx of DISALLOWED_CTX) {
+    if (strippedText.includes(ctx)) {
+      console.warn(`!!! Paragraph contains disallowed stuff: ${ctx} in \`${text}\``);
+      return false; // If disallowed context is found, it's incorrect
+    }
   }
   return true; // If no issues found, we consider it correct
 }

@@ -859,7 +859,7 @@ feels really nostalgic.)
 
 On the rooftop of a skyscraper with almost no wind, with the cloudy skies above
 them..., it was a memorable view for her who found the world outside her
-birdcage for the first time. 　
+birdcage for the first time.
 
 ———Arehh? Makina, why do you look so tired? Are you that excited to be in a new
 city for the first time?

@@ -300,7 +300,7 @@ once...
 
 [...Kaito?]
 
-[.........]
+[...]
 
 The stormy and confusing thoughts swirling in my mind before had gone completely
 silent... and I felt my consciousness getting farther. I see... I see, this is
@@ -424,7 +424,7 @@ being grabbed...
 
 [...Suuu.]
 
-[.........]
+[...]
 
 I take back my previous statement. The ordeals aren’t over yet... The biggest
 ordeal of my life is still going on.
@@ -518,7 +518,7 @@ and that my neck isn’t snapped like one of her cookies...
 
 [...Unnn? ...Arehh? Kaito-kun?]
 
-[.........]
+[...]
 
 Along with her passionate kisses, she whispered her love for me with her sweet,
 melting voice, pushing my thoughts to the verge of conducting passionate

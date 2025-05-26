@@ -394,8 +394,8 @@ weren’t... even being subjugated.]
 
 [I see, that’s a relief then.]
 
-[...Unnn.... They’re docile... and only consume water... and there were even
-many Humans... who keep them as pets.]
+[...Unnn... They’re docile... and only consume water... and there were even many
+Humans... who keep them as pets.]
 
 Now that she mentioned it, I feel like I’ve seen those slimes around the city.
 If there’s a lot of people who keep them, should I try searching for them some
@@ -405,7 +405,7 @@ to try touching it.
 [Fumu fumu. Ahh, come to think of it, I still haven’t mentioned it to Isis-san,
 but I’m now keeping a pet.]
 
-[....Really? ...A monster?]
+[...Really? ...A monster?]
 
 [Yes, a Behemoth.]
 
@@ -789,7 +789,7 @@ Shalltear probably... already thought of a hundred things.]
 
 [She’s an intelligent person huh.]
 
-[...Unnn... She knows a lot of things.... but... she doesn’t talk much about
+[...Unnn... She knows a lot of things... but... she doesn’t talk much about
 herself... and sometimes... she had this very... cold look in her eyes.]
 
 Her description of her is also different from the previous ones. If I only

@@ -88,9 +88,9 @@ from Alice that it’s a country where trade is thriving.
 [No, rather than talking about whether it’s a good question or not, you’ve
 completely become a kidnapper.]
 
-[I guess so.... It’s a long story but...]
+[I guess so... It’s a long story but...]
 
-[.........]
+[...]
 
 Thoroughly ignoring my objections, Fate-san began to slowly talk about how this
 happened, staring at the ocean with her eyes narrowed.
@@ -179,7 +179,7 @@ Six Kings Festival in your dreams!]
 said... I will use all of my efforts to prevent you from attending the Six Kings
 Festival. Don’t think I will forget about this, okay?]
 
-[............]
+[...]
 
 Leaving those words behind, Chronois leaves and Fate, who was left alone in the
 room, became dejected.
@@ -231,7 +231,7 @@ Kai-chan can go randomly sightseeing during that time\~\~]
 
 Responding to Fate-san’s suggestion with a suitably unclear response, I started
 looking around again. Are we in a port town at a reasonable distance away? The
-streets are quite wide and further in the distance.... There’s a castle-like
+streets are quite wide and further in the distance... There’s a castle-like
 building, though it looks a bit blurry from here.
 
 [Then, are we going to head to that town first?]
@@ -257,7 +257,7 @@ Fate-san was looking at me with her arms outstretched.
 
 [I’m fine even with piggyback!]
 
-[.........]
+[...]
 
 Seriously, what the heck is she saying?
 
@@ -277,7 +277,7 @@ that on purpose? Hey, did you do that on purpose?
 [Don’t wanna\~\~! Carry me, give me a piggybaaaaack! Kai-chan, you won’t leave
 me behind, right? You wouldn’t leave this frail me behind, right?!]
 
-[.............]
+[...]
 
 I’d really like to slap her a tsukkomi and ask who’s weak here again, but I
 gulped it down and looked at Fate-san with astounded eyes. Fate-san’s eyes are
@@ -334,7 +334,7 @@ sailor uniform... Why is she wearing a sailor uniform?
 
 [No, thank you for gracing us with your presence, God of Fate-sama.]
 
-[..........]
+[...]
 
 Fate-san, who is still on my back, called out in a lackadaisical tone, and the
 pink-haired woman bows her head with a smile, while the woman in the sailor
@@ -357,7 +357,7 @@ she’s a great career woman.
 
 [Come on, Senpai too...]
 
-[.........]
+[...]
 
 After greeting me, Heart-san called out to the woman in a sailor uniform next to
 her, calling her Senpai, but this Senpai still didn’t speak. No, in fact, she
@@ -371,7 +371,7 @@ to her.
 
 [...Tch.]
 
-[.........]
+[...]
 
 This person’s amazing... This is the first time I’ve met someone like her in all
 my life. She’s being so blatantly repugnant to someone she has never met
@@ -396,7 +396,7 @@ back, and Fate-san, who was standing next to me, spoke.
 
 [Hey, God of Disasters!]
 
-[......]
+[...]
 
 [I’m sorry, Kai-chan. She’s a really excellent girl but... She has fear of
 strangers and doesn’t really open up to people she doesn’t know.]
@@ -408,11 +408,11 @@ know?! What the heck is happening? Did I do anything to her?
 
 [U-Ummm... God of Disasters... -sama?]
 
-[.........]
+[...]
 
 [Have I done something to you that you hated?]
 
-[.........]
+[......]
 
 ...Silence. Isn’t this too unreasonable? It’s fine if she has fear of strangers
 but... Suddenly being told that they hate you, and even now, the person won’t
@@ -428,11 +428,11 @@ at me.
 [How many times do you think God of Fate-sama had forced her work on me, saying
 “I’m going to go visit Kai-chan\~\~” It’s all your faaaauuuullllttttt!!!]
 
-[.........]
+[Eeehhh...]
 
 The reason was Fate-san?! Or rather, God of Disasters-san is completely tearing
 up now, you know?! How much work did you push on her?! I see, so that’s why she
-was that hostile to me.... Unnn, it was all Fate-san’s fault, but I can’t help
+was that hostile to me... Unnn, it was all Fate-san’s fault, but I can’t help
 but feel sorry for her. Moreover, with her anger towards me, it may not be
 possible for me to repair our relationship... As expected, that’s a bit
 difficult to do.
@@ -480,7 +480,7 @@ bit too much, isn’t it? Should I apologize...]
 
 [H-Huhh...]
 
-[....Senpai, that still doesn’t mean you apologized, you know?]
+[...Senpai, that still doesn’t mean you apologized, you know?]
 
 Arehh? Could it be that God of Disasters-san is a nice person? I mean, she’s
 speaking strangely and she still won’t look me in the eye but... The point is,
@@ -495,7 +495,7 @@ You’re just an exception, okay?!]
 
 [Y-Yes. It’s nice to meet you, Shea-san.]
 
-[....Hmph! N-Nice to meet you...]
+[...Hmph! N-Nice to meet you...]
 
 Saying that somewhat shyly, Shea-san turned away again. Hmmm, how should I say
 this... I think she’s a deep person... I guess it’s partly because she’s afraid
@@ -653,7 +653,7 @@ blue... blue... fish... stuffed animal.
 [They’re freshly fresh\~\~ Freshest of all fresh\~\~! They’re all fishes fresh
 from the net!!!]
 
-[.........]
+[...]
 
 [Ahh, Kaito-san! What do you think? I really recommend this o—Fugyyaaahhh?!]
 
@@ -703,7 +703,7 @@ to sell her fishes again, before talking to the main body Alice.
 
 [...So, by the way, are they selling well?]
 
-[..........]
+[......]
 
 What a sad silence it is. It’s getting harder for me to watch. Well, no matter
 how I look at it, I think it’s the stuffed costume’s fault... Heck, why is she
@@ -1070,7 +1070,7 @@ Festival...]
 feeling envious. They’re the top of the Demon Realm, so they were definitely
 quite majestic... They must feel like those last bosses in RPGs, right?!]
 
-[.........]
+[...]
 
 I think only Megiddo-san and Magnawell-san can adapt to that kind of impression.
 
@@ -1130,7 +1130,7 @@ their hate to me.]
 [No, I guess it can’t be helped. I don’t really like the person I used to be
 either.]
 
-[.........]
+[...]
 
 Somehow, I think that Mitsunaga-kun was trying to change himself, and that’s why
 he became the way he is now. I feel like he encountered a big turning point in
@@ -1184,7 +1184,7 @@ I’ve rarely had “conversations with my own parents”.]
 [Yes. For my workaholic parents, I was just “a child born out of accident” and
 isn’t someone they wished for.]
 
-[..........]
+[...]
 
 He indifferently said those words, but I could tell that Mitsunaga-kun didn’t
 think well of his parents.
@@ -1211,7 +1211,7 @@ Cattleya thoroughly scolded me. She punched my nose that was growing long back
 into my face... My authority is just something I borrowed, who the heck do I
 think I am, she said...]
 
-[.........]
+[...]
 
 [...I know this may sound weird, but when she scolded me, I felt happy. No one
 has ever looked at me so straight and straightforwardly scolded me before...]
@@ -1312,7 +1312,7 @@ pocket watch, checked the time and then stood up.
 
 [Ahh, my bad, were you busy?]
 
-[No, I wasn’t, and I had fun chatting with you.... but if we talk any longer, I
+[No, I wasn’t, and I had fun chatting with you... but if we talk any longer, I
 won’t have time to study...]
 
 [...Study?]
@@ -1322,7 +1322,7 @@ What is he studying for? It doesn’t sound like it’s just something like stud
 for his high school classes, and based on his reaction, I’m sure that it’s
 pretty important...
 
-[Yes, I have to study about Aquarius.... Ah, it’s this city’s name, and its
+[Yes, I have to study about Aquarius... Ah, it’s this city’s name, and its
 history.]
 
 [Unnn? Are you perhaps studying as someone who has the role of Hero?]
@@ -1358,7 +1358,7 @@ are many long-lived races in this world, and most importantly, I have 100 great
 Hero senpais, along with the First Hero-sama, before me... No matter how I look
 at it, I can’t be compared with them.]
 
-[............]
+[...]
 
 [Those who play the role of Hero are given a day of free time when they arrive
 in the city. I think of that time as a time for me to study. Today is the day
@@ -1373,9 +1373,9 @@ like to visit as many cities as I can though, so my schedule was quite packed.]
 
 Travel, study about the city for a day, meet with the people with authority on
 the next day, give a speech the day after that, and then, travel to another city
-again.... It’s an overcrowded schedule, but it seems that it’s what
-Mitsunaga-kun wants to do. How should I say this... That’s kinda amazing...
-Mitsunaga-kun was quite the hard worker.
+again... It’s an overcrowded schedule, but it seems that it’s what Mitsunaga-kun
+wants to do. How should I say this... That’s kinda amazing... Mitsunaga-kun was
+quite the hard worker.
 
 [Of course, if I want to take it easy, I can do it as much as I want. As I said
 before, I’m not forced to study at all. It’s just that I’m making use of my free
@@ -1442,12 +1442,12 @@ the parliament.
 [It can’t be helped. There are some things that need to be revised, and those
 things need a few days to finish.]
 
-[Yes, however, as expected of God of Fate-sama.... We finished lots of things
+[Yes, however, as expected of God of Fate-sama... We finished lots of things
 faster than planned. If she’s usually working at this pace, I’m sure that God of
-Time and Space-sama wouldn’t be holding her aching head.... If she’s so capable,
+Time and Space-sama wouldn’t be holding her aching head... If she’s so capable,
 why does she usually keep slacking off?]
 
-[..........]
+[...]
 
 Hearing Heart complain about the gap between Fate and her usual self while
 remembering Fate’s appearance today, which can definitely be described as
@@ -1486,13 +1486,13 @@ face turned serious.
 as she wills it... And that’s why she sees anyone’s value as no different from a
 doll. That’s why it can’t be helped if she thinks of you as some “dull being”.]
 
-[.........]
+[...]
 
 [...Just remember this. The God of Fate-sama you saw today is in an “extremely
 good mood”... She was so friendly because there was a being nearby that God of
 Fate-sama thought was “interesting”...]
 
-[.........]
+[......]
 
 ---
 
@@ -1528,7 +1528,7 @@ Pamper me\~\~]
 [I don’t wanna! I’m replenishing the insufficient Kaichanium in my body right
 now!]
 
-[Cough.... I-I don’t understand what you mean... Cough...]
+[Cough... I-I don’t understand what you mean... Cough...]
 
 On the first day of my stay in the Hydra Kingdom... It seems that this day isn’t
 going to end so easily. To sum up what she’s trying to say, she’s asking for
@@ -1590,7 +1590,7 @@ was on the desk close to her. Thereupon, she started pouring red wine that she
 took out of nowhere into that pitcher.
 
 [Normally, I don’t have to say it, but for you to clearly understand, I’ll speak
-it out loud.... “Don’t blend”.]
+it out loud... “Don’t blend”.]
 
 [?!]
 
@@ -1599,7 +1599,7 @@ water, not blending with each other like oil and water.
 
 [...”Blend”... “Separate”... “Return to Vessel”.]
 
-[.........]
+[...]
 
 Every time Fate-san said those few words, the red wine that had been separated
 mixed with water before cleanly separating again, and finally, defying the laws
@@ -1651,7 +1651,7 @@ Kai-chan.]
 really excited at that time. It’s the first time I’ve met someone who can be my
 “soul friend” since I met Shall-tan.]
 
-[............]
+[...]
 
 She has only told me later, but when Fate-san and I first met... Fate-san had
 apparently manipulated fate so that no human could get close to her. That’s why
@@ -1731,7 +1731,7 @@ to fall asleep like that.
 kind and fun, hmmm... As I thought, I really like you the best. I’ll definitely
 have Kai-chan support me! Let’s do that!!!]
 
-[..........]
+[...]
 
 Fate-san was kind of the same as always, but it seems like I got along with her
 a little better, and she showed me a side of her that I hadn’t seen before.

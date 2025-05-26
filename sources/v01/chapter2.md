@@ -61,7 +61,7 @@ this white, but it tasted just like a plain butter roll.
 
 [I was so tired yesterday that I fell asleep right away.]
 
-[......]
+[...]
 
 Hearing Lilia-san suddenly asking about such things, the image of myself
 screaming loudly in my head returned back into my mind and I couldn't respond
@@ -344,7 +344,7 @@ thought it was really moe.
 fiancé” that her parents chose for her at that time, and it was decided that
 conversations about her engagements were never to be discussed again.]
 
-[.........]
+[...]
 
 I'm lost for words. Please stop it already, Lunamaria-san! Lilia-san is
 half-crying already!
@@ -1263,7 +1263,7 @@ repay her in some way...
 
 [Ah, welcome back\~\~]
 
-[.........]
+[...]
 
 Opening the door to my room, I found Kuro sprawled out on the couch, eating a
 baby castella. She finally didn't just show up out of nowhere, she was waiting
@@ -1388,7 +1388,7 @@ wide and she stiffened. Seditch Magic Tool Trading Company? What's that?
 [...It's in an envelope made of black magic parchment and sealed with a Platinum
 Dragon's beard.]
 
-[.......]
+[...]
 
 Ah, Lilia-san completely froze.
 
@@ -1437,7 +1437,7 @@ I'll be waiting, okay\~\~?—is what she said. Again, my apologies for the delay
 in getting in touch with you. I would appreciate your consideration.—Sei
 Riverstar”...]
 
-[........]
+[...]
 
 As I thought, it's that little demon girl who did this?! What the heck are you
 doing?! Seriously, what the heck are you doing?! You said that you're just
@@ -1802,7 +1802,7 @@ they've had a drink.]
 
 [Ein-san will scold you if you sip your drink before Kuromu-sama.]
 
-[.........]
+[...]
 
 Raz-san tried to stop Acht-san who was vigorously laughing, but Acht-san didn't
 seem bothered by her words and tried to reach out for an alcohol on the
@@ -1824,7 +1824,7 @@ and lowered his head.
 
 [M-M-My apologieeeeesssss! Elder Sister!]
 
-[.........]
+[...]
 
 [Ein-san was Kuromu-sama's maid long before Raz and the others were born, and
 she's the strongest of all of us gathered here today. Well, except for
@@ -2056,7 +2056,7 @@ means that you're different, and I received not only from the people around me,
 but even from my own race. Sympathy, fear, contempt... All of it was very
 annoying.]
 
-[.....]
+[...]
 
 [I'm more powerful than most Ogres, and I don't have the personality to
 skillfully fit in with the others. It didn't take much time for me to isolate
@@ -2072,7 +2072,7 @@ lived my life the way I wanted. I also found a partner just like me. That fellow
 was a black wolf, but just like my case, she was born with silver hair, which
 made her isolated from the other black wolves, just like me.]
 
-[.........]
+[...]
 
 [And so, we went on a rampage, drifting here and there as if to vent our anger.
 Fortunately, the wolf and I were both among the strong ones, and well, those
@@ -2093,7 +2093,7 @@ I grew tired of it. I grew tired of the repeating, never-ending loop, so I
 changed, and did something even more stupid. But I screwed up, my partner and I
 fled for our lives to a ruin.]
 
-[.........]
+[...]
 
 [As my partner and I healed our battered bodies, I thought. In the end, what do
 we really want to do? What did we really want to acquire? And... I found no
@@ -2117,7 +2117,7 @@ I can't even be allowed to resist, nor am I allowed to speak. It's just, ah, so
 this is where it ends. This high-level demon that appeared out of nowhere will
 be the “death itself” to us...]
 
-[.........]
+[...]
 
 [In a way, I thought it was a fitting end to us who have been a bunch of idiots
 for a long time. However, it didn't happen. Kuromu-sama looked at us and laid
@@ -2139,7 +2139,7 @@ Before I knew it, me and my partner were both crying as we ate. It felt
 warm—it's like our cold heart is held tightly in her warm embrace, Kuromu-sama's
 smile was warm.]
 
-[.......]
+[...]
 
 [And then, we naturally began to follow Kuromu-sama. She never looked down on us
 and treated us as if we're equal. If something good happened to us, she was just
@@ -2153,7 +2153,7 @@ talking to Ein-san.
 lot of stuff when they met Kuromu-sama. However, the one thing we had in common
 with the others is that we're all charmed by Kuromu-sama.]
 
-[.........]
+[...]
 
 [My partner and I vowed our absolute loyalty to Kuromu-sama. If Kuromu-sama told
 us to die, we'd gladly cut our own throats.]
@@ -2293,7 +2293,7 @@ However, in that case, the time in the different world seems to have moved on a
 bit, but decades won't suddenly pass at once. For example, in my case, it should
 already be a hundred years over there since I got summoned.]
 
-[.........]
+[...]
 
 [I understand that feeling of not being able to catch up with what's happening.
 I also felt the same when I first came to this world.]
@@ -2466,7 +2466,7 @@ of a mother looking at her child—I guess you could call it a motherly
 expression? She's just smiling at me, but I felt like I'm being wrapped in her
 kindness. And the feel of the soft, warm lap in the back of my head.
 
-[.........]
+[...]
 
 Without saying anything, Kuro began to gently stroke my hair, keeping the smile
 on her face.
@@ -2483,14 +2483,14 @@ comfort of being held in her embrace keeps my body and head still
 [I know that Kaito-kun is a kind child. You're always thinking about the people
 around you.]
 
-[......]
+[...]
 
 [Of all the children summoned this time, Kaito-kun is the oldest. If Kaito-kun
 looks anxious, even the other children around you will get anxious too. And
 that's why you swallowed your anxiety and impatience, and thought that you
 needed to stay calm.]
 
-[......]
+[...]
 
 Ah, I see—I don't know if I should say that it's as I thought or it should be
 expected of her but... Kuro saw through everything.
@@ -2608,7 +2608,7 @@ outrageous item like that. This made me doubly grateful for Sechs-san.
 [Well, I think the space in Lord Sechs's Magic Box would be bigger than a house
 though.]
 
-[.........]
+[...]
 
 ...Even the substitute was already ridiculous enough huh.
 

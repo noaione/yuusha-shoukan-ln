@@ -116,7 +116,7 @@ considerable.]
 [Yes, this Lunamaria is a maid who had sworn her body and soul to Milady
 Lilia-sama, and will always be Milady's ally.]
 
-[.........]
+[......]
 
 It seems like Lilia-san has her own troubles huh. No, seriously... Also, it
 seems that Luna-san's real name is Lunamaria-san. Let's take note of that.
@@ -180,7 +180,7 @@ disappear the next day”.]
 [Yes, it's really troubling. This is why every servant in the Albert Duchy are
 female, and that's why it's treated as “a forbidden zone for men”.]
 
-[..........]
+[Huh?]
 
 Wait a minute right there. I couldn't understand what she's saying here
 though... In other words, can I assume that the King is an extreme siscon and
@@ -273,7 +273,7 @@ this mansion. The people we passed by were all women cleaning, and being here
 feels really out of place. I mean, they're looking at me with such cold stares,
 you know?! My stomach hurts.
 
-[.........]
+[...]
 
 [Milady?]
 
@@ -424,7 +424,7 @@ I understand that all of you would be confused about how to deal with men, as
 they weren't usually invited to this place. I'm sorry for I will have to trouble
 you—]
 
-[.........]
+[...]
 
 When Lilia-san spoke that much, I finally understood what she was trying to say.
 I also understood why Lunamaria-san spoke about how Lilia-san was an intelligent
@@ -920,7 +920,7 @@ non-intervention of the three realms regarding the aforementioned Demon Lord,
 and the First Hero-sama thought of a way to make sure that it didn't happen
 again.]
 
-[.......]
+[...]
 
 [First of all, the First Hero persuaded the Six Kings to cooperate with the
 Human Realm, which was to cooperate with the ruined Human Realm with their
@@ -1435,9 +1435,9 @@ something like negligees, but the one Kusunoki-san is wearing is an ordinary
 white nightgown, a design that makes me think would be something old people
 would wear.
 
-[.......]
+[...]
 
-[.......]
+[...]
 
 I don't mean to be repetitive, but I may be acquainted with Kusunoki-san and
 Yuzuki-san, but that doesn't mean we're close. They are just strangers who
@@ -1489,9 +1489,9 @@ in this other world yet. At the end of the day, we're in a situation where
 there's nothing for me to judge. I don't think I'm optimistic enough to be
 unconditionally relieved just by being under their care.
 
-[........]
+[...]
 
-[........]
+[...]
 
 An awkward silence. What in the world does Kusunoki-san want to say anyway?
 
@@ -1543,7 +1543,7 @@ person or a bad person, if you're unlucky, you will die early. Ah, it's not like
 I'm saying that I want to die. I'm afraid of dying and I don't want to die
 but... Well, I guess I can't help it when that time comes, can I?]
 
-[........]
+[...]
 
 [Ah, err... Sorry. The way I said it might have not been right. I don't mean to
 impose my ideas on you or anything, but I'm just trying not to think too much
@@ -1562,7 +1562,7 @@ happening between us...
 
 [...Miyama-san's one year in this world. How would you like to spend that time?]
 
-[.........]
+[...]
 
 ---
 
@@ -1855,7 +1855,7 @@ drink it.]
 
 [Eh? In the other world, you drink this when you eat sweets, right?]
 
-[..........]
+[...]
 
 All those previous heroes who have given Kuro half-baked knowledge about the
 other world, come out here so I can punch you in the face.
@@ -1989,7 +1989,7 @@ anything to describe it—other than calling it a sight to behold.
 understand. Things you don't know, sights you've never seen—Even if you spend
 your entire life, that still wouldn't be enough to know about everything.]
 
-[.........]
+[...]
 
 [You've finally come to this world, so why don't we search for it? In here, for
 what seems to be your valuable “treasure” deep within your heart... what you

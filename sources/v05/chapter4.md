@@ -12,7 +12,7 @@ fatty juices, whetting the appetite of the people looking at it.
 meat...]
 
 [You still have lots on your plate, you know? I mean, whose money do you think
-is used to buy these.... Don’t you even know what being reserved is...]
+is used to buy these... Don’t you even know what being reserved is...]
 
 [Food bought with other people’s money is the tastiest!]
 
@@ -49,7 +49,7 @@ heck did this happen?
 I’m your subordinate and Kaito-san is my boss. On these occasions, the boss
 should be treating their subordinates!]
 
-[..........]
+[...]
 
 ...This girl. She started saying things that sounded quite convenient. For her,
 that is.
@@ -177,7 +177,7 @@ he’s the king... and I heard that he’s being egotistical all the time.]
 
 [Even asking if there are no slaves here... Geez, from what era is he from?]
 
-[.........]
+[...]
 
 Mitsunaga-kun... No, well, it’s true that slaves are staples in isekai light
 novels... But there’s no such thing as slaves in this world, and if you make a
@@ -197,7 +197,7 @@ faces at first, but their relationship hasn’t been mended for a while.]
 The Second Princess, who was accompanying him at that time, finally snapped...
 and gave him a slap directly passed to her by Duchess Albert.]
 
-[Eeeehhhh?! W-Wait a minute.... If she’s trained by Lilia-san.... Mitsunaga-kun
+[Eeeehhhh?! W-Wait a minute... If she’s trained by Lilia-san... Mitsunaga-kun
 would have died...]
 
 [...I think I have some idea... of how Kaito-san perceives Duchess Albert in
@@ -289,7 +289,7 @@ and lots of things have happened to Kaito-san today...]
 
 [Yes! As expected of Kaito-san, you’re so dreamy! I love you!!!]
 
-[.........]
+[...]
 
 Looking at Alice who’s already completely returned to her usual tone, wondering
 where the earlier Alice went to earlier, I let out a big sigh.
@@ -354,12 +354,12 @@ Life and Fate are acting as usual, while Chronois still struggles to keep her
 head in her hands. Then, after thinking for a moment, she shook her head and put
 Fate down.
 
-[Well, fine. You would be motivated soon enough anyway.... the God of Life will
+[Well, fine. You would be motivated soon enough anyway... the God of Life will
 wake up after she hears about this.]
 
 [...Unnn? What do you mean?]
 
-[As I said before, I received an extremely important task.... You better listen
+[As I said before, I received an extremely important task... You better listen
 to me carefully. In the sixth day of the Tree month... Shallow Vernal-sama would
 come down to the Human Realm.]
 
@@ -399,7 +399,7 @@ enthusiasm, Chronois takes a step back.
 [So, God of Time and Space. What exactly is Shallow Vernal’s purpose in the
 Human Realm?]
 
-[...T-That is... it’s............ te.]
+[...T-That is... it’s... te.]
 
 [Eh? What did you say.]
 
@@ -421,7 +421,7 @@ Vernal-sama, going on a d-date...]
 
 [...It would have been better if it had been a joke though...]
 
-[.........]
+[...]
 
 In response to Life, who asked in astonishment, Chronois mutters with an
 expression that even seems like grief. Understanding that Chronois’s words were
@@ -533,7 +533,7 @@ some other place... Yes, I should open it more carefully...
 [Listen carefully! We can’t afford to be negligent at all today!!! Not even a
 speck of dust should exist on the path Shallow Vernal-sama walks on!!!]
 
-[..........]
+[...]
 
 Why is Chronois-san doing something like a speech in Lilia-san’s garden? And all
 these people wearing priest’s robes lined up in a row... Could all of them be
@@ -544,7 +544,7 @@ unconsciously make it difficult for others to approach them... but it’s not
 absolute. There might be some people that is able to slip through those wards...
 Anyone who slips through the wards, “immediately kill them”.]
 
-[............]
+[...]
 
 Eh? That’s Fate-san, right? Didn’t the words she’s said kinda sound absurdly
 dangerous?! If someone slips into them, you’d kill them?! Eh? What the heck is
@@ -556,7 +556,7 @@ enemies though?!
 will kill them immediately, without regard to the intruders’ intentions or
 actions.]
 
-[..........]
+[...]
 
 Eh? What the heck is she saying? That person with green hair... Just because she
 can bring them back to life later, it’s fine to kill them? What the heck is with
@@ -572,7 +572,7 @@ preparations are ready. From now on, cast aside all of your indulgences! In the
 unlikely event that you cause Shallow Vernal-sama any discomfort, know that even
 lining up all of our heads here won’t be enough to beg for her forgiveness!!!]
 
-[..........]
+[...]
 
 I just want to make sure here... but I’m really going on a date right now,
 right? It’s not like I’m going to be thrown into a war zone or dropped into a
@@ -729,7 +729,7 @@ surprised... though I’m also a bit disappointed. With Shiro-san’s appearance
 seems like other clothing would also look good on her, and I’d like to see
 them...
 
-[......]
+[...]
 
 [Eh?]
 
@@ -1125,7 +1125,7 @@ gives her a different kind of charm.
 
 [Well then, I would like to have this “Slightly Unappetizing Yakisoba”.]
 
-[.........]
+[...]
 
 Y-Yep. The yakisoba sold in beach houses certainly is like that, but do your
 really have to clearly say that?! A-Also, there are some shops that sell decent
@@ -1176,7 +1176,7 @@ eat yakisoba unless you use chopsticks, can you?]
 Shiro-san was using a fork to eat the yakisoba as if it were spaghetti.
 Chopsticks aren’t common for the people in this world, so I don’t really have a
 strange meaning when I mentioned that, I just meant it as a simple small talk
-but.... in the next moment, Shiro-san began saying something unbelievable.
+but... in the next moment, Shiro-san began saying something unbelievable.
 
 [Well then, Kaito-san. “Feed me” with your chopsticks.]
 
@@ -1228,7 +1228,7 @@ pounding really fast right now.
 C-Calm down, it will be alright. Sitting down with some appropriate space
 between us, I just need to pay attention to where I’m looking at...
 
-[......]
+[...]
 
 [Wha?!]
 
@@ -1300,7 +1300,7 @@ take turns feeding each other or something like that, right?
 
 [Here.]
 
-[.........]
+[...]
 
 [Here.]
 
@@ -1314,7 +1314,7 @@ guard too loose?!
 
 [This is just something specially for you.]
 
-[...Like I said, those kinds of statements are....]
+[...Like I said, those kinds of statements are...]
 
 After a lunch filled with happiness and embarrassment... Or rather, the
 happiness that was completely trampled by the embarrassment I’m feeling, my date
@@ -1436,7 +1436,7 @@ already dead, whose fault do you think it is?]
 
 [I dunno?]
 
-[.........]
+[...]
 
 In front of me right now is a huge castle made of sand. The size and appearance
 is such that anyone would believe it if someone says that this is the royal
@@ -1526,7 +1526,7 @@ lunch, and she’s asking me to do this...
 
 [You’re going to do one thing for me, right?]
 
-[Ugghhh....]
+[Ugghhh...]
 
 I-I certainly did make that promise and agreed to that terms. I would be really
 insincere with my promise if I refuse here... I-I guess I don’t have any choice
@@ -1563,7 +1563,7 @@ Shiro-san quietly speaks.
 [No, I’m glad that you’re like that instead. However, I’m just wondering... Are
 you not afraid of me?]
 
-[.........]
+[...]
 
 Her voice was as inflectionless as ever, but I could sense that there was a
 certain amount of emotion in it. I don’t know what Shiro-san had in mind when
@@ -1588,7 +1588,7 @@ However, Shiro-san may be omnipotent, but you’re not omniscient, right?]
 you Shiro-san? I think I’m not afraid because I can feel that it’s just part of
 your personality.]
 
-[..........]
+[...]
 
 Actually, I don’t really know the details why either. I think I was scared when
 I first met her, but now, I’m just thinking of Shiro-san as an airheaded
@@ -1605,7 +1605,7 @@ At my words, Shiro-san stayed silent for a few moments before she spoke again.
 earth... the world I have created. All of them seem to have the same value in my
 eyes... Am I coldhearted? Do I not... love this world?]
 
-[..........]
+[...]
 
 There was still no inflection in her voice, and her expression hadn’t changed.
 However, her voice somehow sounded lonely... and I couldn’t just ignore it.
@@ -1632,13 +1632,13 @@ eyes that you look at the others, and rarely try to get involved in the world...
 and by not holding out your hand to help any side, you’re showing them how
 everyone has the same worth.]
 
-[..........]
+[...]
 
 [I guess that’s also why? The otherworlder me... “This me who wasn’t born in the
 world Shiro-san created” really fits the role of someone Shiro-san would get
 involved with.]
 
-[.........]
+[...]
 
 Hearing my words, which could be taken as disrespect, Shiro-san falls silent.
 Her golden eyes were looking at me, and it’s making me feel as if time is

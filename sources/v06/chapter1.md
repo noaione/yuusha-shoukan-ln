@@ -96,7 +96,7 @@ words as she told me that... Alice continued to speak with a serious tone.
 relevant right now. What’s important is that we’ve all known Kuro-san for a long
 time... and we naturally know what she wishes.]
 
-[.........]
+[...]
 
 Kuro once told me in the Spirits’ Forest that there was something she had always
 wanted, but couldn’t have. In the end, I still didn’t know what it was until
@@ -106,7 +106,7 @@ wasn’t just Alice, but also Isis-san, Megiddo-san, and Magnawell-san as well..
 though I couldn’t see Magnawell-san’s face, but all of them looked chagrined.
 
 [...You can already see from the fact that Kuro-san is still looking for it
-right now.... Even now, we still couldn’t find the one she wanted...]
+right now... Even now, we still couldn’t find the one she wanted...]
 
 [The one Kuro wanted?]
 
@@ -177,7 +177,7 @@ such a miracle appears in front of her, she won’t be able to believe it. I’m
 sure you’d also feel terrified of being suddenly offered something that you’ve
 been looking for and haven’t been able to get.]
 
-[.........]
+[...]
 
 [And that’s when the real match begins. Kuro-san will strongly reject you.
 However, turning that around, the depths hidden beneath Kuro-san’s heart that
@@ -264,7 +264,7 @@ mother, so please, I leave her to you.”
 [...Lillywood-san.]
 
 Along with the words Lillywood-san gently said, Lillywood-san’s magic power also
-flowed into my body. And then, as Lillywood-san walks away from me.... Isis-san
+flowed into my body. And then, as Lillywood-san walks away from me... Isis-san
 slowly approaches.
 
 [...Kaito... save... Kuromueina... Kuromueina has been... suffering... longer
@@ -558,7 +558,7 @@ the others. If that’s the case, then there’s no one better to ask about Kuro
 from a third party’s point of view, and as I turned towards Ozma-san with high
 expectations in mind, he wryly smiled before he continued.
 
-[It’s just Uncle’s personal view regarding Underworld King-sama.... but I think
+[It’s just Uncle’s personal view regarding Underworld King-sama... but I think
 she’s like the God of the Demon Realm.]
 
 [...The God?]
@@ -599,7 +599,7 @@ weeded out... It was such a bleak world. Accepting it as one of the ways of the
 Demon Realm, the Underworld King-sama just watched over everyone. However, there
 was someone who tried to change the way the world was.]
 
-[............]
+[...]
 
 The old Demon realm that Ozma-san talks about might be closer to the image I had
 of the Demon Realm before I came to this world.
@@ -731,7 +731,7 @@ avert your eyes from what’s moooooost important.]
 your love to Underworld King-samaaaaa? Was it to meet everyooooone’s
 expectations? Was it to save Underworld King-samaaaaa?]
 
-[...That is....]
+[...That is...]
 
 As if I’d been hit on the head with a hammer, Illness-san’s words shook me.
 
@@ -750,7 +750,7 @@ you’re getting your priorities backwaaaards. If you keep your brows wrinkled
 like thaaaaat\~\~, you’ll never get to do anything weeeeeell. That’s whhhhhhy, I
 was pointing out your eeeeeyes.]
 
-[............]
+[...]
 
 It was just as Illness-san said. What I should be thinking about isn’t what
 Kuro’s wish is or how to save Kuro. What I really should be thinking about
@@ -782,7 +782,7 @@ uniform, and tied it to my left hand.
 [It’s a liiiiiittle good luck charm, hoooooolding my wish you attain a goooooood
 future.]
 
-[..........]
+[...]
 
 Seriously, this person... claiming that there’s not much she can do, she’s very
 humble. She was so reassuringly supportive that I couldn’t help but be happy. It
@@ -914,7 +914,7 @@ behavior is far from what I imagined rejecting was.
 “Countless times, countless times have I failed... But I’m glad, Kaito-kun. That
 a ‘success’ finally happened.”
 
-[....Suc... cess?]
+[...Suc... cess?]
 
 I don’t know what she’s talking about... What I do know is that an inexplicably
 heavy and frightening air is surrounding my body. It’s as if I’m stuck in the
@@ -922,7 +922,7 @@ belly of a monster, so intimidating that I feel that resisting here would be
 pointless... I’m not supposed to be before her killing intent, and Kuro is
 supposed to be laughing, but I feel like my knees are about to collapse.
 
-Kuro said that I was better than I thought I would.... That means that this
+Kuro said that I was better than I thought I would... That means that this
 feeling right now is already mitigated by the Defensive Magic that Alice and the
 others have prepared for me... With this amount of pressure, it’s already been
 reduced? How powerful... could Kuro’s true power be...
@@ -934,7 +934,7 @@ reduced? How powerful... could Kuro’s true power be...
 “Yes, domino... Did you know at what moment that game is the most fun? It’s at
 that moment when you can finally topple them.”
 
-[...Guhh.... Ahh...]
+[...Guhh... Ahh...]
 
 More and more pressure assaulted my body, and I could even hear something
 creaking. Perhaps, the barriers Alice and the others put up for me are letting
@@ -977,7 +977,7 @@ my hand didn’t exist right from the start...
 “Don’t worry... I’ll make sure to properly feel your deliciousness... Eating you
 little by little, one piece at a time...”
 
-[.........]
+[...]
 
 It wasn’t just my hand that changed. Along with Kuro’s words, the sensation
 gradually disappears from my toes... beginning to disappear into the black
@@ -987,7 +987,7 @@ What is this? What’s going on? What is going to happen to me...
 
 “...You’re going to die.”
 
-[.........]
+[...]
 
 Kuro’s words weren’t a lie. I didn’t have to think about it to understand that
 Kuro was serious about killing me. Rather my body understands that, my thoughts
@@ -1005,7 +1005,7 @@ my senses... already disappeared? The only thing I can feel is the cold...
 
 “...Hey, Kaito-kun? How is it like to feel the taste of despair?”
 
-[..........]
+[...]
 
 Despair... I see, so this feeling is called despair... Ahh, that’s right.
 Thinking about it now, It’s a feeling that I remembered before. It’s that dark
@@ -1016,7 +1016,7 @@ It’s scary... cold... making me feel afraid... and freezing.
 “...Hey, can you let me hear your final words? Your final words dyed in
 despair...”
 
-[............]
+[...]
 
 My final words? I see... My final words huh... I’m going to be killed by Kuro
 now. What will I say to Kuro, who is about to kill me? I can’t get my head to
@@ -1033,7 +1033,7 @@ for Kuro. I’m sure I’m quite afraid of dying, but I personally can’t help 
 feel neither anger nor fear for Kuro... I’m sure I’d be okay with that even if
 Kuro were to kill me... for I’m deeply in love with her...
 
-“.............”
+“...”
 
 Immediately afterwards, the entire space shook greatly. And my body, which
 should have been on the verge of disappearing and losing its senses, suddenly
@@ -1059,7 +1059,7 @@ _getting away_ from me?!”
 “Why!!! Even though you’re going home anyway!!! Even though you’re going to
 disappear anyway!!! Why are you making me waver this much?!”
 
-[.........]
+[...]
 
 With a mournful voice that sounded like it was crying out, and with each voice,
 the jet-black space greatly shook, as if this darkness represented Kuro’s heart.
@@ -1085,7 +1085,7 @@ properly move!
 
 “...D-Don’t come here... Don’t come here...”
 
-[.........]
+[...]
 
 “Don’t come here!!!”
 
@@ -1350,7 +1350,7 @@ arrived with several documents in hand.
 [Excuse my intrusion, Shallow Vernal-sama. I would like to ask you to decide
 upon several matters regarding the Festival of—?!]
 
-[..........]
+[...]
 
 The reason why Chronois visited the Sanctuary was to consult about the
 performance that the God Realm would put on at the Festival of Heroes. To ask

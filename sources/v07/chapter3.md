@@ -21,15 +21,15 @@ but in the end, I decided to adapt and became lovers with Isis-san too.
 
 [...And that’s the situation.]
 
-[.........]
+[...]
 
 [...Ummm, Lilia-san?]
 
-[.........]
+[...]
 
 [Milady?]
 
-[.........]
+[...]
 
 Lilia-san, who had finished listening to me, seemed to have stiffened as she
 silently stared straight at me. Lunamaria-san and I tried calling out to her
@@ -432,7 +432,7 @@ compatible, they would reject it.]
 wasn’t compatible with me... And after I rejected his blood, I just couldn’t
 handle drinking blood in any way.]
 
-[.........]
+[...]
 
 The heavy words she smoothly said with a chuckle... was about how she rejected
 the blood of her beloved partner. Noir-san said she didn’t seem to mind, but she
@@ -464,9 +464,9 @@ blood with me...]
 [You’re right, even if it’s only a blood donation, I would prefer it if it’s
 someone willing to share their blood even if you’re not too close...]
 
-[.........]
+[...]
 
-[.........]
+[...]
 
 [...Eh?]
 
@@ -1067,7 +1067,7 @@ one life. No, rather, no matter how many lives I save, even if I save all the
 people in the world, my sins will never be forgiven... for my sins shouldn’t be
 forgiven.]
 
-[.........]
+[...]
 
 [I am not an omnipotent God. No amount of repentance, no amount of tears to shed
 to the point of withering, no amount of apologizing here every day... For no
@@ -1087,7 +1087,7 @@ probably the only redemption I can do.]
 
 [I’m sorry. I’m not the kind of person you can respect.]
 
-[.........]
+[...]
 
 I wonder what can I say here? I honestly can’t think of any words to say at all.
 Dr. Vier said that her sins would never be forgiven, but perhaps, more than

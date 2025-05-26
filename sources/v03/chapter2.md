@@ -204,7 +204,7 @@ me who can't even make tofu properly, thank you very much.]
 
 [...What is it?]
 
-[....I had an image that Neun-san was someone that's rather reassuring but...]
+[...I had an image that Neun-san was someone that's rather reassuring but...]
 
 [...She's like that sometimes. Once she starts to get depressed, it will take
 some time before she gets better again.]
@@ -240,7 +240,7 @@ her magic box and held them out to me.
 [The one on the right is made by Ein-sama and the one on the left is made by
 me... Compared to Ein-sama's, my tofu is just like trash.]
 
-[..........]
+[......]
 
 Under the pressure of her very depressed atmosphere, I tried each of the tofu.
 The tofu on the right, I don't know if just terrific is enough to describe it...
@@ -642,7 +642,7 @@ Uuuu, I feel that my position is becoming more and more exaggerated.
 
 [Ahh, that's right. It must be uncomfortable that I'm the only one who knows
 your name, so I'll introduce myself. Well, you might not be interested in this
-old Uncle's name.... but Uncle's name is Ozma. I'm just your neighborhood
+old Uncle's name... but Uncle's name is Ozma. I'm just your neighborhood
 middle-aged Demon.]
 
 [Ah, yes. I'm Miyama Kaito. It's nice to meet you.]
@@ -796,7 +796,7 @@ feel like he's brimming with the calm and composed charm of an adult.
 
 [Yes! Ummm, if you're alright with it... Could we talk like this again?]
 
-[Hahaha, Miyama-kun, you're weird. Wanting to talk with this old Uncle.... If
+[Hahaha, Miyama-kun, you're weird. Wanting to talk with this old Uncle... If
 you're alright with this Uncle, you can always consult with me.]
 
 Saying this with a wry smile, Ozma-san gently patted me on the head. This feels
@@ -822,11 +822,11 @@ I'm sure the reason for that is due to the reward for this tournament... The
 Fruit of the World Tree. A mysterious fruit that is said to heal all wounds.
 There must be something big behind why they reacted like that to that fruit.
 Lilia-san's murmurs, which I faintly heard at that time, seemed to be somewhat
-sorrowful. Whatever those reasons are..... I may be curious about it and I'd
-also like to know, but I don't think it's a good topic to barge myself in, since
-I've only known her for a month or so. That said, I don't think I'll get an
-answer if I'm just thinking about it by myself like this.As I agonize over my
-unanswered questions, a voice echoes in my head.
+sorrowful. Whatever those reasons are... I may be curious about it and I'd also
+like to know, but I don't think it's a good topic to barge myself in, since I've
+only known her for a month or so. That said, I don't think I'll get an answer if
+I'm just thinking about it by myself like this.As I agonize over my unanswered
+questions, a voice echoes in my head.
 
 (Should I tell you about it?)
 
@@ -917,7 +917,7 @@ When she heard Shallow Vernal saying that it was “created”, she understood t
 she created a magic crystal that's different from the ones currently existing in
 the world, so Chronois was really anxious when she asked.
 
-[...........]
+[...]
 
 [Ummm, Shallow Vernal-sama?]
 
@@ -1030,7 +1030,7 @@ took it and said her thanks.
 [Well then, I'll go back to my room. As for the competition... please do your
 best.]
 
-[..........]
+[......]
 
 Unable to say anything else, I turned away and was about to go back to the inn
 after I said what I needed to say to Lilia-san, but right after that, I heard a
@@ -1077,7 +1077,7 @@ long been childless, and there was a faction of people who insisted that I
 should be installed as this country's queen. In the end, since I was very young,
 it seems that Older Brother decided to take the throne.]
 
-[...........]
+[......]
 
 [That should have been the end of it all, but now, I'm in a dispute with Older
 Brother's children about the next succession.]
@@ -1131,7 +1131,7 @@ experience for my future, and she herself became my second-in-command,
 supporting me. Sieg was really, always, always there to help me, worrying about
 me in this complicated position I have... And yet, I...]
 
-[...........]
+[......]
 
 [Sieg advised me many times that if I wasn't interested in taking the throne, I
 should clearly state my intentions, but still, I remained ambiguous, and that
@@ -1172,7 +1172,7 @@ powerful monsters, and our preparations were extensive... Based on the
 information given to us beforehand, the plan was for each of us to deploy our
 forces from three directions and take control of the area.]
 
-[..........]
+[......]
 
 [We moved to a safe zone that had been identified by preliminary research, and I
 left command to Sieg, who moved with Luna to meet with the rest of the division.
@@ -1211,14 +1211,14 @@ deaths in that battle could really be called a miracle.
 [And then, when Sieg regained consciousness a few days later... She had lost her
 voice due to the deep wound in her throat.]
 
-[.........]
+[......]
 
 [In the end, I couldn't find the person who switched the information prior to
 the operation, but considering the timing, it was more likely that this was
 planned by someone from the prince or princesses' factions who didn't want me to
 earn any more military honors than I have now...]
 
-[.........]
+[......]
 
 [It was my fault... It's because I didn't make it clear to them... Because of
 that... Because of that... Sieg had...]
@@ -1232,7 +1232,7 @@ think of any words to say in reply, Lilia-san goes on with her story.
 as their daughter forgave me, so did they. However, I can't forgive myself for
 that.]
 
-[..............]
+[......]
 
 [And so, just when Older Brother was conferring me my peerage, I ran away from
 the struggle for succession. I couldn't bear to see the people I cared about get
@@ -1350,7 +1350,7 @@ Unnn? That kinda... Reminds me of someone I've seen before...
 the atmosphere they wear, their magic power, it's all terrific. Perhaps, that
 person might even have the power of a high-ranked Demon.]
 
-[..........]
+[...]
 
 Isn't he talking about Raz-san and Neun-san... Neun-san used to be the Hero, so
 she would certainly have the strength powerful enough to defeat the Demon Lord.
@@ -1359,7 +1359,7 @@ Neun-san is quite respectful of her. She's probably a well-known figure among
 the fairies.
 
 [Well, there was actually one other strong person sighted in Rigforeshia... He
-was also a High-ranking Demon famous in the Demon Realm.... but he rarely
+was also a High-ranking Demon famous in the Demon Realm... but he rarely
 participates in competitions like this. So, those two people I mentioned earlier
 would be the most likely to win.]
 
@@ -1550,7 +1550,7 @@ it's a very difficult opponent for Mages... but telling me that he should
 somehow be able to defeat it if he plays his cards right, he tried again and
 again and prepared various plans, and I was surprised when he actually beat it.]
 
-[...........]
+[...]
 
 I wonder how Hibis-kun is doing now? Considering the age difference between us,
 I guess he should be in high school now? It would be great if he's well and

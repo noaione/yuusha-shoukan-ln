@@ -232,7 +232,7 @@ good idea to investigate this matter myself... troubling enough, I haven’t
 really come up with your reward for the fourth trial. That’s why, I thought this
 would be fitting enough.]
 
-[.........]
+[...]
 
 What the heck is this... Phantasmal King should have felt the anger in the words
 I returned to her, but the Phantasmal King still had that arrogant tone in her
@@ -328,7 +328,7 @@ Shaking my head in response, I moved my gaze.
 [There’s something that’s been bothering me for a long time. And now, I know
 exactly why... You’re not the “real Phantasmal King”.]
 
-[.........]
+[...]
 
 The words I quietly said startled Chronois-san, but the being in black robe
 remained silent... She doesn’t interrupt me as if she’s telling me to keep
@@ -441,7 +441,7 @@ Oops, I digress. Now, let’s go face Alice first...
 anything out of place, and that’s probably not something that you would have
 screwed up.]
 
-[.........]
+[...]
 
 [...You must have made me feel that there’s something out of place on purpose,
 right? When we met at the gate, you even deliberately used the same Icarus story
@@ -456,7 +456,7 @@ someone she has met from time to time, is present here.
 
 [...Wasn’t the fifth task for me is to find out your true identity?]
 
-[..........]
+[...]
 
 Hearing the words I calmly said, Alice remained silent... But out of nowhere,
 she pulls out a handbell and starts shaking it. The sound of the bell echoed
@@ -543,7 +543,7 @@ appearance is certainly what a king...
 
 [Uwaahhh, I got goosebumps. It’s really tiring looking so serious—Ouch?!]
 
-[.........]
+[...]
 
 [Why are you hitting me?! Kaito-san?!]
 
@@ -628,7 +628,7 @@ clothes.
 
 [Help me, Kaito-san! I’m going to be killed by my own subordinates!!!]
 
-[.........]
+[...]
 
 This person really doesn’t have any dignity at all... It’s starting to give me a
 headache. However, I see, the reason why she usually says she doesn’t have any

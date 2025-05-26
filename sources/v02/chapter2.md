@@ -76,7 +76,7 @@ she's wearing is already ruining everything.
 [If a rich and nice-looking customer comes, I'll make sure I will sell them all
 sorts of things.]
 
-[...........]
+[...]
 
 Yep. She obviously looks dangerous... Let's get out of here before she sees us.
 
@@ -84,9 +84,9 @@ Yep. She obviously looks dangerous... Let's get out of here before she sees us.
 
 [?!]
 
-[...........]
+[...]
 
-[...........]
+[...]
 
 Ah, shit. She noticed. Even her eyes(?) glowed just now.
 
@@ -116,8 +116,8 @@ obvious that you just lack customers and a lot of these supplies are unsold
 though?!
 
 Damn, I've completely became her target. A stuffed animal rubbing its hands
-together as it slowly walked my way.... I felt fear just like when I'm watching
-a B-rated horror movie.
+together as it slowly walked my way... I felt fear just like when I'm watching a
+B-rated horror movie.
 
 [I-I was just checking out for a bit, it's not that I'm here to buy anything...]
 
@@ -167,14 +167,14 @@ the ground.
 
 [...Please buy something.]
 
-[..........]
+[...]
 
 A dogeza. A dogeza that I never expected. Throwing away all the shame and pride
 of a merchant, in a very refined and unhurried manner, she got down on a dogeza.
 
 [I'm begging you. I haven't had a good meal in a few days.]
 
-[...........]
+[...]
 
 And as if it flowed along with her dogeza, tears began streaming down her eyes.
 
@@ -194,7 +194,7 @@ products you have...]
 you're the customer, so if the customer uses honorifics, it feels like my super
 sales talk would explode.]
 
-[.........]
+[...]
 
 If it's going to explode under such limited conditions, I don't think you could
 call that super at all. Also, that half-baked way of talking, you're calling
@@ -227,7 +227,7 @@ gaze of yours must mean that you're interested in me!!!]
 helped if one opens up their eyes and awakens their inner hot, burning, seething
 manly desires!]
 
-[.........]
+[...]
 
 What the heck is this person talking about now? I feel like I can't even keep a
 straight face in front of her now.
@@ -280,7 +280,7 @@ mystery!]
 [Who the heck is the cat?! For a beauty like me to be treated like a cat, what
 are you trying to say?]
 
-[..........]
+[...]
 
 Haha, this guy's amazing. One amazing pain in the ass. Honestly, this might be
 the first time. The first time I felt like punching someone I just met...
@@ -425,7 +425,7 @@ have some common shoes.
 
 [Of course, it's because I'd end up wanting to eat them myself!]
 
-[..........]
+[...]
 
 I wonder why? I feel like she's really disappointing... Seriously, can I really
 leave this to her? No, I don't feel like that at all. I can't buy just the shoes
@@ -452,7 +452,7 @@ Lizard skin! It has excellent elasticity and is sturdy, so unless you have an
 out-of-the-norm foot size, they fit your feet precisely! They also don't get
 dirty easily, so you can even walk on a game trail with peace of mind!!!]
 
-[.........]
+[...]
 
 Arehh? That's a decent sales talk she did there, isn't it? Receiving the shoes
 Alice held out to me with a smile on her face, they were indeed very soft and
@@ -491,7 +491,7 @@ one who acquired the raw materials used in it.]
 [Yeah, they're just “3-meter long” lizards after all, they're quite easy to
 hunt.]
 
-[.........]
+[...]
 
 A 3-meter long lizard... Wouldn't that be large enough to call it a monster? Eh?
 Do humans in this world hunt 3-meter long lizards like it's something normal?
@@ -590,7 +590,7 @@ for a really cheap price?]
 would leave the moment they opened the door. Is it because the decorations in my
 interior look bad?]
 
-[.........]
+[...]
 
 No, I'm pretty sure that's just because they immediately ran away after seeing
 the shopkeeper wearing a stuffed costume, isn't it? That's also what I was going
@@ -694,7 +694,7 @@ the mood.
 [Kaito-san, from your world, there's that one story, right? That a hero who gets
 too close to the sun, would get their wings burned and crash to the ground...]
 
-[.........]
+[...]
 
 If I remember correctly, wasn't she talking about the story of Icarus in Greek
 mythology? The story is about Icarus, who flew through the sky on wings made of
@@ -710,7 +710,7 @@ filled with good people, and if those wings of yours were just born from
 hubris... Those fake wings will just melt and you may end up crashing on the
 ground, you know?]
 
-[.........]
+[...]
 
 Who is it that I'm talking to right now? Intimidating eyes that make me feel
 chills... At the very least, there was this sense of otherness around her, as if
@@ -720,7 +720,7 @@ there was something different about her from the people I had met in this world.
 moment. All too quickly, all too simply... The Soul Reaper could appear
 anywhere.]
 
-[..........]
+[...]
 
 [...Or something like that\~\~ Well, Just keep in mind that humility is the best
 policy.]
@@ -927,7 +927,7 @@ the Death King, it will be a complete disaster. Fortunately, Kaito-san isn't
 familiar with the geography of the royal capital. I'm sure he hasn't traveled
 far.]
 
-[.........]
+[...]
 
 Hearing Lilia say that she will go look for Kaito, Lunamaria looked at her with
 a gaze filled with worry. Lilia is the one with the greatest amount of magic
@@ -1078,7 +1078,7 @@ I mustn't hold that hand. If I were to hold her hand, I would die. Don't defy
 her, don't go against her, don't take my eyes away from her... One after
 another, they resounded in my head like an alarm clock waking me up from sleep.
 
-[..........]
+[...]
 
 Seeing me like that, the woman slightly lowered her eyes, and at the moment I
 saw that, a single emotion appeared in my heart.
@@ -1175,7 +1175,7 @@ continued speaking.
 [...My hand... you grasped it... I felt happy... happy! ...That's why...
 marriage.]
 
-[.........]
+[...]
 
 Arehh? That's strange? I just felt a chill run down my back, different from what
 I felt before... It was just my imagination, right?
@@ -1188,7 +1188,7 @@ Ummm, what should I do in this situation? I need to say something... Errr...
 
 [H-How about... We start as friends for now?]
 
-[...........]
+[...]
 
 When I timidly suggested so, as I carefully choose the words I say... Isis-san's
 cheeks turned red and she happily smiled.
@@ -1331,7 +1331,7 @@ dangerous. If you are feeble-minded, you will faint at the mere sight of her...
 So, please refrain from going out until we acquire some accurate information
 regarding this matter.]
 
-[...........]
+[...]
 
 Arehh, that's strange... I wonder why, but while she was talking about that,
 Isis-san's face popped out of my mind for some reason.
@@ -1342,7 +1342,7 @@ before it... Unnn. I think I encountered a similar situation a while ago.
 
 [...Miyama-sama? Is something the matter?]
 
-[....Ah, no...]
+[...Ah, no...]
 
 Hahaha, no no, there's no way that's possible, right?
 
@@ -1360,7 +1360,7 @@ check it out a bit, just to be sure.
 been able to know her name unless you've seen the person herself due to the
 Information Concealment Magic...]
 
-[.......]
+[......]
 
 I see, Isis-san really is the Death King huh... However, she certainly may have
 been terribly intimidating, but I don't think she has a bad temper though.
@@ -1391,7 +1391,7 @@ face slammed into the desk.
 
 [Milady! Milady, please get ahold of yourself!]
 
-[..........]
+[......]
 
 Lunamaria-san hurriedly ran up to her, but Lilia-san didn't even move and kept
 her face down, and after a while, she stood up and slowly walked towards me.
@@ -1423,7 +1423,7 @@ did you have to get to know the scariest one!!!]
 [No, Milady... As expected, there's no way he's meeting one of the Six Kings on
 purpose.]
 
-[...........]
+[...]
 
 Lilia-san isn't looking like she's half-crying anymore, she's completely crying
 already. I know that I can't say this since I'm actually the cause of her tears,
@@ -1481,7 +1481,7 @@ she wanted to...
 The moment I timidly told them, the two of them stiffened, as if time had
 completely stopped.
 
-And a little later, Lilia-san asked me with a pale.... or rather, with a face
+And a little later, Lilia-san asked me with a pale... or rather, with a face
 that looked like it had completely lost its color.
 
 [...She would come visit? Death King-sama will? It's not that you're actually
@@ -1502,7 +1502,7 @@ scared while I explained it to her and took out the blue flower that Isis-san
 gave me.
 
 [That is a Blue Crystal Flower huh. It seems that an incredibly powerful State
-Preservation Magic has been casted on it. Milady, this really is....]
+Preservation Magic has been casted on it. Milady, this really is...]
 
 [...Stop, I don't want to hear it.]
 

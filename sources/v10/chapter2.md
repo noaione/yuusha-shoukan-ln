@@ -189,7 +189,7 @@ yesterday...]
 
 [No mooooooorrreeeeeeee! I don’t wanna work! I don’t wanna work!!!]
 
-[......]
+[...]
 
 It seems like she’s been working diligently for the past two days, but it seems
 like Fate-san’s slacker switch was finally turned on, and this morning, she

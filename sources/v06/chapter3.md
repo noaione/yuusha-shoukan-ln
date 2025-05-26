@@ -112,7 +112,7 @@ different level.
 [Kaito-kun’s arm feels so warm and makes me feel so happy... so without
 realizing it, I fell asleep\~\~]
 
-[............]
+[...]
 
 Why are you blushing while saying those kinds of lines?! Could you please cut
 that out?! My reasoning is about to be obliterated here, you know?! I’m already
@@ -359,7 +359,7 @@ expected this or not, as Kuro looked at me expectantly and opened her mouth.
 
 [Ahhn.]
 
-[.......]
+[...]
 
 No matter how I think about it, she looks like she also wants me to feed her. As
 expected, even someone like me could understand that much. H-How should I say
@@ -395,7 +395,7 @@ as her cheeks were dyed red while she stared into my eyes.
 
 [We still have lots here, so let’s take turns feeding each other!]
 
-[..........]
+[...]
 
 We still have lots there?! Is that so... I-Indeed, they look small individually,
 and we bought quite an amount... so if I’m going to roughly estimate it, there
@@ -580,7 +580,7 @@ hold on to my reasoning anymore and hugged Kuro from behind as tight as I could.
 Kuro’s body twitched in reaction, but she didn’t seem to be resisting as she let
 me hug her body, making me feel Kuro’s soft warmth filling my whole body. Still
 feeling the warmth of her body, my hand is heading to the bulges of Kuro’s
-breas.... No, wait right there, you freaking bastard!!!
+breas... No, wait right there, you freaking bastard!!!
 
 This is our first date, remember?! Moreover, we’re outside in the middle of the
 day!!! No matter how much Kuro loves you and may have been accepting you, you
@@ -714,7 +714,7 @@ and I’ve always been hiding beneath my shell for a long time. Always desperate
 trying to keep up appearances, even though all I’ve been doing is making excuses
 for myself and running away... I was helpless and weak.]
 
-[.........]
+[...]
 
 [...When I first met Kuro, I thought you were some weird fellow.]
 
@@ -779,7 +779,7 @@ speak with all her heart.
 imagined... For years, I had been deceiving myself, and you have come, saving my
 heart.]
 
-[.........]
+[...]
 
 [If I hadn’t met Kaito-kun, I would have given up... Not being able to get what
 I’ve always wanted, and even after I’ve wished for it, it’s something that won’t

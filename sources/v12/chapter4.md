@@ -1010,14 +1010,11 @@ tightly. Holding within her heart the wish that she will never go away again...
 
 Perhaps moved to tears by Funf’s welcome, Vier hugged Funf with tears in her
 eyes. She was immersed in the feeling of warmth in her chest as she felt Funf’s
-heartfelt joy at her return, but she stiffened when she heard Funf’s next
-words.　
-
-　
+heartfelt joy at her return, but she stiffened when she heard Funf’s next words.
 
 [...That’s why... “I will forgive you after one smack”.]
 
-[......Eh?]
+[...Eh?]
 
 Looking at Funf, who removed her hug and said some disturbing phrases, Vier
 looked up in the sky with a bad feeling in her heart... and turned pale. The

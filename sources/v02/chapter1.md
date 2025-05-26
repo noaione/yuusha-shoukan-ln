@@ -75,7 +75,7 @@ of mixed-bloods, it seems that Elves also have a variety of hair colors.
 
 [Good morning. “Sieglinde-san”.]
 
-[............]
+[......]
 
 The Elf lady... Sieglinde-san silently nodded in response to my greeting.
 
@@ -92,11 +92,11 @@ emotions though, so even with just her body language, I could understand what
 Sieglinde-san is trying to say. That's why it's rather easy for me to have a
 conversation with her.
 
-[.........]
+[......]
 
 [Ah, yes. I woke up rather early... Is Sieglinde-san on night guard duty?]
 
-[.........]
+[......]
 
 [Good work.]
 
@@ -131,16 +131,16 @@ moment, before she nodded and pointed at herself.
 
 [...Eh? Sieglinde-san would be guiding me?]
 
-[...........]
+[......]
 
 [H-However, Sieglinde-san... aren't you tired from your night shift?]
 
-[...........]
+[......]
 
 [Would it be alright? I-I certainly am grateful for that, but would it really be
 alright?]
 
-[...........]
+[......]
 
 [Thank you very much. Well then, I will be in your care.]
 
@@ -155,7 +155,7 @@ that, as we have discussed, I went shopping with Sieglinde-san.
 
 [There sure are lots of food-related shops around here.]
 
-[...........]
+[......]
 
 Sieglinde-san nodded her head in affirmation to the words I muttered while
 looking at the surrounding stores. Sieglinde-san and I were currently going
@@ -167,7 +167,7 @@ enjoy the next time I go window shopping.
 
 [Does Sieglinde-san often come to this area for shopping?]
 
-[..........]
+[......]
 
 [Unnn? Is something the matter?]
 
@@ -181,7 +181,7 @@ area.”
 
 [Heehhh... Are those ingredients for the mansion?]
 
-[..........]
+[......]
 
 I asked her if she was shopping for ingredients for the meals prepared in
 Lilia-san's mansion, but she shook her head and denied it.
@@ -198,7 +198,7 @@ Sieglinde-san pointed to a store a few distance away and nodded.
 
 [Ahh, that shop?]
 
-[.........]
+[......]
 
 The store looked like a bookstore, and there were a lot of books lined up in the
 store. I wouldn't understand anything even if I were to read technical books, so
@@ -214,7 +214,7 @@ when I looked at my pocket watch, I saw that quite an amount of time had passed.
 
 [I-I'm sorry. I became quite engrossed with what I'd been doing.]
 
-[..........]
+[......]
 
 What a blunder. Even though Sieglinde-san went out of her way to guide me, even
 though she should be tired from working the night shift, I ended up making her
@@ -236,16 +236,16 @@ left the bookstore with Sieglinde-san.
 [Thank you very much. You've really helped me today. Is there something that I
 could do to...]
 
-[.........]
+[......]
 
 [I don't need to mind it? N-No, but... I've been under your care today.]
 
-[.........]
+[......]
 
 [You also had fun, so don't mind it? U-Unnn. I understand... Once again, thank
 you very much.]
 
-[.........]
+[......]
 
 I'm sure she was just watching me shop before, but Sieglinde-san still smiled,
 holding the thought that she had fun. She's a really caring person... I mean, I
@@ -345,7 +345,7 @@ seeming to be particularly bothered by what she did.
 
 [Responding immediately to her master's call is basic knowledge for a maid.]
 
-[.........]
+[...]
 
 As I thought, the maids she's talking about are somehow different from the maids
 I know.
@@ -438,9 +438,9 @@ you of all people huh... Ein.]
 all... so I unconsciously thought that the people had weirdly placed a “stone
 pillar” in the center of the room, but it was just you huh... Chronois.]
 
-[.........]
+[......]
 
-[.........]
+[......]
 
 Arehh? I feel like there's something weird in the atmosphere though? I thought
 they were close friends... They don't feel like that at all though?!
@@ -461,9 +461,9 @@ we haven't before right here, right?]
 though? If that really is your wish, I guess I can help you prepare for your
 journey to your death.]
 
-[.........]
+[...]
 
-[.........]
+[...]
 
 After they quietly announced those words, I thought I saw something like sparks
 clashing between them.
@@ -511,9 +511,9 @@ different either!]
 
 [It looks like it's as midget as your height though...]
 
-[.........]
+[...]
 
-[.........]
+[...]
 
 [ [ Die! (Worthless Goddess!) (Rotten Maid!) ] ]
 
@@ -570,7 +570,7 @@ wait until the storm passes by...]
 
 [H-However... If it's Kaito-san, I think you should be able to stop them...]
 
-[.......]
+[...]
 
 Strange, something's strange. Apparently, Lilia-san seriously thinks that if
 it's me, I can stop those two. How high is Lilia-san's evaluation of me in her
@@ -937,7 +937,7 @@ douchebag, but thankfully, there's no person that would say such a—
 
 (You're a douchebag.)
 
-......shut up there, airhead Goddess. Why is it that you're throwing a counter
+...shut up there, airhead Goddess. Why is it that you're throwing a counter
 punch just when people are being solemn to themselves? Please don't shatter the
 words I just said about everyone I met being kind.
 
@@ -1055,7 +1055,7 @@ explained to Lilia-san and the others who were looking at me with puzzled looks.
 [N-No, just now, Shiro-sa—Goddess-sama was speaking directly to my head, and I
 just mixed up my replies...]
 
-[ [ [.........] ] ]
+[ [ [ ... ] ] ]
 
 A-Arehh? Something about everyone's eyes feel chillier than before. Eh? Why?
 
@@ -1107,7 +1107,7 @@ with a gentle smile on her face.
 [...It's alright. Of course, I believe in Kaito-san's words. So please feel at
 ease and calm down.]
 
-[.........]
+[...]
 
 The figure of me, who was apparently looking down and thinking about how to
 respond, seemed to look depressed to Lilia-san and the others, and that's why
@@ -1121,7 +1121,7 @@ have to go visit her and give her a warning.]
 [Kaito-sama, I have prepared a relaxing her herb tea for you. If you wouldn't
 mind...]
 
-[..........]
+[...]
 
 They've completely shifted and are now treating me with great caution?! It's
 like they're already treating me like a wounded child?!
@@ -1291,7 +1291,7 @@ remained silent until now...
 
 [Lilia-sa...n?]
 
-[.......]
+[...]
 
 When I moved my gaze to the side, Lilia-san had... fainted on the ground with
 bubbles frothing out of her mouth.
@@ -1400,7 +1400,7 @@ before we ultimately “develop into a sexual relationship”.]
 
 [Wha—?!]
 
-[.........]
+[...]
 
 Why the heck are you throwing nuclear bombs here, you stupid goddess!!! Instead
 of settling the matter here, you just made things far more troublesome than
@@ -1620,7 +1620,7 @@ properly spoken to is the Underworld King, right? Don't think of that thing as
 the standard for the Six Kings, that thing is quite an oddity even in the Demon
 Realm.]
 
-[.........]
+[...]
 
 [If you can, stay away from the territories of the War King and the Death King.
 If their mood is ruined, they will kill you without mercy, even if you're an
@@ -1910,7 +1910,7 @@ this? I-It seems like today is the day I'd climb the stairways to adulthood...
 
 [Kaito-kun, you look exhausted, so I'll give you a “massage”!]
 
-[.........]
+[...]
 
 [...Arehh? Kaito-kun?]
 
@@ -1922,7 +1922,7 @@ on my own? I-If there's a hole somewhere nearby, I'd like to jump right in.
 
 [K-Kaito-kun, what are you talking about?]
 
-[............]
+[...]
 
 Her pure gaze piercing through my heart hurts.
 
@@ -2077,7 +2077,7 @@ there was one of the few people I had interacted with in there.
 
 [Good morning, Sieglinde-san.]
 
-[.......]
+[......]
 
 A red-haired woman sat alone in the corner of the dining room, sipping a cup of
 tea. Spotting Sieglinde-san, who had offered to guide me when I went to buy
@@ -2088,11 +2088,11 @@ nod.
 
 [By any chance, have you just finished your work?]
 
-[.........]
+[......]
 
 [As I thought, good work.]
 
-[.........]
+[......]
 
 Sieglinde-san is a live-in worker, and seeing the sword that was propped up next
 to her seat, I asked her why, thinking that she was in charge of the
@@ -2106,7 +2106,7 @@ at me and made a gesture of tilting her head.
 
 [Ahh, I woke up kind of early and thought I'd like something to drink.]
 
-[.........]
+[......]
 
 When I told her why I had come to the dining room so early in the morning,
 Sieglinde-san moved her gaze towards... I don't really know what it's called in
@@ -2116,7 +2116,7 @@ towards a nearby chair and suggested I sit down.
 
 [Eh? Thank you. Well then, I'll presume upon your kindness and join you.]
 
-[.........]
+[......]
 
 Figuring out Sieglinde-san's intentions, I told her my thanks and sat down in my
 chair. Sieglinde-san then put the cup in front of me and expertly brewed a cup
@@ -2124,7 +2124,7 @@ of tea.
 
 [Thank you very much... It's very good.]
 
-[.........]
+[......]
 
 The taste of the tea, brewed at a comfortable temperature, warms my body as I
 wake up from sleepiness. It tastes different from the tea that Lunamaria-san
@@ -2134,7 +2134,7 @@ that doesn't spoil the flavor of the tea.
 
 [Somehow, it has a slight, gentle sweetness to it.]
 
-[.......]
+[......]
 
 When I told her how it tastes, Sieglinde-san smiles and shows me a small bottle
 with some kind of dried fruit in it. Perhaps, this tea has that fruit in it and
@@ -2142,7 +2142,7 @@ that's where the subtle sweetness came from.
 
 [Is that... from dried fruit?]
 
-[.......]
+[......]
 
 Sieglinde-san smiles again as I stare at the bottle with interest. She then
 takes out a small piece of paper from the pocket of her clothing and writes a
@@ -2160,7 +2160,7 @@ it easy to drink are due to Sieglinde-san's excellent skills.
 
 [I've learned something again. Sieglinde-san is very good at brewing tea huh.]
 
-[............]
+[......]
 
 When I told her my honest impressions, Sieglinde-san's cheeks blushed a bit and
 she shook her head as if she was being bashful, but even I, a novice, can
@@ -2176,7 +2176,7 @@ woman.
 [Ah, speaking of which... I got some tea leaves a while ago and they were so
 good, but do you know what kind of leaves these are from?]
 
-[.... ?!]
+[...?!]
 
 I suddenly remembered the tea that Shiro-san had given me before, and I felt
 that Sieglinde-san seemed to know a lot about tea, so I took the opportunity of
@@ -2251,7 +2251,7 @@ but to be honest, I have very little experience in brewing tea and I'm not sure
 I can brew it well. So, can I ask you to brew it for me, Sieglinde-san, and in
 return, Sieglinde-san can drink the tea with me?]
 
-[.......]
+[......]
 
 Hearing my suggestion, Sieglinde-san looks troubled for a while before staring
 at the bottle I held out to her. Finally, it seems like her curiosity got the
@@ -2270,7 +2270,7 @@ delicious. It's understandable why it was called with an exaggerated name like
 [Sieglinde-san, what do you think? What do you think after you drink it
 yourself?]
 
-[.........]
+[......]
 
 I asked her what she thought of the tea, but even if she didn't say anything,
 the smile on her face was enough to convey the happiness from the bottom of her
@@ -2289,7 +2289,7 @@ like very much.
 
 [These cookies are also very tasty and I feel some kind of warmth from them.]
 
-[.........]
+[......]
 
 When I told her what I thought of the cookies, Sieglinde-san looked a little
 embarrassed again, as she wrote on a small piece of paper with her pen.
@@ -2298,12 +2298,12 @@ embarrassed again, as she wrote on a small piece of paper with her pen.
 
 [Eh? Did Sieglinde-san make these cookies?]
 
-[.........]
+[......]
 
 [...That's amazing. Not only are you great at brewing tea, you could also
 skillfully cook.]
 
-[.........]
+[......]
 
 To my surprise, these cookies were apparently made by Sieglinde-san.
 
@@ -2320,7 +2320,7 @@ the point that I could hear the sound of air shaking along with her head...
 
 [...Well then, once again, Sieg-san, do you often make sweets like this?]
 
-[........]
+[......]
 
 [Heehhh... I actually tried baking a little bit in the past, but I couldn't make
 it right at all. If you can give me some tips and tricks, could you please teach
@@ -2330,7 +2330,7 @@ I wonder why? Such words inadvertently came out of my mouth. Even though it's
 been years since I've tried my hand at making sweets... Perhaps, because
 Sieg-san treated me as a friend as a matter of course, I felt happy.
 
-[........]
+[......]
 
 [What I tried making before? I tried making apple pie... Errr, a fruit pie
 before, but it kinda looked flattened out here and there...]

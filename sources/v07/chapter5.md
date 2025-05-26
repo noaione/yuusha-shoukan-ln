@@ -934,7 +934,7 @@ okay?]
 
 [Starting with... I guess she really feels like an adult lady...?]
 
-[.........]
+[...]
 
 I’ve done it... I went and freaking done it. I-I never thought I was actually
 speaking that out loud... Ahh, this is bad, this isn’t just on a level where I’m

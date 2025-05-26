@@ -1879,7 +1879,7 @@ reason to live. I don’t think I can say that I understand how she felt.
 [...Even though I wanted to be cool and say that I wanted to protect Alice’s
 heart... But in reality, I think there’s only so much I can do for Alice.]
 
-[........]
+[...]
 
 [But, well... what I can do “is be with you even in the future”.]
 

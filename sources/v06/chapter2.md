@@ -37,7 +37,7 @@ That freaking Alice, why the heck did she give that to me?! Doesn’t that mean 
 was apparently proposing to Kuro before I could confess to her... The heck is
 that, it’s making me more embarrassed just thinking about it! In front of me,
 who is feeling the heat gathering on my face, Kuro spontaneously brings the
-golden fruit to her mouth and takes a bite.... wait, eeehhhh?!
+golden fruit to her mouth and takes a bite... wait, eeehhhh?!
 
 [Wait, K-Kuro?!]
 
@@ -56,7 +56,7 @@ amusement, Kuro spontaneously walks up to me and gently hugs me.
 [...It’s been a really long time... I’ve finally found someone who will “treat
 me as an equal”... and would “stand next to me”...]
 
-[.........]
+[...]
 
 Tears flowed from Kuro’s eyes again, and she gently hugged me as if I were her
 treasure. Kuro said there’s something she’s been looking for for a long time...
@@ -156,7 +156,7 @@ makes the word “another Shiro-san” fit.
 [Kaito-kun, the Shiro you met was actually quite harmonious. The old Shiro was
 more cold and indifferent.]
 
-[............]
+[...]
 
 [Shiro, you see, is the one who created this world... but she never thought that
 what she did was right or that her actions were great... Not even a shred of any
@@ -182,7 +182,7 @@ the world to the Gods she created, not even looking at the world... Only waiting
 for me to come back to kill her or for when I’ve decided to abandon the world
 and destroy it.]
 
-[............]
+[...]
 
 Honestly, I couldn’t understand the thoughts of Shiro-san at that time. No, I
 supposed you could say that it’s God-like in a way... but hearing that she
@@ -442,8 +442,8 @@ Magnawell and Lillywood’s bodies also stiffened regardless of the person’s w
 
 “...She’s finally here...”
 
-“...I thought I was quite clear of her power... but feeling it in person....
-What a tremendous power she had...”
+“...I thought I was quite clear of her power... but feeling it in person... What
+a tremendous power she had...”
 
 Almost at the same time as the three of them stopped moving, the Gods also
 stopped attacking and simultaneously dropped down on one knee. Now, in front of
@@ -879,14 +879,14 @@ originally one... But we’ve seen different things, we think differently, and w
 have different ways of connecting with the world! I love this world, I love this
 beautiful world you’ve created and I want to live with it!]
 
-[.........]
+[...]
 
 [But what about you?! You built this world, didn’t you?! Then take
 responsibility and get connected with the world, stop running away and decide
 for yourself!!! Don’t just selfishly think that it’s over!!! At least, on
 feelings... Can you not rely on me and think about it yourself!!!]
 
-[.............]
+[......]
 
 A cry from someone who was once the same being as you, a scolding from her own
 self who lived with the world and grew to love it. Hearing that, Shallow Vernal
@@ -895,7 +895,7 @@ in her expression, she punched Kuromueina away.
 
 [Guh?!]
 
-[.......]
+[...]
 
 [...That’s the first time you fought back? Why?]
 

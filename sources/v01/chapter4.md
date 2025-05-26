@@ -68,7 +68,7 @@ certain amount of trust from the Divine Realm. Especially in the nobles' society
 that places a high value on horizontal connections, it could even be considered
 a kind of influence.]
 
-[..........]
+[...]
 
 Ehhhhhhh?! H-How in the world did it suddenly turn into that big of a deal?!
 
@@ -325,7 +325,7 @@ In this atmosphere that can even be called mysterious, with just the sound of
 footsteps smoothly resounding, the Goddess of Time heads towards the temple—but
 she stops on her way.
 
-[..........]
+[...]
 
 The surrounding priests also stopped in unison, and while the sound of footsteps
 that had echoed earlier disappeared, the silence completely took over the place.
@@ -368,7 +368,7 @@ at me with her red and blue heterochromatic eyes.
 God of Fate... But very interesting, indeed. This pressure I'm feeling from
 you... Which carnage demon liked you at first sight?]
 
-[......]
+[...]
 
 I honestly don't know what she's talking about, but come to think of it, I think
 Shiro-san had used that kind of phrase too.
@@ -534,7 +534,7 @@ know. If it's a low-rank God, some of the priests of their temple might know
 about it... But if it's a high-ranking God, I don't think anyone would know
 aside from their fellow Gods?]
 
-[......]
+[...]
 
 ...That certain goddess I just met is different though. Heck, she's the first
 one to introduce herself!
@@ -657,7 +657,7 @@ and returned to my room.
 
 [Welcome back\~\~]
 
-[......]
+[...]
 
 Ah, that's right. Speaking of which, this bundle of absurdity would appear in my
 room every night...
@@ -879,7 +879,7 @@ when you talk with them, the afexion increases, and when you accumulate enough
 of this afexion by eating with them or something like that, you'll get a reward
 like a weapon or a convenient item!]
 
-[.........]
+[...]
 
 ...Where the heck should I start giving my tsukkomi?! Why the heck is Kuro's
 knowledge of the other world so strangely inclined to one thing, or rather, what
@@ -980,9 +980,9 @@ Kuro shows any signs of being uncomfortable about it...
 
 [I know that you're hiding your background, Kuro, but if it's possible—]
 
-[......Eh?]
+[...Eh?]
 
-[......Eh?]
+[...Eh?]
 
 In the midst of my nervousness, I turned to Kuro to convey my thoughts... but I
 stopped talking when I saw the strange look on Kuro's face as she was pulling
@@ -1029,7 +1029,7 @@ different name?]
 [Sending it under the name of a child who lives in the Human Realm makes the
 conversation smoother, right?]
 
-[......]
+[...]
 
 Umu, what she means is that. To sum it up... She's a bit famous in the Human
 Realm and she feels that making a scene is troublesome, so she uses Information
@@ -1083,7 +1083,7 @@ Seditch Magic Tool Company.]
 
 [It's a company with a parent organization that came from the Demon Realm after
 all. Rather, the fact that you have become so close to a high-ranking demon that
-doesn't normally have much contact with humans.... I guess you could say that
+doesn't normally have much contact with humans... I guess you could say that
 it's to be expected from Miyama-sama.]
 
 Lilia-san and Lunamaria-san's reactions weren't as bad as I expected, and in
@@ -1116,7 +1116,7 @@ big event that is coming up for her with a distant look on her face, as if she's
 escaping from reality, taking out the folded message card from inside the
 envelope, she opened it up—and quickly closed it.
 
-[........]
+[...]
 
 [Milady?]
 
@@ -1159,7 +1159,7 @@ card—and a few seconds later, she collapsed on her knees.
 
 [Luna?! Luna! Please get a hold of yourself!]
 
-[........]
+[...]
 
 Lilia-san hurriedly calls out to her, but Lunamaria-san just looked stiff and
 dumbfounded with her eyes wide open.
@@ -1342,7 +1342,7 @@ Human nobles, haven't you?]
 
 [?!]
 
-[Of course.... You will tell me about them, won't you?]
+[Of course... You will tell me about them, won't you?]
 
 [...Y-Yes. As you wish, I will tell you about all of them...]
 
@@ -1433,7 +1433,7 @@ immediately disappeared afterwards.
 
 [What do you think of that, Kaito-kun? My serious mode! Aren't I cool?!]
 
-[.........]
+[...]
 
 She just ruined the majestic image she had just now. I'll repeat this twice
 because it's that important, she just ruined the majesty she had just now.
@@ -1544,7 +1544,7 @@ muttering something.
 [...Underworld King-sama... called me by my name... she patted me... to feel
 such happiness... I think I could now die in peace...]
 
-[.........]
+[...]
 
 Unnn. Lunamaria-san... Don't you think that the needle of your vector has
 already swung too far past the feeling of gratitude? She has an expression on
@@ -1626,7 +1626,7 @@ who is next to her, can hear.
 
 [Ueeggghh... That looks difficult to eat...]
 
-[.........]
+[...]
 
 Unnn. I had a feeling that it was quite different from Kuro's image, but these
 lavish sweets weren't really Kuro's taste.
@@ -1863,7 +1863,7 @@ would be inviting any of the Six Kings-sama into my mansion.]
 [Along with your humility, “Kaito-sama” truly is a wonderful person. This
 Lunamaria thanks the Gods for the good fortune of meeting Kaito-sama.]
 
-[......]
+[...]
 
 Receiving Lilia-san's words she spoke with a wry smile on her face, I replied
 with a wry smile too but... A certain person looked strange. There's something
@@ -1992,7 +1992,7 @@ Underworld King-sama”, remember? Only the royal capital knows of this at the
 moment, but I'm sure that this will become a huge rumor in the surrounding
 countries as well.]
 
-[......]
+[...]
 
 Indeed, just like Lunamaria-san said, Lilia-san is currently the woman of the
 hour. It was no wonder since she was considered as a noble who had experienced
@@ -2008,12 +2008,12 @@ and the Demon Realm... I'm sure that there will be lots of people who would want
 to befriend Milady. We'll probably get dozens of such letters in the next few
 days.]
 
-[.........]
+[...]
 
 [Therefore, I think you should go read these letters “from today” and begin
 dealing with them.]
 
-[.........]
+[...]
 
 Lilia-san's expression has been completely dyed in the color of despair.
 

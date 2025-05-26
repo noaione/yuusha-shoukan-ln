@@ -1259,8 +1259,6 @@ the barrier.
 Kings, so there are probably others from the other camps who came here to
 observe.]
 
-　
-
 As a slight breeze blew to the side, Ozma, with a cigarette in his mouth,
 appeared next to the girl with red hair... One of the Dragon King’s Executives,
 the Four Great Demon Dragons, “Sky Dragon of the Extinction Flames”, Freabell

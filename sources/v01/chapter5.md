@@ -190,7 +190,7 @@ little bit.
 
 Kuro continues to quietly watch me.
 
-[.........]
+[...]
 
 [?!?!]
 
@@ -340,7 +340,7 @@ By the way, how long am I going to lay down on your lap?
 [Unnn? Kaito-kun can lay there as long as you like... It's fine if you want to
 take a nap, you know?]
 
-[......]
+[...]
 
 It seems like I accidentally spoke that out, as Kuro responded to me with a very
 tempting proposition. I mean, to be honest, it may have something to do with the
@@ -647,7 +647,7 @@ meat and vegetables sandwiched in between. This certainly looks delicious.
 
 [Yay\~\~]
 
-[...........]
+[...]
 
 Is it just my imagination... Did the shopkeeper auntie just say this is a red
 bear sandwich? When she mentioned bear, is she saying that this sandwich has
@@ -736,7 +736,7 @@ obviously as weak as ants for the Underworld King, but even one of them is a
 terrifying monster for humans. That's why the Knight Order and the Adventurers
 formed a subjugation team early on and set out to defeat them.]
 
-[.........]
+[...]
 
 When Kuro just referred to the wyverns as weak monsters, the auntie corrects her
 with a wry smile on her face.
@@ -759,7 +759,7 @@ lightheartedness she have earlier.
 [This is a trouble that happened in this country... in the Symphonia Kingdom. I
 shouldn't be carelessly involved in it.]
 
-[.........]
+[...]
 
 [Sure, just like Kaito-kun thought, it'll be over in an instant if I go out
 there. It doesn't matter if there are hundreds or thousands of wyverns, I'll be
@@ -779,7 +779,7 @@ I think it's too much for the people to handle, I'll help... but as long as
 that's not the case, I, as one of the Six Kings, can't just get involved in
 every single thing for no reason.]
 
-[.........]
+[...]
 
 I didn't even feel like refuting her. Indeed, the thoughts that came to my mind
 were just based on my emotions, and Kuro's words are entirely correct.
@@ -857,7 +857,7 @@ To sum it up, Kuro was the one who created the Seditch Magic Tool Company huh...
 In other words, Kuro is in an Honorary President-like position of the world's
 largest company. With a position like that, she would obviously have money...
 
-[......]
+[...]
 
 [Kaito-kun?]
 
@@ -999,7 +999,7 @@ hole, but why are there two straws in it?]
 [Eh? I mean, when you're in a drink, both people have to drink in the same
 glass, right?]
 
-[.........]
+[...]
 
 Aaahhhhhhhhhh, shhheeeeetttt! I should have noticed it earlier.
 
@@ -1011,7 +1011,7 @@ like the ones that couples do.
 
 [Come on, Kaito-kun. Drink along with me!]
 
-[.........]
+[...]
 
 No no, please wait a second there. I've got something very important to tell
 you.
@@ -1154,7 +1154,7 @@ However, if it has that great of an ability... It would probably be expensive...
 
 [30000 R huh...]
 
-[...........]
+[...]
 
 As I thought, it really is quite expensive. Around 3 million yen, more than half
 of what Lilia-san gave me before... but considering that I would be able to
@@ -1219,7 +1219,7 @@ magic tool that's good enough to travel from one country to another, it would
 need to have a magic crystal with at least 80% purity and about three times this
 size to be able to properly use it.]
 
-[..........]
+[...]
 
 I see, the shopkeeper certainly didn't explain the distance that it can teleport
 you to or the time it takes to reuse it.
@@ -1380,7 +1380,7 @@ A little while later, the black sky returned to its original color, and the
 seven wyverns that used to be circling in the sky weren't there anymore, not
 even their shadows could be seen.
 
-[..........]
+[...]
 
 [And with that, those hindrances disappeared... Come on, Kaito-kun, let's
 continue our date!]

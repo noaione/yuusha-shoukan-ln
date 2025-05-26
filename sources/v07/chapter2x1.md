@@ -8,7 +8,7 @@ The place where that was born was a battlefield stained with blood, where
 numerous corpses lay. After a battle in which two species fought against each
 other, a grand one even in the Demon Realm, that suddenly appeared.
 
-[.........]
+[...]
 
 With snow-white hair and skin, blood-red eyes and a beautiful dress, its great
 presence made itself known in the midst of the battlefield. Soon after, the eyes
@@ -93,7 +93,7 @@ harboring in her heart for the past few years.
 lives, a cold, malevolent force that extinguishes the flames of beings’ souls.
 Who is it that would accept a being like us?”
 
-[.........]
+[...]
 
 Is this really just a dream? The girl questioned, but the other girl, all too
 aptly, continues to speak of the darkness that has begun to emerge in her heart.
@@ -269,7 +269,7 @@ However, the other Isis, clad in a black robe, quietly shook her head.
 
 “...What we’re currently in is the deepest place in our heart.”
 
-[.........]
+[...]
 
 Calmly pointing to the skies, the other Isis spoke in a voice that even sounded
 gentle. As if guided by his movements, Isis looked up at the sky and only saw
@@ -515,7 +515,7 @@ should have been frozen, was filled with nothing but warmth. In the midst of
 such happiness, which could be called the peak of her life, Isis had a dream for
 the first time in a long time.
 
-“.........”
+“...”
 
 Staring back at her was the other Isis, whom she had met many times before.
 
@@ -698,7 +698,7 @@ Reaper. I mustn’t hold that hand. If I were to hold her hand, I will die. Don�
 defy her, don’t go against her, don’t take my eyes away from her... One after
 another, they resounded in my head like an alarm clock waking me up from sleep.
 
-“.........”
+“...”
 
 Seeing me like that, the woman slightly lowered her eyes, without saying
 anything. And the moment I saw the expression on her face, deep sorrow and
@@ -830,7 +830,7 @@ say that this self is another me. That’s why, you could say I indeed am Isis
 Remnant, but you could also say I’m different... Hey, Kaito? Do you know who I
 am?”
 
-[.........]
+[...]
 
 Her riddle-like phrasing makes me tilt my head back and think. She’s indeed Isis
 Remnant, but you could also say she’s different... If I take her word for it,

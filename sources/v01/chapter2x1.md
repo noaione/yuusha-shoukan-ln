@@ -87,24 +87,24 @@ and everything would be alright...
 “I was so happy to go on this trip with my family. I believed that we were going
 to have more times like this in the future.”
 
-......I haven't thought of that.
+...I haven't thought of that.
 
 “I cried out, blaming God, wondering why I was the only one who survived, why he
 didn't let me die with my parents, who I loved so much.”
 
-.........That's not it.
+...That's not it.
 
 “I'm scared. All I could think about is that if I get to know someone, get along
 with them, and be happy, I'm afraid that I was going to lose everything again.”
 
-............That's not it either.
+...That's not it either.
 
 “I didn't want to be alone. I wanted a friend. I wanted to have a lover. I was
 envious of those who have a family. However, I was too scared to approach others
 myself, so I kept running away, desperately making excuses for myself to be
 alone.
 
-...............I haven't thought like that.
+...I haven't thought like that.
 
 “I'm afraid of losing them. I'm afraid of acquiring what I want. However, I
 can't give up and so, I've gotten into the habit of keeping my distance from
@@ -127,7 +127,7 @@ would reach out a hand and help me... But in the end, even in another world, I
 wouldn't be special. I'm just a loner with no friends and acquaintances, and
 even though I'm in a different world, I've never been able to change myself...”
 
-..................
+_......_
 
 “The truth is... I was scared. A world I didn't understand, my circumstances,
 and people I didn't know... but that's why I stayed calm. I had to behave and
@@ -135,7 +135,7 @@ desperately push down my anxiety. If they thought I was a pathetic adult,
 Kusunoki-san or Yuzuki-san might give up on me. If they think I'm a pain in the
 ass, Lilia-san and Lunamaria-san might abandon me.”
 
-...............
+_......_
 
 “I'm also doing my best! I keep lying to myself, even though I'm trying so hard
 to look good to others! Why, oh why?! Why is it only I who's ever had bad things
@@ -144,13 +144,13 @@ forbidden for males! I never said about wanting to go out on the first day I
 came to a different world!! I never wanted to be summoned by the king's beloved
 sister, Lilia-san!!!”
 
-............
+_......_
 
 “I just wanted someone to be beside me... I just wanted someone to affirm that
 it's okay to be indecisive... I just wanted someone who'd hold out a hand filled
 with affection towards me...”
 
-...
+_......_
 
 This was probably a cry that had always been in my heart all along. No one
 notices it, and even I don't know it well. These self-centered desires of mine

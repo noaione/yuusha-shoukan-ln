@@ -83,7 +83,7 @@ always... Thinking like that, I see Alice off with a wry smile on my face.
 Oddly enough, the unusual situations continued, as after finishing breakfast...
 I noticed one person who was acting strangely.
 
-[.........]
+[...]
 
 [Ummm, Lilia-san... Why has Lunamaria-san been acting like that since earlier?]
 
@@ -206,7 +206,7 @@ with tears in her eyes.
 [T-Then... If I said that I won’t give Mother to Miyama-sama, and end up
 antagonizing Miyama-sama, will Milady stand by my—]
 
-[.........]
+[...]
 
 [Why are you averting your eyes?! Rather than your female friend, you would
 rather take the side of the man you fe—Mughhh?!]
@@ -552,7 +552,7 @@ her work, I’ve honestly never seen Anima not working or training.
 [...Take a break? Ahh, you mean rest! Yes, I get some rest for about “four hours
 a day” to sleep and eat!]
 
-[.........]
+[...]
 
 That’s weird... What Anima just said was completely weird. I mean, if what she
 said is true, that means Anima is working or training for almost 20 hours a
@@ -570,7 +570,7 @@ that ridiculous amount of time.
 [Yes! So that Master wouldn’t ever be ashamed to call me his subordinate, I’m
 always devoting my time to improving myself!]
 
-[.........]
+[...]
 
 I’m now convinced... This woman isn’t getting any more rest than Lilia-san does.
 She’s saying that other than when she sleeps and eats, she’s either working or
@@ -581,7 +581,7 @@ training... N-No, would it be fine if the person herself likes it?
 [...Hobby? No, I have dedicated my everything to Master, and I have no need for
 time that is spent on my own preferences!]
 
-[.........]
+[...]
 
 This is no good, this woman is too serious. Hmmm... For me though, I’d like it
 if she relaxed a bit more... This is difficult. I’m sure she will obey if I
@@ -941,7 +941,7 @@ I tried to branch out to see if I could help Master in other things. However, my
 abilities couldn’t match the professionals... Being useless like this... I
 wonder what I should do... I didn’t know what to do...]
 
-[.........]
+[...]
 
 Anima’s voice is trembling.
 
@@ -1114,9 +1114,9 @@ importance of defense.]
 don’t really think that’s the kind of thing you can put into action anyway,
 don’t you think, stupid turtle?]
 
-[.........]
+[...]
 
-[.........]
+[...]
 
 Is it just my imagination? I feel like there were sparks exploding between the
 two of them now. Then, their eyes are set on each other, and they each take out

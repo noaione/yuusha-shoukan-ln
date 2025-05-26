@@ -117,7 +117,7 @@ spoke at the same time.
 
 [ [ Teach me! Shall-tan-sensei!!! ] ]
 
-[............]
+[...]
 
 The heck, you starting a skit or something?!
 
@@ -160,7 +160,7 @@ would be alright.
 hungry, so with it being a great food, I don’t conside—Wait, what kind of stupid
 questions are you saying now?!]
 
-A self-tsukkomi.... How should I say this... These two sure are close. And as I
+A self-tsukkomi... How should I say this... These two sure are close. And as I
 thought, with this combination, Alice ended up being the tsukkomi instead of the
 boke. In fact, looking at them like this, they seemed to make a great
 combination, and their personality seemed to be compatible with each other.
@@ -520,7 +520,7 @@ a couple!]
 
 [Yayyy, I’m happy! Yayyy, yaayyy!]
 
-[.........]
+[...]
 
 I can’t do this, it’s very impossible for me to make Raz-san, a literal fairy,
 cry. Seeing her so happy like that, I can’t say how she’s mistaken. Deeply
@@ -891,7 +891,7 @@ vegetables and fruits together!]
 
 [Yayyy. I’m looking forward to it\~\~]
 
-[.........]
+[...]
 
 Feeling as if all the malicious ideas in my mind disappeared, seeing Raz-san
 being innocently delighted, I feel ridiculous for being strangely agitated.
@@ -1138,7 +1138,7 @@ more like a large farm but...
 
 [Eh? All of it is Raz’s field, you know?]
 
-[.............]
+[...]
 
 The scene in front of me now isn’t even close to the level of a big farm or
 something like that. I don’t know how many hectares there are just from looking
@@ -1332,9 +1332,9 @@ it’s splendid. Haahhh\~\~ Anmitsu really is the best after a hard day’s work
 also can’t help but feel uplifted. I feel like I could do anything! Like
 perhaps, saying stuff like... Ehehe, I totes love... anmitsu... Eh?]
 
-[..........]
+[...]
 
-[..........]
+[...]
 
 Bringing a portion of the anmitsu into her mouth, Neun-san mumbled while her
 body happily wiggled, but upon noticing me and Kuro, she stiffened. Then, after
@@ -1403,7 +1403,7 @@ Ein-san, of course, is a maid, Raz-san works in her field, while Sechs, Acht and
 Eve work in the magic tools trade... So, what does Neun-san usually do? When I
 asked such a meager question...
 
-[.........]
+[...]
 
 [Eh? Arehh?]
 
@@ -1414,7 +1414,7 @@ shouldn’t have asked about?
 
 [...I don’t have... a regular job.]
 
-[.........]
+[...]
 
 This is bad, I totally stepped on a landmine. W-What should I do, the mood feels
 really heavy... I-I should say something.

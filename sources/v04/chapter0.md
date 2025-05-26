@@ -48,18 +48,18 @@ the sound of knocking on the door.
 
 [Unnn? Yes, the door’s open.]
 
-[.........]
+[......]
 
 [Sieg-san? Good evening.]
 
 It was Sieg-san who came into the room, and she brought... a plate of something
 that smelled delicious. Cookies?
 
-[.........]
+[......]
 
 [Eh? Can I have them?]
 
-[.........]
+[......]
 
 [Thank you. I was just getting a little hungry, so I’ll happily accept them.]
 
@@ -71,19 +71,19 @@ cookie filled my mouth.
 
 [It’s delicious. Sieg-san really is a skillful cook.]
 
-[.........]
+[......]
 
 When I spoke words of praise, Sieg-san shook her head, looking a little
 embarrassed. How should I say this... I guess that reaction of hers was just
 like Sieg-san.
 
-[.........]
+[......]
 
 [Eh? Ah, this? I was trying to compile the stuff that happened at the Sacred
 Tree Festival to write in my diary... but it seems like I have quite a lot of
 things to write about.]
 
-[.........]
+[......]
 
 [Right. A lot of stuff really happened.]
 
@@ -94,11 +94,11 @@ feeling.
 
 [Sieg-san, is your shift about to start?]
 
-[.........]
+[......]
 
 [I see, thank you for your hard work. Please do your best.]
 
-[.........]
+[......]
 
 Sieg-san is in charge of the night security tonight, and she’s about to start
 her shift. Sieg-san nodded with a happy smile at my words, before she left to do
