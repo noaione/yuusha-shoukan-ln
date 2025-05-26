@@ -3,15 +3,14 @@
 
 import type { Paragraph, Root } from 'mdast';
 import { toString } from 'mdast-util-to-string';
-import { tr } from 'zod/v4/locales';
 
-const BALANCED_BRACKETS = {
+const BALANCED_BRACKETS: Record<string, string> = {
   '[': ']',
   '(': ')',
   '{': '}',
   '<': '>',
 };
-const BALANCED_QUOTES = {
+const BALANCED_QUOTES: Record<string, string> = {
   '"': '"',
   "'": "'",
   '“': '”',
@@ -35,16 +34,20 @@ function checkBalancing(first: string, last: string, expectFirst?: string, expec
   return true; // If no expectations, we consider it balanced
 }
 
+function cleanupParagraphText(text: string): string {
+  // Compile all into single line of string
+  const mergedLine = text.replace(/\n/g, ' ').trim();
+  // Strip dash, en-dash, em-dash, elipsis (sometimes can be more than one dot) from the start and end
+  return mergedLine.replace(/^([-–—\s]+|[\.]+)|([-–—\s]+|[\.]+)$/gm, '').trim();
+}
+
 export function isParagraphBalancedQuotesBrackets(paragraph: Paragraph): boolean {
   if (paragraph.type !== 'paragraph') {
     return true; // Not a paragraph, so we consider it balanced
   }
 
-  // Compile all into single line of string
-  const text = toString(paragraph).replace(/\n/g, ' ').trim();
-  // Strip dash, en-dash, em-dash, elipsis (sometimes can be more than one dot) from the start and end
-  const strippedText = text.replace(/^([-–—\s]+|[\.]+)|([-–—\s]+|[\.]+)$/gm, '').trim();
-
+  const text = toString(paragraph);
+  const strippedText = cleanupParagraphText(text);
   if (!strippedText.length) {
     return true; // Empty paragraph is considered balanced
   }
@@ -52,17 +55,54 @@ export function isParagraphBalancedQuotesBrackets(paragraph: Paragraph): boolean
   const peekFirst = strippedText[0]!;
   const peekLast = strippedText[strippedText.length - 1]!;
   // First check first === last
-  const peekFirstBracket = BALANCED_BRACKETS[peekFirst as keyof typeof BALANCED_BRACKETS];
+  const peekFirstBracket = BALANCED_BRACKETS[peekFirst];
   const peekLastBracket = REVERSED_BALANCED_BRACKETS[peekLast];
   const balancedBrackets = checkBalancing(peekFirst, peekLast, peekFirstBracket, peekLastBracket);
   if (balancedBrackets) {
     return true; // If brackets are balanced, we can skip quotes check
   }
-  const peekFirstQuote = BALANCED_QUOTES[peekFirst as keyof typeof BALANCED_QUOTES];
+  const peekFirstQuote = BALANCED_QUOTES[peekFirst];
   const peekLastQuote = REVERSED_BALANCED_QUOTES[peekLast];
 
   const balancedQuotes = checkBalancing(peekFirst, peekLast, peekFirstQuote, peekLastQuote);
-  return balancedQuotes; // Return true if quotes are balanced
+  if (balancedQuotes) {
+    return true;
+  }
+  console.warn(`!!! Paragraph is not balanced: ${text}`);
+  return false;
+}
+
+export function isParagraphUsingCorrectQuotesBrackets(paragraph: Paragraph): boolean {
+  if (paragraph.type !== 'paragraph') {
+    return true; // Not a paragraph, so we consider it correct
+  }
+
+  const text = toString(paragraph);
+  const strippedText = cleanupParagraphText(text);
+  const peakFirst = strippedText[0]!;
+  if (REVERSED_BALANCED_BRACKETS[peakFirst]) {
+    // If first character is a closing bracket, it's incorrect
+    console.warn(`!!! Paragraph starts with a closing bracket: ${text}`);
+    return false;
+  }
+  if (REVERSED_BALANCED_QUOTES[peakFirst]) {
+    // If first character is a closing quote, it's incorrect
+    console.warn(`!!! Paragraph starts with a closing quote: ${text}`);
+    return false;
+  }
+  const peakLast = strippedText[strippedText.length - 1]!;
+  if (BALANCED_BRACKETS[peakLast]) {
+    // If last character is an opening bracket, it's incorrect
+    console.warn(`!!! Paragraph ends with an opening bracket: ${text}`);
+    return false;
+  }
+  if (BALANCED_QUOTES[peakLast]) {
+    // If last character is an opening quote, it's incorrect
+    console.warn(`!!! Paragraph ends with an opening quote: ${text}`);
+    return false;
+  }
+
+  return true; // If no issues found, we consider it correct
 }
 
 export function doVerificationOfMarkdown(root: Root): boolean {
@@ -71,9 +111,9 @@ export function doVerificationOfMarkdown(root: Root): boolean {
   }
 
   for (const node of root.children) {
-    if (!isParagraphBalancedQuotesBrackets(node as Paragraph)) {
-      console.warn(`!!! Paragraph is not balanced: ${toString(node as Paragraph)}`);
-      return false; // If any paragraph is not balanced, return false
+    if (node.type === 'paragraph') {
+      isParagraphBalancedQuotesBrackets(node);
+      isParagraphUsingCorrectQuotesBrackets(node);
     }
   }
 

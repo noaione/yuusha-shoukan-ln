@@ -1040,7 +1040,7 @@ Great Evil God or not, whether or not your tone of voice is different from the
 usual Isis-san... You are definitely the Isis-san I know... the Isis-san that I
 love.]
 
-”Ahh...?! Kaito... Kaito...”
+“Ahh...?! Kaito... Kaito...”
 
 Hearing Isis-san’s words, she tightly hugged me, tears in her eyes. Looking at
 the anxiety on her face, I could already imagine what she was thinking. I think

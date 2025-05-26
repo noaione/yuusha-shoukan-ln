@@ -252,7 +252,7 @@ it’s decided then?”
 
 [...It’s not like you all need to be this long-winded anyway?]
 
-” ” Eh? ” “
+“ “ Eh? ” ”
 
 As Lillywood and Magnawell were conversing with each other, seeing that more
 than half of them were in favor of the proposal, Megiddo, who was rolling around

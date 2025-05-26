@@ -2525,7 +2525,7 @@ Kings bowing down to her”, it seems that she had finally reached her limits.
 [Hyaahhh?! Ahhh, awawawa, World King-sama, p-please raise your head. P-P-Please
 don't l-lower your head to somewa-wawawa... Kyuuu~]
 
-”?!“
+“?!”
 
 [Milady?!]
 
