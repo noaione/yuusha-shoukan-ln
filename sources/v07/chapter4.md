@@ -82,7 +82,7 @@ walking side by side.
 [I knew that this was supposed to be such a place that would have tight
 security, but the atmosphere is different from the last time we came here.]
 
-{Yes, the First Princess is that important to this country.]
+[Yes, the First Princess is that important to this country.]
 
 [...I wonder if it’s alright though? She’s letting us use the assembly hall that
 was supposed to be for an important occasion...]
