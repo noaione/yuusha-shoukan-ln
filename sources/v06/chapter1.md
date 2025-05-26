@@ -912,7 +912,7 @@ world is she talking about? Alice said that Kuro would reject me... but Kuro’s
 behavior is far from what I imagined rejecting was.
 
 “Countless times, countless times have I failed... But I’m glad, Kaito-kun. That
-a “success” finally happened.”
+a ‘success’ finally happened.”
 
 [....Suc... cess?]
 
@@ -943,13 +943,13 @@ reaped away a long time ago.
 
 “The baby bird I raised with great care, as if it were my own child... Seeing
 them grow out the most beautiful wings there is... I was really looking forward
-to that moment when I can finally “tear them off”!!!”
+to that moment when I can finally tear them off!!!”
 
 [...What... are... you...]
 
 “However, not everything works your way. You see, I’m quite particular with my
 hobby... So, I cravingly wanted to tear apart only the most beautiful wings...
-The moment of “your confession towards me”, the moment you sprouted the most
+The moment of ‘your confession towards me,’ the moment you sprouted the most
 beautiful wings!!!”
 
 [...A-Aaaahhhh...]
@@ -1051,8 +1051,8 @@ reason.
 A scream too loud, with a voice that isn’t eerie unlike before, as if it’s
 filled with strong emotions.
 
-“I’ve already done this much!!! Why aren’t you “scared” of me?! What aren’t you
-“getting away” from me?!”
+“I’ve already done this much!!! Why aren’t you _scared_ of me?! Why aren’t you
+_getting away_ from me?!”
 
 [...Ku... ro...?]
 

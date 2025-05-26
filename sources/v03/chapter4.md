@@ -1142,7 +1142,7 @@ introducing myself.”
 Hearing the question that spilled out of my mouth, the woman lightly bows her
 head once, before she gently smiles.
 
-“My name is Lillywood... “Lillywood Yggdrasil”. In the Demon Realm, I'm the one
+“My name is Lillywood... ‘Lillywood Yggdrasil’. In the Demon Realm, I'm the one
 known as the _World King_.”
 
 [...Huh?]
@@ -1210,8 +1210,8 @@ she continued speaking.
 
 “I thought I understood the suffering she was going through... but I couldn't do
 anything about it. Because I'm a being with power comparable to Isis, I was
-unable to fulfill her wish to “come in contact with the powerless as well, and
-to meet someone who would accept her even if such beings don't have power”.”
+unable to fulfill her wish to come in contact with the powerless as well, and to
+meet someone who would accept her even if such beings don't have power.”
 
 [..............]
 
@@ -1984,7 +1984,7 @@ strong and deep trust. For this great work, I commend you.”
 The awarding ceremony began in some sort of flow, and I very nervously responded
 to Lillywood-san's words.
 
-“You have collected a total number of “2,321” fruits.... This is a result unseen
+“You have collected a total number of 2,321 fruits... This is a result unseen
 even back in the past, and it proves that you are truly loved by the Spirits.”
 
 [...........]
@@ -2449,7 +2449,7 @@ straightened.
 Perhaps noticing her movement, Lillywood-san moves her gaze towards Lilia-san
 before calling out to her.
 
-“Oya? Aren't you... “Princess Lilianne”?”
+“Oya? Aren't you... ‘Princess Lilianne?’”
 
 [Yesh! Ah, no, I'm now calling myself by the name Lilia Albert.]
 
@@ -2535,8 +2535,8 @@ collapsed on the spot, while Lunamaria-san flusteredly rushed over to her.
 
 [Milady! Get a hold of yourself!]
 
-“What's the matter?! If she's not feeling well... In that case, here's a “Fruit
-of the World Tree”...”
+“What's the matter?! If she's not feeling well... In that case, here's a _Fruit
+of the World Tree_...”
 
 [World King-sama?! Please excuse my rudeness! But are you trying to deal the
 “finishing blow”?!]

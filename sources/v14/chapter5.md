@@ -658,13 +658,13 @@ herself!”
 
 Oya? The next item is provided by Kuro huh... I wonder what that is?
 
-“Catalog number 16! “Underworld King’s handmade baby castellas”!”
+“Catalog number 16!: Underworld King’s handmade baby castellas!”
 
 Why the heck are baby castellas being auctioned off at a high class auction...
 Kuro, what the heck are you doing...
 
-“This baby castella was made by Underworld King-sama to be given to “a certain
-person”... A collection set of “not so good” baby castellas!”
+“This baby castella was made by Underworld King-sama to be given to ‘a certain
+person’ ...A collection set of ‘not so good’ baby castellas!”
 
 In short, it’s just a collection of your failed baby castellas, isn’t it? Or
 rather, that “certain person”...
@@ -677,7 +677,7 @@ What the heck is this unpleasant feeling creeping on my skin now? Looking at
 those baby castellas makes me feel like it’s my fault that those inappropriate
 items were being sold in this place...
 
-“Well then, the starting price is “one gold coin”!”
+“Well then, the starting price is: One gold coin!”
 
 I don’t know if I should say that it’s thoughtlessly increasing or not... wait,
 doesn’t it seem like it’s absurdly increasing?!
@@ -759,9 +759,9 @@ not only the Six Kings, but even nobles of various countries were auctioning
 their items, making the auction feel grander.
 
 “Now then, the next item is... or rather, the next items are something provided
-by “Phantasmal King-sama”. These are the said items... There aren’t items that
-not only the nobles, but even adventurers and knights shouldn’t miss. Yes, There
-are weapons made by the “legendary blacksmith Krafty”!!!”
+by Phantasmal King-sama. These are the said items... There aren’t items that not
+only the nobles, but even adventurers and knights shouldn’t miss. Yes, There are
+weapons made by the _legendary blacksmith Krafty_!!!”
 
 [...Unnn?]
 
@@ -910,7 +910,7 @@ awaits you.
 However, there are a few overwhelmingly strong people in the world who don’t fit
 that description.
 
-“Now then, Catalog number 28, “Miniatureable Top Grade Pet House” is currently
+“Now then, Catalog number 28: ‘Miniatureable Top Grade Pet House’ is currently
 worth 10 white gold coins!”
 
 [...H-Hmmm.]
@@ -956,8 +956,8 @@ Thereupon, nodding once in understanding, she spoke.
 
 As she said this, Isis-san smoothly put her hands up and made a few hand signs.
 
-“...Huh? Eh? N-No, excuse my rudeness! Number 986... h-has bid... “100 white
-gold coins”!”
+“...Huh? Eh? N-No, excuse my rudeness! Number 986... h-has bid... 100 white gold
+coins!”
 
 [Wha?! I-Isis-san?!]
 
@@ -978,7 +978,7 @@ Someone seriously appeared?! However, it seems like the other party is already
 on her last straw. Isis-san could just... Eh? Wait a moment there, Isis-san?! If
 I remember correctly, that thumbs up hand sign is...
 
-“...Number 986... h-has bid “double”... that’s 201 white gold coins...”
+“...Number 986... h-has bid double... that’s 201 white gold coins...”
 
 [...]
 
@@ -1221,7 +1221,7 @@ Magnawell-san’s voice call out from beneath me.
 [Eh? Yes, there are a lot of surprises, but I’m certainly enjoying the
 festival.]
 
-“I see, that’s good... Fumu, let’s see, let me give you some “allowance”.”
+“I see, that’s good... Fumu, let’s see, let me give you _some_ allowance.”
 
 [...Yes? Eh? Wait?!]
 

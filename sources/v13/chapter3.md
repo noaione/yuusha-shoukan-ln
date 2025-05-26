@@ -474,7 +474,7 @@ sudden suggestion, but there was another person who had the same expression on
 his face.
 
 “...Is it just my imagination? Given that I’m being brought here... I feel that
-Ein’s statement “included me in this” as if it’s a matter of course?”
+Ein’s statement included me in this as if it’s a matter of course?”
 
 [What a coincidence. That’s how it sounded to me too.]
 
@@ -511,7 +511,7 @@ As I was about to complain to them, Lillywood-san interrupted me and spoke up
 first. Unnn, I knew Lillywood-san wouldn’t like that, so it’s better if
 Lillywood-san tells them herself...
 
-“”I don’t really mind” if that were the case, but wouldn’t Kaito-san dislike
+“‘I don’t really mind’ if that were the case, but wouldn’t Kaito-san dislike
 that? I won’t accept this without Kaito-san’s approval.”
 
 Eh? Arehh? Why do I feel like I heard words that I wasn’t expecting? I somehow
@@ -538,7 +538,7 @@ heard Lillywood-san say “certainly” or something like that...
 [L-Lillywood-san?! A-Are you sure about that? We’re going to be taking a bath
 together, you know?!]
 
-“Yes. I don’t really think Kaito-san would enjoy bathing with a “tree” like me
+“Yes. I don’t really think Kaito-san would enjoy bathing with a ‘tree’ like me
 but...”
 
 [...Huh? Eh?]
@@ -686,11 +686,11 @@ body of a female human... It’s impossible for me to think of her as a tree.
 
 [Wha?! W-What are you doing?!]
 
-“Ehh? No, as I was saying, my “feet are actually roots”...”
+“Ehh? No, as I was saying, my ‘feet’ are actually roots...”
 
 [Could you please not spread your legs?! I can see it, you know?!]
 
-“You can see it? Ahh, you mean my “genitals”? That certainly was quite indecent
+“You can see it? Ahh, you mean my ‘genitals?’ That certainly was quite indecent
 of me. I’m sorry.”
 
 [Could you please say such things out loud?! Also, that’s not the point, you
@@ -726,7 +726,7 @@ After a few moments of silence, just like a blooming flower, she smiled
 beautifully.
 
 “...You’re a really strange person. However, being told by you like that... I
-don’t know the reason why, but I guess I, “who feels happy about that”... am
+don’t know the reason why, but I guess I, who _feels_ happy about that... am
 also strange.”
 
 [...E-Errr.]
@@ -774,7 +774,7 @@ much, but how do Humans enjoy their time here?”
 [Hmmm. Let’s see. Of course, you can enjoy the scenery while washing your body,
 but you can also drink while soaking in the onsen.]
 
-“I see... I can prepare some “fruit wine” right away, would you like some?”
+“I see... I can prepare some fruit wine right away, would you like some?”
 
 [Eh? Ah, yes. I’d certainly love to have some if it’s alright with you.]
 
@@ -985,7 +985,7 @@ but the first thing that pops into my mind when I think of someone scary is
 Eden-san with her switch turned on. But thanks to that, I felt like I quickly
 got rid of the blood rushing to my head and helped...
 
-“With this, I washed your back. I guess “I’ll wash the front” next.”
+“With this, I washed your back. I guess I’ll wash the front next.”
 
 [Y-You don’t have to do the front!]
 

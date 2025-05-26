@@ -496,7 +496,7 @@ this place was specially made just to tease those who challenge it.
 [...I don’t think this is the case, but the one who created this labyrinth...
 Was it Lillywood-san?]
 
-“No, I didn’t have much experience with such things... So I asked “Shalltear” to
+“No, I didn’t have much experience with such things... So I asked Shalltear to
 do it for me.”
 
 [...I-Is that so...]
@@ -718,9 +718,9 @@ out a light sigh.
 
 [...Then?]
 
-“Yes, it is as you said. If it was “at that time”, certainly... I was afraid of
+“Yes, it is as you said. If it was _at that time_, certainly... I was afraid of
 Shalltear. No, it might not be appropriate to say that I’m afraid of her... I
-guess it would be better to say “I’m creeped out “by her.”
+guess it would be better to say I’m creeped out by her.”
 
 [...Creeped out huh?]
 
@@ -764,7 +764,7 @@ When I reflexively asked back, Lillywood-san quietly nodded.
 
 “Among the powerful Demons, Shalltear secretly erased those she perceived as
 unnecessary to the world. She did it so cold-heartedly, in a really clever way
-that we didn’t even notice... By the time we noticed it, “more than 70%” of
+that we didn’t even notice... By the time we noticed it, _more_ than 70% of
 those powerful Demons had been erased by her alone.”
 
 [...]
@@ -773,8 +773,8 @@ those powerful Demons had been erased by her alone.”
 increased the number of subordinates, acting as her limbs, and in just a
 thousand years, she was able to spread her roots behind the vast Demon Realm.
 Using her ability to manipulate information, she was able to bring order to the
-Demon Realm... Constructing ranks like the “Six Kings” and the
-“Peerage-holders”.”
+Demon Realm... Constructing ranks like the ‘Six Kings’ and the
+‘Peerage-holders.’”
 
 [...Come to think of it, Ozma-san told me a story like that.]
 
@@ -895,11 +895,11 @@ Lillywood-san so wary of Alice?
 
 “...However, it seemed that whatever Shalltear wished for did not happen, and
 the feeling of impatience inside her just grew. I was curious about her
-situation, so I asked Shalltear once, “What are you in such a hurry for?”...”
+situation, so I asked Shalltear once: ‘What are you in such a hurry for?’”
 
 [...and what did Alice say?]
 
-“...”I want to fulfill my goal already so that I can die!” is what she responded
+“...‘I want to fulfill my goal already so that I can die!’ is what she responded
 with. There was something dark and freezing beneath the eyes of Shalltear at
 that time... I couldn’t understand it. Whether it’s this goal so that she could
 die or her motives... That’s why... I thought she was creepy.”
@@ -920,7 +920,7 @@ a lot of strife in the Demon Realm, lives must have disappeared one after
 another before she could even find someone she could fall in love with. And that
 led to Alice’s impatience...
 
-“Speaking of which, you did say “If Lillywood-san interferes, I will kill you.”,
+“Speaking of which, you did say ‘If Lillywood-san interferes, I will kill you.’,
 didn’t you?”
 
 [Whoa there! I remembered that I still have something urgent to attend to! I
@@ -1028,7 +1028,7 @@ happen...
 [N-No, that’s not it... It’s just, errr, I could feel your breasts touching
 me...]
 
-“Ahh, that’s “on purpose”. I was hoping that Kaito-san would feel the desire for
+“Ahh, that’s on purpose. I was hoping that Kaito-san would feel the desire for
 me.”
 
 [Lillywood-san, don’t you think your personality changed?!]
@@ -1086,7 +1086,7 @@ me a little tighter than before. Smelling the soothing scent of wood, I felt
 myself being enveloped in her soft touch and her ascertainable warmth.
 
 “...I still have my doubts about my ability to feel love. However, how should I
-put this... Perhaps, I might want to “try to fall in love”.”
+put this... Perhaps, I might want to _try_ to fall in love.”
 
 [...]
 

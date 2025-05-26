@@ -1216,14 +1216,14 @@ her like that, but when she casually glanced at the books... she stiffened.
 
 [...Unnn?]
 
-“Isn't this a grimoire related to “Ancient Magic”? What do you plan to do with
-the books you placed on that side?”
+“Isn't this a grimoire related to Ancient Magic? What do you plan to do with the
+books you placed on that side?”
 
 [...If Kaito wants this... I'll give it to him.]
 
 “No no, that's no good... There's some pretty dangerous magic written here—wait,
-that book you're holding in your hand! Isn't that also one of the “Forbidden
-Books”?”
+that book you're holding in your hand! Isn't that also one of the Forbidden
+Books?”
 
 [...I wonder if... Kaito will be pleased with these?]
 

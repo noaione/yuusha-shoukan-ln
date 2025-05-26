@@ -1258,8 +1258,8 @@ of the World King is to the Symphonia Kingdom, and if they were to touch her
 anger, there is no other path for Symphonia Kingdom but destruction.
 
 “Let me tell you the real issue here. There's only one thing I'm telling you to
-do. To make a “clear and sincere apology to the otherworlder, Miyama Kaito, in a
-public venue”, do you understand what I mean?”
+do. To make a ‘clear and sincere apology to the otherworlder, Miyama Kaito, in a
+public venue’, do you understand what I mean?”
 
 [Y-Yes... H-However, that is...]
 

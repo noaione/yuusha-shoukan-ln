@@ -105,6 +105,37 @@ export function isParagraphUsingCorrectQuotesBrackets(paragraph: Paragraph): boo
   return true; // If no issues found, we consider it correct
 }
 
+export function isParagraphHasQuotesInQuotes(paragraph: Paragraph): boolean {
+  if (paragraph.type !== 'paragraph') {
+    return true; // Not a paragraph, so we consider it correct
+  }
+
+  const text = toString(paragraph);
+  const strippedText = cleanupParagraphText(text);
+  if (!strippedText.length) {
+    return true; // Empty paragraph is considered correct
+  }
+
+  const openWith = ['"', '“'];
+  const closeWith = ['"', '”'];
+  const openQuote = strippedText[0]!;
+  const closeQuote = strippedText[strippedText.length - 1]!;
+  const isQuoted = openWith.includes(openQuote) && closeWith.includes(closeQuote);
+
+  if (!isQuoted) {
+    return true; // Not a quoted paragraph, so we consider it correct
+  }
+
+  // Check inside if there are same quotes (either open or close)
+  const hasQuotes = [...openWith, ...closeWith];
+  const insideText = strippedText.slice(1, -1);
+  if (hasQuotes.some((quote) => insideText.includes(quote))) {
+    console.warn(`!!! Paragraph has quotes inside quotes: ${text}`);
+    return false; // If there are quotes inside quotes, it's incorrect
+  }
+  return true; // If no issues found, we consider it correct
+}
+
 export function doVerificationOfMarkdown(root: Root): boolean {
   if (root.type !== 'root') {
     return true; // Not a root, so we consider it verified
@@ -114,6 +145,7 @@ export function doVerificationOfMarkdown(root: Root): boolean {
     if (node.type === 'paragraph') {
       isParagraphBalancedQuotesBrackets(node);
       isParagraphUsingCorrectQuotesBrackets(node);
+      isParagraphHasQuotesInQuotes(node);
     }
   }
 

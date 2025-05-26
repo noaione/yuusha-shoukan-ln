@@ -912,14 +912,14 @@ What came from the torn space was an inorganic... machine-like voice.
 
 “As for me, I’m not really that interested about this matter. Rather, I know
 you’re well aware of this... but in the first place, I’m displeased with this
-“Hero Summoning”. Please remember that I’m reluctantly accepting it on the
-condition that “the souls of my children” will be returned to me after their
+‘Hero Summoning.’ Please remember that I’m reluctantly accepting it on the
+condition that ‘the souls of my children’ will be returned to me after their
 death.”
 
 [Yes, of course.]
 
-“...And yet, you’re now asking me to “temporarily lend you the soul of my
-child”. I have known you for a long time, so I’m willing to negotiate with you
+“...And yet, you’re now asking me to ‘temporarily lend you the soul of my
+child.’ I have known you for a long time, so I’m willing to negotiate with you
 like this... but please don’t expect you’ll receive a good response. In the
 first place, why do you even go through such lengths? What is so special about
 my child that you have summoned this time... Shallow Vernal?”
@@ -948,7 +948,7 @@ then I will agree with that matter.”
 
 [...And if you decide that he is of no value?]
 
-“You “dispose” of things that are unnecessary... Isn’t that a very natural thing
+“You _dispose_ of things that are unnecessary... Isn’t that a very natural thing
 to do? The lives of the people in my world, according to my judgment, I may
 dispose of them.”
 
@@ -958,15 +958,15 @@ Hearing the being declare that they would dispose of Kaito depending on their
 judgment, Shallow Vernal’s voice was clearly filled with anger as she told them
 that that is the only things she will not tolerate...
 
-“...Well then, let’s do it this way. “I will go over there and see things for
-myself”. Though I say that, it’s not my true body that will go over there. I
-will send... one of the clones I created for personal use.”
+“...Well then, let’s do it this way. I _will_ go over there and see things for
+myself. Though I say that, it’s not my true body that will go over there. I will
+send... one of the clones I created for personal use.”
 
 [You are coming to my world? Isn’t that against the “contract” we made before?]
 
 “Yes, that’s right. That’s why, in return for your willingness to accept this
-breach in contract, I will add a new clause in a contract that “I will never
-harm your Singularity”. How about that?”
+breach in contract, I will add a new clause in a contract that ‘I will never
+harm your Singularity.’ How about that?”
 
 [...Fumu.]
 
@@ -976,7 +976,7 @@ disadvantages, she weighed them up before speaking her response.
 
 [...It’s not a bad deal. If I agree to this, what about the earlier matter?]
 
-“Yes. I will consider it, with the word “positive” attached to it.”
+“Yes. I will consider it, with the word _positive_ attached to it.”
 
 [I understand. I don’t mind adding that condition... Will you come here
 immediately?]

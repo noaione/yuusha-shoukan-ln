@@ -255,7 +255,7 @@ asleep... and dream of her other self.
 
 [...What you had said... everything is wrong... I’m... really... happy.]
 
-“Is that so... Then, “why did you come here again?””
+“Is that so... Then, why did you come here _again_?”
 
 [...Eh? ...That is... because... you called me here.]
 
@@ -322,7 +322,7 @@ power of death, even if only to a certain extent.”
 
 [...Unnn... With Kuromueina... With everyone... Surrounded by family... I am...]
 
-“However, “Zwei was afraid of us at first”.”
+“However, Zwei _was_ afraid of us at first.”
 
 [?!]
 
@@ -336,8 +336,8 @@ the others and adores her as a family member.
 
 [...That is... But... now!]
 
-“Unnn. It’s alright now... “because she’s learned how to clad herself in magic
-power enough to resist our magic power of death”.”
+“Unnn. It’s alright now... _because_ she’s learned how to clad herself in magic
+power enough to resist our magic power of death.”
 
 [...Eh? ...Ahh.]
 
@@ -348,15 +348,15 @@ crumbling beneath her feet, feeling helpless. Yes, she had realized it, what
 exactly her other self said that she was better off not noticing...
 
 “Kuromueina held out her hand to us. However, that’s only because Kuromueina is
-“stronger than us”. Lillywood and the others call us their family. However,
-that’s only because “Lillywood and the others are capable of resisting our magic
-power of death”.”
+_stronger_ than us. Lillywood and the others call us their family. However,
+that’s only because Lillywood and the others are _capable_ of resisting our
+magic power of death.”
 
 [...Ah... Ahhhhh...]
 
 “Without the power to resist our magic power of death, Kuromueina wouldn’t have
 reached out to us. Lillywood and the others wouldn’t have called us their
-family. Yes, not one of them... “would have ever accepted us”.”
+family. Yes, not one of them... would have _ever_ accepted us.”
 
 [...You’re... You’re wrong... Stop...]
 
@@ -812,7 +812,7 @@ However, unnn. I will be glad if you call me Isis.”
 
 [I understand... Ummm, Isis-san. Where is this?]
 
-“With my power, I’ve “connected your heart with mine”. You can think of this as
+“With my power, I’ve connected _your_ heart with mine. You can think of this as
 a dream. Earlier, I was trying to test Kaito a little bit, so you weren’t able
 to remember some of your memories...”
 
@@ -840,7 +840,7 @@ this, something suddenly came to my mind.
 [...Could it be... You are “her magic power of death”...]
 
 “Unnn. You’re right... Though I suppose the most correct answer... would be the
-“memory of the being from the origin of her magic power of death?”
+memory of the being from the _origin_ of her magic power of death?”
 
 [Errr, I’m sorry. I don’t really get what you...]
 
@@ -884,8 +884,8 @@ big smile on her face. Embarrassed by this, I responded while scratching my
 cheek with my free hand, to which Isis-san shook her head.
 
 “That’s not the case at all. After all, Kaito held my hand... I believed that if
-it’s Kaito, you would face our magic power of death “even without your Sympathy
-Magic”. However, I never expected you would also hold our hand.”
+it’s Kaito, you would face our magic power of death even _without_ your Sympathy
+Magic. However, I never expected you would also hold our hand.”
 
 [E-Errr...]
 
@@ -895,9 +895,9 @@ state where I couldn’t use my Sympathy Magic earlier...
 
 “The magic power of death is the fundamental fear of all beings, something that
 couldn’t be withstood by mere mental power... is how it should have been, but
-Kaito suppressed even that. In the midst of fear that normally would have
-“caused one to go insane or have a mental breakdown dozens of times”, you still
-held my hand. Kaito really is amazing!”
+Kaito suppressed even that. In the midst of fear that normally would have caused
+one to go insane or have a mental breakdown dozens of times, you still held my
+hand. Kaito _really_ is amazing!”
 
 [...A-Ahaha... Well, you can count on me.]
 
@@ -922,8 +922,8 @@ received from Shallow Vernal, ordinary Mental Magic will be nullified.”
 [Why is it that you yourself aren’t sure about that... Rather, the power of a
 God?]
 
-“Unnn, before I was “reborn” as Isis... I was called the “Great Evil God of
-Despair”.”
+“Unnn, before I was _reborn_ as Isis... I was called the _Great Evil God of
+Despair_.”
 
 [...Yes?]
 
@@ -957,7 +957,7 @@ Just from hearing those words, I get the impression that she was a lonely God,
 and she didn’t seem like the kind of being that would be called an Evil God, but
 perhaps, there’s something more to the story than that.
 
-“However, the “magic power of despair” dwelled within me. Just like the magic
+“However, the magic power of despair dwelled within me. Just like the magic
 power of death, it brings those whose hearts I connected with to despair... I
 almost destroyed the world twice because of it.”
 
@@ -1021,7 +1021,7 @@ long that I can’t even imagine it anymore. Having such a thought in mind, my
 embrace towards Isis-san naturally tightened.
 
 “I usually exist as a part of Isis Remnant... but since olden days, when Isis
-“receives strong rejection because of her magic power of death”, I appear as a
+receives _strong_ rejection because of her magic power of death, I appear as a
 separate consciousness in Isis’ dreams. Well, right now... I wanted to talk to
 Kaito, so I kind of forced myself to come out.”
 
@@ -1087,7 +1087,7 @@ Despair” suggests that it would be something related to that. However, accordi
 to Isis-san’s story, Isis-san stared straight into my eyes and spoke with a
 serious expression on her face.
 
-“...”I’d like you to tell something to the Hero of Hope”...”
+“...I’d like you to tell something to the _Hero of Hope_...”
 
 [...Eh?]
 
@@ -1099,9 +1099,9 @@ unable to move on.”
 
 “It’s okay if you don’t understand the meaning right now. However, I’m sure
 Kaito will save that girl’s heart just as you saved mine. That’s why, at that
-moment, I want you to tell her this... “The you who had defeated me is much
+moment, I want you to tell her this: ‘The you who had defeated me is much
 stronger than I am. Don’t just cower there and protect the people you care about
-now...””
+now...’”
 
 I didn’t really understand the meaning or intent of those words. However,
 Isis-san told me that I didn’t need to know about that right now.

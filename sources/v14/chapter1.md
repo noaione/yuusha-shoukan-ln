@@ -730,7 +730,7 @@ you dare do anything strange at my festival.”
 
 [Ugghhh... B-But it’s the greatest opportunity to show Miyama-kun my appeal...]
 
-“If you don’t control yourself... How about I tell “Zwei” what you’re doing?”
+“If you don’t control yourself... How about I tell Zwei what you’re doing?”
 
 [Please don’t, she will kill me.]
 

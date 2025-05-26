@@ -335,7 +335,7 @@ with Isis-san, we nodded once before taking our seats side by side.
 “What we present to you today is the story of a pair of man and woman. A woman
 who became alone and a man who tried living alone... They are opposites yet
 somehow alike, living their lives on different paths, but a single flower led
-them to meet each other. Let’s call it “The Miracle of the Blue Flower”. Please
+them to meet each other. Let’s call it ‘The Miracle of the Blue Flower.’ Please
 enjoy it to the end.”
 
 As Alice said this with another deep bow, the spotlight faded and the curtain

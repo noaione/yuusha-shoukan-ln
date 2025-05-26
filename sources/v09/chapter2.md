@@ -852,7 +852,7 @@ wood for the music box. Hearing my words, Lillywood-san nodded with a gentle
 smile.
 
 “Of course, I don’t mind... Let’s see, hmmm. I’m a little embarrassed to say it,
-but when it comes to wood, I think the “branches of the World Tree” are the
+but when it comes to wood, I think the ‘branches of the World Tree’ are the
 best.”
 
 [Just the name sounds amazing... However, why did you say you’re embarrassed
@@ -869,7 +869,7 @@ I still don’t know why that makes Lillywood-san embarrassed, so I tilted my
 head. Thereupon, with a slight blush on her cheeks, as if she was having a hard
 time saying it, Lillywood spoke.
 
-“...No, ummm, errr... The World Tree... is my “real body” after all.”
+“...No, ummm, errr... The World Tree... is my ‘real body’ after all.”
 
 [...Ehh? Eh? Ehhhhhh?!]
 
@@ -935,14 +935,14 @@ normal.
 Lillywood-san handed me a golden saw... This looks like an amazing piece of
 jewelry, but does that mean I have to cut off the branch with that?
 
-“...It’s an “Orichalcon Saw”.”
+“...It’s an ‘Orichalcon Saw.’”
 
 [...Eh?]
 
 Orichalcon? Isn’t this like a really amazing thing? Isn’t that like one of the
 most powerful equipment in games?
 
-“Well then, I’ll leave “10 saws” in case it’s not enough. If it isn’t enough,
+“Well then, I’ll leave 10 saws in case it’s not enough. If it isn’t enough,
 please tell me.”
 
 [...Huh?]

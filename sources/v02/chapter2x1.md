@@ -52,7 +52,7 @@ fear for living beings...”
 [...You're wrong.]
 
 “Stop turning your eyes away! You yourself know of this as well... That you are
-an “object of fear” for Humans.”
+an ‘object of fear’ for Humans.”
 
 [...?!?!?!]
 

@@ -224,7 +224,7 @@ really a living thing?
 [...That’s... don’t tell me...]
 
 “Yes, it’s as Kaito-san might have guessed, that’s the Demon Realm’s... no the
-world’s largest being. “The Dragon King Magnawell”.”
+world’s largest being. The Dragon King ‘Magnawell’”
 
 [?!]
 

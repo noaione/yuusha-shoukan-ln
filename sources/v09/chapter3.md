@@ -2158,7 +2158,7 @@ any way that would warrant your gratitude, you know?”
 great music boxes. Thank you from the bottom of my heart.]
 
 “...H-However... You took the time and effort to make it... If you find good
-women out there, wouldn’t it be better to give it to them? I’m a “tree”, so to
+women out there, wouldn’t it be better to give it to them? I’m a ‘tree’, so to
 speak. I don’t think it would be appropriate for me to have such a nice item...”
 
 I can tell from Lillywood-san’s tone of voice that she’s being very reserved
