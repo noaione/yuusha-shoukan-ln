@@ -2,7 +2,7 @@
 toc: true
 ---
 
-# Intermission: Six Kings Festival —Various People's Reactions
+# Intermission: Six Kings Festival — Various People's Reactions
 
 A festival held by the pinnacle of the Demon Realm, the Six Kings... Information
 about the Six Kings Festival, along with the invitations, quickly spread around

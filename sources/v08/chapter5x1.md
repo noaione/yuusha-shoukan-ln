@@ -2,7 +2,7 @@
 toc: true
 ---
 
-# Intermission: Caraway —What was Lost and What was Gained
+# Intermission: Caraway — What was Lost and What was Gained
 
 Peerage-holding, High-ranking Demon. It’s the term that refers to a very small
 percentage of beings in the Demon Realm, but unlike peerage-holding nobles of

@@ -2,7 +2,7 @@
 toc: true
 ---
 
-# Intermission: Six Kings —Preparing for the Six Kings Festival
+# Intermission: Six Kings — Preparing for the Six Kings Festival
 
 The 8th Day of the Wind month.
 

@@ -2,7 +2,7 @@
 toc: true
 ---
 
-# Intermission: Lillywood—To the Ordinary and Special You
+# Intermission: Lillywood — To the Ordinary and Special You
 
 The first time I met you, you weren’t anything special. I could understand that
 you are a kind-hearted person. I recognized you as a person with a strong heart.

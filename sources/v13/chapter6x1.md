@@ -2,7 +2,7 @@
 toc: true
 ---
 
-# Intermission: Shallow Vernal—Diverted Future
+# Intermission: Shallow Vernal — Diverted Future
 
 It happened in the 1020 years after the signing of the Treaty of Friendship...
 the year of the 102th Festival of Heroes. The Summoning of someone from another
