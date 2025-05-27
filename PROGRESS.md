@@ -237,7 +237,7 @@ The following are all the progress of each volumes.
 - [x] Cover
 - [ ] Illustrations (`75%`)
 - [x] Characters (`100%`)
-- [ ] Special Page (`25%`)
+- [x] Special Page (`100%`)
 - [ ] Special "Deluxe Edition" Page (`13%`)
 
 **Quality Check**: `0%`
@@ -286,7 +286,7 @@ The following are all the progress of each volumes.
 - [x] Cover
 - [ ] Illustrations (`0%`)
 - [x] Characters (`100%`)
-- [ ] Special Page (`33%`)
+- [x] Special Page (`100%`)
 
 **Quality Check**: `0%`
 
