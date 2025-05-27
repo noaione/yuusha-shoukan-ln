@@ -209,7 +209,7 @@ antagonizing Miyama-sama, will Milady stand by my—]
 [...]
 
 [Why are you averting your eyes?! Rather than your female friend, you would
-rather take the side of the man you fe—Mughhh?!]
+rather take the side of the man you fa—Mughhh?!]
 
 [T-T-That is enough, go calm down for a bit!!!]
 

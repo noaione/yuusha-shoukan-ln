@@ -135,7 +135,7 @@ disappeared.
 
 [I want to go together too!!!]
 
-[Wha?!]
+[Whoa?!]
 
 [...Kuromueina... Welcome.]
 

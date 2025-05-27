@@ -149,8 +149,8 @@ extent, Shalltear spoke.
 
 [...So, Kuro-san... What’s your “true intention”?]
 
-[...I want to go on a “festival date with Kaito-kun”!!! However, I can’t do it
-at a normal festival because there are too many people and using Recognition
+[...I want to go on a festival date with Kaito-kun!!! However, I can’t do it at
+a normal festival because there are too many people and using Recognition
 Inhibition Magic would cause a scene!!!]
 
 [...I should have known it was something like that...]
@@ -240,7 +240,7 @@ decided to agree with Kuromueina’s proposal in Shalltear’s mind.
 
 [...I’ll go send... a hummingbird... to Kaito.]
 
-[Aahhhh?! Wait, Isis-san?! Everything but that...]
+[Aahhhh?! Wait, Isis-san?! Anything but that...]
 
 Watching the sight of Shalltear clinging to Isis as she tries to snitch to Kaito
 about what Shalltear said using a hummingbird, Lillywood lets out a small sigh.

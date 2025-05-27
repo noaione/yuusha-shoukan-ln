@@ -107,7 +107,7 @@ be easy to collect.]
 In the first place, due to Isis-san’s magic power of death, it would be
 difficult for us to collect items that appeared in scenes depicting a city. So,
 we would inevitably collect items that were depicted in scenes around nature,
-such as lakes, mountains, forests and so on. And thsi time, the item Isis-san
+such as lakes, mountains, forests and so on. And this time, the item Isis-san
 picked was at a lake where the protagonist and the heroine went on a date in the
 novel... That scene had described how they found beautiful stones and admired
 blooming flowers, so it seems just right.

@@ -880,7 +880,7 @@ surrounded by some nobles who were holding their small plates.
 
 I see. I finally understood... The nobles who came by earlier were being led
 elsewhere at the right time because Alice is using her subordinates to guide
-them well... Unnn. She certainly is working hard, aand it’s helping me a great
+them well... Unnn. She certainly is working hard, and it’s helping me a great
 deal. Thinking that, I moved to the table where the food is placed, and while
 watching as the nobles who were originally there were spoken to by other nobles
 at the right time again, I take some slices of roast beef onto a small plate and
