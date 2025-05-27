@@ -36,11 +36,8 @@ function checkBalancing(first: string, last: string, expectFirst?: string, expec
   if (expectFirst && expectLast) {
     return first === last && expectFirst === expectLast;
   }
-  if (expectFirst) {
-    return first === last && expectFirst === last;
-  }
-  if (expectLast) {
-    return first === last && expectFirst === first;
+  if (expectFirst || expectLast) {
+    return false; // If one of the expectations is missing, we consider it unbalanced
   }
   return true; // If no expectations, we consider it balanced
 }

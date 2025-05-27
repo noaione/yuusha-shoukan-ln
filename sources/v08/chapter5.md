@@ -1638,7 +1638,7 @@ that, but for just a bit, how about I tell you another story?]
 
 ---
 
-A year has passed since Lilianned changed her name to Lilia and established the
+A year has passed since Lilianne changed her name to Lilia and established the
 Albert Duchy. After overcoming Illness’ guidance and receiving a passing grade,
 Lunamaria became Lilia’s personal maind. The biggest task for such a Lunamaria
 though...

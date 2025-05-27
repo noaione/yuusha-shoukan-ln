@@ -590,7 +590,7 @@ reaching your level... You could say empty would be a more apt description.]
 
 [Empty?]
 
-[Ye, you desire for nothing. “You want nothing from anyone”. Your way of being,
+[Yes, you desire for nothing. “You want nothing from anyone”. Your way of being,
 your everything, all of it was completely on your own. Therefore, you act based
 on the standard of “what is right” that exists in you. The principle of your
 actions exists only in yourself. I mean, even towards me, you don’t hold any

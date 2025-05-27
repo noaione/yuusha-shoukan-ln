@@ -672,7 +672,7 @@ feeling inadequate.
 
 [Now, slowly release your “Spiritization”. Calmly diffuse your magic power.]
 
-[...Kuhh.
+[...Kuhh.]
 
 [Transforming one’s body into another can be taxing. From now on, you should
 train yourself so you can be familiar with its power. You must last at least a
