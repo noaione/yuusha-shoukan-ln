@@ -961,13 +961,13 @@ based on Illness-san’s preference.
 The rose garden we arrived at was a magnificent sight. The scent of roses
 wafting through the air is amazing, but the view of colorful roses filling my
 field of vision is nothing short of breathtaking. There really are so many
-different colors of roses huh...I could even see an emerald green rose over
+different colors of roses huh... I could even see an emerald green rose over
 there.
 
 [...It’s amazing. So there were many variations of roses huh.]
 
 [It’s raaaaaare to see such a wide variety of roses in one plaaaaaace. There are
-also some rarely seen varieties of roses in blooooooooom...it’s a wonderful
+also some rarely seen varieties of roses in blooooooooom... it’s a wonderful
 siiiiiiiight.]
 
 [If you were happy, it was worth inviting you here then.]

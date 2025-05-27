@@ -182,7 +182,7 @@ be troublesome if he causes an uproar.]
 
 The man clicked his tongue irritably at Ozma, who speaks in an aloof manner, and
 flies off instructions to his minions. Of course, the man had no intention of
-letting Ozma go. Now that he had seen them, they would deal with him...That was
+letting Ozma go. Now that he had seen them, they would deal with him... That was
 a really... foolish choice.
 
 [Die!]

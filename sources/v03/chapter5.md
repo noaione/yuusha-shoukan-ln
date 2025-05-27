@@ -28,7 +28,7 @@ have dinner with me...]
 
 A young female elf, with her cheeks dyed red, invited me to dinner...
 
-[Miyama-sama... a caterpillar like me...was foolish enough to challenge you.
+[Miyama-sama... a caterpillar like me... was foolish enough to challenge you.
 Please accept my apologies.]
 
 [...W-Who are you?]

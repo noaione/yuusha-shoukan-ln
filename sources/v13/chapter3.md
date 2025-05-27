@@ -717,7 +717,7 @@ Lillywood-san looked at me in a daze.
 “...I-Is that so... You’re a strange person.”
 
 Apparently, Lillywood-san was really surprised that I was feeling aroused by the
-sight of her body, as she stared at me with her eyes wide open.No, I’m pretty
+sight of her body, as she stared at me with her eyes wide open. No, I’m pretty
 sure my reaction is more normal. I mean, Lillywood-san, you’ve probably only
 shown your body to people like Isis-san, haven’t you? Lillywood-san probably
 doesn’t know this, but I’m sure other guys would have the same reaction as me...

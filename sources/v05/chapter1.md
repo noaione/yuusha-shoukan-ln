@@ -851,9 +851,9 @@ here... it feels warm.]
 
 [...]
 
-Isis-san, looking happy as she leans her body to me...Feeling the anxiety of the
-loneliness she held in her heart, I pinch my own thighs as hard as I can with
-the hand that isn’t held by Isis-san.
+Isis-san, looking happy as she leans her body to me... Feeling the anxiety of
+the loneliness she held in her heart, I pinch my own thighs as hard as I can
+with the hand that isn’t held by Isis-san.
 
 The emotions Isis-san held are so pure and beautiful. Just wanting to be in
 touch with others, wishing to feel their warmth...
@@ -1006,7 +1006,7 @@ after thanking Isis-san again for the food, I reached out for the food.
 
 The food that Isis-san made for me was... how should I say this... makes me feel
 like it’s poorly prepared. It wasn’t refined at all, as if it’s made by someone
-lacking experience...That’s why I could feel that Isis-san had frantically
+lacking experience... That’s why I could feel that Isis-san had frantically
 practiced it with trial and error. Is that why...? The taste isn’t really
 something that you can compliment, but this dish is impossibly delicious, and
 most importantly, it warms my heart.
@@ -1345,7 +1345,7 @@ But at the same time, it makes me very sad.
 
 If it’s about Isis-san... I don’t need to be asked if I like her or not, for I
 like her. But even so, the one that exists the most in my heart is Kuro. That’s
-why I have to tell her that...If I remain ambiguous, it would be rude to
+why I have to tell her that... If I remain ambiguous, it would be rude to
 Isis-san.
 
 [...Isis-san. I...]

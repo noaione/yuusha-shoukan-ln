@@ -29,7 +29,7 @@ of paper out of her desk drawer.
 (Now then, if I don’t decide on this soon, it won’t be able to make it in time
 for the Six Kings Festival.)
 
-On the papers she had taken out are drawings of various dress designs.She
+On the papers she had taken out are drawings of various dress designs. She
 decided to dress more feminine than usual for the Six Kings Festival to appeal
 to Kaito, so she ordered these from several popular trading companies. Flipping
 through the papers, with her hand on her chin, Chris pondered.
@@ -265,7 +265,7 @@ arrested after all his misdeeds were exposed in the light of day.]
 
 [Of course! That was the best! Especially the look of despair on his face when
 he realized that he was already trapped because I had so carefully closed his
-escape route...Hahh?!]
+escape route... Hahh?!]
 
 [...It really was you huh...]
 

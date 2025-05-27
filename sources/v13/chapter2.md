@@ -2063,8 +2063,8 @@ No, I guess I’m rather young in this world huh...
 [Speaking of which, Megiddo-san. I heard from Bacchus-san, but “what is it that
 you want to teach me”?]
 
-[Ah\~\~ that’s right. I’ll tell you all about it... a little later at the
-party.The party starts at 8 pm ...Until then, enjoy the festival again.]
+[Ah\~\~ that’s right. I’ll tell you all about it... a little later at the party.
+The party starts at 8 pm ...Until then, enjoy the festival again.]
 
 [H-Huhh... I understand.]
 

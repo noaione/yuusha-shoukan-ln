@@ -704,7 +704,7 @@ a very strategic game.
 
 [Yeah.]
 
-And thus, it was decided that I would be playing card games with Alice.and we
+And thus, it was decided that I would be playing card games with Alice and we
 moved towards her shop's counter... Now then, I wonder what card I'll play
 first? The opponent has a lot of choices to pick for their first card, so it's
 difficult to anticipate what she'd be playing. King, Duke, Count... These are

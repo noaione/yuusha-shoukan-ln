@@ -480,7 +480,7 @@ a low price... but seeing her appeal earlier where she's back to the corner as
 she's about to lose her money, I can't help but be concerned about the situation
 of Alice's purse.
 
-[However...Isn't this too cheap? Wouldn't Alice be at a disadvantage with this
+[However... Isn't this too cheap? Wouldn't Alice be at a disadvantage with this
 cost...]
 
 [Eh? No, not really... I mean, they're “shoes I made myself” and I'm also the
@@ -987,8 +987,9 @@ warning me.
 It's different from the pressure I've felt from Kuro's magic power when she
 asked me in Lilia-san's mansion before. If I had to describe it, it's an
 inexplicably terrifying feeling that seemed to alert my instincts as a living
-being—a negative presence dense enough that I could feel it on my skin.And then,
-from the end of the dimly-lit road which is tainted with silence, that appeared.
+being—a negative presence dense enough that I could feel it on my skin. And
+then, from the end of the dimly-lit road which is tainted with silence, that
+appeared.
 
 Long hair as white as ashes, morbidly white skin, deep and gloomy blood-like
 crimson eyes.

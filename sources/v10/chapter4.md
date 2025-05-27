@@ -370,7 +370,7 @@ However, I think it’s pointless to worry about this.]
 
 [You’ve already decided to step into the depths of her heart... In that case, no
 matter what you do, the end will always be the same. Whether you confront her
-directly or ask others about some things, it will be the same...I don’t need to
+directly or ask others about some things, it will be the same... I don’t need to
 tell you any more than this, right?]
 
 [...Yes.]

@@ -916,7 +916,7 @@ delicious than that. Even though she has lived many years as a god, the memories
 of that time have not faded one bit.
 
 (...Now then, I wonder how my best friend, who overthinks more than my child,
-move from here on out...Maybe I should help her again in secret. The “Demon
+move from here on out... Maybe I should help her again in secret. The “Demon
 Lord” case aside... even Alicia would have a hard time having no hints about
 “Shallow Vernal’s”case.)
 
@@ -1827,7 +1827,7 @@ touched something I shouldn’t have.
 need my visit to receive medical treatment, so I don’t have the time to attend.]
 
 ...It’s a lie. I don’t even need my Sympathy Magic for me to know that. However,
-I can’t say anything. Dr.Vier must have known that even if she lied in her
+I can’t say anything. Dr. Vier must have known that even if she lied in her
 current state, she would be found out. And yet, she still dared to lie... I
 guess that means that I shouldn’t go any further into this topic.
 

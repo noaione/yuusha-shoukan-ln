@@ -758,7 +758,7 @@ enveloping her slender body within my embrace.
 [So, once again... I want to say this. Kuro, I love you. From the bottom of my
 heart, I love you so much...]
 
-[Ahhh...uuu... Kaito... -kun.]
+[Ahhh... uuu... Kaito... -kun.]
 
 I look firmly into Kuro’s beautiful eyes as I tell her my thoughts, while Kuro
 also looks at me with tears in her eyes and hugs me back tightly. I feel our

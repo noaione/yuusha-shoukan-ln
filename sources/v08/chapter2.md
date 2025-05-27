@@ -265,7 +265,7 @@ think they are attractive enough even without them being large.]
 that... w-would you, ummm, be a-aroused?]
 
 [...I definitely would be... I’ve said this many times, Sieg-san is an
-incredibly attractive woman and...to be honest, I’m still very nervous even
+incredibly attractive woman and... to be honest, I’m still very nervous even
 now.]
 
 My face was burning hot, but I honestly told her my thoughts.
@@ -618,7 +618,7 @@ others above all else... You’ve also given me lots of courage.]
 
 [...Courage?]
 
-A calm voice, but I can definitely feel the firmness within it...I think what
+A calm voice, but I can definitely feel the firmness within it... I think what
 Sieg-san will be talking about is probably something very important for her.
 Because I felt that, I also looked straight at Sieg-san when I replied to her
 with a serious expression on my face.
@@ -776,11 +776,11 @@ need to have to do that...?
 
 If I were to indulge Sieg-san’s kindness and withhold my answer here... I would
 definitely end up dragging it out and would ambiguously stall it. If that
-happens, Sieg-san would end up having to carry her anxiety all the time...That’s
-why, I knew I had to respond, or at least, make sure I had the thoughts on my
-mind right now. In front of Sieg-san, who had turned back towards me, I slowly
-closed my eyes and let my thoughts wander. How do I feel about Sieg-san? How do
-I want to interact with her in the future?
+happens, Sieg-san would end up having to carry her anxiety all the time...
+That’s why, I knew I had to respond, or at least, make sure I had the thoughts
+on my mind right now. In front of Sieg-san, who had turned back towards me, I
+slowly closed my eyes and let my thoughts wander. How do I feel about Sieg-san?
+How do I want to interact with her in the future?
 
 First of all, I must stop seeing Sieg-san as just a mature woman I respect, or
 that she’s a high-level woman... I must only see Sieg-san as the woman she is.

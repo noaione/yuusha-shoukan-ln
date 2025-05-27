@@ -897,7 +897,7 @@ in the future...
 
 ---
 
-Human Realm...at an altitude of approximately 10,000m above Symphonia’s royal
+Human Realm... at an altitude of approximately 10,000m above Symphonia’s royal
 capital, there was an angel... the Earth God with her beautiful wings
 outstretched. The eyes of Earth God, who remained motionless with her wings
 outstretched and remained in the same place, were focused at a corner of

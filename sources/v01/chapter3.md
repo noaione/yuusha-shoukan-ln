@@ -1074,7 +1074,7 @@ fine, but don't you have anything we could talk about?
 [...It's short for communication power, which is basically the ability to have a
 good conversation with others.]
 
-[I see...Then what does being a loner mean?]
+[I see... Then what does being a loner mean?]
 
 [It basically means someone being alone... By the way, Shiro-san. Could you
 possibly be able to read my mind or something like that?]
@@ -1124,7 +1124,7 @@ This should have been a combination that couldn't exist... Moreover, it isn't
 just on the level where she had pasted some within it, it's as many as the red
 bean fillings in a manju.
 
-A baby castella filled with wasabi...A bizarre disproportionate taste of
+A baby castella filled with wasabi... A bizarre disproportionate taste of
 sweetness and spiciness began spreading in my mouth. I began to pour tea into my
 mouth, desperately wanting for the violent disgusting taste to be washed away.
 

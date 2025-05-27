@@ -694,7 +694,7 @@ of their entire wealth for it.]
 [...]
 
 I don’t know if I should be impressed by Kuro’s popularity or pity the people
-who are willing to pay tens of millions of yen for baby castella...As I was
+who are willing to pay tens of millions of yen for baby castella... As I was
 dumbfounded by this questionable situation, I suddenly saw a person running
 towards me.
 
@@ -987,7 +987,7 @@ sight. Everyone in the plaza was overwhelmed when they saw Isis-san bid double
 without any hesitation. Thereupon, no one bid any further and Isis-san won the
 bid.
 
-[...Kaito...I’ve won... the bid.]
+[...Kaito... I’ve won... the bid.]
 
 [...N-No, ummm, Isis-san? I-I really appreciate the sentiment but... I-Is that
 alright?]
@@ -1122,7 +1122,7 @@ I’m extremely moved by Isis-san for making lunch for me again today.
 
 [Well then, let’s go somewhere with a nice view...]
 
-[...It’s alright...I’ve properly... planned for that.]
+[...It’s alright... I’ve properly... planned for that.]
 
 [Unnn? Do you know a place like that?]
 
@@ -1360,7 +1360,7 @@ situation even at this distance, and they spoke sounding somewhat astounded.
 [Why?!]
 
 “They’ve always had lots of quarrels. The way Shalltear speaks could agitate
-someone, remember? She’s incompatible with the easy-to-anger Megiddo...Well, it
+someone, remember? She’s incompatible with the easy-to-anger Megiddo... Well, it
 seems that both of them are taking proper precautions to prevent the island from
 being destroyed though...”
 

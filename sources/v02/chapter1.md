@@ -1289,7 +1289,7 @@ Ignorance is a scary thing...
 And then, that's when I suddenly remembered. The person who was here, but
 remained silent until now...
 
-[Lilia-sa...n?]
+[Lilia...-san?]
 
 [...]
 

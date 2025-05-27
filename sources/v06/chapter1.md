@@ -214,7 +214,7 @@ like my mind would break... That’s how powerful Kuro’s magic power is if it�
 filled with hostility. If she really puts her killing intent into it, it’s so
 powerful that it even surpasses Isis-san’s magic power of death...
 
-As I think about this, Alice holds out her hand...and creates a shining sphere
+As I think about this, Alice holds out her hand... and creates a shining sphere
 in front of her hand.
 
 [...That’s why, Kaito-san. We will now... lend our magic power to you.]
@@ -615,7 +615,7 @@ when I first heard about the Phantasmal King from Lillywood-san, she said that
 [In fact, Phantasmal King-sama’s skills were nothing short of brilliant. In less
 than a hundred years, just as she declared, she created order in the vast Demon
 Realm. The pseudo-ranking system of Peerage Ranks, the extremely important Six
-Kings...The one who created the foundation of the current Demon Realm is
+Kings... The one who created the foundation of the current Demon Realm is
 definitely Phantasmal King-sama.]
 
 Thereupon, Ozma-san broke off his words and his gaze looked far into a distance,
@@ -623,7 +623,7 @@ seemingly feeling nostalgic about the past, before he looked at me straight into
 the eyes and continued.
 
 [...And here’s the most important part of the story. At that time, Phantasmal
-King-sama asked her family...to become the symbols for the Demon Realm. Elder
+King-sama asked her family... to become the symbols for the Demon Realm. Elder
 Sis Ein was the only one who refused, and thus, the current Six Kings was
 formed... Since then, Phantasmal King-sama “seemed to be feeling guilt” towards
 Underworld King-sama.]

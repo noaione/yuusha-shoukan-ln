@@ -1106,7 +1106,7 @@ Demon Realm where only combat ability matters is boring.]
 Realm?]
 
 [That’s what I think... but it will be difficult. Things that have been built
-for a really long time is unlikely to change...Well, that’s unless Kuromueina
+for a really long time is unlikely to change... Well, that’s unless Kuromueina
 finally takes her throne as the leader of the Demon Realm, but that’s not going
 to happen, right?]
 
@@ -1420,7 +1420,7 @@ due to his size, so Shalltear had to read it aloud and explained it to him. And
 now, other than Shalltear, the five people gathered here... have stunned
 expression on their faces, frantically trying to understand what Shalltear had
 said. The contents of this document contains what can be called as a major
-reform of the Demon Realm...There are a wide range of changes, which also
+reform of the Demon Realm... There are a wide range of changes, which also
 includes the means on how to achieve this change, but the two biggest changes
 written on it was the clarification of power in terms of rank and the selection
 of the king that would be the center of the Demon Realm. Looking at the

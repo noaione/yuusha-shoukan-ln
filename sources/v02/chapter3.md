@@ -268,7 +268,7 @@ expression on her face.
 
 [Eh? W-What is it?]
 
-[...New Year's evening party...Why is it... that only Kaito didn't attend?]
+[...New Year's evening party... Why is it... that only Kaito didn't attend?]
 
 [Hiiiihhhh?!]
 

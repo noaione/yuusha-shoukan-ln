@@ -603,7 +603,7 @@ headed for Isis. On the way towards her, some black snow touched Life, but it
 doesn’t seem to have any effect on her. However, when she was only a few steps
 away from Isis, Life suddenly lost her footing.
 
-[Wha?! This is...my legs...]
+[Wha?! This is... my legs...]
 
 [...Descending from the skies... are the snow of death... If your hand touches
 them, your hand dies... If your foot touches them, your foot dies... However...

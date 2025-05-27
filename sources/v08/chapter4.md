@@ -343,7 +343,7 @@ Memorabilia: A State-of-the-Art Teleportation Magic Tools
 
 [Milady?!]
 
-All of them look like they’re dangerous memorabilias...No, they’re items that
+All of them look like they’re dangerous memorabilias... No, they’re items that
 aren’t on the level of mere memorabilias anymore, as they have greatly exceeded
 Lilia-san’s tolerance level and made Lilia-san faint. While looking at Lilia-san
 with pity, the next person to open her envelope was Sieg-san... Sieg-san’s

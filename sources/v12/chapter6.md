@@ -881,11 +881,11 @@ a way, refreshing among the current members, I couldn’t help but chuckle...
 [Wha?!]
 
 While my body was stretched out in the onsen, Kuro climbed on top of my legs as
-if it was natural.What are you doing, Kuro?! No, you certainly have been sitting
-on my lap a lot lately but... Between sitting on the lap of someone while
-wearing clothes while sitting on the lap while in the nude, do you realize how
-different the destructiveness of these two are... Ahh, h-how soft... wait, stop
-all that!
+if it was natural. What are you doing, Kuro?! No, you certainly have been
+sitting on my lap a lot lately but... Between sitting on the lap of someone
+while wearing clothes while sitting on the lap while in the nude, do you realize
+how different the destructiveness of these two are... Ahh, h-how soft... wait,
+stop all that!
 
 [Ehehe, sitting together with Kaito-kun\~\~]
 

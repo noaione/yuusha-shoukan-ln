@@ -12,7 +12,7 @@ morning for me to come visit her in the office.
 [...Errr, you see.]
 
 What I’m going to report to Lilia-san this time is that Kuro and Isis-san has
-become my lovers...Well, it’s related to my private relationships, so it’s not
+become my lovers... Well, it’s related to my private relationships, so it’s not
 like I’m obligated to report it, but I thought I should properly explain it to
 Lilia-san before she becomes astonished after finding out later. I explained to
 Lilia-san, who was tilting her head at me, that after I became lovers with Kuro,
@@ -40,7 +40,7 @@ LIlia-san.
 
 [How should I say this... I’m sorry.]
 
-It’s a new pattern...No, has this pattern appeared before? She had so many
+It’s a new pattern... No, has this pattern appeared before? She had so many
 fainting variations that I’m not really sure. After a while, Lilia-san, who had
 regained her consciousness, held her head in her hands with a stunned expression
 on her face. She was holding a small bottle in one hand, taking out what looked

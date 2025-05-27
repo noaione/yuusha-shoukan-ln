@@ -825,7 +825,7 @@ Lilia-san's murmurs, which I faintly heard at that time, seemed to be somewhat
 sorrowful. Whatever those reasons are... I may be curious about it and I'd also
 like to know, but I don't think it's a good topic to barge myself in, since I've
 only known her for a month or so. That said, I don't think I'll get an answer if
-I'm just thinking about it by myself like this.As I agonize over my unanswered
+I'm just thinking about it by myself like this. As I agonize over my unanswered
 questions, a voice echoes in my head.
 
 (Should I tell you about it?)

@@ -970,7 +970,7 @@ would have been the ideal woman...”.
 
 ———Wait right there, dear?! Tsk, he ran away?! Hey, stop right there!!!
 
-Mom was a terrible cook, wasn't she...She was so careless that she would even
+Mom was a terrible cook, wasn't she... She was so careless that she would even
 carelessly burn herself, and she would even hold the knife improperly, so I
 remembered being nervous as a child whenever she's in the kitchen. She couldn't
 make elaborate dishes at all, and she would often make mistakes in the amount of
@@ -1175,7 +1175,7 @@ what I heard were true, as Lillywood-san's voice is gentle, and she speaks to
 me, a mere human being, in a very polite manner.
 
 [Errr, well then, please let me call you Lillywood-san. You already know my
-name, but once again...My name is Miyama Kaito. It's nice to meet you.]
+name, but once again... My name is Miyama Kaito. It's nice to meet you.]
 
 “Thank you for your courtesy. It's nice to meet you too. It's a great pleasure
 to meet you here.”
@@ -1703,7 +1703,7 @@ also remembered that I had completely forgotten about the harvest festival. When
 I looked at my watch, it was already 2:00 in the afternoon, and I had to return
 to Rigforeshia soon or I wouldn't be able to make it in time.
 
-“I see...then, I'll go with you.”
+“I see... then, I'll go with you.”
 
 [Eh? E-Ehhhhhh?!]
 
@@ -2063,7 +2063,7 @@ in the evening.”
 
 “Everyone, please try not to bother Kaito-san until the main festival.”
 
-Ah, I see...I didn't know why Lillywood-san suddenly said she would be the one
+Ah, I see... I didn't know why Lillywood-san suddenly said she would be the one
 giving the awards, but what she just said made it make sense. Lillywood-san
 understood that I was going to have lots of people asking me lots of questions
 if she didn't do something, and even if I was the winner, I couldn't leave the

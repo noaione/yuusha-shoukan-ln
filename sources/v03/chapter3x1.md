@@ -90,7 +90,7 @@ I've been watching you, and been amazed by you.
 You are changing the environment around you by your actions, and that was very
 bright for me, as I was afraid to move forward for fear of failure.
 
-Take action to change your present condition on your own...It's easy to put it
+Take action to change your present condition on your own... It's easy to put it
 into words, but I think it's very difficult and daunting to do. How are you able
 to be so strong? Aren't you afraid that your present condition would worsen...
 aren't you afraid of failure? Putting myself into your shoes, I ask myself that

@@ -472,7 +472,7 @@ getting a free meal...
 [If it’s nigiri sushi you’re looking for, we have regular, top-tier and special.
 Which one would you like?]
 
-[Mhmm...W-Well then, I’ll take the special one...]
+[Mhmm... W-Well then, I’ll take the special one...]
 
 [Yes, yes.]
 

@@ -338,7 +338,7 @@ sailor uniform... Why is she wearing a sailor uniform?
 
 Fate-san, who is still on my back, called out in a lackadaisical tone, and the
 pink-haired woman bows her head with a smile, while the woman in the sailor
-uniform silently looked towards another direction.As Fate-san gets off my back,
+uniform silently looked towards another direction. As Fate-san gets off my back,
 the pink-haired woman comes up to me and deeply bows to me.
 
 [It’s a pleasure to meet you, Miyama-sama. I’ve seen you in person at Duchess

@@ -1120,7 +1120,7 @@ envelope, she opened it up—and quickly closed it.
 
 [Milady?]
 
-[...I must have been seeing things... Just now... I might just...have been
+[...I must have been seeing things... Just now... I might just... have been
 seeing things...]
 
 [Milady... What exactly is happening...]

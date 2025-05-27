@@ -1620,8 +1620,8 @@ boring things\~\~]
 
 [...]
 
-[Someone who moves the way I want, someone who talks the way I want...They’re no
-fun at all. It’s as if I’m just playing with a doll... It isn’t fun at all.]
+[Someone who moves the way I want, someone who talks the way I want... They’re
+no fun at all. It’s as if I’m just playing with a doll... It isn’t fun at all.]
 
 [I-It feels like I can somehow understand... though it feels like I can’t...]
 

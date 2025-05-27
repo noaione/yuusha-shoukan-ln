@@ -497,7 +497,7 @@ Bell has this cute side that likes to run around with me on her back, which
 recently made me change her walking route to outside the city. I was making sure
 not to casually go outside the city because dangerous monsters might be lurking
 around, but that isn’t any problem now with the cheat-level guard Alice. Well,
-though I said that...Not many monsters seem to be going out of their way to
+though I said that... Not many monsters seem to be going out of their way to
 approach human cities, and I have yet to encounter one during our strolls.
 
 But I digress. Anyway, I wanted to let Bell run, so I suggested to the two of
@@ -642,11 +642,11 @@ get a heart attack, so I started thinking of any way that I could divert the
 conversation...
 
 With such things in mind, I suddenly remembered something. I just realized that
-Dr. Vier and I shouldn’t be the only ones riding on Bell’s back right now...Yes,
-Lynn had also been hiding beneath my clothes. If I can get Lynn to join in the
-conversation, I could keep some tranquility in my heart... wait, arehh? Wasn’t
-Dr. Vier touching the area around my abdomen just now? Lynn was supposed to be
-around that area...
+Dr. Vier and I shouldn’t be the only ones riding on Bell’s back right now...
+Yes, Lynn had also been hiding beneath my clothes. If I can get Lynn to join in
+the conversation, I could keep some tranquility in my heart... wait, arehh?
+Wasn’t Dr. Vier touching the area around my abdomen just now? Lynn was supposed
+to be around that area...
 
 [...Eh? Arehh? Where’s Lynn?]
 

@@ -751,7 +751,7 @@ here, you see? I can’t just give him back to you.]
 
 Alice spoke in her usual aloof tone, sweat could be seen dripping down her
 forehead, and they could tell that she doesn’t have much composure in this
-situation.However, despair couldn’t be seen in her expression at all. In other
+situation. However, despair couldn’t be seen in her expression at all. In other
 words, Alice still possesses a card that would get her out of this situation.
 Recognizing this, Ozma and Pandemonium began to quietly circulate their magic
 power so that they could immediately attack.
@@ -1131,7 +1131,7 @@ scratching her head.
 
 [...Kaito-san is an optimistic person. He easily trusted a suspicious person
 like me, scolds me because he really cares about me, and helps me with all sorts
-of stuff...He’s really quite a softhearted person.]
+of stuff... He’s really quite a softhearted person.]
 
 [...]
 

@@ -161,7 +161,7 @@ towards me.]
 [...You mean to say that Alice had her attention on Isis-san earlier?]
 
 [...Unnn... This was the first time... Shalltear did that... since she started
-escorting Kaito... so I got...a little curious.]
+escorting Kaito... so I got... a little curious.]
 
 That certainly is a curious behavior. It’s not as if Alice was the type that
 would just commit a blunder. That being the case, she must have thought about

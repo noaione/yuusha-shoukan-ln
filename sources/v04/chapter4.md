@@ -774,7 +774,7 @@ settle this matter.
 And then, the distance of about five paces was closed down in an instant, and a
 strike that would reap away Alice’s life—didn’t happen.
 
-[...Wh...at?]
+[...What?]
 
 [Did I even say that was my top speed?]
 
@@ -843,7 +843,7 @@ smile appears on her mouth.
 [...Since we’re at it, how about I tell you what they call me “over there”.]
 
 While saying that, Alice throws the knife on her feet. Thereupon, Sigma’s
-feet...the shadows under them turned into countless spear-like shapes and
+feet... the shadows under them turned into countless spear-like shapes and
 skewered Sigma’s body.
 
 [Ghaa?! Haaaahh?!]
@@ -1603,7 +1603,7 @@ good fighter.]
 [Haahh? I can tell that just by looking at him. That guy’s fighting ability is
 just about as strong as a slime.]
 
-[...N-No, he might be a bit stronger than a slime but...That’s generally what
+[...N-No, he might be a bit stronger than a slime but... That’s generally what
 I’m saying.]
 
 Chronois-san... If you’re going to back me up here, could you not drop me down
@@ -1760,7 +1760,7 @@ loses... Alright, I’ll go first! Oi, start pouring!]
 
 [Hahh!]
 
-Following Megiddo-san’s words, his subordinate poured alcohol into his cup.That
+Following Megiddo-san’s words, his subordinate poured alcohol into his cup. That
 cup that might be enough for a whole barrel... And Megiddo-san drank that
 ridiculous amount of alcohol all at once.
 

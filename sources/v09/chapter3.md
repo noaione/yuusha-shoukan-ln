@@ -642,7 +642,7 @@ The place looks even better than I expected... I came alone because I left on
 such short notice yesterday, but it might have been more fun to come with
 someone else. Well, that’s for next time. For now, I’ll go to the cottage where
 I plan to stay. Fortunately, my luggages are all in the magic box, so I can just
-walk around empty-handed.Magic really is quite convenient. Leisurely enjoying
+walk around empty-handed. Magic really is quite convenient. Leisurely enjoying
 the scenery, I presented my reservation ticket at the Teleportation Gate and
 looked at the key I received. When I arrived at the cottage where I would be
 staying, the faint smell of wood tickled my nostrils. The inside looked quite
@@ -1424,7 +1424,7 @@ From my image of her, Lilia-san, at least, isn’t supposed to be someone who
 would do this kind of thing on her own accord and that’s why my thoughts stopped
 until I was in this situation, not being able to stop this from happening
 beforehand. I may actually be mistaken and Lilia-san is actually an aggressive
-person but...Looking at the current situation, with her face red and looking
+person but... Looking at the current situation, with her face red and looking
 down in embarrassment, as if she’s desperately trying to endure her shyness,
 it’s obvious that it isn’t the case. When human beings are in a crisis, our
 brains run fast, and right now, my head is spinning as fast as a computer,

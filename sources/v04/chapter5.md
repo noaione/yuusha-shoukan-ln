@@ -7,7 +7,7 @@ toc: true
 It was the 17th day of the Water month, two days after Megiddo-san’s invasion.
 
 Megiddo-san made as much ruckus as possible, and after saying “I’ll come again”,
-he left...Seriously, he came and went like a storm.
+he left... Seriously, he came and went like a storm.
 
 The 16th of the Water month was a peaceful day, so I thought we could have
 another peaceful day today... but that’s apparently not the case...
@@ -370,7 +370,7 @@ In contrast to me, who sits down limp and breathing has turned heavy, Yuzuki-san
 still looks lively. I guess this really shows the difference between our
 habits... Nghh, it really hurts.
 
-[A-Anyway, I’ve really become frailer...I feel like I could go a bit further
+[A-Anyway, I’ve really become frailer... I feel like I could go a bit further
 than this...]
 
 [What with those words that stink like an old man? Besides, you do realize that
@@ -968,7 +968,7 @@ her face.
 I asked Alice to make it out of a material that’s really stretchy... so I don’t
 think it will be torn off even if you turn into your magical beast form.
 
-[...Kaito...kun.]
+[...Kaito...-kun.]
 
 The necklace that Kuro took out of the box is designed with silver stars lined
 up in a row, and it’s the one that Kuro asked me if it would look good on her on

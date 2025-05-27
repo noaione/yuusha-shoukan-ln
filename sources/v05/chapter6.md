@@ -26,7 +26,7 @@ not familiar with the geography of Symphonia’s royal capital.
 
 I could ask Kuro, the author of the book, but she visits at night. No, I’m sure
 Kuro will come if I called her, but I don’t want to bother her, who’s most
-probably busy with other things during the day.Lilia-san, Sieg-san,
+probably busy with other things during the day. Lilia-san, Sieg-san,
 Lunamaria-san and Illness-san were also busy with their work. Umu, I wonder if
 there’s anyone else I can ask? Someone who was familiar with the geography of
 Symphonia’s royal capital, was clearly bored, and was willing to go along with

@@ -51,7 +51,7 @@ breakfast was ready. For the time being, I decided to put aside thinking about
 Kuro for the future as I left the room, heading for the dining room.
 
 Our breakfast was a simple Western-style one, but it was served with pure
-white-colored bread.They explained to me that in this world, it's customary to
+white-colored bread. They explained to me that in this world, it's customary to
 eat white bread at the first meal of the new year. I don't know how they made it
 this white, but it tasted just like a plain butter roll.
 

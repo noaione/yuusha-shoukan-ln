@@ -259,7 +259,7 @@ Kaito-san’s heart” right in front of me”... Isn’t that what it means?]
 Her voice was so cold and intimidating that one would think that their head had
 been cut off just by her killing intent alone. Just like a criminal waiting for
 the death sentence that he couldn’t escape from, as if the right of life and
-death is already out of his hands...The man understood that in an instant.
+death is already out of his hands... The man understood that in an instant.
 
 [...It’s just, well, my master is very kind and sweet... I’m sure that if I kill
 you, he will feel responsible for that... That’s why I won’t kill you.]
@@ -691,7 +691,7 @@ actions of God of Fate-sama wasn’t Miyama-sama’s fault... So why does he hav
 be reproached by someone he first met?]
 
 [I don’t really care what happens to a single human. It’s just, ummm, I
-remembered that I have some business I have to deal with...I-I’ll just be doing
+remembered that I have some business I have to deal with... I-I’ll just be doing
 that... so I’m going out for a bit.]
 
 [Yes. Have a good day.]
@@ -765,7 +765,7 @@ how to respond to her.
 
 [That’s why, quickly say your request!]
 
-[E-Errr...T-Then, y-you don’t really need to apologize but... I-In that case,
+[E-Errr... T-Then, y-you don’t really need to apologize but... I-In that case,
 errr... I know! If you could treat me to a meal next time, that would be
 enough.]
 

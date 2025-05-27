@@ -61,8 +61,8 @@ yearned for more. She began to think about how much happiness awaited her once
 she reached Count-rank. She wasn’t thinking about standing at the top of the
 Demon Realm. She knew that even if she spent her whole life training her
 abilities to get stronger, she would never be able to reach even the tip of any
-of the Six Kings’ strength. She just wanted to be as close to it as
-possible...ascend to the highest place that she could.
+of the Six Kings’ strength. She just wanted to be as close to it as possible...
+ascend to the highest place that she could.
 
 What was most ironic was that she was ‘slightly out of reach’ from Count-rank...
 which meant she could fight even with those who were low Count-rank. Even though

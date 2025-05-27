@@ -501,7 +501,7 @@ me and gently grabs one of my hands... and puts her forehead on the back of my
 hand. No, she’s still wearing that opera mask, so it’s actually the mask that’s
 hitting the back of my hand...
 
-[Once again...You’ve done well, Kaito-san. Please accept my apologies for my
+[Once again... You’ve done well, Kaito-san. Please accept my apologies for my
 past rudeness. And to you who far exceeds my expectations, I pledge my respect
 and allegiance.]
 

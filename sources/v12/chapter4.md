@@ -469,7 +469,7 @@ there were so many varieties of stores here in the main streets, including
 amusement shops. The city is safe and the people live in abundance, and there
 are no slums because the government provides supporting aid to those in need.
 However, as expected, not everyone lives a rich life, and I’m sure there are
-people I’ve never met who are troubled with their everyday meals.But even if
+people I’ve never met who are troubled with their everyday meals. But even if
 that’s so, they’re probably much less than what I had imagined... I really think
 this is a nice world.
 

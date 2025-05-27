@@ -1517,7 +1517,7 @@ the day.
 Time flew by so quickly. When was the last time I spent a day this boisterous,
 yet fun?
 
-[Kuro...Thank you for today.]
+[Kuro... Thank you for today.]
 
 [Unnn? I also had lots of fun. Let's go out together again!]
 

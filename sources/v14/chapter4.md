@@ -827,7 +827,7 @@ felt as if the fatigue accumulated from my daily life was being healed.
 
 As we happily moved along like that, I saw two familiar backs a good distance
 away. They were definitely Acht and Eva... and it seems like they’re in
-Humanized form.Well, Acht is pretty big, so perhaps, their human form would be
+Humanized form. Well, Acht is pretty big, so perhaps, their human form would be
 more convenient to go around the festival. Unnn, be that as it may... Why are
 the both of them “sitting on the ground”?
 
@@ -1510,7 +1510,7 @@ I’ll be encountering anyone anymore...
 [...Oi, pervert. I’ve told you many times not to show up in front of me. You
 want to die?]
 
-[Dang, just looking at you makes me sweltering...You lowly muscleheads still
+[Dang, just looking at you makes me sweltering... You lowly muscleheads still
 lack intelligence as ever... If you get out of my sight now, I might consider
 letting you go, you know?]
 

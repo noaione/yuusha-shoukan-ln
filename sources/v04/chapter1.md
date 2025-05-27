@@ -458,7 +458,7 @@ you.]
 [Unnn?]
 
 [It’s true that Funny Rabbits are monsters famous for their agility, but they
-don’t run properly except when they’re aiming at their prey. So, look...they’re
+don’t run properly except when they’re aiming at their prey. So, look... they’re
 not very popular either, right?]
 
 [Heehhh...]
@@ -553,7 +553,7 @@ place is the Funny Rabbit! It’s the Funny Rabbit!!!”
 
 And thus, in the end, with an overwhelming lead, the Funny Rabbit won.
 
-I never thought I’d get it right...While Alice just looked at it with her mouth
+I never thought I’d get it right... While Alice just looked at it with her mouth
 opened wide. As a self-proclaimed beauty, I don’t think that’s something you
 should do...
 

@@ -119,7 +119,7 @@ He isn't that deep of a person, just a kind and dependable older man.
 
 I think the cold attitude he had at first was probably just because Miyama-san
 as also nervous himself, but at least now, I think we've become close enough
-that I can enjoy hanging out with him like this.It's probably just a bad habit
+that I can enjoy hanging out with him like this. It's probably just a bad habit
 of mine that I've been wary, reading too much into things. In fact, when I talk
 about games with Miyama-san, the conversation gets really lively. Even when he
 himself was excited about the topic though, he was still being mindful of

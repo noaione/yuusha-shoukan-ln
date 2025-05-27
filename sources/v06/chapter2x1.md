@@ -40,7 +40,7 @@ their heads.
 
 Why? For what reason? I just want someone to be next to me... You don’t have to
 have the same strength as I do, just don’t look at me as a superior, and just
-laugh with me by my side...That is all that I wanted...
+laugh with me by my side... That is all that I wanted...
 
 I want someone that treats me as an equal, someone who stands next to me... and
 when I finally became aware of what that wish means, it really became more
@@ -57,7 +57,7 @@ by Shalltear.
 [I’m sorry... That’s definitely impossible for me. I am not the being that
 you’re wishing to find.]
 
-[...Wh...y...]
+[...Why...]
 
 Shalltear was a mysterious child. She was from another world, and even though
 her soul is quite mature, she was a bit of a klutz who couldn’t handle her

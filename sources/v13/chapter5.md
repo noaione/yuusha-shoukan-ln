@@ -372,11 +372,11 @@ wife.]
 
 My mind went blank for a moment at her sudden declaration of marriage, but I
 immediately thought of the reason why. Neun-san is a person who thinks in a very
-old-fashioned way...She may be thinking that she should only show her naked body
-to the person who will be her husband. And even though it may be an accident, I
-saw Neun-san’s naked body... Her naked body which isn’t supposed to be shown to
-anyone but her husband-to-be... In short, errr, that should mean that... I
-should take responsibility for that?
+old-fashioned way... She may be thinking that she should only show her naked
+body to the person who will be her husband. And even though it may be an
+accident, I saw Neun-san’s naked body... Her naked body which isn’t supposed to
+be shown to anyone but her husband-to-be... In short, errr, that should mean
+that... I should take responsibility for that?
 
 Listening to her words that held heavy meaning within them, I stayed silent for
 a while. After thinking about it for a while, I crouched down to make eye
@@ -414,9 +414,9 @@ together with the person you wanted to marry.]
 [That’s why, ummm... It may be selfish of me, but can we just forget about what
 happened tonight?]
 
-After I had expressed my intentions, I quietly waited for Neun-san’s
-words.Neun-san stared at me for a few moments... and letting out a small sigh,
-she smiled.
+After I had expressed my intentions, I quietly waited for Neun-san’s words.
+Neun-san stared at me for a few moments... and letting out a small sigh, she
+smiled.
 
 [...I understand. Let’s both forget what happened tonight.]
 

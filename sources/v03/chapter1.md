@@ -370,7 +370,7 @@ stuff huh?]
 But well, I guess it couldn't be helped. Kuro is one of the Six Kings, the
 pinnacles of the Demon Realm. They were people who could be described as Demon
 Realm's rulers, so they'd obviously be very busy. Even though I don't feel that
-kind of aura around her when I'm with her...She almost never comes to visit
+kind of aura around her when I'm with her... She almost never comes to visit
 during the daytime, so she really must be very busy.
 
 [...No, rather than busy... It's more like things would become hectic...]
@@ -588,7 +588,7 @@ over, leap backwards”. Well then, bye bye\~\~]
 
 With that, Fate-san disappeared. Leaving behind a mysterious piece of advice...
 
-The 3rd Day of the Water month.Under the clear, refreshing skies, in
+The 3rd Day of the Water month. Under the clear, refreshing skies, in
 preparations for the Sacred Tree Festival that we're heading to now, we are now
 standing before a large gondola and two white dragons. The Flying Dragon Flight,
 which is the means of transportation we're using to head towards the Elven

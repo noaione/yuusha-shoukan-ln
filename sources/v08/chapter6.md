@@ -530,7 +530,7 @@ welcome you as an “executive”, you know?]
 
 Illness had no idea who Shalltear was. Although she was talking about something
 large-scale like the order of the Demon Realm, she was concerned that such a
-powerful person wasn’t well-known in the Demon Realm and unknown to Illness.In
+powerful person wasn’t well-known in the Demon Realm and unknown to Illness. In
 response to Illness’ question, with a smile still on her face, Shalltear spoke.
 
 [For those who don’t know me, I am known as the Phantasmal King, No Face.]

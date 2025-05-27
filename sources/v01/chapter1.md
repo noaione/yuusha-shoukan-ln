@@ -303,7 +303,7 @@ comfortable as you wish.]
 When Yuzuki-san anxiously voiced that out, Lilia-san showed a gentle smile. To
 be honest, I'm also clueless about table manners. I know that you use a fork and
 knife on those at the outer area, but that's basically the extent of my
-knowledge.In fact, I've never even tried to eat like that.
+knowledge. In fact, I've never even tried to eat like that.
 
 Shortly after, female servers came out carrying silver domed plates that I had
 only ever seen on TV. Right at the moment where they were about to serve it in

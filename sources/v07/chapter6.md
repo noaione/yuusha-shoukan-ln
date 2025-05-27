@@ -1210,7 +1210,7 @@ In fact, this time just so happens to be the first time I’ve ever seen Eta and
 Theta fighting, and from the fact that they’re usually together a lot, I know
 that they’re good friends.
 
-[Both Eta and Theta have your own qualities in what you’re good at.Eta has your
+[Both Eta and Theta have your own qualities in what you’re good at. Eta has your
 own great qualities, while Theta also had your own, so I hope you’ll respect the
 other person as well.]
 

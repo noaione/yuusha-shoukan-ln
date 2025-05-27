@@ -80,7 +80,7 @@ A Count-level, High-Ranking Demon, working as a doctor. She is also Noir’s att
 
 #### Zwei
 
-A Magic Doll.A member of Kuromueina’s camp, in charge of managing the land Kuromueina owns. She’s extremely serious and can’t take jokes, and is strictest with herself over others. She loves her family with all her heart. She has the power to manipulate force fields.
+A Magic Doll. A member of Kuromueina’s camp, in charge of managing the land Kuromueina owns. She’s extremely serious and can’t take jokes, and is strictest with herself over others. She loves her family with all her heart. She has the power to manipulate force fields.
 
 #### Baachus
 

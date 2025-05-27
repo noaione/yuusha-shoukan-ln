@@ -393,7 +393,7 @@ Recovery Magic to stop it, Isis! Is there somewhere we can lie him down?]
 [?!]
 
 Seeing me with a bloody nose, Kuro and Isis-san flusteredly rushed over towards
-me...Aaaahhhh?! Stop right theeeeeeerrrreee! In all sorts of ways, I’m already
+me... Aaaahhhh?! Stop right theeeeeeerrrreee! In all sorts of ways, I’m already
 reaching my limits!!! And thus, after Kuro puts her hand over my face, the blood
 instantly stopped, and at the same time as Isis-san turned around to guide us, I
 felt my body being lifted with one hand. Or rather... she just easily lifted me,

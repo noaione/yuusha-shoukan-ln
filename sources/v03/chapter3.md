@@ -268,7 +268,7 @@ It's a high-risk spell because it was originally intended to be used in a really
 critical situation, but thanks to this magic, even someone like me who has
 almost no experience in combat can fight.
 
-However, as I had originally expected...It's still impossible to defeat it.
+However, as I had originally expected... It's still impossible to defeat it.
 Although the Black Bear does stagger from time to time, it doesn't do much
 damage at all, so even if I could maintain this magic for an hour, it would
 still be impossible to defeat it.
@@ -1505,7 +1505,7 @@ Anima's shouting at him like she's threatening her, when I asked her, she
 immediately corrected her posture.
 
 [These days, there are many people who run away from me even though they have
-weapons, but Master boldly challenged me with just his bare hands.Even though
+weapons, but Master boldly challenged me with just his bare hands. Even though
 he's clearly inferior to me in terms of fighting ability, he held no fear nor
 hesitation at all.]
 

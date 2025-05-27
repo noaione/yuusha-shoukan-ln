@@ -1412,7 +1412,7 @@ Through my Sympathy Magic, I conveyed my emotions. What I’m using now is that
 magic that stopped the fight between Chronois-san and Ein-san before. Forcefully
 transmitting my strong desire to not lose... I jumped on Ozma-san, whose
 movements slightly slowed down in surprise. This tactic is effective because
-it’s a surprise attack. However, there won’t be a second time...That’s why,
+it’s a surprise attack. However, there won’t be a second time... That’s why,
 reach him!
 
 I desperately reached out to Ozma-san, who took evasive action even though his

@@ -32,7 +32,7 @@ serious the main story gets, you wouldn’t appear in it.]
 [SHADDUUUUUUP! I’m a serious character! I’m the serious of the serious. I’m
 seriousness, and seriousness is me.]
 
-[No, I don’t know what you’re talking about anymore...but if you accept being a
+[No, I don’t know what you’re talking about anymore... but if you accept being a
 gag character, you might have a chance of appearing in the main story, you
 know?]
 

@@ -698,11 +698,11 @@ be great if things just end up with a heartburn but...
 
 [...Mega baby castella... Giga baby castella... Nice.]
 
-See that, now the Baby Castella Demon got a twinkle in her eyes.She’s definitely
-going to put this in action. Even if she did decide to discard this idea this
-time, she’ll definitely make it and bring it to me sooner or later. I wonder
-why? If you normally think about it, it should be twice the normal size or
-something around that size... but why the heck am I imagining “Kuro holding a
+See that, now the Baby Castella Demon got a twinkle in her eyes. She’s
+definitely going to put this in action. Even if she did decide to discard this
+idea this time, she’ll definitely make it and bring it to me sooner or later. I
+wonder why? If you normally think about it, it should be twice the normal size
+or something around that size... but why the heck am I imagining “Kuro holding a
 baby castella bigger than a person’s face” in my mind from a while ago?
 
 There’s no way that would become real, right? I-It should be alright. As

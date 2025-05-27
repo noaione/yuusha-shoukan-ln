@@ -1573,9 +1573,9 @@ the protagonist’s status correction... No, was it because I had the
 protagonist’s status correction that she was approaching me? Or rather, what the
 heck am I thinking about? As I felt my thoughts getting confused, I saw the
 blanket move, and Sieg-san moved closer to me... Wait, aren’t you too close?!
-Isn’t that almost zero distance already?! I-I’m telling you, that’s
-dangerous...Ahh, she smells good and I could feel her breath on my skin... No,
-not yet. Endure it, free myself from obstructive thoughts!!!
+Isn’t that almost zero distance already?! I-I’m telling you, that’s dangerous...
+Ahh, she smells good and I could feel her breath on my skin... No, not yet.
+Endure it, free myself from obstructive thoughts!!!
 
 Feeling my heart beating fast when Sieg-san moved so close to me that our skin
 was almost touching, Sieg-san puts her hand lightly on the center of my chest

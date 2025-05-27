@@ -395,7 +395,7 @@ planted all over the hill, and I could see it clearly even though it was getting
 darker. The flowers, with their clear blue crystalline petals, make me feel
 nostalgic and seem more appropriate for this occasion than any other.
 
-[...Kaito...Do you remember... this flower?]
+[...Kaito... Do you remember... this flower?]
 
 [Yes, it’s the flower that Isis-san gave me when we first met... Blue Crystal
 Flower, right?]
@@ -428,7 +428,7 @@ away... and that’s why... I’ve always... always... hated this world.]
 
 [...]
 
-[...Why was it... that I was even born? ...Why was it...that the magic power of
+[...Why was it... that I was even born? ...Why was it... that the magic power of
 death... dwells within me? ...I thought about it... over... and over again.]
 
 I can somehow understand the feeling of hating oneself, even if what I felt was

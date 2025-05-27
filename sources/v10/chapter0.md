@@ -7,7 +7,7 @@ toc: true
 After staying the night, this is the second day here in the Hydra Kingdom. I
 woke up pretty early, and since I don’t have anything much to do, I thought I
 should take a stroll, so I’m currently walking along the shore in the dim
-morning light.As expected of a port town, many people seem to be working early
+morning light. As expected of a port town, many people seem to be working early
 in the morning, and the city is quite lively. While listening to the noisy but
 enjoyable hustle and bustle, as I continued with my leisurely walk... I arrived
 at a slightly different place. There are a number of people here and there, all

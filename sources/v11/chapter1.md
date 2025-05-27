@@ -768,8 +768,8 @@ the heck are outrageous things happening to places where I, the person
 concerned, don’t know... This is information I really didn’t want to know.
 
 [...I mean, Kaito-san’s adoration association is also... or rather, it has war
-potential even greater than Kuro-san’s...No, I guess this shouldn’t be something
-I should tell him huh.]
+potential even greater than Kuro-san’s... No, I guess this shouldn’t be
+something I should tell him huh.]
 
 How should I say this... I heard about various special hidden stories regarding
 this world, but I guess I should think too much about them. It would give me a
@@ -2048,8 +2048,8 @@ after Alice, she turns towards me with a grin on her lips.
 [...Could it be that, Alice, from the start...]
 
 [...W-Well, ummm... Asking you to treat me to dinner, errr, was just an excuse
-to ask you on a date anyway...T-That’s why, please let me thank you for at least
-this much.]
+to ask you on a date anyway... T-That’s why, please let me thank you for at
+least this much.]
 
 [...Thank you, you say, for what exactly?]
 
