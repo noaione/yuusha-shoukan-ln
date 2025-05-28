@@ -1066,7 +1066,7 @@ feel like I’m spending my time luxuriously.
 
 [...Fuaahhh... Ah, I’m sorry.]
 
-[Kuhihi, it’s a beautiful day,isn’t iiiiiit? It’s no wonder you would feel
+[Kuhihi, it’s a beautiful day, isn’t iiiiiit? It’s no wonder you would feel
 sleepyyyyyyy.]
 
 I unconsciously leaked out a yawn, but Illness-san didn’t seem to mind and was
@@ -1131,42 +1131,42 @@ must be a Holy Mother?
 As I was thinking about this, feeling nervousness alongside an indescribable
 pleasantness as I dozed off... I suddenly heard Illness-san’s voice.
 
-[Let’s say if the world were a single story, how many pages would there be?]
+[_Let’s say if the world were a single story, how many pages would there be?_]
 
 Is that a song? Illness-san’s beautiful singing voice, alongside the gentle
 rhythm, sounds pleasant to the ears.
 
-[The you on that page may be very small and hard to see.]
+[_The you on that page may be very small and hard to see._]
 
 [...]
 
-[But that doesn’t matter, for you are the next page’s... important piece.]
+[_But that doesn’t matter, for you are the next page’s... important piece._]
 
 [...]
 
-[Please, keep walking, for the future lies where you’re going.]
+[_Please, keep walking, for the future lies where you’re going._]
 
 This is the first time I’ve heard this song, but the lyrics seem gentle and
 devotional. Even so, Illness-san... is really good at singing. I couldn’t help
 but listen to her song that was kindly and gently spun, as if it was speaking to
 me.
 
-[Let’s say if the world were a single story, the miracle of meeting you like
-this is something I’m grateful for.]
+[_Let’s say if the world were a single story, the miracle of meeting you like
+this is something I’m grateful for._]
 
 The lyrics seemed to have entered the second verse, and she had sung with the
 same rhythm as the first line.
 
-[As you who reach out to others, the others also reach out to you. And so, the
-circle expands, and the page gains color.]
+[_As you who reach out to others, the others also reach out to you. And so, the
+circle expands, and the page gains color._]
 
 [...]
 
-[You are never alone, for you have many friends by your side.]
+[_You are never alone, for you have many friends by your side._]
 
 [...]
 
-[Please, don’t forget, for there are fans who wish for your happiness.]
+[_Please, don’t forget, for there are fans who wish for your happiness._]
 
 As if guided by the beautiful singing voice, I moved my gaze a bit, and
 Illness-san, who was singing while patting my head, also looked a bit in my
@@ -1175,22 +1175,22 @@ stare straight at me.
 
 ![Insert 3](../../_Images/v11/Insert3-Semi.png#.insert)
 
-[I’m sure the road you walk will not be smooth, strong winds may push you back,
-but I’m sure, you will grow with each of your steps.]
+[_I’m sure the road you walk will not be smooth, strong winds may push you back,
+but I’m sure, you will grow with each of your steps._]
 
 [...]
 
-[Someday, when you are old, reading the story again will make me smile, even
-when I’m not in its pages.]
+[_Someday, when you are old, reading the story again will make me smile, even
+when I’m not in its pages._]
 
 [...]
 
-[Let’s say if the world were a single story, I want to be the reader of the
-small, very small story you weave.]
+[_Let’s say if the world were a single story, I want to be the reader of the
+small, very small story you weave._]
 
 [...]
 
-[That’s why please, don’t forget, I will be your fan, wishing you happiness.]
+[_That’s why please, don’t forget, I will be your fan, wishing you happiness._]
 
 It seems that this is where the song ends, as Illness-san ended it with an
 unusual smile.
@@ -1324,7 +1324,7 @@ places, that would have been the end of it. However, thanks to Illness-san’s
 presence here, someone who knows a lot about flowers, I was never bored as she
 taught me the language of flowers and other trivia.
 
-[... Speaking of which, Illness-san.]
+[...Speaking of which, Illness-san.]
 
 [Yeeeeees?]
 
@@ -1438,18 +1438,17 @@ Roses is a flower that holds its own special language. Of course, as Illness
 taught Kaito, just as how it comes with varying colors, it also holds different
 meanings... but there are also different factors that could change its meaning.
 
-Among them are the red roses... Just as the red roses, which hold the meaning
-“love” in the language of flowers, is a flower that symbolizes love, also has
-the special property that “when given to someone, the meaning it holds changes
-depending on the number of roses you give”.
+Among them are the red roses... Just as the red roses itself symbolizes “love”
+in the language of flowers, it also has a special meaning that changes depending
+on the number of roses is given to someone.
 
 For example...
 
-One rose means “love at first sight”.
+One rose means: Love at first sight.
 
-Thirteen roses means “eternal friendship”.
+Thirteen roses means: Eternal friendship.
 
-Fifty roses means “perpetual love”.
+Fifty roses means: Perpetual love.
 
 The properties of such a special flower whose meaning changes depending not only
 on its color, but also on the number of roses when given to others... was

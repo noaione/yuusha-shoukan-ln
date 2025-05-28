@@ -450,7 +450,7 @@ visit, she accepted her consultation without complaint.
 [...Speaking of which, I don’t think I’ve heard news about him, but what
 happened to the former Emperor?]
 
-[ I didn’t do anything to him. To be honest, I wanted to have a child, so I just
+[I didn’t do anything to him. To be honest, I wanted to have a child, so I just
 chose someone by their face, and he himself isn’t to my liking, so I wasn’t
 interested in him.]
 
@@ -460,7 +460,7 @@ a person and make their death look like an accident. At the same time, however,
 she is convinced that Ristia’s words aren’t false. If Ristia had murdered the
 former emperor, the former Emperor would have met a more tragic end...
 
-[... By the way, Mother, may I take this opportunity to ask your advice on
+[...By the way, Mother, may I take this opportunity to ask your advice on
 another matter?]
 
 [Unnn? What now?]
@@ -551,7 +551,7 @@ guess he didn’t dare to mention it.]
 After telling her that much, Ristia put the letter on the table and looked as if
 she was thinking about something.
 
-(... Illness is, I believe, should be Pandemonium’s real name, right? She went
+(...Illness is, I believe, should be Pandemonium’s real name, right? She went
 with the otherworlder to that flower garden? That doesn’t seem like... something
 Shalltear-sama ordered her. Maybe I should ask her about it sometime...)
 

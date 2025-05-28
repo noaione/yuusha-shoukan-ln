@@ -328,10 +328,9 @@ other, until flowers around us began to glow fantastically with the coming of
 the night. Thereupon, feeling a bit of regret from having to part with her, we
 collected some night flowers... Leaving this memory of this day in this form.
 
-As a side note, saying “... I’m really happy... to make memories... with
-Kaito.”, Isis-san bashfully giggles, looking too cute. We then hugged and deeply
-kissed each other, and as a result, I ended up coming home later than I
-expected.
+As a side note, saying “...I’m really happy... to make memories... with Kaito.”,
+Isis-san bashfully giggles, looking too cute. We then hugged and deeply kissed
+each other, and as a result, I ended up coming home later than I expected.
 
 ---
 
@@ -339,7 +338,7 @@ While Kaito and Isis were enjoying their date, Alice, who was sitting on a
 relatively large rock a few distance away from them, was having a conversation
 with a certain person in her mind.
 
-(... I see. With those circumstances, Miyama Kaito would certainly move... In
+(...I see. With those circumstances, Miyama Kaito would certainly move... In
 that case, whether it occurs sooner or later, that situation will surely happen
 huh.)
 
@@ -398,7 +397,7 @@ first place, Iris’ current state of dwelling within a heart tool is completely
 unprecedented, so even supplementing missing information with guesswork is
 difficult.
 
-(... Iris, did some kind of trigger for this happen?)
+(...Iris, did some kind of trigger for this happen?)
 
 (Hmmm, I can’t think of anything that comes to mind. ...No, come to think of it,
 after talking to you in the dream, I thought I heard a ‘click’ as my
@@ -407,7 +406,7 @@ consciousness faded away.)
 (A sound huh... hmmm, it’s difficult to say with just this information. Even if
 Iris’ current state is the result of some external influence, it is still
 puzzling. I wonder if even Shallow Vernal-sama could cause such an unorthodox
-phenomenon without me noticing. ...But even if she could, she would have no
+phenomenon without me noticing... But even if she could, she would have no
 motive for doing so.)
 
 Even if Shallow Vernal could interfere with the heart tool within Alice’s mind
@@ -747,7 +746,7 @@ indescribable eerie feeling? What the heck will happen if her love brings about
 a big bang... The part about it not calling it a mere explosion scares me so
 much that I don’t want to know about it.
 
-[Well, with that, I’ve finished “about 90%” of my business is over,but there is
+[Well, with that, I’ve finished “about 90%” of my business is over, but there is
 “57 minutes and 42 seconds” left until my child wakes up, so come talk with
 Mother some more!]
 
@@ -918,7 +917,7 @@ of that time have not faded one bit.
 (...Now then, I wonder how my best friend, who overthinks more than my child,
 move from here on out... Maybe I should help her again in secret. The “Demon
 Lord” case aside... even Alicia would have a hard time having no hints about
-“Shallow Vernal’s”case.)
+“Shallow Vernal’s” case.)
 
 While thinking about such things, Makina leisurely enjoyed chatting with Kaito
 until he woke up.
@@ -1867,7 +1866,7 @@ how much I think about it, there’s no way I can get an answer. Holding my fuzz
 head, I thoughtlessly raised my upper body, and right at that moment, a glowing
 magical bird appeared in front of me.
 
-[... A hummingbird?]
+[...A hummingbird?]
 
 This is a means of communication that is very useful in this world, something
 like a mail made out of magic. I wonder who would send me a hummingbird at this

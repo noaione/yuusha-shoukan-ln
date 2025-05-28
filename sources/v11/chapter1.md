@@ -322,7 +322,7 @@ and ears as much as possible.
 [...Ouch... Isn’t that just something to spice up and make our date more
 enjoyable...]
 
-[I didn’t ask for that spice!]
+[I didn’t ask for that kind of spice!]
 
 Good grief, rather than being the same as usual, she’s messing around more than
 usual. Well, I don’t want to waste any more time scolding her, so I think I’ll
@@ -346,7 +346,7 @@ quickly intertwined my fingers with hers, making them into a lover’s knot.
 thousands of times older than Kaito-san... so unfortunately for you, I won’t be
 embarrassed by something like this!]
 
-[...”Your right hand and right foot were perfectly in sync” though?]
+[...“Your right hand and right foot were perfectly in sync” though?]
 
 [...I was just feeling like doing that today.]
 
@@ -666,7 +666,7 @@ and since it introduces stores by area, it’s really helpful at times like this
 
 [Yes, I have received several copies of those books.]
 
-[... She gave me the whole set of about a hundred volumes, but are these books
+[...She gave me the whole set of about a hundred volumes, but are these books
 actually quite famous?]
 
 [Hmmm. They’re certainly famous... but I guess there are only a few people who
@@ -1370,7 +1370,7 @@ weak at all. It was just I was strangely lucky.
 invalid...]
 
 [T-That won’t do! My pride as a gambler will not allow me that. So, I’ll
-properly give you a reward after we get home... T-T-T-That’s why,l-l-l-look
+properly give you a reward after we get home... T-T-T-That’s why, l-l-l-look
 forward to it...]
 
 [Y-Yeah...]

@@ -407,7 +407,7 @@ get it.]
 Come to think of it, Lilia-san liked dragons... Alright then, I’ll give this to
 Lilia-san later. Now then, let’s open the next one...
 
-[... A crown?]
+[...A crown?]
 
 [It’s a toy crown. There are children’s toys like that inside too. That crown is
 made like the authentic one, so it would be expensive.]
