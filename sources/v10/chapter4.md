@@ -523,7 +523,7 @@ Seeing Alice like that, Fate slightly smiles.
 [Are you feeling guilty about putting Kai-chan in the role of your dead best
 friend, treating him like he’s a replacement?]
 
-[ ? ! ]
+[?!]
 
 Hearing the words Fate lazily announced, as if she were making small talk,
 Alice’s expression became stiffer. That was the best proof that Fate’s words hit
@@ -942,7 +942,7 @@ by the words that followed.
 [And also... I’m “human”... No, I guess it would be better to say that I was
 human.]
 
-[ ? ! ]
+[?!]
 
 What does that mean? At the very least, Alice’s physical and magical abilities
 far surpass her limits as a human. Does that mean she was reincarnated from a
@@ -1023,7 +1023,7 @@ been searching for a person.]
 
 [Yes... It’s my “little sister who lived apart from me at an early age”.]
 
-[ ? ! ]
+[?!]
 
 [Ahh, incidentally, it’s nothing that serious. My parents just got divorced and
 my father took custody of me while mother took care of my little sister.]
@@ -1123,7 +1123,7 @@ huh.]
 [In fact, in the confusion of the battle, the mastermind obtained the blood of
 the queen... and used his life as a catalyst to summon the Evil God.]
 
-[ ? ! ]
+[?!]
 
 T-This is where the Evil God makes its entrance huh. Although her story sounds
 awesome when you just read it from this novel, in fact, Alice’s tone of voice is
@@ -1256,7 +1256,7 @@ As if to answer my question, Alice gives a self-deprecating smile.
 [...I noticed the anomaly right away. No matter how many days I didn’t eat or
 sleep... I found myself not getting tired at all.]
 
-[ ? ! ]
+[?!]
 
 [Weaving the hope around the world... my body originally couldn’t withstand such
 immense energy... So, that must be why... my body evolved... No, it transformed.
@@ -1486,7 +1486,7 @@ by the old woman... is a restraint for the girl after she loses the old woman...
 resent... this dying woman’s selfish wish... However... even so... I... “want
 you to live”.]
 
-[ ? ! ]
+[?!]
 
 [...That’s why... please... if you still... think of me as your best friend...
 This final wish of mine... please grant it. And then... someday... you’ll be
@@ -1584,7 +1584,7 @@ to another world.]
 [Yes, well, I found a way to do it but... the catalyst was a bit of a problem...
 so I stole the core of the Evil God that was tightly sealed up and used it!]
 
-[ ? ! ]
+[?!]
 
 She somehow smoothly said something outrageous again... No, well, compared to
 the method of being summoned to this world just like how I came here, going to
@@ -1630,7 +1630,7 @@ and gives me a beautiful smile that seems to suck me in.
 
 [...And then, I met you... and fell in love.]
 
-[ ? ! ]
+[?!]
 
 Those words she unexpectedly told me along with her past. She has been jokingly
 telling me those words before but... I wonder why? Those words I heard just
@@ -1897,7 +1897,7 @@ fellow who always messes around...]
 bold front with... Someone who’s so important to me that I can’t imagine her not
 being around anymore.]
 
-[ ? ! ]
+[?!]
 
 As I heard a soundless gulp, Alice, who was in my arms, slightly moved.
 

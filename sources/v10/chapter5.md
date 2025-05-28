@@ -194,7 +194,7 @@ research, but I’ve never found a way to become immortal like you.]
 [If Heart Tools exist, that may mean that souls do exist, so I thought of the
 possibility... of a Heart Tool carrying one’s soul.]
 
-[ ? ! ]
+[?!]
 
 At the words Iris told her, Alice looked astonished for the umpteenth time.
 

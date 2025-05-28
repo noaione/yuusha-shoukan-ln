@@ -760,7 +760,7 @@ of various sizes, clearly signifying we’re in a different place.
 
 [The time has come.]
 
-[ ? ! ]
+[?!]
 
 I was stunned by the unusual scene around me, when I heard the voice that
 sounded like a machine, and instantly felt a chill run down my back. Immediately
@@ -785,7 +785,7 @@ another plane of existence”...
 
 [Kaito-san! Please step back!!]
 
-[ ? ! ]
+[?!]
 
 Just as I was feeling overwhelmed by her appearance in front of me, Alice moved
 her body in front of me, screaming in a tense voice that I’ve never heard
@@ -817,7 +817,7 @@ her eyebrows slightly moved, tells me in a matter-of-factly tone.
 had her leave this space. I didn’t harm her in any way. I just teleported her to
 a different place... about “10,000 km” away from here.]
 
-[ ? ! ]
+[?!]
 
 I understood that Alice was safe and that she had just been forcibly teleported
 out of this space. However, I can’t help but feel relieved, and at the same
@@ -849,7 +849,7 @@ unknown being that just appeared out of nowhere?
 
 [Fumu, let me take a little more closely...]
 
-[ ? ! ]
+[?!]
 
 As the mysterious being nonchalantly announced, reaching out one hand towards
 me, trying to touch my body... for some reason, she stopped midway through and
@@ -871,7 +871,7 @@ from that crack... Alice emerged.
 [My heart, spin, become my armor——My heart, spin, turn into my blade——My heart,
 spin, sprout my wings——]
 
-[ ? ! ]
+[?!]
 
 The words that came out of Alice’s mouth as she returned, came out of her mouth
 with such clarity and power that they seem to echo throughout the entire space.
@@ -928,7 +928,7 @@ Muttering to herself, Alice lowered her body and prepared her stance.
 [The enemies I had fought against were far more powerful to me... Even so! I
 want to return... to the time when “I protected everyone until the end”!!!]
 
-[ ? ! ]
+[?!]
 
 At that moment, Alice unleashed it. Her “true self” that she has sealed away...
 Just like a dead person, herself that had only been something of the far,
@@ -1019,7 +1019,7 @@ focused on the battle.
 [I would like to see more of this. I want to see more of your capabilities...
 Shall I change things up a little bit?.]
 
-[ ? ! ]
+[?!]
 
 As Earth God announced this, a vast number of feathers began to burst forth into
 the sky from her twenty wings. At the sight of what could be called a storm of
@@ -1327,7 +1327,7 @@ this and return to this space on her own...
 
 [——Pierce Hope!]
 
-[ ? ! ]
+[?!]
 
 A knife, surrounded by a strong light, tears through the space and flies towards
 her. Unlike the Light of Destruction that wiped out the world a moment ago, it
@@ -1684,7 +1684,7 @@ word of assurance for Alice’s safety.
 
 [...You sure are a disrespectful one.]
 
-[ ? ! ]
+[?!]
 
 At that moment, the atmosphere around the angel became sharp, as if it wanted to
 pierce through my body.
@@ -1814,7 +1814,7 @@ spoke.
 
 [My name is “Eden”... Until we meet again, my beloved child.]
 
-[ ? ! ]
+[?!]
 
 With those words, the space that looks like a cybernetic world cracked open, and
 the scenery around us returned to the middle of the street we were in earlier.
