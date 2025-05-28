@@ -1114,7 +1114,7 @@ attack by moving her head to side, not stopping her advance at all. Thereupon,
 the thunderous roar upon their impact to the ground finally resounded, which
 signaled the two to move away from each other.
 
-(...I have more magic and pure power,she has superior magic manipulation
+(...I have more magic and pure power, she has superior magic manipulation
 capabilities and techniques, and we are almost even in speed and reaction time.
 ...)
 

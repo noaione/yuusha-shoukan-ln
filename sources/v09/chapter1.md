@@ -1115,7 +1115,7 @@ longer be called a baby castella.
 that can be called “baby” anymore, but it’s a little too big for Kaito-san, a
 human, so can I modify it?]
 
-[I see... Kaito-kun couldn’t convert matter into magic power,right? Then, I’ll
+[I see... Kaito-kun couldn’t convert matter into magic power, right? Then, I’ll
 leave it to you, Shalltear.]
 
 [Yes, yes... You two, please prepare some drinks and wait. I’ll bring it to you

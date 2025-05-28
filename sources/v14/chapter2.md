@@ -177,7 +177,7 @@ when she was monologuing... No, as it would only make Neun-san embarrassed, I’
 not going to bring up that time. At any rate, let’s keep in mind that Neun-san
 likes anmitsu. I’ll also check out shops that serve anmitsu in Kuro’s food
 guide. I owe Neun-san a tremendous debt of gratitude for the rice she gave me
-before,so if I get the chance, I might as well treat her to some anmitsu.
+before, so if I get the chance, I might as well treat her to some anmitsu.
 
 [Well then, continuing on with the common topics... What are your hobbies,
 Neun-san?]

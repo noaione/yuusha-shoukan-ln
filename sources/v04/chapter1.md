@@ -1802,7 +1802,7 @@ What the heck’s happening? I don’t know what the heck the two of them are
 talking about. Seeing me tilting my head, Alice swallowed what she’s been eating
 before turning towards me.
 
-[Look, Kaito-san. I told you earlier,didn’t I? This person’s whole thought
+[Look, Kaito-san. I told you earlier, didn’t I? This person’s whole thought
 process is for the good of their country and to make their country better...
 There’s no way that someone like that would make risky choices to antagonize
 Kaito-san.]

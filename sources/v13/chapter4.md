@@ -74,7 +74,7 @@ to eat it, Kuro will have a sad look on her face. And that’s something I don�
 want to happen. If it’s to protect Kuro’s smile, I’ll take on any challenge,
 even if it means “dying”!]
 
-[No, you don’t have to eat a mouthful,okay?! Don’t speak about dying, okay?!]
+[No, you don’t have to eat a mouthful, okay?! Don’t speak about dying, okay?!]
 
 [Now, now, enjoy it while it’s fresh out of the oven\~\~]
 

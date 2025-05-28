@@ -1521,7 +1521,7 @@ yet fun?
 
 [Unnn? I also had lots of fun. Let's go out together again!]
 
-As Kuro looked at me with a big smile on her face,I also thanked her with a
+As Kuro looked at me with a big smile on her face, I also thanked her with a
 smile of my own.
 
 Today has been really fun, and I've learned a lot of things I didn't know

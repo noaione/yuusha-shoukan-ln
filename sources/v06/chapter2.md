@@ -966,7 +966,7 @@ she would see the world from now on.
 [Shaddup!]
 
 They exchange words so calmly that it’s hard to believe that they were beating
-each other up just a moment ago,and then, both of them get up without a second
+each other up just a moment ago, and then, both of them get up without a second
 thought. Kuro’s appearance changes to the appearance of a young girl, and in
 response, the jet-black space disappears and the lands of the God Realm
 reappears.

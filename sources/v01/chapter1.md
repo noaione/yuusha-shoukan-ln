@@ -603,7 +603,7 @@ stance of watching over the others... if it's exactly just as I imagined.
 most diverse species. Although they are generally called “Demons”, there are
 countless variations in their appearance. The Heroes often thought that they're
 equal to monsters, but in the Demon Realm, the monsters are defined as beings
-with less than a certain level of intelligence.
+with less than a certain level of intelligence.]
 
 Unn, to be honest, I also had the same image regarding demons and monsters, but
 I guess they have a clear standard for themselves? I guess it would be hard for

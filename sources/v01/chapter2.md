@@ -1833,7 +1833,7 @@ Kuromu-sama.]
 [I-Is that so.]
 
 [It's alright, Miyama-san. As long as you don't make careless remarks like
-Acht-sama,she's usually a gentle and kind person.]
+Acht-sama, she's usually a gentle and kind person.]
 
 Something unfolded right in front of my eyes—or so it seems? While Ein-san
 advised, or rather, intimidated Acht-san, Raz-san explained and Neun-san

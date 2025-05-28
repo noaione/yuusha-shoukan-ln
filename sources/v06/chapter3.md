@@ -277,12 +277,12 @@ together... and learn a little bit more together... Okay?]
 
 [Yeah.]
 
-Somehow,even after we ended up being lovers, I still couldn’t compete with Kuro.
-However, I don’t feel uncomfortable about it, and in fact, it greatly fills me
-with happiness. When I thought she was innocently fawning on me, she sensed my
-anxiety and would gently push my back forward. She seems childish, yet mature,
-innocent, yet I could feel her deep and soft affection. I think that’s what is
-most attractive about Kuro.
+Somehow, even after we ended up being lovers, I still couldn’t compete with
+Kuro. However, I don’t feel uncomfortable about it, and in fact, it greatly
+fills me with happiness. When I thought she was innocently fawning on me, she
+sensed my anxiety and would gently push my back forward. She seems childish, yet
+mature, innocent, yet I could feel her deep and soft affection. I think that’s
+what is most attractive about Kuro.
 
 Yep. Let’s just stop thinking about stuff too much. For now, I’m going to enjoy
 these happy moments to the fullest...

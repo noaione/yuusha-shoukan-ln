@@ -42,7 +42,7 @@ that she has been trying to coerce Megiddo in a roundabout way, and even spread
 information about Kaito, but every work she had said shows that she likes Kaito,
 a being whose purpose and identity are unknown. However, the role of the
 Phantasmal King No Face is gradually increasing, and she will become the center
-of the story, especially in the next volume,so I hope you’ll look forward to
+of the story, especially in the next volume, so I hope you’ll look forward to
 that too.
 
 Now that we’ve talked about the 4th Volume, I’d like to make some announcements

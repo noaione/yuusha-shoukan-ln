@@ -722,7 +722,7 @@ can rely on now!]
 [...]
 
 It’s because Lilia-san is completely right. No, it’s not like I don’t want to
-lend her money... But as a friend, though it may just be for argument’s sake,I
+lend her money... But as a friend, though it may just be for argument’s sake, I
 think Lunamaria-san’s strange behaviors should be stopped.
 
 [...I think you should calm down for a bit, Lunamaria-san.]
@@ -915,7 +915,7 @@ worth 10 white gold coins!”
 
 [...H-Hmmm.]
 
-Looking at the item that had become more expensive than I thought,I put my hand
+Looking at the item that had become more expensive than I thought, I put my hand
 on my chin and thought. When converted, that would be equivalent to 100 million
 Japanese yen... Moreover, I’m still competing against someone, so it’s going to
 get even more expensive.

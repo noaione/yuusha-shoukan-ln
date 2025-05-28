@@ -680,7 +680,7 @@ cuteness... when I heard some familiar voices.
 
 [N-No, you also have a sweet tooth too, right? That’s why...]
 
-[I appreciate the sentiment,but I feel sorry for Sis Raz.]
+[I appreciate the sentiment, but I feel sorry for Sis Raz.]
 
 [...Ugghhh... No, well, it’s true that I did a bad thing to Elder Sis Raz, so
 I’ll get something as a souvenir for her—Unnn?]

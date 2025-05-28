@@ -960,7 +960,7 @@ would even make me tired huh...]
 
 Chronois-san suddenly appears, standing on top of the sea, flusteredly talking
 Shiro-san out of doing it. It seems that after Shiro-san announced that we were
-going to the sea and disappeared, she searched all the world’s oceans,and
+going to the sea and disappeared, she searched all the world’s oceans, and
 looking closely, I could see sweat on her forehead and her shoulders moving up
 and down. It’s just, errr, it might be bad for me to say this... If you’re going
 to stand on top of the ocean, please don’t stand in the waters in front of me.

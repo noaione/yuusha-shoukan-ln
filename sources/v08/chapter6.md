@@ -439,7 +439,7 @@ if she felt the need to do that though...
 
 While traveling and helping people in various places, she continued to do what
 she thought was generally right. In a sense, she was stoic even to herself, and
-although she was born with little magic power,it was at least conspicuously
+although she was born with little magic power, it was at least conspicuously
 growing, and before long, even in the vast Demon Realm, she had become a strong
 person who could be counted among the top.
 
