@@ -420,7 +420,7 @@ the event.
 
 [Oh, you don’t need to give mine, just give the young man his.]
 
-[Understood... Eh? S-S-S-“Sky Dragon”-sama?!]
+[Understood... Eh? S-S-S-Sky Dragon-sama?!]
 
 Hearing Frea-san’s voice, the shopkeeper looked really astonished and bowed her
 head. If they had reacted like that after Frea-san spoke to them, I guess
@@ -461,7 +461,7 @@ are now comrades.]
 [I see.]
 
 After Frea-san and I looked at each other, we laughed. Just like that, we
-chatted for a while, and since we’re at it, , we decided to have a cup of tea
+chatted for a while, and since we’re at it, we decided to have a cup of tea
 together, and we both moved down the bustling main street towards a coffee shop.
 As to be expected, there weren’t as many coffee shops as there were back in
 Japan, but there were still many coffee shops in this world as well. Rather,
@@ -675,7 +675,7 @@ done this?” smoldering in your mind. If that’s the case, don’t just let th
 smoldering thought burn out. If you need money for you to try again, and you
 don’t possess such money, I’ll give it to you.]
 
-[...?! Ahh... Uuuu... Thank you... very much.]
+[Ahh?! Uuuu... Thank you... very much.]
 
 Hearing Frea-san’s words, I could see a lot of emotions appearing on his face,
 but he still received the burlap bag with trembling hands. Even though he looked

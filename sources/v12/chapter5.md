@@ -164,8 +164,7 @@ that will be Lu-chan’s first time, so Mom will teach you well.]
 
 [You didn’t! Understand me! At all?! L-Lili!!! Help me!!!]
 
-[... N-Night adv... S-Should I also do that? H-However, such a thing is
-still...]
+[...N-Night adv... S-Should I also do that? H-However, such a thing is still...]
 
 [Why the heck do all of you have that kind of faaaaaaceeeee?!]
 
@@ -597,7 +596,7 @@ She, at least, wasn’t one of the members of the party we had back in Lilia-san
 garden. As I was wondering who she is... I heard Eta and Theta’s shocked
 exclaims from behind me.
 
-[... A-“Agni-sama”...]
+[...A-Agni-sama...]
 
 [Mhmm? You two are... Ahh, you’re the twins who were under Bacchus’ command, who
 are now serving Miyama-sama, right?]

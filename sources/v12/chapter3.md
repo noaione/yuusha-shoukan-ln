@@ -446,9 +446,7 @@ Festival, so I think it would be nice to wander around the city.
 
 ...She bit her tongue. She just strongly bit down her tongue. Each of her
 reactions is just too cute. As I happily looked at Lilia-san, who accepted my
-date invitation with a bright red face, Dr. Vier clapped her hands
-
-.
+date invitation with a bright red face, Dr. Vier clapped her hands.
 
 [Ahh, that’s right! I’ve got something good for you.]
 

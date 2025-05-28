@@ -766,7 +766,7 @@ situation persists, nothing will change.]
 [...Kaitokun-san.]
 
 [I won’t say something as conceited as saving her... But I want to see her smile
-and laugh from the bottom of her heart... For Dr. Vier’s sake, and for “her”
+and laugh from the bottom of her heart... For Dr. Vier’s sake, and for _her_
 sake...]
 
 [...]
@@ -1262,7 +1262,7 @@ observe.]
 As a slight breeze blew to the side, Ozma, with a cigarette in his mouth,
 appeared next to the girl with red hair... One of the Dragon King’s Executives,
 the Four Great Demon Dragons, “Sky Dragon of the Extinction Flames”, Freabell
-Nidzveld”. As Ozma said, this battle is a very high-profile one for those who
+Nidzveld. As Ozma said, this battle is a very high-profile one for those who
 know the situation. If this is the case, it is inevitable that there will be
 people like the two of them who will want to observe the battle firsthand.
 
@@ -1712,7 +1712,7 @@ there was only one person who tried to change the world.]
 [...]
 
 [“The more time that passes, the harder it will be to change. If I don’t move
-now... I’m sure that someday will never come. So, I will persist.”... I even
+now... I’m sure that someday will never come. So, I will persist.” ...I even
 admired her back as she walked away. Looking at her back, I thought I saw hope
 for the future... Yes, I’m talking about you, Hikari.]
 
@@ -2984,7 +2984,7 @@ Vier-san can win.]
 
 At the same time, the two who were far away from Sechs and the others also
 sensed that Kaito had left the barrier by Wide-Area Magic Power Detection.
-Thereupon, Illness stopped assaulting Illness’ body with diseases and let go of
+Thereupon, Illness stopped assaulting Funf's body with diseases and let go of
 Funf. However, the released Funf neither attacked Illness nor went to where
 Sechs and the others are, just laying down on the ground with her body spread
 out after regenerating her right arm.

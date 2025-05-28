@@ -492,11 +492,11 @@ her usual cool image, I walked up to her and called out.
 
 [U-Ummm... Ein-san? Are you alright? A-Are you not feeling well...]
 
-[... -ase... —at me...]
+[...-ase... —at me...]
 
 [Eh?]
 
-[... Please don’t look at me... Please don’t look at my wretched appearance,
+[...Please don’t look at me... Please don’t look at my wretched appearance,
 “this me who isn’t wearing my maid uniform”...]
 
 [...]
@@ -507,7 +507,7 @@ she didn’t want to be seen without her maid uniform?
 
 [E-Errr...]
 
-[... not a maid... I’m not a maid... I want to disappear... so that no one can
+[...not a maid... I’m not a maid... I want to disappear... so that no one can
 see me... I want to disappear.]
 
 A fragile, feminine voice. ...What a negative aura she has... Eh? Is this what
@@ -784,7 +784,7 @@ think about the small details anymore...
 
 What Kuro gave me was a child’s toy that floats in the water. Ahh, speaking of
 which, aren’t Kuro and Isis-san playing with them while waiting for me? Looking
-at their sides again, I saw that Kuro had a yellow duck and Ms. Isis had a white
+at their sides again, I saw that Kuro had a yellow duck and Isis had a white
 duck floating in front of them.
 
 [...My duckie... is the strongest.]
