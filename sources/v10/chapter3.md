@@ -10,7 +10,7 @@ On a warm, sunny afternoon, I was in the garden behind Lilia-san’s mansion. Th
 garden, which is somewhat too large to be called a rear garden, is also the
 place where Lilia-san’s mansion’s guard force conducts their training.
 
-[...Hmmm. Siegi is like that now huh... It’s not like I’m doubting Kaito-senpai,
+[...Hmmm. Seigi is like that now huh... It’s not like I’m doubting Kaito-senpai,
 but I just can’t imagine him being like that.]
 
 [Well, putting aside if Mitsunaga-kun has changed, I’m just glad that he’s doing
@@ -159,7 +159,7 @@ fur getting dirty, but if she’s going this far, I guess it can’t be helped..
 I’ll just bathe her again after they’re done. Bell’s fur is one of my pride and
 joy. I bathe her often and never miss a day of brushing her, so her fur is shiny
 and fluffy. Thanks to that, her fur feels as comfortable to touch as those
-high-class futons,so I often lean against Bell for a nap.
+high-class futons, so I often lean against Bell for a nap.
 
 When I called out to her, Bell got up and slowly walked to the center of the
 garden, with an expression that seemed to say “It can’t be helped”.
@@ -1253,8 +1253,8 @@ grow in this battle to become “a me that can win”!!!]
 As if in response to Alice’s will, her _Hekatonkheires_ shines brighter, and
 numerous meteors began raining incessantly on Alice’s body.
 
-[Here——At this moment——The farthest my heart had reached—Exceed my limits——And
-now, weave the world! ——_Hekatonkheires_!!!]
+[Here——At this moment——The farthest my heart had reached——Exceed my limits——And
+now, weave the world!——_Hekatonkheires_!!!]
 
 With a shout, Alice’s magic power and her body begin to glow with a shimmering
 light. Although Alice is supposed to be alone in front of Earth God, Alice’s

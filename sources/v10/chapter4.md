@@ -118,7 +118,7 @@ I asked Kuro, thinking that she was her family and have been friends with her
 for a long time, so she might know something, but she told me that she didn’t
 know Alice well. And, I tried asking her what she meant by that and...
 
-[When I first met Shalltear... I felt like she was quite the mismatching child.
+[When I first met Shalltear... I felt like she was quite the mismatched child.
 She had great combat techniques, so I thought that she had quite a considerable
 battle experience... But it feels as if she “suddenly became very strong” and
 didn’t know how to handle her power.]
@@ -1278,7 +1278,7 @@ world couldn’t defeat, even if they were united.]
 
 [Yes. However, my partner... my best friend laughed at my distress, telling me
 “Idiot. Just because you acquired power exceeding human intellect, you think
-you’re a God? How stupid.”... and treated me no differently than she ever did
+you’re a God? How stupid.” ...and treated me no differently than she ever did
 before. My little sister and my friends were also the same. They naturally
 laughed at me, as if they were telling me that no matter what kind of being I’ve
 become, I will still be me.]
@@ -2042,7 +2042,7 @@ me straight in the eye. I immediately understood what that name was. It was the
 name of the hero who once saved a world, and now, she’s ready to truly say
 goodbye... to her past self.
 
-[...”Alicia”.]
+[...“Alicia”.]
 
 [...]
 

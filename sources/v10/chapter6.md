@@ -31,9 +31,8 @@ perfect.]
 After a big smile appeared on her face, the girl fell silent for a moment. And
 then, within that empty white space, she muttered.
 
-[...Unnn, it’s really perfect... Other than the fact that “I forgot to tell”
-Alicia” that my true identity being “Makina”...H-Hahaha... Ah, what should I
-do?]
+[...Unnn, it’s really perfect... Other than the fact that I forgot to tell
+Alicia that my true identity being Makina... H-Hahaha... Ah, what should I do?]
 
 The smile she had on her face earlier disappeared, and the girl... Makina looked
 troubled as her shoulders slumped in disappointment. Yes, the turn of events

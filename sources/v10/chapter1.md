@@ -537,7 +537,7 @@ talking to myself though.]
 
 [...]
 
-This fucking woman... She’s going around in circles, but in short, because she
+This freaking woman... She’s going around in circles, but in short, because she
 did her best, I should buy her a meal?! However, well, Alice certainly did great
 today, so I feel like that isn’t a bad way to thank her.
 

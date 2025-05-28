@@ -1643,7 +1643,7 @@ Kuro-san’s matter was resolved worked out nicely for me.
 ...Yes, at the time I first met Kaito-san... I think my heart had opened up a
 bit. That’s why... Kaito-san’s image overlapped with Iris. At that time, I felt
 really strange. When I was talking with Kaito-san, instead of thinking that I
-should smile, I foud myself naturally smiling... “Ahh, smiling was supposed to
+should smile, I found myself naturally smiling... “Ahh, smiling was supposed to
 be like this, wasn’t it?”, feeling nostalgic, that was the thought that popped
 out of my mind. We chatted about trivila things, laughed about trivial things,
 scolded for trivial things... I started to lose track of myself more and more.
