@@ -1082,7 +1082,7 @@ that much, getting up with a wry smile.
 [...Don’t you “I fell down again” me. Do you not understand that falling due to
 your inattention to the road ahead... is a disgraceful sight to behold?]
 
-[ ! ? ]
+[?!]
 
 As Dr. Vier muttered with a wry smile... I heard a quiet but incredibly
 intimidating voice that made the atmosphere tremble. Hearing that voice, the

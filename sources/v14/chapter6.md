@@ -1407,7 +1407,7 @@ to me with a voice filled with passion.
 [...How about it? If you don’t mind... How about we go drink after this, “just
 the two of us”?]
 
-[ ! ? ]
+[?!]
 
 [Mom!!! You can’t! There’s no way I’ll allow that!!! Come on, please let go of
 Miyama-sama already!]
@@ -1602,7 +1602,7 @@ Central Tower but... my feet immediately stopped.
 [Yaa~ It’s this morning since we last met, right\~\~ It’s a great coincidence to
 see you here, isn’t it?]
 
-[ ! ? ]
+[?!]
 
 I was so astonished hearing that voice that I thought my heart would leap out of
 my chest.

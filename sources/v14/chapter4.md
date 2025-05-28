@@ -983,7 +983,7 @@ Raz-san’s offer...
 
 [...I guess so. I have a few “concerns” in mind, so I’ll go with you.]
 
-[ [ [ ! ? ] ] ]
+[ [ [ ?! ] ] ]
 
 [Yaaaay, I’m going around with Big Sister Zwei-san!]
 
@@ -1159,7 +1159,7 @@ echoed in the surroundings.
 Kuromu-sama gave me”... All of you bastards! Don’t think I’ll let a single piece
 of your flesh stay in this world! I’ll fucking kill you all!!!]
 
-[ ! ? ]
+[?!]
 
 Zwei-san’s expression was as fierce as that of a Demon that crawled out of hell.
 S-She’s completely pissed off! It’s literally as if she’s boiling with rage...

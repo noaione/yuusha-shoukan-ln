@@ -1453,7 +1453,7 @@ waiting for their execution. In this tense atmosphere, Isis-san quietly spoke.
 
 [...Forehead flick (strong).]
 
-[ [ ! ? ] ]
+[ [ ?! ] ]
 
 What, just a forehead flick huh... Well, even though she’s angry at them, Kuro
 is kind, so she may be indulging especially with her family. I was a little

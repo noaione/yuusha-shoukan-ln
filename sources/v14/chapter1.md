@@ -609,7 +609,7 @@ brought.
 
 [It’s just for a little while... but we’re finally alone huh? I’m glad.]
 
-[ ! ? ]
+[?!]
 
 Her voice whispering into my ears sounds surprisingly erotic... and so
 passionate... that I thought it would melt my face off.

@@ -67,7 +67,7 @@ This is my father’s precious store!]
 [My, oh my. But you see... It’s difficult being a lone woman, you know? “You
 never know what will happen”.]
 
-[ ! ? ]
+[?!]
 
 Seeing the man look at her with a coarse smile on her face, the girl backed away
 a bit, looking frightened, but she still turned her strong eyes to the men. The
