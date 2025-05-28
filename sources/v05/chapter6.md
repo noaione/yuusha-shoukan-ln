@@ -391,7 +391,7 @@ instead.
 
 [The heck is with that appeal?!]
 
-[The mole in the side of my chest gives them additional charm points.
+[The mole in the side of my chest gives them additional charm points.]
 
 It’s too strong. Her character is just too strong.
 

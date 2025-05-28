@@ -681,7 +681,7 @@ battle with Funf, they spoke.
 [I dunnoooo? I just came here after Miladyyyyyy, so I wouldn’t knoooooow.]
 
 [I see. Well, there are many other questions I would like to ask you, but I’ll
-ask them when Kaito-san returns... Shall we go back to the mansion?
+ask them when Kaito-san returns... Shall we go back to the mansion?]
 
 Saying this, Lilia called out to Anima and the others before returning to the
 mansion.

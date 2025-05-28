@@ -935,8 +935,8 @@ Ro-yal-Prin-cess.]
 Seeing Lunamaria’s irritating smile, Lilianne kicked the ground with her whole
 body gushing with lightning-like magic power, and burst forth towards Lunamaria.
 Approaching with a speed that could be described as tremendous, Lilianne
-appeared in front of Lunamaria... and fell into “the pit that Lunamaria was
-secretly digging with her magic power while she was taunting her.”
+appeared in front of Lunamaria... and fell into the pit that Lunamaria was
+secretly digging with her magic power while she was taunting her.
 
 [...Pfft, kukuku... Ahahaha! You beautifully fell into it! This is just great!
 Hey, how do you feel now? Acting cool while blabbing things like “Are you

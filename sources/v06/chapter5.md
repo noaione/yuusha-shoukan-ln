@@ -157,7 +157,7 @@ onsens exist in the God Realm?
 
 Shiro-san, what the heck are you really doing?! Are you really that free?!
 Rather... Could it be, the reason why I was suddenly abducted this morning...
-was so that you could take a bath in that onsen together with me?)
+was so that you could take a bath in that onsen together with me?
 
 (Indeed.)
 
@@ -820,7 +820,7 @@ with a pale look on her face when she hears Chronois-san’s lie.
 
 [Fumu, I could use this...]
 
-[God\~\~ of Time\~\~ and Space\~\~!
+[God\~\~ of Time\~\~ and Space\~\~!]
 
 [Well, my bad. However, you should reflect a bit more.]
 

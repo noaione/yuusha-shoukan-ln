@@ -430,7 +430,10 @@ woooooon’t be able to accept any more than thiiiiiiis.]
 Those certainly felt like Illness-san’s true thoughts. Ah, seriously... She has
 a dazzling motherliness, like a holy mother overflowing with deep affection.
 
-“Your well-being is my happiness.” “Your smile is the best gift I can receive.”
+“Your well-being is my happiness.”
+
+“Your smile is the best gift I can receive.”
+
 Without any hesitation, she said such words to me.
 
 [And sooooo, I want to thank you for todaaaaaay. Seeing aaaaaall the superb

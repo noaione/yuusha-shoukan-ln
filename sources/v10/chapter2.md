@@ -1480,7 +1480,7 @@ the ship could sink or something like that... Thinking about such a possibility,
 I asked her about it, but Shea-san looked as if she saw nothing in particular
 and took her gaze off the ship.
 
-[Nothing. Like I said, Gods doesn’t help Humans in every single thing.
+[Nothing. Like I said, Gods doesn’t help Humans in every single thing.]
 
 [...B-But...]
 

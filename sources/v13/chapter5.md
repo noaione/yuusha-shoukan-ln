@@ -1457,7 +1457,7 @@ originally an adult woman who was taller than Neun-san. It’s been a long time
 since they’ve met each other, and they now met with her being around 130cm tall.
 I guess she would obviously not easily know who she is...
 
-[... Or rather, 15 years ago... You didn’t find a way to return back to your
+[...Or rather, 15 years ago... You didn’t find a way to return back to your
 original form?]
 
 [Nah, I did. I’ve kept all the recipes for the drugs I’ve made, so it’s easy for

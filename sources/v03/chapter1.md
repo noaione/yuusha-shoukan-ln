@@ -1140,7 +1140,7 @@ However, why would her own parent ask such a question at this point of time?
 After hearing my response, Rei-san nodded, looking somewhat satisfied, and
 zipping his face close to mine in excitement, he spoke.
 
-[Of course, I know you do! So, how far have you gone with Sieg?
+[Of course, I know you do! So, how far have you gone with Sieg?]
 
 [...Yes?]
 

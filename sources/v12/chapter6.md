@@ -544,7 +544,7 @@ heart... Then, that should mean you’re a maid!]
 
 [...]
 
-To be honest, “I don’t even know what I’m saying anymore”! However, Ein-san
+To be honest, “I don’t even know what I’m saying anymore!” However, Ein-san
 looks like she’s shocked by what I said. That’s enough! Let’s just keep the
 momentum going!
 

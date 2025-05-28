@@ -837,8 +837,8 @@ to negotiate after defeating the Demon Lord to show that they weren't hostile to
 the Humans.
 
 If the Six Kings just annihilated the Demon Lord's army in the blink of an eye,
-what would the Humans think when they saw it? The answer would simply be “a far
-more powerful Demon than the Demon Lord is attacking”.
+what would the Humans think when they saw it? The answer would simply be: A far
+more powerful Demon than the Demon Lord is attacking.
 
 [...A threat far surpassing the Demon Lord has arrived. The people would wield
 their swords to their deaths. If that happens, the story will no longer end with
@@ -1219,7 +1219,7 @@ you're fine with me, you can consult me~]
 
 [Wha?!]
 
-The child spoke to me in a gentle voice with a lovely smile on her face, as if
+[The child spoke to me in a gentle voice with a lovely smile on her face, as if
 she's a blooming flower but... A person from another world? How did she know
 that?]
 
@@ -1643,7 +1643,7 @@ with a Demon of this level.]
 [Yes, if you're not at least of the court mage class, you can't even be
 considered its opponent...]
 
-[Anyway, let's be vigilant for now. What about the mansion?
+[Anyway, let's be vigilant for now. What about the mansion?]
 
 [We've deployed multiple wards as well as several detection magic circles. The
 shadows have also been deployed in case of an emergency, ordering them not to

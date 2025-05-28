@@ -595,7 +595,7 @@ Illuminated by the warm sunlight, the two Isis brightly smiled.
 ---
 
 “After leaving Alice’s general store, I walked leisurely back to Lilia-san’s
-mansion”.
+mansion.”
 
 I’m kinda feeling a sense of deja vu... It seemed a little strange, but as I
 wasn’t able to think of any particular cause for this feeling, I concluded that

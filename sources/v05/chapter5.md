@@ -2263,9 +2263,9 @@ large shield, made from the Dragon King... Magnawell-san’s scale.
 
 [W-What an amazing magic power... desu.]
 
-I thought I had to do something as your master for the two of you who are always
-working hard for me. And since I happened to get some of Dragon King’s scales, I
-asked someone to make weapons out of them.]
+[I thought I had to do something as your master for the two of you who are
+always working hard for me. And since I happened to get some of Dragon King’s
+scales, I asked someone to make weapons out of them.]
 
 [ [ The Dragon King-sama?! ] ]
 

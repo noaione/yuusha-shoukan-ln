@@ -169,7 +169,7 @@ While we're talking about MMOs, if I can muster up the courage to say it... That
 I'm playing a male character in that MMO we both played, under the username
 “Hibis”...
 
-And after that, I'll ask him: [Miyama-san, are you “Ciel-san”?]
+And after that, I'll ask him: [Miyama-san, are you “Ciel-san?”]
 
 [Aoi-senpai\~\~ What are you doing? Let's go already\~\~]
 

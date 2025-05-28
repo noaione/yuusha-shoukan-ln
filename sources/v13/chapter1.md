@@ -597,7 +597,7 @@ short distance away. Wearing a black jacket with a starry sky pattern on it and
 pants of the same color, clothing that I prepared for her for the Six Kings
 Festival, Anima ran up to me with a gentle smile.
 
-[I’m sorry I’m late. I’m glad that I could meet u—ßFueehh?!]
+[I’m sorry I’m late. I’m glad that I could meet u—Bfueehh?!]
 
 [Anima!]
 
@@ -1085,7 +1085,7 @@ World Tree. seeing that the small wounds here and there were healing, I breathed
 out a sigh of relief. Then, as I was checking Anima again and again to see if
 she still had any other injuries, a faint smile appeared on Epsilon-san’s lips.
 
-It seems like your master cares about you very much... What a lucky woman you
+[It seems like your master cares about you very much... What a lucky woman you
 are.]
 
 [...Uuuuu, aauuu...]

@@ -202,7 +202,7 @@ towards her.
 [Oya? I believe this is the first time we’ve met, yes? My name is Lillie. It’s a
 pleasure to make your acquaintance.]
 
-[Ah, y-y-yes! I-I am...!
+[Ah, y-y-yes! I-I am...!]
 
 [You are Sieglinde-san, yes? I’m very happy to have met you. Please make
 yourself comfortable.]

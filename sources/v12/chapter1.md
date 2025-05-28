@@ -850,7 +850,7 @@ unfathomable. The current King Hydra, Laguna, who is called the strongest in the
 Human Realm, had described Lilia back when she was a teenager:
 
 “If she had lived in a different era, she might have been the one who ruled the
-Human Realm”...
+Human Realm...”
 
 Just as Sechs told Neun, it would be foolish to think of Lilia as a mere human.
 She’s a perfect mutation born from the human race... the species inferior to the

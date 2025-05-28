@@ -1738,7 +1738,7 @@ fangs at me.]
 As I was puzzled by the fact that the atmosphere around her had softened a bit,
 the angel calmly spoke.
 
-———“Found you”.
+———“Found you.”
 
 No voices were spoken out of her mouth. However, I feel like I heard those words
 clearly in my ears, and immediately afterwards, the angel smiled deeply and a

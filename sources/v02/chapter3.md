@@ -124,7 +124,7 @@ a blue bird appeared before me.
 
 [Just think of it as a convenient way of communicating through long distances
 using magic, just like a short letter delivered by messenger birds. Touch it,
-and her message should appear.
+and her message should appear.]
 
 As I'm surprised by the sudden appearance of the blue bird, Chronois-san gives
 me a brief explanation about it. Touching the blue bird, it disappears and glows

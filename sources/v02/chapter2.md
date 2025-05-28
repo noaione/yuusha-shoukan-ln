@@ -395,7 +395,7 @@ How should I say this... Her attitude is kind of refreshing to see.
 [So, what's Kaito-san looking for?]
 
 [Ah, errr... I will be going to the Sacred Tree Festival, and I thought I would
-find things in preparation for that.
+find things in preparation for that.]
 
 Alice asked me, shaking her long blonde hair, and I told her the reason why I
 came here. The fact that she's no longer wearing that stuffed costume makes her

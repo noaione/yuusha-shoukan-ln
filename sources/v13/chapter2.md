@@ -704,7 +704,7 @@ I feel like Lunamaria-san is very lively after all the things happening. Does
 she really want to see me suffer? No, well, it’s certainly... just like
 Lunamaria-san huh.
 
-[Lu-chan “loves” Miyama-san after all, so she wants to be close by to cheer you
+[Lu-chan _loves_ Miyama-san after all, so she wants to be close by to cheer you
 on~]
 
 [Mom?! What the heck are you talking about?!]
@@ -713,7 +713,7 @@ on~]
 
 [I-Isn’t that obvious?! W-Why should I be cheering for Miyama-sama...]
 
-[But Lu-chan always actively teases “the one you love”Mghuuu?!]
+[But Lu-chan always actively teases the one you lo—Mghuuu?!]
 
 [Wha! Could you just shut up for a moment?!]
 
@@ -727,7 +727,7 @@ distance, approached me.
 
 [Ahh, Iris-san. Thank you very much!]
 
-[Your thanks is unnecesNo, I guess it’s polite to accept it huh... Anyway,
+[Your thanks is unneces—No, I guess it’s polite to accept it huh... Anyway,
 Kaito. Can I talk to you for a moment?]
 
 [Eh? Ah, yes. I’m fine with it.]
@@ -898,7 +898,7 @@ was the case, she should have told me beforehand so I wouldn’t have been so
 surprised...
 
 [After all... This way is far more interesting! Also, to be honest, “I’m the one
-who instigated Pandora” !]
+who instigated Pandora!”]
 
 [...]
 
@@ -1995,7 +1995,7 @@ Feeling magic power passing through my crumbling legs again, I regained my
 footing and ran.
 
 &lt;_Goooooaaallll! Now, in a fierce dead heat, Kaito-san has reached the
-goal!!! EhWha?!_&gt;
+goal!!! Eh—Wha?!_&gt;
 
 &lt;_Kai-chan?!_&gt;
 

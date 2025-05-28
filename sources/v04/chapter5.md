@@ -966,7 +966,7 @@ her face.
 
 [Unnn. When we... Errr, went on our d-date, it’s that necklace that Kuro liked.
 I asked Alice to make it out of a material that’s really stretchy... so I don’t
-think it will be torn off even if you turn into your magical beast form.
+think it will be torn off even if you turn into your magical beast form.]
 
 [...Kaito...-kun.]
 

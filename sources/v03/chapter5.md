@@ -522,7 +522,7 @@ Gently and compassionately stroking Kaito's head, Kuromueina murmured to no one.
 The expression on her face seemed to show the complexity within her heart, as
 she didn't know whether she should be sad or happy.
 
-[...Even though you'll be gone in a year... Why do you trouble me so much?
+[...Even though you'll be gone in a year... Why do you trouble me so much?]
 
 Her beautiful voice echoes in the quiet shrine, a voice that somewhat sounds
 like it's crying. A voice filled with very deep feelings, slightly lamenting,

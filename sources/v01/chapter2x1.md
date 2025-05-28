@@ -102,7 +102,7 @@ with them, and be happy, I'm afraid that I was going to lose everything again.�
 “I didn't want to be alone. I wanted a friend. I wanted to have a lover. I was
 envious of those who have a family. However, I was too scared to approach others
 myself, so I kept running away, desperately making excuses for myself to be
-alone.
+alone.”
 
 ...I haven't thought like that.
 

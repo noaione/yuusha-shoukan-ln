@@ -785,7 +785,7 @@ couldn’t use healing magic either, and among the Humans I’ve ever met... The
 only one who can use it was Rei-san, who is a former court mage.
 
 [So, having your wounds healed by using Recovery Magic is originally very
-expensive.
+expensive.]
 
 [...I think I can somehow understand.]
 

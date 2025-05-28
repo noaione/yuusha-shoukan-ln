@@ -997,7 +997,7 @@ well-prepared since it’s Illness-san after all.
 
 [Yeeeeees. I don’t know if it will suit your taste thouuuuuugh.]
 
-[Ahh, errr... Please wait a moment.
+[Ahh, errr... Please wait a moment.]
 
 Hearing Illness-san’s words, I hurriedly looked at the information booklet. My
 plans have changed a bit, but if Illness-san went to the trouble of making a
@@ -1242,7 +1242,7 @@ problem throughout her life. She had never been able to live her life without
 any problems even though she was empty, and she had never felt disadvantaged for
 being such a person.
 
-———“Other people don’t matter”.
+———“Other people don’t matter.”
 
 What’s the point of caring what other people desire? Does it affect her in any
 way? Even if it does, why should she bother to be affected by it? Even though
@@ -1250,7 +1250,7 @@ she didn’t feel that change was necessary... Illness did not understand. She
 didn’t see the point in seeking something. She didn’t feel happiness in
 acquiring something.
 
-———“Even her own self doesn’t matter”.
+———“Even her own self doesn’t matter.”
 
 She must have been rightly empty. No matter what the environment, her heart was
 never satisfied and remained empty... as it should have been.

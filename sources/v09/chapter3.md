@@ -376,7 +376,7 @@ this?]
 [Ah, errr, it’s Midnight Crystal.]
 
 [...Huh? Eh? Umm... that jewel that was said to only appear once every 10 years?
-T-Then, what about this strangely good quality wood?
+T-Then, what about this strangely good quality wood?]
 
 [...Wood made from the branch of the World Tree.]
 

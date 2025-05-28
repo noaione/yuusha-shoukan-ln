@@ -46,7 +46,7 @@ function cleanupParagraphText(text: string): string {
   // Compile all into single line of string
   const mergedLine = text.replace(/\n/g, ' ').trim();
   // Strip dash, en-dash, em-dash, elipsis (sometimes can be more than one dot) from the start and end
-  return mergedLine.replace(/^([-–—\s]+|[\.]+)|([-–—\s]+|[\.]+)$/gm, '').trim();
+  return mergedLine.replace(/^([-–—\s]+|[\.]+)|([-–—\s]+)$/gm, '').trim();
 }
 
 export function isParagraphBalancedQuotesBrackets(paragraph: Paragraph): boolean {

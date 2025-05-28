@@ -237,7 +237,7 @@ hometown for personal reasons.
 
 [Putting aside Lynn-chan, Bell-chan can’t get on the Flying Dragon Services’s
 gondolas... And if you only take one of them with you, they’ll probably get into
-a fight, so it can’t be helped.
+a fight, so it can’t be helped.]
 
 Bell and Lynn are staying back at Lilia-san’s mansion, and I’ve asked some of
 the servants to take care of them while we’re gone. Even though my relationship

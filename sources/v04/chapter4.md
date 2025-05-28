@@ -1912,7 +1912,7 @@ Phantasmal King who was giving Kaito tests. To accomplish this, he planned to
 seek them...
 
 “A subordinate of the Phantasmal King who is lurking in Duchess Albert’s
-household”...
+household...”
 
 The Phantasmal king has more than enough information about Kaito, and she seems
 to be paying a lot of attention to him. That being the case, Ozma surmises that

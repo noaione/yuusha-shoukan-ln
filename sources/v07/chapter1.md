@@ -269,7 +269,7 @@ their hearts.]
 [...I-It might be embarrassing for me to say this, but it might certainly be as
 you said. In the public’s eyes, there’s a clear distinction between the
 standpoint of the legal wife and the concubines but... I don’t see the point of
-having differences in showing my love for them.
+having differences in showing my love for them.]
 
 [...I see.]
 
@@ -835,7 +835,7 @@ country is so rich in nature that it’s dubbed as Symphonia of Food...
 [...Unnn... That’s why... Symphonia Kingdom... is popular as a tourist
 destination... It’s just that... the distance between each town... were too
 far... and there are a lot of mountains and forests... so it seems to be a bit
-of a challenge to get around.
+of a challenge to get around.]
 
 [I see, so that’s why Flying Dragons is the most common mode of transportation
 around here.]

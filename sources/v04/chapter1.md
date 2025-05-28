@@ -1476,7 +1476,7 @@ with a smile on his face.
 
 [I was indebted to Underworld King-sama a long time ago, and when I heard she
 was interested in an otherworlder, I wanted to meet him, so I asked her to allow
-me to be her coachman.
+me to be her coachman.]
 
 [I-Is that so...]
 

@@ -1119,7 +1119,7 @@ Well, it's common for the Humans to spend three days at home in the New Year to
 begin with, and since I didn't go out, except for this irrational little demon
 girl, there doesn't seem to be any incident that happened, so it was very
 peaceful... Well, though I say that, there's a saying in my beloved hometown
-that tells about “the calm before the storm”...
+that tells about _the calm before the storm_...
 
 [...An invitation?]
 
@@ -1501,11 +1501,9 @@ and we began leaving shortly.
 For the time being, I checked the bag I just received—as if it's something
 common, a letter appeared in the air.
 
-“Dear Kaito-kun,
-
-We're having barbecue, so I brought some comfortable clothes for you to wear~
-You won't be able to see the inside of the carriage from the outside, so you can
-change your clothes there\~\~”
+“Dear Kaito-kun, We're having barbecue, so I brought some comfortable clothes
+for you to wear~ You won't be able to see the inside of the carriage from the
+outside, so you can change your clothes there\~\~”
 
 Ah, I see... It was called a dinner party, so I came out in formal wear, but I'm
 pretty sure Kuro said we're having barbecue right from the start. In that case,
@@ -1720,7 +1718,7 @@ somewhere though...
 
 [By the way, the person who sent the invitation to Miyama-dono is my
 subordinate, Sei Riverstar. I'm sorry to surprise you with the unexpected
-invitation.
+invitation.]
 
 Apparently, this skeleton—Sechs-san is the boss of the Chairman of the largest
 trading company who arranged my invitation this time. I could certainly have the
@@ -2207,7 +2205,7 @@ otherworlder or I'm in a peculiar situation, her smile tells me that the Miyama
 Kaito in front of her is her friend and equal. I guess that's why I feel safe
 talking to Kuro and enjoyed being pushed around by her.
 
-Thinking about this, I toast with my new “blue-skinned friend”.
+Thinking about this, I toast with my new blue-skinned friend.
 
 Perhaps, because of the conversation I've had with Acht, I feel like I became
 more comfortable talking to others.

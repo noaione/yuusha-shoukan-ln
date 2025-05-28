@@ -113,7 +113,7 @@ pressured. I can't really say this since we've only met for the first time, but
 I think you should cut back on the oily stuff.
 
 [You're also together with the princesses from the other world huh. My, this is
-quite the gathering of flowers.
+quite the gathering of flowers.]
 
 [ [ ?! ] ]
 
@@ -852,7 +852,7 @@ still took me eight days to use it, I guess I might be rather slow.
 
 [No, I was talking about the situation where someone practices for a whole day.
 Kaito-kun only practices for about an hour a day, so I think your pace is pretty
-fast.
+fast.]
 
 [Ohh, if Kuro says so, that gives me confidence then.]
 
@@ -1136,7 +1136,7 @@ immediately afterwards, she struck the desk with her face.
 
 Lunamaria-san quickly rushed over to her, but Lilia-san didn't react as she laid
 down on the desk, and after a few moments, she looked up while holding her head
-in her hands, but for some reason, her face was very blue.]
+in her hands, but for some reason, her face was very blue.
 
 [...I can't take it any more... Kaito-kun's friendly connections... It's
 scary...]
