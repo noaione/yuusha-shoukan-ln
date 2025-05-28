@@ -34,7 +34,7 @@ const DISALLOWED_CTX = [
 
 function checkBalancing(first: string, last: string, expectFirst?: string, expectLast?: string) {
   if (expectFirst && expectLast) {
-    return first === last && expectFirst === expectLast;
+    return first === expectLast && last === expectFirst; // If both expectations are present, check if they match
   }
   if (expectFirst || expectLast) {
     return false; // If one of the expectations is missing, we consider it unbalanced
@@ -66,18 +66,19 @@ export function isParagraphBalancedQuotesBrackets(paragraph: Paragraph): boolean
   const peekFirstBracket = BALANCED_BRACKETS[peekFirst];
   const peekLastBracket = REVERSED_BALANCED_BRACKETS[peekLast];
   const balancedBrackets = checkBalancing(peekFirst, peekLast, peekFirstBracket, peekLastBracket);
-  if (balancedBrackets) {
-    return true; // If brackets are balanced, we can skip quotes check
+  if (!balancedBrackets) {
+    console.warn(`!!! Paragraph is not balanced (brackets): ${text}`);
+    return false; // If quotes are not balanced, we consider it incorrect
   }
   const peekFirstQuote = BALANCED_QUOTES[peekFirst];
   const peekLastQuote = REVERSED_BALANCED_QUOTES[peekLast];
 
   const balancedQuotes = checkBalancing(peekFirst, peekLast, peekFirstQuote, peekLastQuote);
-  if (balancedQuotes) {
-    return true;
+  if (!balancedQuotes) {
+    console.warn(`!!! Paragraph is not balanced (quotes): ${text}`);
+    return false; // If quotes are not balanced, we consider it incorrect
   }
-  console.warn(`!!! Paragraph is not balanced: ${text}`);
-  return false;
+  return true;
 }
 
 export function isParagraphUsingCorrectQuotesBrackets(paragraph: Paragraph): boolean {
