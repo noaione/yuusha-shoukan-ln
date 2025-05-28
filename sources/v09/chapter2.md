@@ -228,15 +228,15 @@ surprised when Lilia-san kissed me, and I was able to reaffirm my own feelings
 at the same time as I knew how she felt. At that point, it was good.
 
 ...The problem is that after three days, not only has there been no progress
-with our relationships, but there has been no progress... It seems that it has
-made my relationship with her quite awkward. Since that day, I don’t know if I
-should say that Lilia-san has been avoiding me or not... When I talk to her, she
-would flusteredly put an end to our conversation before going away. If I had to
-guess why, I’d say it was because of that kiss... Because for Lilia-san, it’s
-like she’s already confessed her feelings, and I can understand why the shy
-Lilia-san is that flustered. Currently, I’m in a situation where she isn’t
-responding to me, and I’m sure she’s feeling anxious and doesn’t know how she
-should treat me.
+with our relationships, but it feels like we have stepped backwards... It seems
+that it has made my relationship with her quite awkward. Since that day, I don’t
+know if I should say that Lilia-san has been avoiding me or not... When I talk
+to her, she would flusteredly put an end to our conversation before going away.
+If I had to guess why, I’d say it was because of that kiss... Because for
+Lilia-san, it’s like she’s already confessed her feelings, and I can understand
+why the shy Lilia-san is that flustered. Currently, I’m in a situation where she
+isn’t responding to me, and I’m sure she’s feeling anxious and doesn’t know how
+she should treat me.
 
 However, the problem is that when I try to talk to her about it, she runs away
 immediately, so the conversation never progresses and there’s no chance for me
@@ -1001,7 +1001,7 @@ trivia.]
 
 [Why didn’t you tell me that earlier? I’ve almost cut halfway through, you know?
 That took me hours, you know? You’ve been watching me for a while, haven’t you?
-You must be doing that on purpose huh’?]
+You must be doing that on purpose huh?]
 
 [...Whoa there, come to think of it, I still have a really urgent
 meet—Fugyaaahhh?!]

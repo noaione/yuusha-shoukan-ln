@@ -293,7 +293,7 @@ already...?
 
 [Fuehh?! Hyaannnn?!]
 
-Feeling my face burning hot, I told her my feelings too, and Kaito-san hugged me
+Feeling my face burning hot, I told him my feelings too, and Kaito-san hugged me
 much tighter than before. I was surprised at first, but soon, my heart was
 filled with his powerful embrace... Only with happiness... And I wasn’t able to
 say anything again.
@@ -1340,7 +1340,7 @@ Lilia-san is an extremely shy person, and even though we’ve been lovers for a
 few days, she’s the kind of person who turns bright red when we’re talking
 alone... What the heck is she thinking, going into the bathroom I’m in?
 
-[...U-Ummm, Lilia-san?/]
+[...U-Ummm, Lilia-san?]
 
 [Y-Y-Y-Yes?!]
 
@@ -1543,15 +1543,15 @@ It would have been great if it had ended at that point when she found out at the
 worst time. Then, if I followed up well, it would have ended with just
 Lunamaria-san receiving all her anger. However, Lilia-san regretfully fainted
 there... and ended up suffering the embarrassment of having me see her
-completely naked body, a shame that I would want to get into a hole if I found
-one. Therefore, the embarrassment of being seen naked outweighed her anger at
-Lunamaria-san for giving her false information, and she now sat down, covering
-her face that was so red that it was reaching her ears. Maybe it would have been
-easier if she had scolded me for being a pervert or something like that, but
-Lilia-san also has a firm understanding that it was inevitable for me to see her
-naked in that situation, and personality-wise, she isn’t the kind of person who
-would take it out on someone... And because of that, there’s no place for her
-emotions to go.
+completely naked body, a shame that I would want to get into a hole if I
+experienced it myself. Therefore, the embarrassment of being seen naked
+outweighed her anger at Lunamaria-san for giving her false information, and she
+now sat down, covering her face that was so red that it was reaching her ears.
+Maybe it would have been easier if she had scolded me for being a pervert or
+something like that, but Lilia-san also has a firm understanding that it was
+inevitable for me to see her naked in that situation, and personality-wise, she
+isn’t the kind of person who would take it out on someone... And because of
+that, there’s no place for her emotions to go.
 
 [...U-Ummm... Lilia-san?]
 
@@ -2175,7 +2175,7 @@ different from a human...
 
 [No, I’m being serious. That’s what I think from the bottom of my heart.]
 
-“?! ...I-Is that so... You’re quite the weird one, aren’t you?”
+“I-Is that so?! ...You’re quite the weird one, aren’t you?”
 
 When I straightforwardly told her that these words I said were from my heart,
 Lillywood-san’s cheeks turned a bit red and she looked troubled again.

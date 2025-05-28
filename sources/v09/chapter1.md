@@ -554,7 +554,7 @@ difficult, but can someone sternly tell her off or something?
 
 ---
 
-[And so, do you have some kind of method in mind, “Shalltear”?]
+[And so, do you have some kind of method in mind, Shalltear?]
 
 [Isn’t this the second time already?! No, no, if you’re going around the Six
 Kings, you should have just gone to Megiddo-san or Magnawell-san! Why are you
