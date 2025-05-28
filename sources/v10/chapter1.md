@@ -254,7 +254,7 @@ doesn’t matter...
 emotions will get hurt... That is to say, isn’t it that? You just tried to “hurt
 Kaito-san’s heart” right in front of me”... Isn’t that what it means?]
 
-[ ? ! ? ! ]
+[?!?!]
 
 Her voice was so cold and intimidating that one would think that their head had
 been cut off just by her killing intent alone. Just like a criminal waiting for

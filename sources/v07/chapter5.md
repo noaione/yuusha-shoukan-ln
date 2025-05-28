@@ -263,7 +263,7 @@ woman... Perhaps, does Funf-san have a low self-esteem? In fact, she has a
 well-defined face that seems to combine cuteness and beauty, a cheerful,
 easy-spoken personality, a kindness that can even be felt from the atmosphere
 around her, and, according to Eva, she is a good cook. And then, there’s her
-good proportions, which can be seen because she wears a bodysuit,... Her breasts
+good proportions, which can be seen because she wears a bodysuit... Her breasts
 are quite large, and her waist is so firm that if I’m not careful, you might end
 up looking in that direction.
 

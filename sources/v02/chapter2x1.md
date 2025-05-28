@@ -10,7 +10,7 @@ while thunderous sound rang out in the surroundings.
 Just as thousands of tree roots rose like spears piercing the skies, an
 extremely cold wind blowing down from the skies froze them.
 
-[... ?!]
+[...?!]
 
 “Kuhh...”
 

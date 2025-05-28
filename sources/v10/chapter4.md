@@ -1323,7 +1323,7 @@ How much... grief did she feel? For the people she protected, even fighting an
 outrageous being like an Evil God... How much grief did Alice’s heart have
 experienced, having to see their deaths...
 
-[... I... thought of myself as “invincible”. As long as I have people to protect
+[...I... thought of myself as “invincible”. As long as I have people to protect
 on my back, my heart will never be broken. That I can be as strong as I want,
 and I can beat even the mightiest of opponents... And it certainly was true.]
 
@@ -1470,7 +1470,7 @@ with, Iris.]
 Her muffled voice calls out the girl’s name, the old woman utters her small
 wish.
 
-[... I want you... “to experience love”...]
+[...I want you... “to experience love”...]
 
 [Eh?]
 

@@ -462,7 +462,7 @@ probably eat it, but she doesn’t seem to be particularly fond of it.]
 
 [How about you ask yourself if she has any hobbies?]
 
-[... I don’t think she has one.]
+[...I don’t think she has one.]
 
 This is bad, Fate-san is a more formidable enemy than I thought. Gods don’t need
 to eat, so Fate-san basically doesn’t eat, and she doesn’t go out to buy

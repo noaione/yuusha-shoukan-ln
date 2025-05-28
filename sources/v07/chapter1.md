@@ -570,7 +570,7 @@ a really reliable friend to have.
 
 [By your will... Now that we’ve got the theatrics out of the way, let’s get
 things in order. First of all, based on the Blue Crystal Flower that Kaito-san
-received from Isis-san., Isis-san’s book preferences, book release date, and all
+received from Isis-san, Isis-san’s book preferences, book release date, and all
 the other conditions, that would be referring to the romance novel titled “The
 Caged Princess and the Blue Flower”. Incidentally, this is the aforementioned
 book.]

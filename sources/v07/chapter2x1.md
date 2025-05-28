@@ -389,9 +389,9 @@ turning her gaze away from her true wish and give up...
 
 “...You’ll never meet such a person. Ever.”
 
-[... That’s not true... I’m sure... I’m sure... They must be out there.]
+[...That’s not true... I’m sure... I’m sure... They must be out there.]
 
-“... I understood it. I am also you after all. That’s why, I knew you wouldn’t
+“...I understood it. I am also you after all. That’s why, I knew you wouldn’t
 give up. However, I don’t think we’ll ever find someone like that.”
 
 No further words were exchanged between the girls. Only the black snow that
@@ -403,7 +403,7 @@ her own heart that tells her that she will never find it.
 
 She began to frequently stroll around the Demon Realm. In name, it was for her
 hobby... to collect items that appear in the books she likes. However, its real
-purpose was to find a being who would accept her unconditionally,... It could be
+purpose was to find a being who would accept her unconditionally... It could be
 described as something like a battle.
 
 A thousand years have passed since she began her search. The concept of
@@ -476,7 +476,7 @@ Twenty thousand years had passed since she began her search. The world
 drastically changed. The invasion to the Human Realm by the Demon Lord led to
 the Treaty of Friendship between the three realms... and the expansion of the
 world she had been living in. Therefore, it would be inevitable... that she
-would harbor hope in the expanded new world..., but she wasn’t accepted. While
+would harbor hope in the expanded new world... but she wasn’t accepted. While
 the other members of the Six Kings were accepted and their sphere of activity
 had expanded... She alone was rejected. What she got was the fear and awe of
 being the “most terrifying among the Six Kings”. As one would have roughly
@@ -974,9 +974,9 @@ moment, it felt as if she was freezing... Putting a little bit of strength into
 my hand holding Isis-san’s hand, and without saying anything, I waited for her
 next words.
 
-“... And for the second time... I was killed by the Hero of Hope. No, it’s more
+“...And for the second time... I was killed by the Hero of Hope. No, it’s more
 correct to say I was almost killed... but I cast aside most of my body and fled
-to another world with only my soul, using the last of my strength,... because I
+to another world with only my soul, using the last of my strength... because I
 didn’t want to die... all alone.”
 
 Looking at it from a different perspective, it may truly be a heroic tale. The

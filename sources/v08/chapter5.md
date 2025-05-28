@@ -1733,7 +1733,7 @@ I am at how out of the ordinary Miyama-sama is.]
 
 [A-Ahaha... No, all that happened were just coincidences.]
 
-Thereupon,, Lunamaria stopped walking again, deeply sighing.
+Thereupon, Lunamaria stopped walking again, deeply sighing.
 
 [...Haahhh... If it was others who had said it, I would have just ignored it.]
 
@@ -1857,7 +1857,7 @@ chores. However, it’s only behind the scenes, and she isn’t allowed to
 participate in the Six Kings Festival. Well, she might be tasked with cleaning
 or other odd jobs...]
 
-[... Is... that so.]
+[...Is... that so.]
 
 [The reason I had her deliver the invitations to Kaito-san and the others was
 because she volunteered, asking me that she wants to directly apologize to you.]

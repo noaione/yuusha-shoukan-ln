@@ -839,7 +839,7 @@ think I’m being strangely fussy about it.
 And now, on the 25th day of the Wind month. As I was feeling a horrible muscle
 ache all over my body, I came to visit a certain place.
 
-“... A good wood?”
+“...A good wood?”
 
 [Yes. I don’t mean to be rude for barging in on you out of the blue... but could
 you please lend me some wisdom? Lillywood-san.]

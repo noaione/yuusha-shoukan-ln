@@ -754,7 +754,7 @@ that child is right before our eyes...]
 
 [ [ That child? ] ]
 
-[ I thought it would be better if I abstained from joining. Otherwise... This
+[I thought it would be better if I abstained from joining. Otherwise... This
 pride I boasted and developed as a Spirit mage... will be smashed to pieces.]
 
 [I agree with Fia. I don't mean to underestimate you by any means. It's just

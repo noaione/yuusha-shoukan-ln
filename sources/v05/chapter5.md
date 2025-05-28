@@ -156,7 +156,7 @@ same Lilia-san.
 
 [...U-U-U-Ummm?! K-K-K-Kaito-san?!]
 
-[ I-I’m sorry?! I’ll immediately mo—Ehh?]
+[I-I’m sorry?! I’ll immediately mo—Ehh?]
 
 As I was unconsciously gazing at Lilia-san’s beautiful face, I came to my senses
 when she spoke to me, her face turning red, and so, I tried to quickly move away
@@ -758,7 +758,7 @@ as possible after all.]
 unexpected visit, and I can’t let you change your plans because of me. “I will
 wait until you have finished your prior engagement”.]
 
-[ I-I-Is that so?! W-Well then, I will have a room ready for you.]
+[I-I-Is that so?! W-Well then, I will have a room ready for you.]
 
 Hearing what Chris said with the serene smile still on her face, Ryze replies to
 her with a forced smile, though it seems like a vein has popped out of his

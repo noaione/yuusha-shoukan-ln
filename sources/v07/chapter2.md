@@ -593,7 +593,7 @@ impossible already!
 
 [...Do you want... to drink some water?]
 
-[... I-I’m... alright.]
+[...I-I’m... alright.]
 
 ...I endured. I freaking endured it... The struggle for my reason, which was too
 long and agonizing... I was able to overcome it! After such a struggle, I guess

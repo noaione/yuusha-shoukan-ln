@@ -7,7 +7,7 @@ toc: true
 In the waiting room exclusively to those unneeded in the main story... Or
 rather, in the room exclusively for the embodiment of the concept of
 seriousness, Serious-senpai reads the 5th Volume of “I was Caught up in a Hero
-Summoning,, but That World is at Peace”, just like usual.
+Summoning, but That World is at Peace”, just like usual.
 
 However, the expression on her face gave the impression that she wasn’t fully
 concentrating on the contents, as she was glancing at the stuffed cat... ? ? ?

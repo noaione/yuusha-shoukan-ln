@@ -256,7 +256,7 @@ She seemed to answer in a matter-of-fact manner, but a small smile appeared on
 Ristia’s lips, as if she was happy to see her beloved daughter’s admiring gaze.
 Right at that moment, Chris lowered her voice a little and spoke.
 
-[By the way, Mother,... one merchant who was quite notorious recently was
+[By the way, Mother... one merchant who was quite notorious recently was
 arrested after all his misdeeds were exposed in the light of day.]
 
 [Ara, is that so? People really shouldn’t do bad things.]
