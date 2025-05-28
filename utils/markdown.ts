@@ -48,7 +48,7 @@ export function fromMarkdownToMdast(fileContent: string): MdastRoot {
     ],
     // @ts-expect-error
     [
-      /%[^%]+%/g,
+      /%%[^%]+%%/g,
       ($1) => {
         return {
           type: 'subText',
