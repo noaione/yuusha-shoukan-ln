@@ -238,9 +238,9 @@ ask her to apologize...
 [...Yes.]
 
 After a few more words, Neun-san reluctantly raised her head, but she still
-looked like she was concerned about it. H-Hmmm. The air feels heavy… I-Is there
-any good topic that we could divert the conversation to? Something that could
-change the current mood...
+looked like she was concerned about it. H-Hmmm. The air feels heavy... I-Is
+there any good topic that we could divert the conversation to? Something that
+could change the current mood...
 
 [...S-Speaking of which!]
 
@@ -453,7 +453,7 @@ like she’s quite confident though. However, I don’t think the odds are again
 us. If it’s a dish that doesn’t exist in this world, even if it’s Alice we’re
 talking about, there’s no way that she will be able to make it.
 
-[…Okay. I’ll take that bet.]
+[...Okay. I’ll take that bet.]
 
 [As expected of Kaito-san, always easy to talk with\~\~ Well then, please place
 your order...]
@@ -951,7 +951,7 @@ care, Miyama-kun.]
 
 [Y-Yes...]
 
-[Chuu…]
+[Chuu...]
 
 [Wha?!]
 

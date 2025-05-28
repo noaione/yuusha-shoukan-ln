@@ -204,7 +204,7 @@ puzzledly looked at me.
 [Yes, everyone else has gone to collect the stamps needed for the challenge.]
 
 [Nhnn, I should have known... I was going to explain it to you when you all got
-here but... I see…]
+here but... I see...]
 
 [Yes. So, I thought I’d at least ask you about it first...]
 
@@ -1566,7 +1566,7 @@ unusually soft for her.
 
 [Unnn?]
 
-[I-I’d like it if... we could be “alone”... for a little... u-ummm… M-My
+[I-I’d like it if... we could be _alone_... for a little... u-ummm... M-My
 apologies! It’s nothing!]
 
 [...]

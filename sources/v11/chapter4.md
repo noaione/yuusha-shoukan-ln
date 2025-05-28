@@ -325,7 +325,7 @@ However, thinking about it again... the root of that feeling might have been
 loneliness. She really wanted her mother to come and see her. She wanted her
 love... However, she never even came to see her. In order to cover up her
 loneliness, Chris began to hate her mother. She hated her mother, “so it’s no
-wonder they don’t see each other”… is what she convinced herself to think of.
+wonder they don’t see each other”... is what she convinced herself to think of.
 Yes, to put it in another way, Chris didn’t know how to act spoiled around her
 mother. She was too clumsy when dealing with her own mother.
 

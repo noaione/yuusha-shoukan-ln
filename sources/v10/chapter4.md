@@ -135,11 +135,11 @@ Kuro doesn’t seem to know much about Alice’s past either, but Kuro was able 
 tell me her impression of Alice from her point of view, and after she drank some
 coffee from her teacup, she continued.
 
-[Unnn. Shalltear looks so bright and cheerful but…... I wonder why? I can’t
-think of a better way to describe it, but it feels as if she was “acting” the
-role of “Shalltear”, and this feeling may be vague, but I feel like she’s not
-smiling deep within her heart. Though I say that, I’ve only recently found out
-about it.]
+[Unnn. Shalltear looks so bright and cheerful but... I wonder why? I can’t think
+of a better way to describe it, but it feels as if she was “acting” the role of
+“Shalltear”, and this feeling may be vague, but I feel like she’s not smiling
+deep within her heart. Though I say that, I’ve only recently found out about
+it.]
 
 [...Eh?]
 
@@ -308,7 +308,7 @@ Phantasmal King frequently visits my place.]
 [...]
 
 [She was on her way to meet the God of Fate, looking like she was about to talk
-with her for some reason…... It doesn’t seem like she came for any important
+with her for some reason... It doesn’t seem like she came for any important
 reason, she apparently just wants to have some idle chatter... Well, she ended
 up talking about all sorts of things.]
 
@@ -436,7 +436,7 @@ blow from Fate, the Supreme God, Alice was sent bouncing off like a pinball and
 slammed on the wall of the store. Originally, there would have been a hole in
 the wall, but the area was already reinforced with a solid ward.
 
-[…...Wh... t…... What are you doing all of a sudden?!]
+[...Wh... t... What are you doing all of a sudden?!]
 
 [Hmmm. Well, you see, that’s the thing. That... I knew that something had
 happened to some extent, but geez, you’re seriously worrying about the stupidest
@@ -473,7 +473,7 @@ were confronting each other.
 
 [...Haahhh... Haahhh...]
 
-[...Haahhh... Kuhhh…...]
+[...Haahhh... Kuhhh...]
 
 [Uwooohhhh!]
 
@@ -518,7 +518,7 @@ Seeing Alice like that, Fate slightly smiles.
 
 [How is it? Have you felt better now?]
 
-[…...I wonder? I’m not really sure. Fate-san... I...]
+[...I wonder? I’m not really sure. Fate-san... I...]
 
 [Are you feeling guilty about putting Kai-chan in the role of your dead best
 friend, treating him like he’s a replacement?]
@@ -541,7 +541,7 @@ friend of yours?]
 
 [Then, isn’t that good enough?]
 
-[…...Eh?]
+[...Eh?]
 
 Fate was the only one in this world who knew about Alice’s past that even
 Kuromueina didn’t know, and that’s why she understood the pain she was feeling.
@@ -710,15 +710,14 @@ room Alice had prepared for me, and then returned to the living room.
 
 [Are you talking about where my pleasu—Fugyaaahhh?!]
 
-[…...Did you say something just now?]
+[...Did you say something just now?]
 
 [I said nothing.]
 
 Then, I ate the food I had bought for dinner with Alice, and since there is a
 lot of stuff that happened today, I went to bed right away. Alice was acting the
-same as usual, but I still feel like there was something strange about her…...
-It looked like she was deliberately trying to act upbeat and divert away the
-topic.
+same as usual, but I still feel like there was something strange about her... It
+looked like she was deliberately trying to act upbeat and divert away the topic.
 
 No, maybe that’s just something I didn’t realize until now, and she’s always
 been that way...
@@ -888,7 +887,7 @@ to ask. Therefore, I decided to speak my honest thoughts.
 
 [...Alice is already irreplaceable to me. You said it’s okay to keep things the
 way they are now but... I want our relationship to go further than that. I want
-to be in a relationship where we can support each other…... where I am not only
+to be in a relationship where we can support each other... where I am not only
 protected by Alice, but where I’m also protecting you.]
 
 [...]
@@ -926,7 +925,7 @@ finally the starting point—The door to Alice’s heart was quietly opened.
 It seems like it would be a long story, so Alice prepared a cup of tea, which I
 accepted and then, faced her at the living room’s table.
 
-[...I wonder where I should start…... I guess it should be who I am, right?]
+[...I wonder where I should start... I guess it should be who I am, right?]
 
 [...]
 
@@ -964,7 +963,7 @@ in. I only had a hunch about it, but the world Alice was in... it had an image
 of what I had imagined a fantasy other world would be before I was summoned to
 this world.
 
-[I was an adventurer in that world with my “partner”…... Well, if I do say so
+[I was an adventurer in that world with my “partner”... Well, if I do say so
 myself, at that time, I was weak and had no talent... At best, I would be
 someone among the mid-to-low-end tier.]
 
@@ -986,7 +985,7 @@ through the power of the “Heart Tool”.]
 [Heart Tool?]
 
 [They’re magic created by humans, who lack the strong bodies and sharp fangs of
-the monsters, to fight against these beings…... It’s “magic that generates your
+the monsters, to fight against these beings... It’s “magic that generates your
 heart as a weapon”. The stronger the belief that the user had in their heart,
 the stronger their Heart Tool is. Just as the human’s mind holds no limits, it’s
 also a weapon that grows along with the mind.]
@@ -995,7 +994,7 @@ also a weapon that grows along with the mind.]
 
 [Ahaha, it looks great on the surface, but in my world, 90% of the adventurers
 could use this magic... The Heart Tool is the heart of the user herself, and
-each person’s Heart Tool has a different shape and ability…... Incidentally, my
+each person’s Heart Tool has a different shape and ability... Incidentally, my
 Heart Tool is the _Hekatonkheires_ that Kaito-san saw yesterday.]
 
 Alice’s Heart Tool, _Hekatonkheires_... Was it those meteor-like lights swirling
@@ -1005,7 +1004,7 @@ though? When such a question popped out of my mind, Alice explained with a
 smile, as if she understood it.
 
 [My Heart Tool, _Hekatonkheires_... It has the ability to temporarily use the
-ability of the people I have weaved a bond with…... those I care about, and also
+ability of the people I have weaved a bond with... those I care about, and also
 cares about me.]
 
 [A-Amazing...]
@@ -1092,7 +1091,7 @@ curious about the rest of the story, so I urged Alice to continue. Alice, as if
 she was teasing me, paused at the right moment before continuing her story.
 
 [...After defeating the top brass of the villains, the mastermind finally
-appeared in front of my exhausted little sister and her friends…... As my sister
+appeared in front of my exhausted little sister and her friends... As my sister
 and her friends were riddled in wounds, the queen presented herself as a
 sacrifice to protect them! The moment tears fell from my little sister’s eyes...
 I made my entrance!!!]
@@ -1101,9 +1100,9 @@ I made my entrance!!!]
 
 [Well\~\~ Objectively speaking, I was super cool at that time. I dashed into the
 scene with the moon in the background and there’s really damn cool background
-music playing around…... Well, the fight actually happened indoors, so I
-couldn’t see the moon or anything like that, and the BGM was also just playing
-in my head.]
+music playing around... Well, the fight actually happened indoors, so I couldn’t
+see the moon or anything like that, and the BGM was also just playing in my
+head.]
 
 [Oi...]
 
@@ -1137,7 +1136,7 @@ Gods. However, it still held power that was a tremendous threat to us humans.]
 
 [...]
 
-[That Evil God resurrected and right at that moment…...]
+[That Evil God resurrected and right at that moment...]
 
 [Right at that moment?]
 
@@ -1151,9 +1150,9 @@ to the kitchen in an instant?! Why the heck are you walking like a normal
 person?!
 
 New set of teacakes were lined up on the table... Or rather, food does exist in
-Alice’s house huh…... No, well, they obviously do. I didn’t realize it since she
+Alice’s house huh... No, well, they obviously do. I didn’t realize it since she
 had the image of someone who’s always hungry... hey, wait a minute? I’m sure
-Alice doesn’t need to eat or sleep…... So, I guess that hungry-looking self she
+Alice doesn’t need to eat or sleep... So, I guess that hungry-looking self she
 had before was just an act to fool me huh. Well, even though eating is just
 supposed to be their preference, this woman still acts like she hasn’t been fed
 for days...
@@ -1197,7 +1196,7 @@ boss, it used the last boss’s mental attacks? What a disgrace of a last boss, 
 is. How about you just physically smack people around?]
 
 [You just smoothly dissed it huh. Well, enveloping the hearts of humans around
-the world with darkness…... Isn’t that amazing…...]
+the world with darkness... Isn’t that amazing...]
 
 [I guess so. Well, it would be OK if you imagine it as Isis-san’s magic power of
 death spreading around the world. Well, in terms of ability, Isis-san is many
@@ -1232,7 +1231,7 @@ speaking. It seemed to imply that the content is important from here on out.
 [The small wishes in the hearts of people all over the world, the definite hope
 for the future... With the power of _Hekatonkheires_, I weaved all of those
 thoughts into my own body. To defeat the Great Evil God of Despair, to protect
-the people I care about…... I weaved the whole world together.]
+the people I care about... I weaved the whole world together.]
 
 [...]
 
@@ -1299,7 +1298,7 @@ her face, as if she was about to cry.
 
 [...From the moment my body was transformed... I had become “immortal”.]
 
-[Wha…... Ahh...]
+[Wha... Ahh...]
 
 [That’s right. Now, just as Kaito-san imagined... while the people I love and
 cherish with all my heart and soul are getting old... My body remained this way
@@ -1484,7 +1483,7 @@ wide and has a shocked expression on her face. That’s because the wish uttered
 by the old woman... is a restraint for the girl after she loses the old woman...
 
 [...I’m sorry... I know that... you’ll suffer... because of this. You’re free to
-resent... this dying woman’s selfish wish…... However... even so... I... “want
+resent... this dying woman’s selfish wish... However... even so... I... “want
 you to live”.]
 
 [ ? ! ]
@@ -1722,7 +1721,7 @@ mentioned earlier?]
 something stupid and my best friend would scold me, getting angry at me... And
 then, after she was done being angry, she would have a small smile while
 astoundedly looking at me... She would then warmly chuckle, as if to say that it
-can’t be helped if it’s me…... I liked those times a lot.]
+can’t be helped if it’s me... I liked those times a lot.]
 
 [...]
 

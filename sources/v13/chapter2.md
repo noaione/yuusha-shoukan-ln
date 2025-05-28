@@ -335,7 +335,7 @@ swung her fist, clad in burning flames, at Iris. As Iris took a large leap to
 the side, Agni’s fist cut through the air, hitting the ground and creating a
 huge crater in the ground.
 
-(...She’s fast. But… why? Why did she evade that greatly just to dodge my
+(...She’s fast. But... why? Why did she evade that greatly just to dodge my
 strike? What’s the point of doing that?)
 
 She had expected Iris to evade her punch, but noticing how different the way she
@@ -421,8 +421,8 @@ big step away from Iris.
 (A spherical barrier made with magic power?! What the heck is this idiotic
 strength?!)
 
-Iris Illuminus… Her specialty in combat can be said to be very simple, just like
-Agni. She uses a large amount of magic power to create a magic barrier that
+Iris Illuminus... Her specialty in combat can be said to be very simple, just
+like Agni. She uses a large amount of magic power to create a magic barrier that
 blocks the opponent’s attacks, and then crushes them with wide-range magic
 possessing high firepower. In the past, when she was a human, Iris’ best friend
 described her with one word... “Fortress”.
@@ -1029,7 +1029,7 @@ do you think of this match?_&gt;
 
 &lt;_You can eat your cookies there, so please just try a little harder!_&gt;
 
-&lt;_Haahhh... Even though I was lured by the “1 / 1 Kai-chan doll”, it’s still
+&lt;_Haahhh... Even though I was lured by the “1/1 Kai-chan doll”, it’s still
 troublesome... Well, I guess you really need to work for it if you want to get
 the good stuff huh?_&gt;
 
@@ -1244,7 +1244,7 @@ Megiddo-san? Also, why the heck do the judges have faces that seem to say “I
 never thought of that”?! If the real dragon doesn’t have wings... Wouldn’t that
 mean a deduction in points instead?
 
-[...This is an art competition. In other words, that is… his work is...]
+[...This is an art competition. In other words, that is... his work is...]
 
 [Yeah, I understand. I can now clearly see it... as to why Megiddo-sama declared
 his defeat...]
@@ -2142,7 +2142,7 @@ all be hellish no matter who wins it...
 
 &lt;_Ah, yes, yes. What about you, Kaito-san? Are you going to participate?_&gt;
 
-[…I’m participating.]
+[...I’m participating.]
 
 In this case, I don’t have any choice but to win at all costs and recover my
 black history myself...
@@ -2441,9 +2441,9 @@ It’s there again. Another indescribable itch budding in my chest... Ahh, I see
 I understand what this feeling is now. This is called... “a sense of
 accomplishment”...
 
-As soon as I realized this, I felt joy surging from within me. That’s right… It
-had been an unrefined battle. Maybe it was because luck was on my side, or maybe
-it was because Alice was supporting me from behind the scenes.
+As soon as I realized this, I felt joy surging from within me. That’s right...
+It had been an unrefined battle. Maybe it was because luck was on my side, or
+maybe it was because Alice was supporting me from behind the scenes.
 
 Still, I certainly won... It was my victory...
 
@@ -2463,8 +2463,8 @@ the delicious alcohol seeped into my entire body.
 [No, it certainly was a relatively good alcohol, but it’s not that rare of a
 drink.]
 
-[…Is that so. However, this tastes delicious. I think it’s one of the best I’ve
-ever had...]
+[...Is that so. However, this tastes delicious. I think it’s one of the best
+I’ve ever had...]
 
 [I see. Hey, Kaito. My bad, for having you deal with my selfishness today.]
 

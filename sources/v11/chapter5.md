@@ -505,8 +505,8 @@ you’re my child.]
 Saying this, Makina wryly smiled... Eh? Does that mean Makina-san is a World
 Creator like Shiro-san, and the one who created the world I was in?
 
-…Arehh? What is this? I feel like I heard such a story a while ago, but I can’t
-clearly remember it. What is this murky feeling...
+...Arehh? What is this? I feel like I heard such a story a while ago, but I
+can’t clearly remember it. What is this murky feeling...
 
 [Ahh, I made it so that you won’t remember “the me over there”. That out of
 place feeling may have been what’s giving you that murky feeling.]
@@ -1064,8 +1064,8 @@ big smile on her face and a small, 30x30cm wooden board in her hand. And written
 on it was “Alice-chan’s special handmade clothes \~\~ Six Kings Festival
 Specifications \~\~ Set of 3, one white gold coin”.
 
-In Japanese yen, that’s 10 million yen... This bastard… She sure came up with a
-good business idea. Instead of opening her store and waiting for the customers
+In Japanese yen, that’s 10 million yen... This bastard... She sure came up with
+a good business idea. Instead of opening her store and waiting for the customers
 to come to her, she went with the method of offering what I need at the right
 time at a high price... Frustrating it may be, but it’s very effective. White
 gold coin... However, knowing her, I’m sure that the goods she made are worth
@@ -1243,7 +1243,7 @@ only Sieg-san, but also Lilia-san smiled happily. For the shy Lilia-san, having
 the familiar Sieg-san might be comforting for her.
 
 [Ahh, but before that, Sieg-san’s clothes. The size may be a little different,
-something like this should be great…]
+something like this should be great...]
 
 [No, Lili... Please don’t bring me such an expensive item. I don’t have as much
 money as you do. I can barely afford to buy the lowest grade of clothing in this
@@ -2385,7 +2385,7 @@ can’t forget it either... I don’t think it’s okay to stay like this though
 [...Thanks.]
 
 Depending on how you look at it, her opinion might have sounded cold. However,
-the words Alice said... were very gentle words… as she said it didn’t matter
+the words Alice said... were very gentle words... as she said it didn’t matter
 what path I chose, and when I needed help, she would always be there to lend a
 hand. After thanking Alice, I walked through the night streets for a while
 before I used Teleportation Magic to return to my room.
@@ -2451,7 +2451,7 @@ each other that they have misunderstood each other even though they love each
 other very much.
 
 Ahh, I see... I finally understood why I had been so worried about this matter.
-I want to... “try do something about it”… I want to bring Dr. Vier and Kuro
+I want to... “try do something about it”... I want to bring Dr. Vier and Kuro
 together again. However, both Kuro and Dr. Vier said that they couldn’t see each
 other. That’s why I was having a hard time figuring out what the right thing to
 do was. Maybe it’s none of my business to get involved in a family matter as an

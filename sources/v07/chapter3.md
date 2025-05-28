@@ -984,8 +984,8 @@ as often... Well then, here’s another question.]
 [Eh?]
 
 [If a mermaid/harpy hybrid mother and a half-elf father had a child, if that
-child got sick... what hospital would you take him to? To the mermaids’? The
-harpies’? The elves’? Or perhaps, the humans’?]
+child got sick... what hospital would you take him to? To the mermaids? The
+harpies? The elves? Or perhaps, the humans?]
 
 [...Ahh.]
 

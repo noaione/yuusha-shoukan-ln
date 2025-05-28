@@ -95,7 +95,7 @@ you’re in the city, you should be able to see it.]
 
 Amazing... It doesn’t seem like this grandpa would stop talking at all. What
 tremendous communipower he has... I wonder if this is the result of life
-experience…... I think Magnawell-san was like him too. And then, with the
+experience... I think Magnawell-san was like him too. And then, with the
 grandpa’s unstoppable talking skills, he continues to speak more.
 
 [This country is a good country, as it’s broadminded and accepts the opinion of
@@ -132,7 +132,7 @@ What a deplorable story it is.]
 
 ...Please don’t blame me for thinking that the King is just like Fate-san.
 
-[We don’t need a King in this country anymore…... Don’t you think? Young man.]
+[We don’t need a King in this country anymore... Don’t you think? Young man.]
 
 [Eh? A-Ahhh, perhaps.]
 
@@ -192,8 +192,8 @@ has arrived and I can’t relax, so can just stop being hard on me.]
 
 [...This isn’t the only time you’re taking a break though?]
 
-[Hahaha, is that right? Well, isn’t it fine…... The fact that the King isn’t
-busy means that the people have a lot of power to run the country.]
+[Hahaha, is that right? Well, isn’t it fine... The fact that the King isn’t busy
+means that the people have a lot of power to run the country.]
 
 After the girl... King Hydra laughed and said that, she began walking away with
 the knights in tow.
@@ -209,7 +209,7 @@ anymore... The country can be run by the parliament. The only thing I can do now
 is for me to “offer my head” when that fails. Fortunately, I still have my head
 attached to my body.]
 
-[...Seriously, you really are…...]
+[...Seriously, you really are...]
 
 [Or rather, shouldn’t I be the one asking questions here? Geez, I have been the
 king for “nearly a thousand years”, how long do you want to make the elderly

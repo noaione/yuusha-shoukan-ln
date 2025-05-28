@@ -339,7 +339,7 @@ After I finished explaining to Lilia-san and Dr. Vier about Eden-san to some
 extent, a considerably heavy silence appeared. A little while later, Lilia-san
 spoke in a grave tone.
 
-[…In short... This Eden-sama is the God of Kaito-san’s world that you had told
+[...In short... This Eden-sama is the God of Kaito-san’s world that you had told
 me about before... and that God likes Kaito-san... That’s why she helped you for
 this matter...]
 

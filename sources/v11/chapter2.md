@@ -351,7 +351,7 @@ glows for a moment, and after it disappears, a card-like object appears in front
 of me. It’s about the size of a common trading card, but I don’t know if it was
 because it was made of good paper or not, but it looks beautiful.
 
-[Mumuuuu… Could that be...]
+[Mumuuuu... Could that be...]
 
 [Eh? This somehow looks unusual... wait, isn’t this Kuro?]
 
@@ -491,7 +491,7 @@ However, Eden-san just silently looked at us without answering Alice’s questio
 Feeling somewhat uncomfortable and nervous, I timidly tried to speak to
 Eden-san.
 
-[…Ummm, do you need something from me again?]
+[...Ummm, do you need something from me again?]
 
 [Yes, that’s right, my beloved child. As you had said, Mother just returned once
 to readjust her body to see you again.]
@@ -560,7 +560,7 @@ I wonder why? I feel some kind of chill running down my back... In her eyes,
 which should have been richly-colored, there appears to be some kind of muddy
 black color in it... Eh? Why?
 
-[…And that means?]
+[...And that means?]
 
 [I have been waiting all these times. My child, who is born in the world that I
 made, to stand against me. Yes, that’s right... it was you. You have stood
@@ -739,8 +739,8 @@ vortex appeared and Kuro and Eden came back.
 
 [...Welcome back, Kuro.]
 
-[I’m back... Haahh… Geez, she’s really strong that it feels nasty... I’m feeling
-tired.]
+[I’m back... Haahh... Geez, she’s really strong that it feels nasty... I’m
+feeling tired.]
 
 I don’t know if I should say that it’s to be expected from a God who created a
 world or not, but Eden-san seems to be quite strong, and Kuro sighs with an
@@ -752,8 +752,9 @@ bowed.
 [Ah, no...]
 
 The way she has called me changed from “my child” to “Miyama Kaito”, and I don’t
-have the same chilling feeling I had earlier. It seems like she has calmed down…
-Unnn? What did she say just now? She was a bit excited? That... was just a bit?
+have the same chilling feeling I had earlier. It seems like she has calmed
+down... Unnn? What did she say just now? She was a bit excited? That... was just
+a bit?
 
 [Geez, anyway... Don’t trouble Kaito-kun, nor should you harm any of Kaito-kun’s
 friends!]

@@ -1072,7 +1072,7 @@ utter despair.
 in a thousand years... It seems that I really need to teach you again a lot of
 things from the ground up.]
 
-[Awa… Awawa...]
+[Awa... Awawa...]
 
 For Vier, her sister who just showed up... Zwei is someone, if possible, she
 wants to meet when she’s a little more emotionally prepared. For she is the

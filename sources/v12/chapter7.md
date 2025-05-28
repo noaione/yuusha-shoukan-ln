@@ -79,8 +79,8 @@ perfection.
 the others?]
 
 Rice isn’t really popular in this world, and many of the people I know like
-Lilia-san and the others would say “Eating rice for breakfast is kinda…” when I
-asked. So, I asked Kuro and the others if they were fine with it.
+Lilia-san and the others would say “Eating rice for breakfast is kinda...” when
+I asked. So, I asked Kuro and the others if they were fine with it.
 
 [Unnn? This is just our “usual” breakfast, you know?]
 

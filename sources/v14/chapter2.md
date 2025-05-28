@@ -361,8 +361,8 @@ Vier’s own efforts that helped you reconcile with Kuro. What I did was just
 something small.]
 
 [That might be the case. But because I was unable to create that small
-opportunity… That’s why I can’t express in words how grateful I am to Miyama-kun
-for doing that for me.]
+opportunity... That’s why I can’t express in words how grateful I am to
+Miyama-kun for doing that for me.]
 
 [I was just doing what I wanted. I was just acting on my selfishness, and I
 wasn’t looking for anything in return.]
@@ -486,8 +486,8 @@ on their conversation made me realize how I’m still not high-level enough.
 Hearing what Dr. Vier said with a bright smile, Lilia-san and the others almost
 simultaneously pointed at the pile of white boxes behind them.
 
-[...Unnn? Let’s see... “Six Kings Festival Limited Edition Monster Lottery \~\~
-One Try, One Gold Coin \~\~ “?]
+[...Unnn? Let’s see... “Six Kings Festival: Limited Edition Monster Lottery \~\~
+One Try, One Gold Coin \~\~”]
 
 [Yes, we’re discussing whether Sieg should try it out or not...]
 
@@ -1101,8 +1101,8 @@ green evenly-trimmed short bob hair. Her red eyes looked sharp. Dressed in a
 trouser suit-like outfit, matched with a neatly arranged necktie, she looked
 like a capable career woman. Her hands were covered with white gloves, making
 her somewhat look like a woman cosplaying as a butler. I think she’s around
-160cm tall? The atmosphere around her… It was as if she’s as sharp as a polished
-blade.
+160cm tall? The atmosphere around her... It was as if she’s as sharp as a
+polished blade.
 
 As the woman walked up to Dr. Vier, her voice quietly resounded.
 

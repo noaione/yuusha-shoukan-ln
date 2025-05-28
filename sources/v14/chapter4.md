@@ -622,16 +622,11 @@ didn’t they talk about the origins of auroras? If I remember correctly, they
 also featured what they call the aurora in different countries. Remember...
 Squeeze that memory out!
 
-[...H-How about... “Selas”? You can also call her Sela...]
-
-(T/N: Aurora Borealis is “Βόρειο Σέλας” in greek, which is pronounced as vóreio
-sélas.)
+[...H-How about... “Selas”? You can also call her Sela...][^borealis]
 
 [Selas, that’s a very pretty name. Does that name have any origin?]
 
-[Errr, in a language back in my world... It means “dawn”.]
-
-(T/N: Aurora in Latin, means dawn, not the name Selas.)
+[Errr, in a language back in my world... It means “dawn”.][^selas]
 
 [Dawn?]
 
@@ -1789,3 +1784,9 @@ I really admire Ozma-san, not simply because of his good looks, but because of
 his cool words and gestures. To be honest, I don’t see myself becoming like him
 at all, but if it were possible, someday, just like him— I want to grow to
 become someone cool.
+
+[^borealis]:
+    Aurora Borealis is “Βόρειο Σέλας” in greek, which is pronounced as vóreio
+    sélas.
+
+[^selas]: Aurora in Latin, means dawn, not the name Selas.

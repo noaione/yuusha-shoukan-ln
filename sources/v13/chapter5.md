@@ -101,7 +101,7 @@ mature lady, and just the thought of taking a bath with her makes me nervous...
 
 [Unnn. I thought it would be nice if Miyama-kun, me and Hikari could go around
 together, so I asked her to come. Hikari agreed, and so, we came to the changing
-room together…]
+room together...]
 
 I don’t have any objection in having the three of us go around the festival with
 Neun-san. However, the big problem is that special rule about having a mixed

@@ -601,7 +601,7 @@ situation. I guess I should keep up with my massage...
 [...Ummm, Fate-san? Could you stop making that erotic voices, please? I can’t
 concentrate here.]
 
-[Eeehhh\~\~ I mean, it feels really good\~\~ Ahhnnn…]
+[Eeehhh\~\~ I mean, it feels really good\~\~ Ahhnnn...]
 
 [...]
 
@@ -663,7 +663,7 @@ That’s strange... It sounded like Mitsunaga-kun just said something strange li
 him being no match for me, you know? No, I’m sure that I just heard wrong. It’s
 not like Mitsunaga-kun would need to try being my equal or anything like that.
 
-[...J-Just in case I heard right, let me ask Mitsunaga-kun something…... You
+[...J-Just in case I heard right, let me ask Mitsunaga-kun something... You
 didn’t just say that you’re not as good as me, right?]
 
 [Eh? Ah, yes. After all, Miyama-san has been in contact with the Six Kings. You
@@ -759,7 +759,7 @@ just go make out in a room, or perhaps, become one?]
 
 [Rejected!]
 
-[Ueeeehhhh…... I-I’m that, you know. I steadily lose a lot of my vitality under
+[Ueeeehhhh... I-I’m that, you know. I steadily lose a lot of my vitality under
 the sun.]
 
 [It’s alright. You’re not a vampire, you’re a God.]
@@ -869,7 +869,7 @@ you a kiss in return?]
 [Do you really have to be that quick in refusing me?!]
 
 Somehow, isn’t she more languid than before? W-Well, I guess that’s how much she
-liked it but…... Well, whatever.
+liked it but... Well, whatever.
 
 Now then, I want to talk about what going on a date really is all about. I can’t
 exactly say that I’m an experienced guy, so I can only describe it in general
@@ -886,7 +886,7 @@ my current situation. If the main purpose is to deepen our relationship with
 each other, I could definitely say that we’re currently on a date... that’s only
 if I could say that though...
 
-[Fuuuaaahhhh…]
+[Fuuuaaahhhh...]
 
 [...Ummm, Fate-san? Isn’t it about time you move on your own?]
 
@@ -940,7 +940,7 @@ Is this really a date? Not nursing or assisting, but seriously, a date?
 
 Seeing me muttering that while my shoulders slumped down, Fate-san had an
 unusually troubled look on her face. Then, she finally raised her upper body...
-and got off the cushion…... Eh? She got off her cushion?
+and got off the cushion... Eh? She got off her cushion?
 
 [Well\~\~ I’m sorry. I got a little overzealous. Are you mad?]
 
@@ -1060,7 +1060,7 @@ sigh before getting up and approaching Fate-san to pull her hand.
 
 [This is my thanks for today... Chuu\~\~]
 
-[ ? ! ]
+[?!]
 
 [Fufufu, let’s go out again... Okay?]
 
@@ -1233,7 +1233,7 @@ Now then, since I told the grandpa that I’m going back to Symphonia Kingdom,
 this should be the end of what I need to do in the Hydra Kingdom... but that’s
 not the case at all. In fact, this wasn’t included in my plans, but this was
 something decided after I went with the flow. When I left the inn at around
-noon, I found the person I had an appointment with…... Shea-san.
+noon, I found the person I had an appointment with... Shea-san.
 
 Shea-san asked me before for something she can do as an apology, to which I
 replied that she could buy me a meal, so she’s going to treat me to lunch today.
@@ -1498,9 +1498,9 @@ about this, my shoulders slumped a bit, but I can’t really overlook them now
 that I know about it. The moment I was thinking of a way I could help them,
 Shea-san clicked her tongue and took out her scythe.
 
-[…...A swing to clear away disasters...]
+[...A swing to clear away disasters...]
 
-[ ? ! ]
+[?!]
 
 After quietly muttering, Shea-san brandished her scythe and a huge jet-black
 slash immediately flew out of her and flew towards the ship. As the slash
@@ -1647,7 +1647,7 @@ they’re seriously worried that I’m feeling unwell?! If they’re like this, 
 can’t complain about their strangeness... W-What should I do, is there something
 that could derail their thoughts... Wait, that’s right!
 
-[Ummm, Lilia-san. I haven’t met King Hydra…... but I met a High-ranking God, God
+[Ummm, Lilia-san. I haven’t met King Hydra... but I met a High-ranking God, God
 of Disasters-sama, you know?]
 
 [...Eh?]
@@ -1658,7 +1658,7 @@ of Disasters-sama, you know?]
 
 Yes, I certainly didn’t meet King Hydra this time, but I did get to know
 Shea-san, the No. 5 of the God Realm. If I were asked if we get along well, I
-think that would be quite complicated…... But we certainly became acquaintances.
+think that would be quite complicated... But we certainly became acquaintances.
 When I told that to Lilia-san, she was silent for a while and then let out a
 sigh of relief from the bottom of her heart.
 

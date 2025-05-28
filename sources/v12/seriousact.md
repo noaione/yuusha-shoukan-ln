@@ -71,7 +71,7 @@ recently...]
 when it comes to logistics, and she does straightforwardly listen to my
 requests, so my environment here has improved dramatically.]
 
-[...It seems like you met someone good (?) huh.]
+[...It seems like you met someone good(?) huh.]
 
 [...No, my overall assessment of her is that she’s “a dangerous person with a
 screw loose in her head”.]

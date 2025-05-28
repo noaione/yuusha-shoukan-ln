@@ -961,7 +961,7 @@ have liked the taste of the meat.
 [E-Even though I feel like my face is on fire?! Kaito-san isn’t fair!!!]
 
 No, even if I look calm... it was just because you were trembling so much that I
-became calm instead… Even so, while Alice was trying to scold me for that...
+became calm instead... Even so, while Alice was trying to scold me for that...
 looking at her appearance as she glared at me, while her body was shaking and
 her face was so bright red, how should I say this...
 
@@ -984,7 +984,7 @@ position.
 
 [Ahhn.]
 
-[A-Ahhn... omnom… Kaito-san, you’re definitely acting like an S around me...]
+[A-Ahhn... omnom... Kaito-san, you’re definitely acting like an S around me...]
 
 [Unnn?]
 
@@ -1147,7 +1147,7 @@ embarrassment starts growing, I spoke to her so as to cover it up.
 
 [...W-Well, I was actually just teasing Alice earlier...]
 
-[Wha?!...T-That’s mean, Kaito-san! Are you just playing with my maiden heart?!]
+[Wha?! ...T-That’s mean, Kaito-san! Are you just playing with my maiden heart?!]
 
 [Sorry... I mean, wasn’t it Alice who started with the teasing?]
 
@@ -1353,8 +1353,8 @@ as a means to reflect.
 [W-Well, you see, we were interrupted in the middle of our match so...]
 
 [...Kaito-san is an absolute cheat... How come you were able to “consecutively
-win in betting with single bets” in the roulette… There’s no way you can win if
-that wasn’t the case...]
+win in betting with single bets” in the roulette... There’s no way you can win
+if that wasn’t the case...]
 
 [Ahh\~\~ No, I was just lucky...]
 
@@ -1990,8 +1990,8 @@ treasures them... and she’s going to part with all of it... Seeing me
 flusteredly asking that, Alice looks at me with a smile on her face before
 slowly opening her mouth.
 
-[...”I don’t... need this... anymore… From now on... I’m going to... put all my
-memories... together with Kaito... in heré”... Saying that, after cleaning up
+[...”I don’t... need this... anymore... From now on... I’m going to... put all
+my memories... together with Kaito... in heré”... Saying that, after cleaning up
 her storage room, she carefully laid out the ice crystals Kaito-san and Isis-san
 mined. Someone’s really loved eh\~\~]
 
@@ -2593,7 +2593,7 @@ Alice’s hand went to the back of my neck, her lips pressed tighter than before
 and at the same time... as if to lead my tongue in, her mouth slightly opened
 up.
 
-[…nnchuu... aahhnn... chyuu...]
+[...nnchuu... aahhnn... chyuu...]
 
 As if it was sucked in, my tongue enters Alice’s mouth and begins to move to
 taste the warm and sweet interior of her mouth. At first, Alice accepted my
@@ -2603,10 +2603,10 @@ lewd sounds.
 
 [Hnn... Fuuaaa... nyuu, chyuuu, chuuuu... fwaahh... chyuuu...]
 
-How long had we been exchanging saliva with each other like this? After a long…
-really long kiss... When I pulled my face away, I saw a silver thread between
-Alice’s and my mouth. And then, as an absentminded expression appeared on
-Alice’s face, after a little while, she recovered and her face turned bright
+How long had we been exchanging saliva with each other like this? After a
+long... really long kiss... When I pulled my face away, I saw a silver thread
+between Alice’s and my mouth. And then, as an absentminded expression appeared
+on Alice’s face, after a little while, she recovered and her face turned bright
 red.
 
 [...Auuuuuuu.]

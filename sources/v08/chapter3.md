@@ -946,8 +946,8 @@ kind of looks luxurious.
 
 [...It’s a really beautiful dish.]
 
-[This, you see… It’s called the Rigforeshia’s Flower... A local specialty of our
-city.]
+[This, you see... It’s called the Rigforeshia’s Flower... A local specialty of
+our city.]
 
 [...Wha... Wha...]
 
@@ -1251,7 +1251,7 @@ us on an arranged date, and went to their room. I’ve already finished bathing,
 and since it was still too early to go to bed, Sieg-san suggested that we drink
 some alcohol.
 
-[...Heehhh… I didn’t know there was a place like this in this house.]
+[...Heehhh... I didn’t know there was a place like this in this house.]
 
 [Yes, my father had a friend who was once invited to play the role of Hero and
 permanently lived in this world, and seeing the porch that he had in his house,
@@ -1467,7 +1467,7 @@ any more than this...
 
 [Haahhh... Y-Yes.]
 
-[Errr, ummm, somehow… I’m sorry.]
+[Errr, ummm, somehow... I’m sorry.]
 
 [N-No?!]
 

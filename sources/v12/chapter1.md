@@ -98,7 +98,7 @@ Shea-san’s cold eyes glares at me and gives me a stern warning.
 who could save everyone? Don’t be conceited. You’re just a small being. You
 can’t do a damn thing on your own.]
 
-[…But that’s... I’m also trying to...]
+[...But that’s... I’m also trying to...]
 
 [If you think you know what you’re doing, then why are you here “all alone”?]
 
@@ -202,7 +202,7 @@ Before she spoke, sounding somewhat happy.
 
 [...Hmph, you’ve become better than you were just a few while ago.]
 
-[...Then…]
+[...Then...]
 
 When I heard Shea-san’s voice, I looked up. She had a slight smile on her lips
 as she held out her hand towards me.
@@ -273,10 +273,10 @@ really matter if I add another problem to my plate now.]
 
 [Now then, let’s end that useless talk... Let’s go.]
 
-With words telling me to brace myself, I walked out onto the wide road… opposite
-the church/clinic. As expected, there were no people in sight other than
-Neun-san who stood in front of the clinic. When Neun-san saw us, she immediately
-stood up with the Japanese katana in hand, and spoke to us.
+With words telling me to brace myself, I walked out onto the wide road...
+opposite the church/clinic. As expected, there were no people in sight other
+than Neun-san who stood in front of the clinic. When Neun-san saw us, she
+immediately stood up with the Japanese katana in hand, and spoke to us.
 
 [...Why have you come back?]
 
@@ -1636,8 +1636,8 @@ The words I strongly said... weren’t even a sermon, but more of an insistence 
 my selfishness. However, Neun-san took a step back as if she felt shocked. I
 could also see that her eyes were greatly trembling. When I tried to approach
 Neun-san, Sechs-san and the others stood as if to protect her... Sechs-san was
-about to speak out in defense of Neun-san… but before he could, I heard a voice
-that seemed to tear up the atmosphere.
+about to speak out in defense of Neun-san... but before he could, I heard a
+voice that seemed to tear up the atmosphere.
 
 [Well said!!!]
 
@@ -1681,7 +1681,7 @@ Her Majesty Laguna, the Strongest in the Human Realm, appears on the
 battlefield. Even though she said that she was “rough”, she spoke to Neun-san in
 a voice that was terribly gentle.
 
-[…Hey, Hikari. That’s also the case for me but... You’ve gotten older too,
+[...Hey, Hikari. That’s also the case for me but... You’ve gotten older too,
 haven’t you? Not in appearance, but in mind...]
 
 [What do you mean?]
@@ -2817,7 +2817,7 @@ Instantly, a silvery white wind blows inside the church, and ten pairs of wings
 appear in the shape of a giant sphere. Then, one by one, the wings unfurled, and
 the God from another world descended, radiating overwhelming magic power.
 
-[…Details, Acknowledged.]
+[...Details, Acknowledged.]
 
 ---
 
@@ -3124,7 +3124,7 @@ moment... for the first time in a thousand years, they met again.
 Slowly, Kuro stepped towards Dr. Vier. Dr. Vier looked pale, and her shoulders
 jerked every time took a step closer.
 
-[...Ku… romu-sama... I-I’m...]
+[...Ku... romu-sama... I-I’m...]
 
 [...]
 

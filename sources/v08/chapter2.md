@@ -283,7 +283,7 @@ that by Kaito-san...]
 
 That’s a very strong counter, to the point that I even let out a groan. I
 certainly don’t have that much confidence in myself either. How should I say
-this… I guess you could say I’m a cowardly person at heart, and that everytime
+this... I guess you could say I’m a cowardly person at heart, and that everytime
 people think highly of me, I’m afraid that such compliments aren’t fitting for
 someone like me... This is the only thing that I feel isn’t going to change
 anytime soon.
@@ -398,9 +398,9 @@ all of them down, Sieg-san once again placed the bento in front of me.
 With a slightly bashful smile, Sieg-san spreads out the delicious-looking bento.
 Mini hamburger steaks, egg salad, and simple sandwiches... All of them looked
 delicious... Or rather, all of the food lined up were my favorites, so
-embarrassing it may be, I felt excited. How should I say this… Bento boxes have
-a strange excitement to them, and being within their boxes strangely makes them
-look so much better than when they’re normally on the plate.
+embarrassing it may be, I felt excited. How should I say this... Bento boxes
+have a strange excitement to them, and being within their boxes strangely makes
+them look so much better than when they’re normally on the plate.
 
 [Thank you for the food.]
 

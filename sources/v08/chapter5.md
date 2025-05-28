@@ -1449,7 +1449,7 @@ As for Mom, well... I’ll be expecting a salary, okay, Milady?]
 
 When Lilianne saw Lunamaria’s bold smile... Lilia relaxed and smiled as well.
 
-[Fu… fufu... I guess that depends on your work, don’t you think?]
+[Fu... fufu... I guess that depends on your work, don’t you think?]
 
 [Whoa, now you said it. Well, you better be ready. There will come a day where
 you will pull my leg and scream “I can’t do this without you, Luna!”]

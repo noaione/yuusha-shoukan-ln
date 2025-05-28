@@ -268,7 +268,7 @@ speeding bullet.
 
 [U-Unnn. It was really hard, wasn’t it... Errr, there, there.]
 
-[Fumyuuu… Haahhh\~\~ Pat me more\~\~]
+[Fumyuuu... Haahhh\~\~ Pat me more\~\~]
 
 [Yes, yes.]
 
@@ -301,7 +301,7 @@ near the royal capital of Symphonia Kingdom, so even if I received such a thing,
 I decided to ask Kuro, the person who sent me that ship, what her intentions
 were.
 
-[Also, why a ship… Even if I receive such a thing, I don’t even know when I
+[Also, why a ship... Even if I receive such a thing, I don’t even know when I
 would use it...]
 
 [By the way, that magic ship is “bigger than this house”, you know?!]
@@ -426,7 +426,7 @@ instantly become a useless maid. Well, even if that’s so, I can rely on her in
 times of need, and she’s serious when it comes to work, so she doesn’t only have
 bad qualities.
 
-[…Here you go.]
+[...Here you go.]
 
 [Thank you... Unnn, it’s delicious.]
 

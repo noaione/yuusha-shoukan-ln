@@ -40,7 +40,7 @@ that I’m worried that we might get separated.
 [...That’s the first time I’ve heard that. I can understand if it’s a servant
 saying that for her master but...]
 
-[Errr, I guess there was such a custom (?) like that in the world Neun-san and I
+[Errr, I guess there was such a custom(?) like that in the world Neun-san and I
 were in before.]
 
 [Heehhh\~\~]
@@ -685,7 +685,7 @@ planning to do?!
 
 [Fufu, I see... I’m glad... chyuu.]
 
-[?! W-Wait?! Dr. Vier, w-what are you doing?!]
+[W-Wait?! Dr. Vier, w-what are you doing?!]
 
 As I replied, feeling my heart thumping fast, I felt something slightly moist on
 my neck. Eh? Did she just kiss my neck? Eh? Wait, seriously, what the heck is

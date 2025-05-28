@@ -258,7 +258,7 @@ something is strange...
 apparently look down on him, you will be erased...]
 
 [Y-Yeah, I’ve heard that too. I’ve also heard about how that being was going
-around preaching about how great that otherworlder is…]
+around preaching about how great that otherworlder is...]
 
 [D-Did you know... that on the first day of the Festival, a Count from Archlesia
 was apparently captured by that Winged and had them swear allegiance to that
@@ -414,7 +414,7 @@ grasped Isis-san’s hand.
 
 [Come on, Isis-san! Let’s resume our date!]
 
-[...Eh? ...U… Unnn.]
+[...Eh? ...U... Unnn.]
 
 [Also, you’re not allowed to say anything about being a bother to me, okay? If
 you say something like that again, I’ll block your mouth again, you know?]
@@ -768,7 +768,7 @@ weapons made by the _legendary blacksmith Krafty_!!!”
 As the host introduced the item, a number of weapons were laid out on the stage.
 There were swords, spears, axes, daggers, and unusual weapons like morning
 stars. Even from a distance and from the eyes of a layman, I could tell that
-every weapon lined up on the stage was top-notch but… there was one thing that
+every weapon lined up on the stage was top-notch but... there was one thing that
 bothered me more.
 
 [...Kaito? ...Do you... want that?]
@@ -933,7 +933,7 @@ apparently quite rare, and there are many people who want it as much as I do.
 For even large monsters to relax on that thing... In other words, considering
 that its space could be as big as a mansion, it’s no wonder that it is priced at
 a hundred million. I mean, it’s not like I can’t bid on it with the budget that
-I have but… It’s going to be quite an expensive purchase.
+I have but... It’s going to be quite an expensive purchase.
 
 With that in mind, I raised my index finger, with the back of my hand facing the
 host.
@@ -1042,7 +1042,7 @@ has an incomparably larger population than the world I was in, an individual
 could hold a part of the world’s economy...
 
 S-She’s exactly what could be said as the King of the world... For Isis-san and
-Kuro, 2 billion yen might just be… nothing more than loose change.
+Kuro, 2 billion yen might just be... nothing more than loose change.
 
 I thought I had completely understood that Kuro and Isis-san were the top of the
 Demon Realm and possessed an overwhelming amount of wealth, but... they were
@@ -1074,7 +1074,7 @@ other way.
 [...Eh?]
 
 [...That would just make... us returning favors back and forth, you know? ...I
-mean... this is... a thank you… for the brooch after all.]
+mean... this is... a thank you... for the brooch after all.]
 
 Isis-san gently smiled and seemed to not really mind about it. But well, I also
 have some pride as a man. I can’t compete with Isis-san in terms of money, but I
@@ -1154,8 +1154,8 @@ outrageously sized as always, and I couldn’t tell where we were at all just by
 slightly looking around. T-The view up here would certainly be very nice. After
 all, it’s like eating at the top of a 5000-meter high mountain. I can even
 clearly see the tree and ice art that was created during the opening ceremony.
-However, unnn… Is it really okay to eat on top of Magnawell-san’s head? W-Well,
-Magnawell-san says it’s fine, so I guess it’s not a problem huh?
+However, unnn... Is it really okay to eat on top of Magnawell-san’s head?
+W-Well, Magnawell-san says it’s fine, so I guess it’s not a problem huh?
 
 In front of the dumbfounded me, Isis-san laid out a sheet she had taken out of
 nowhere and spread out the bento she had prepared for me.
@@ -1199,8 +1199,8 @@ happiness—is something that can’t be replaced by anything else.
 
 I finished eating the delicious lunch that Isis-san had prepared for me at the
 spectacular spot above Magnawell-san’s head. Well, I thought the food prepared
-for me was so much that I wouldn’t be able to finish it… but it was so delicious
-that I ended up eating it all. I think I ate a bit too much.
+for me was so much that I wouldn’t be able to finish it... but it was so
+delicious that I ended up eating it all. I think I ate a bit too much.
 
 [...Kaito... Here... tea.]
 
@@ -1236,9 +1236,9 @@ use coins myself, so I was having trouble disposing of them.”
 “Umu. Ahh, I also had these sweets that my subordinates said were delicious... I
 can’t taste them with my size, so I’ll give you those too.”
 
-[T-Thank you… I-It’s enough already, okay?]
+[T-Thank you... I-It’s enough already, okay?]
 
-...How should I say this… It’s amazing how Magnawell-san feels like “a grandpa
+...How should I say this... It’s amazing how Magnawell-san feels like “a grandpa
 who hasn’t seen his grandson in a long time”. However, it seemed like if I just
 kept receiving stuff from him, he would give me one thing after another, so I
 somewhat forcefully thanked him and told him that it was enough. Hmmm. Everytime
@@ -1250,7 +1250,7 @@ the conversation came to an end, and Isis-san looked at me with expectant eyes.
 
 [Uuuu... W-We’re doing it now?]
 
-[...Unnn… If we do it here... there wouldn’t be... anyone else, you know?]
+[...Unnn... If we do it here... there wouldn’t be... anyone else, you know?]
 
 [I-I understand.]
 
@@ -1773,7 +1773,7 @@ the store.
 [...N-No, this is still a trial product, so I’ve only made one... Also, the
 price is 300R, so please put those white gold coins away.]
 
-[...Uuuu... Then… I’ll buy that one.]
+[...Uuuu... Then... I’ll buy that one.]
 
 [Yes, yes, here you go\~\~]
 
@@ -2011,7 +2011,7 @@ blue to white and added more frills to it. Hmmm. White colors... also look great
 on Isis-san huh... Dressed in a white frilly dress, she unmistakably looked like
 an angel.
 
-[...Kaito… What color... of clothing... do you think looks good on me?]
+[...Kaito... What color... of clothing... do you think looks good on me?]
 
 [Hmmm. I personally like wearing black clothes but... I think a fleeting light
 blue, or rather, I feel like clothes with lighter shades of color would look

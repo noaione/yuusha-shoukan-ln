@@ -391,7 +391,7 @@ at Kaito... so that Kaito doesn’t see “her face turning red”.
 
 Within her mind was the conversation she just had with Kaito. Kaito’s words as
 he stopped Funf from apologizing for the trouble she had caused him, and how he
-told her that she had made the right choice as well… made her irrepressibly
+told her that she had made the right choice as well... made her irrepressibly
 happy.
 
 (I’m still just finally able to shake off the past and walk forward. I’ve
@@ -859,7 +859,7 @@ course, I will feel nervous while that is happening, but there won’t be a
 problem... or so I thought. However, as if to mock me as I stepped out of the
 onsen with such thoughts in mind, I heard Lillywood-san’s voice from behind me.
 
-“Hmm… K-Kaito-san.”
+“Hmm... K-Kaito-san.”
 
 [Y-Yes?]
 
@@ -1015,7 +1015,7 @@ extremely dangerous part.
 [U-Ummm, Lillywood-san?]
 
 “...You really got aroused huh. I thought you were just saying that for
-politeness’ sake…”
+politeness’ sake...”
 
 [Eh?]
 

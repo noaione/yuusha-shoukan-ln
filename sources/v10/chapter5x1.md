@@ -995,7 +995,7 @@ deepen our friendship?]
 [Ahh\~\~ That sounds great. Let’s go somewhere together! I’d like to go
 somewhere as wide and empty as possible though.]
 
-[Ohh, leave it to me! I’m familiar with this area after all…... I know a good
+[Ohh, leave it to me! I’m familiar with this area after all... I know a good
 place “where you can crush trash as much as you want”!]
 
 [That’s very helpful\~\~ I’m not familiar with the geography regarding this
@@ -1803,7 +1803,7 @@ people around the world to defeat the Evil God... Just as there is no end to
 people’s desires, there is no limit to my power.
 
 [Iris, Noel... Everyone, lend me your strength. I won’t let anyone steal
-Kaito-san, I don’t want to be parted with Kaito-san…... and I will not be
+Kaito-san, I don’t want to be parted with Kaito-san... and I will not be
 defeated by anyone! Come... Let’s begin! Let’s kill a God for the second time!]
 
 With endless infinite power in my body, I drew my blade to kill the unknown god.

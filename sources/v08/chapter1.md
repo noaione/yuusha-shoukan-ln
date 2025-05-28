@@ -263,7 +263,7 @@ before, dragons that seemed to be tens of meters long and there, and even the
 number of people who came to visit are astounding. Speaking of which, I
 completely put them away on my mind after receiving Lynn, but this Flying Dragon
 Services has made a contract with Magnawell-san where he would send his
-subordinates to work here... Unnn, how should I say this… They’re all huge.
+subordinates to work here... Unnn, how should I say this... They’re all huge.
 
 [...That’s a High Ancient Dragon... I’ve never seen one before.]
 
@@ -525,11 +525,11 @@ about creating your country first?]
 
 Apparently, the members of the Six Kings really are thanking me for Kuro’s
 situation, and they strictly ordered their own subordinates to treat me
-politely. How should I say this… I’m grateful for that but... Didn’t they think
-that something like this would make me feel very uncomfortable?! Magnawell-san,
-Lillywood-san... even Alice, from even before them, also issued strict orders
-for their subordinates to obey me... Seriously, what the heck am I supposed to
-do here...
+politely. How should I say this... I’m grateful for that but... Didn’t they
+think that something like this would make me feel very uncomfortable?!
+Magnawell-san, Lillywood-san... even Alice, from even before them, also issued
+strict orders for their subordinates to obey me... Seriously, what the heck am I
+supposed to do here...
 
 Even as we encountered all this tiring stuff right from the start, we finally
 managed to enter the city of Rigforeshia... but Sieg-san and I tilted our heads.
@@ -1342,7 +1342,7 @@ happiness and love that I had taken for granted.
 
 ———Mom, isn’t this cake crushed flat?
 
-———Ugghhh… T-That was because it couldn’t carry my love...
+———Ugghhh... T-That was because it couldn’t carry my love...
 
 ———It would be great if those words can cover that...
 

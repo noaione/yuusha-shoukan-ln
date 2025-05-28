@@ -106,7 +106,7 @@ about Miyama-sama from my sisters. It’s an honor to meet you like this.]
 
 [I-I’m Miyama Kaito. Please treat me well.]
 
-[Please treat me well too. I have often heard rumors about you…... That you were
+[Please treat me well too. I have often heard rumors about you... That you were
 close with Underworld King-sama and World King-sama, I’m feeling envious of
 you.]
 
@@ -144,7 +144,7 @@ started walking to the cafe.
 You are fully responsible for each of your words and actions. You need to be
 very careful with the tone of your voice.]
 
-[C-Cath…... Princess Cattleya. We’re in front of Miyama-san now, so can you
+[C-Cath... Princess Cattleya. We’re in front of Miyama-san now, so can you
 excuse me for now?]
 
 [I know that. That’s why I’m letting you get away with just this.]
@@ -153,7 +153,7 @@ I have some hunch about it, but it seems that Princess Cattleya has a slightly
 severe personality.
 
 She seems to be scolding Mitsunaga-kun for calling her by her nickname, and with
-her sharp, slanted eyes focused on him…... It looks kind of scary, but it felt
+her sharp, slanted eyes focused on him... It looks kind of scary, but it felt
 like she was complaining out of goodwill towards Mitsunaga-kun. Somehow smiling
 at seeing such a scene, I tried following behind them—but at that moment, I felt
 an unspeakable, unpleasant sensation run down my spine.
@@ -163,10 +163,10 @@ reflexively looked back. The moment I turned around, my gaze caught sight of the
 tall clock tower at a considerable distance... I felt a part of that clock tower
 “glitter” for a moment...
 
-[ ? ! ]
+[?!]
 
 Immediately after, a shimmering sphere passed right by me. There was no time to
-say a word at that moment, as only my gaze followed that sphere…... As if time
+say a word at that moment, as only my gaze followed that sphere... As if time
 was compressed, I felt like I was looking at it in slow motion. The sphere
 headed in a straight line towards Princess Cattleya, with none of the knights
 around her being able to react... Mitsunaga-kun alone moved to lay his body to
@@ -223,7 +223,7 @@ As the man smiled and looked through the scope of his sniper to check the
 results, the explosive smoke that had enveloped the plaza cleared out of his
 gaze.
 
-[…...Wha... Wha... Wh... y...]
+[...Wha... Wha... Wh... y...]
 
 The people who emerged from it weren’t harmed at all... And not only that, even
 a speck of dust wasn’t on the second princess, the one who played the role of
@@ -281,7 +281,7 @@ that followed.
 this... “I’ll forgive you that I would let you off only after turning you into
 someone who can satisfactorily conduct your daily life again”.]
 
-[ ? ! ]
+[?!]
 
 [If your pride as a professional prevents you from revealing your client, that’s
 alright with me... After all, the results won’t change. You will eventually
@@ -307,8 +307,8 @@ Mitsunaga-kun, who was protecting Princess Cattleya with his body. Immediately
 after that, Alice appeared in the form of the Phantasmal King, and I had also
 confirmed that Princess Cattleya and Mitsunaga-kun were safe.
 
-[…...?! Seigi! A-Are you alright?! Are you injured? Does it hurt anywhere?
-I-I’ll get a doctor right away... N-No, a healing mage...]
+[...?! Seigi! A-Are you alright?! Are you injured? Does it hurt anywhere? I-I’ll
+get a doctor right away... N-No, a healing mage...]
 
 [I-I’m alright, Cathy. I’m not injured anywhere...]
 
@@ -464,7 +464,7 @@ of where the attackers were. It seems that they threw out the preparations for
 the Six Kings. I think Lillywood-san who should be near them is probably holding
 her head in their hands right now.
 
-A-Anyway, let’s just put that aside…... Why the heck am I frantically trying to
+A-Anyway, let’s just put that aside... Why the heck am I frantically trying to
 protect the attacker? No, I think I can understand why... It’s because sending
 Alice towards them is already an overkill, so when these two are added to the
 mix, no matter how much that guy attacked us, I would start feeling sorry for

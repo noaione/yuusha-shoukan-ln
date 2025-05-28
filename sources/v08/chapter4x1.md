@@ -321,7 +321,7 @@ Kuromueina-sama was the most important person to me, I “betrayed” her...]
 Just as Neun wanted to make a follow up, Vier interrupted her with a grieving
 expression on her face.
 
-[It’s because I… I was an idiot... I made Kuromu-sama cry. Even though I never
+[It’s because I... I was an idiot... I made Kuromu-sama cry. Even though I never
 wanted her to look like that... but because of me... I don’t have the face to
 meet her anymore.]
 

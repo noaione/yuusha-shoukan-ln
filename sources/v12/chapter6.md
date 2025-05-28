@@ -188,8 +188,8 @@ and gave them a lovely smile.
 [...Shalltear and Ein too... Let’s eat? ...If everyone eats together... It
 becomes... even more delicious.]
 
-[…Roger that. By the way, Ein-san, that looks delicious, doesn’t it? Please let
-me have a taste.]
+[...Roger that. By the way, Ein-san, that looks delicious, doesn’t it? Please
+let me have a taste.]
 
 [...I don’t mind. In return, let me have a taste of that too.]
 
@@ -995,7 +995,7 @@ see it.]
 
 [...So, what are you asking?]
 
-[Ah\~\~ Well\~\~ It’s not really that big of a deal…]
+[Ah\~\~ Well\~\~ It’s not really that big of a deal...]
 
 After saying that, Alice turned her gaze towards me and calmly spoke.
 
@@ -1116,7 +1116,7 @@ the couch and start walking alongside Alice, she pulled on my sleeve.
 
 [...Alice?]
 
-[Kaito-san, you know, I asked you to wait for when I found courage, right…]
+[Kaito-san, you know, I asked you to wait for when I found courage, right...]
 
 [Unnn.]
 
@@ -1278,7 +1278,7 @@ clap.
 I see, Isis-san “wanted me to be the first”, so “when I tried to draw the joker
 out of her hand”, she had a sad expression on her face... Eh? Is she really a
 Demon? Are you sure she’s not actually an angel in disguise? No, I’m sure she’s
-an angel. She looks really adorable…
+an angel. She looks really adorable...
 
 [...S-So that’s what happened huh... I-I didn’t see that one coming.]
 
@@ -1326,7 +1326,7 @@ later, the occasional sound of bursting air began to echo.
 [It seems like both of them are drawing cards at a tremendous speed. In the last
 few seconds, they’ve already drawn a “thousand” times.]
 
-[…Seriously, what the heck are you two doing...]
+[...Seriously, what the heck are you two doing...]
 
 According to Ein-san’s input regarding the situation, Kuro and Alice are
 currently drawing cards at a speed I can’t perceive. This doesn’t even look like

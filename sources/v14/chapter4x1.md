@@ -511,13 +511,13 @@ that’s unless you want to experience Master’s wrath.]
 Ending with those words, Ozma held a cigarette in his mouth before departing.
 Leaving a dumbfounded Epsilon behind...
 
-Argetes Borgnes… In the ancient language of the Demon Realm, it means “Armor of
-Prohibition”. In the current Demon realm, only a handful of people know its true
-meaning. One of them is Ozma, who used to be someone who brandished his tyranny
-around the Demon Realm. However, the power he had developed, the confidence he
-had built up, the pride he had in being the strongest, all of it shattered to
-pieces by the incarnation of tyranny, the being he admired to the point of
-pledging absolute loyalty.
+Argetes Borgnes... In the ancient language of the Demon Realm, it means “Armor
+of Prohibition”. In the current Demon realm, only a handful of people know its
+true meaning. One of them is Ozma, who used to be someone who brandished his
+tyranny around the Demon Realm. However, the power he had developed, the
+confidence he had built up, the pride he had in being the strongest, all of it
+shattered to pieces by the incarnation of tyranny, the being he admired to the
+point of pledging absolute loyalty.
 
 The “crimson beast that once turned a third of the Demon Realm into scorched
 earth” still sleeps.

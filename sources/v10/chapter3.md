@@ -208,7 +208,7 @@ improvements.]
 
 [Hmmm. What does this mean? Does that mean that Kaito-senpai is the strongest?]
 
-[It’s not me you should be naming there, it’s Bell who’s stronger…... More
+[It’s not me you should be naming there, it’s Bell who’s stronger... More
 importantly, Bell.]
 
 [Guru?]
@@ -363,7 +363,7 @@ times when I’m bathing Bell, she would ask me to feed her that as a reward.
 
 [I think it’s very possible. Monsters have two separate growth periods: One for
 their bodies and another for their magic power. Lynn-chan is currently in her
-magic power growth period…... There’s a common belief that if you give a monster
+magic power growth period... There’s a common belief that if you give a monster
 food with magic power during its magic power growth period, its magic power will
 increase.]
 
@@ -495,7 +495,7 @@ intend to scold you that harshly...]
 
 Lilia-san looked really frightening when she was wholeheartedly scolding me, but
 her reaction when I said that was so obvious that even I, the one who proposed
-that, was bewildered…... S-She really wanted them that much huh...
+that, was bewildered... S-She really wanted them that much huh...
 
 [Well, Kaito-san. It’s fine to adore your pets, and I won’t prohibit you from
 feeding them with your own belongings but... Please report such things to me
@@ -1153,7 +1153,7 @@ For her to refine her blade to the point where she could fight her, the Earth
 God wondered how many times she had bared her fangs in the face of death...
 
 She found Alice’s fighting style interesting, as “even though she had been
-holding back”, she was able to fight her thus far …... but she can’t waste any
+holding back”, she was able to fight her thus far ... but she can’t waste any
 more time. Earth God doesn’t have any problems even if this fight is prolonged.
 The girl in front of her will also be able to handle such a prolonged fight
 without any problem... However, there was some anxiety in the Earth God’s heart.
@@ -1262,7 +1262,7 @@ presence feels overwhelming, as if a vast number of warriors are forming an
 army, and a smile appears on Alice’s lips.
 
 [Iris, Noel... Everyone, lend me your strength. I won’t let anyone steal
-Kaito-san, I don’t want to be parted with Kaito-san…... and I will not be
+Kaito-san, I don’t want to be parted with Kaito-san... and I will not be
 defeated by anyone! Come... Let’s begin! Let’s kill a God for the second time!]
 
 [...]
@@ -1341,14 +1341,13 @@ body and wings”.
 As if she felt no pain, Alice cut through the space and returned before the
 Earth God, who blankly looked at the erased left part of her body. As the left
 half of her body, which should have been obliterated, at some point, has been
-restored…... or rather, created anew, Earth God slowly moved her gaze to Alice.
+restored... or rather, created anew, Earth God slowly moved her gaze to Alice.
 
 (She’s so strong... Moreover, “no matter how many times I see it”, her magic
 power really is beautiful. Hmmm, I’ve “achieved my main goal”, so I could end
-things here…... but I’m starting to have a bit of fun. Speaking of which, I
-guess this would be the first time I’ve fought ●●●●●● like this? Since this is a
-good opportunity... I think I’ll continue playing along for a little while
-later.)
+things here... but I’m starting to have a bit of fun. Speaking of which, I guess
+this would be the first time I’ve fought ●●●●●● like this? Since this is a good
+opportunity... I think I’ll continue playing along for a little while later.)
 
 With this in mind, Earth God smiled as she spoke.
 
@@ -1700,7 +1699,7 @@ who was threatening me.
 
 Let me make it clear at this point. I’m angry right now.
 
-When this woman forcibly teleported Alice earlier…... I thought my blood would
+When this woman forcibly teleported Alice earlier... I thought my blood would
 freeze. While Alice was fighting her, I felt my heart tightening up. Honestly,
 this angel is terrifying... I don’t know what she’s thinking and she’s so
 powerful that it’s impossible for me to go against her... However, even if

@@ -26,7 +26,7 @@ Husband?”
 
 “Yeah, leave the camera to me! I’ll buy the latest model with my bonus!!!”
 
-“...Y-You can just… bring a normal camera, you know?”
+“...Y-You can just... bring a normal camera, you know?”
 
 I remembered how she and Dad used to match with each other in exaggerating
 things... And about how she was more positive than anyone else... More hopeful
@@ -981,8 +981,6 @@ brought out along with our drinks.
 
 [Thank you for waiting. This is the hors d’oeuvre, “Pale Pig breze”.]
 
-(T/N: hors d’oeuvre = appetizers)
-
 [...Aoi-chan, what is a breze?]
 
 [It means it’s braised. They simmered it after steaming. They are usually made
@@ -1005,7 +1003,7 @@ are probably feeling the same way.
 
 [...Yes, I know the name of this dish too.]
 
-[...Then, one-two…]
+[...Then, one-two...]
 
 [ [ [ Pork feet... ] ] ]
 
@@ -1022,8 +1020,6 @@ brought to us be salad?
 
 [Yes, it does. There were no amuse-bouches, and they started with hors
 d’oeuvres, so I guess the next meal served would be salad?]
-
-(T/N: Amuse-bouche is a small complimentary appetizer. A mouth amuser.)
 
 [...Aoi-senpai, what’s amuse-bouche?]
 
@@ -1062,7 +1058,7 @@ categorized as an entrée instead. And then, granité is a palate-cleansing
 semi-frozen dessert. Depending on how many plat they serve, the timing of order
 may change.]
 
-[I-I see…]
+[I-I see...]
 
 [However, since this restaurant is Chinese style, it may be that instead of
 bread, they would serve dim sum... siumai. There’s a chance that a dish like
