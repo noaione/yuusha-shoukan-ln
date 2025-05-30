@@ -1,6 +1,7 @@
 // A collection of verification functions for various purposes.
 // Mainly to help catch some errors.
 
+import type { SpellChecker } from '@noaione/ejaan-rs';
 import type { Paragraph, Root } from 'mdast';
 import { toString } from 'mdast-util-to-string';
 
@@ -175,6 +176,30 @@ export function doVerificationOfMarkdown(root: Root): boolean {
       isParagraphBalancedQuotesBrackets(node);
       isParagraphUsingCorrectQuotesBrackets(node);
       isParagraphHasQuotesInQuotes(node);
+    }
+  }
+
+  return true; // Valid
+}
+
+export function doSpellCheckOfMarkdown(root: Root, spellChecker: SpellChecker): boolean {
+  if (root.type !== 'root') {
+    return true; // Not a root, so we consider it verified
+  }
+
+  for (const node of root.children) {
+    if (node.type === 'paragraph') {
+      const text = toString(node).replace(/\n/g, ' ').trim();
+      const results = spellChecker.checkAndSuggest(text);
+      if (results.length > 0) {
+        console.warn(`!!! Paragraph has misspelled words: ${text}`);
+        for (const result of results) {
+          console.warn(
+            `    >> Misspelled word: ${result.word}, suggestions: ${result.suggestions.join(', ')}`,
+          );
+        }
+        return false; // If any misspelled words are found, we consider it invalid
+      }
     }
   }
 

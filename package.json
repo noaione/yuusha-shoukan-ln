@@ -22,6 +22,7 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
+    "@noaione/ejaan-rs": "0.1.1",
     "@prettier/plugin-xml": "^3.4.1",
     "@smoores/epub": "0.1.9",
     "@types/mdast": "^4.0.4",

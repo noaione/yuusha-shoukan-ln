@@ -28,16 +28,35 @@ import {
   generateXHash,
   type MetaToC,
 } from './utils/autogen';
-import { doVerificationOfMarkdown } from './utils/verification';
+import { doSpellCheckOfMarkdown, doVerificationOfMarkdown } from './utils/verification';
+import { SpellChecker } from '@noaione/ejaan-rs';
 
 const baseDir = fileURLToPath(dirname(import.meta.url));
 const sourcesFolders = join(baseDir, 'sources');
 const imagesFolder = join(baseDir, '_Images');
 
+const spellchecker = new SpellChecker();
+
 // Create _Final folder if it doesn't exist
 const finalFolder = join(baseDir, '_Final');
 if (!(await exists(finalFolder))) {
   await mkdir(finalFolder);
+}
+
+// Try to read ignorewords.txt
+const ignoreWordsFile = join(baseDir, 'ignorewords.txt');
+if (await exists(ignoreWordsFile)) {
+  const ignoreWordsContent = await readFile(ignoreWordsFile, {
+    encoding: 'utf-8',
+  });
+
+  const ignoreWords = ignoreWordsContent
+    .split(/\r?\n/)
+    .map((word) => word.trim())
+    .filter((word) => word.length > 0);
+  if (ignoreWords.length > 0) {
+    spellchecker.addWords(ignoreWords);
+  }
 }
 
 function makeFileName(meta: ProjectMetaSchemaType, volumeNumber: number) {
@@ -252,6 +271,7 @@ async function processVolume(projectMeta: ProjectMetaSchemaType, volumeNumber: s
     const markdownParsed = fromMarkdownToMdast(compiled.content);
     const newFilename = toc.filename.replace(/\.md$/, '.xhtml');
     doVerificationOfMarkdown(markdownParsed);
+    doSpellCheckOfMarkdown(markdownParsed, spellchecker);
 
     switch (compiled.meta.template) {
       case 'cover': {
