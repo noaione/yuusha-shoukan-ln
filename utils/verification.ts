@@ -182,6 +182,12 @@ export function doVerificationOfMarkdown(root: Root): boolean {
   return true; // Valid
 }
 
+// Cleanup a bit, remove square brackets at start and end of the paragraph
+// Since macOS spell checker spazzes out on them
+function cleanupSpellCheckText(text: string): string {
+  return text.replace(/^\[|\]$/g, '').trim();
+}
+
 export function doSpellCheckOfMarkdown(root: Root, spellChecker: SpellChecker): boolean {
   if (root.type !== 'root') {
     return true; // Not a root, so we consider it verified
@@ -189,8 +195,8 @@ export function doSpellCheckOfMarkdown(root: Root, spellChecker: SpellChecker): 
 
   for (const node of root.children) {
     if (node.type === 'paragraph') {
-      const text = toString(node).replace(/\n/g, ' ').trim();
-      const results = spellChecker.checkAndSuggest(text);
+      const text = toString(node).replace(/\r?\n/g, ' ').trim();
+      const results = spellChecker.checkAndSuggest(cleanupSpellCheckText(text));
       if (results.length > 0) {
         console.warn(`!!! Paragraph has misspelled words: ${text}`);
         for (const result of results) {
