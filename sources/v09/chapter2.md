@@ -593,7 +593,7 @@ when Alice’s heart is ready... I wish... I could hear it from her though.
 
 ---
 
-The 23th day of the Wind month.
+The 23rd day of the Wind month.
 
 The land in front of me is covered in pure white ice. I know that I’m okay
 thanks to Shiro-san’s blessing, but was it because I’m outdoors that I’m feeling

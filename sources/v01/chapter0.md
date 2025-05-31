@@ -71,7 +71,7 @@ confused expressions on their faces.
 [T-This is that, right?! Three of them just got caught up in the “summoning”, or
 something like that, right?!]
 
-[M-Most probably... What should we do about this, Millady?]
+[M-Most probably... What should we do about this, Milady?]
 
 [What should we do, you ask? It's not like I can just say “I messed up,
 _teehee!_” so for now, why don't we explain the situation to everyone... Ah, but

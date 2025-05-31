@@ -5,7 +5,7 @@ toc: true
 # Intermission: Shallow Vernal — Diverted Future
 
 It happened in the 1020 years after the signing of the Treaty of Friendship...
-the year of the 102th Festival of Heroes. The Summoning of someone from another
+the year of the 102nd Festival of Heroes. The Summoning of someone from another
 world has already been repeated more than 100 times. Each country does this on a
 rotating basis, and this year, where the Archlesia Empire was the one in
 charge... The first irregular summons occurred. Two otherworlders appeared from

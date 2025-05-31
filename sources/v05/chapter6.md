@@ -6,7 +6,7 @@ toc: true
 
 In my room, which I’ve grown accustomed to staying in, I close the book I’ve
 been reading and exhales. What I had in hand was the “Eating Tour in its
-Entirety Guide: Symphonia Kindom”. As for my impressions after reading it... I
+Entirety Guide: Symphonia Kingdom”. As for my impressions after reading it... I
 want to eat dragon meat. I remember the taste of the dragon meat that was served
 at the barbecue hosted by Kuro, and it was really delicious. I’m sure it’s
 partly due to Ein-san’s skill as a cook, but it was soft, rich and satisfying,

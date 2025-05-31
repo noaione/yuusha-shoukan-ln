@@ -4,7 +4,7 @@ toc: true
 
 # Chapter 5: Arrival at the Venue
 
-The 23th Day of the second Fire month.
+The 23rd Day of the second Fire month.
 
 The Six Kings Festival is coming up tomorrow, and we’re supposed to travel there
 today. There is a direct gate to the event site, and we can teleport there from

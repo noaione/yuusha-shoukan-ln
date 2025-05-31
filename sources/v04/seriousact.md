@@ -39,7 +39,7 @@ tell your true identity!]
 [Also, I’m saying this now, but you’re wearing a costume, so how the heck can
 you proclaim yourself a beauty?!]
 
-Just like a combi of a boke and a tsukkomi, Serious-senpai unleashed a sharp
+Just like a combo of a boke and a tsukkomi, Serious-senpai unleashed a sharp
 tsukkomi against ? ? ? who was feigning ignorance. In response to such a
 Serious-senpai, ? ? ? took a sip at her choccy milk before calmly responding.
 

@@ -35,7 +35,7 @@ When I started to talk to her over tea that Lunamaria-san had brewed for us,
 Lilia-san told me that she had never participated in the Sacred Tree Festival.
 
 I had the impression that Lilia-san was someone who knew everything in the
-world, and when I heard that it was a pretty famous festival, so LIlia-san's
+world, and when I heard that it was a pretty famous festival, so Lilia-san's
 words were quite surprising. Thereupon, Lunamaria-san, who knew about her
 circumstances, explained.
 
@@ -144,11 +144,11 @@ place, but is it far from here?]
 
 [......]
 
-[Eh? Dragon? I see... So there's also that way of travelling around here huh.]
+[Eh? Dragon? I see... So there's also that way of traveling around here huh.]
 
 It seems that the Elven Forest is reasonably far away from the royal capital and
 it would take too much time to travel by carriage, so it seems that one would
-usually ride a flying dragon when travelling in such distances. I didn't know
+usually ride a flying dragon when traveling in such distances. I didn't know
 this, but it seems that using flying dragons seem to be the mainstream method of
 transportation to get around and carry supplies, and there are even some
 merchants who specialize in it. In short, these flying dragons are like the
@@ -862,7 +862,7 @@ able to head straight into the city, but we first have to deal with a problem.
 The little dragon that took a liking to me won't separate from me. Just as my
 Sympathy Magic directly transmits my emotions to others, at the same time, I can
 also understand others emotions. I don't know if the baby dragon liked me that
-much, but it sat on my shoulder the whole time we were travelling, and even now,
+much, but it sat on my shoulder the whole time we were traveling, and even now,
 it still clings to my clothes and won't separate from me.
 
 [Miyama-senpai, it has become really attached to you huh.]

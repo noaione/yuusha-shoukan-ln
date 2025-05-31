@@ -94,7 +94,7 @@ during which most of the establishments were closed. Then, from what Lilia-san
 told me, I learned that there would be an event that's like Shinnenkai where
 they would receive the Blessings of the Gods.[^shinnenkai]
 
-The Blessing of the Gods is a Hatsumode-lke event where people would wish for
+The Blessing of the Gods is a Hatsumode-like event where people would wish for
 their health and improvement from the Gods visiting their temples, and there are
 various forms depending on the region and the type of Gods living there.
 

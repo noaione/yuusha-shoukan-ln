@@ -41,7 +41,7 @@ anything when I write my diary on her shop's counter.
 [Even so, this pen is really easy to write with. This is a great purchase.]
 
 [Fufufu, all of Alice-chan's products are first class. Incidentally, was it
-called ballpen in Kaito-san's world? Anyhow, that pen is based on that.]
+called ballpoint in Kaito-san's world? Anyhow, that pen is based on that.]
 
 [Ahh, I see... That's why it's so easy to use huh.]
 

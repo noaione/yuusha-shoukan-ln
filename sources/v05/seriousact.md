@@ -101,7 +101,7 @@ Behind the shouting ? ? ?, a shura silently manifested itself.
 
 [Please wait. Calm down, let’s talk this out. I-I-If you keep looking like that,
 even when you’re the most beautiful girl in the series, you’ll spoil that beauty
-of yours... Errr, ummm... I’m sor—]
+of yours... Errr, ummm... I’m so—]
 
 [Hmph!!!]
 

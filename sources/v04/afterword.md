@@ -15,7 +15,7 @@ The first one would be... the Behemoth that became Kaito’s pet, Bellfreed. She
 a cute fluff-ball, so she holds the position of a mascot.
 
 The second one is Archlesia Empire’s Emperor, Chris, bringing about with her an
-unexpected fanservice. Rather, the 4th Volume got the first fanservice in the
+unexpected fan service. Rather, the 4th Volume got the first fan service in the
 series huh. For a Light Novel, I suppose it was rather rare.
 
 Next, there’s Illness, Albert Duchy’s Maid, and at the same time, one of the

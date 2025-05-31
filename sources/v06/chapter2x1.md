@@ -109,7 +109,7 @@ misinterpreted it...
 [Kuromu-sama, you are the one who should be on top of the world!!! Not those
 Gods in the God Realm, but you!!!]
 
-[...”Vier”... I am...]
+[...“Vier”... I am...]
 
 [The one who should truly be on top of the world isn’t that Shallow Vernal, but
 you!!! I, no we, will make sure that your great name will be known as the

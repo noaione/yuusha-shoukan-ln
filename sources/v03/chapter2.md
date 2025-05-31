@@ -24,7 +24,7 @@ Lilia-san and Lunamaria-san, but I don't know Rigforeshia well enough to explore
 it alone, so I'm trying to wander around the neighborhood while avoiding places
 that look too weird. The town is lively and bustling with activity as the Sacred
 Tree Festival is coming up tomorrow... The atmosphere really is like that day
-before christmas, as I could even see some couples here and there. It would be
+before Christmas, as I could even see some couples here and there. It would be
 great if these normies would explode though...
 
 However, I knew that something like this would happen, but being alone within
