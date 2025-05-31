@@ -1376,8 +1376,8 @@ about me...]
 
 Kuhh, what is this... He looks like he would be completely clueless regarding
 love affairs, but this damned Acht, for him to be able to marry such a beautiful
-woman... Riajuu, go explode... Ah, no, that’s no good. I also have Isis-san by
-my side already, so I guess I’m also one of them riajuus huh...
+woman... Normie, go explode... Ah, no, that’s no good. I also have Isis-san by
+my side already, so I guess I’m also one of them normies huh...
 
 [N-No, I’m sorry. I heard that you were his partner, but I didn’t think you were
 his wife...]

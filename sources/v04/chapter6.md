@@ -36,7 +36,7 @@ huh?]
 [He’s not a being from this world. He’s a human from another world. His name is
 “Miyama Kaito”.]
 
-[Heeehhh\~\~ An otherworlder huh... I see.]
+[Heehhh\~\~ An otherworlder huh... I see.]
 
 To the words told by the black-clad figure, Alice replies to him indifferently,
 without getting shaken at all. Thereupon, after looking at the physiognomy for a

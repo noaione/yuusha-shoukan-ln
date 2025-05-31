@@ -149,7 +149,7 @@ Ciel-san was four or five years older than me, and that his username was derived
 from his real name.
 
 Miyama-san is 21 years old... I don't know when his birthday is, but as I'm
-currently a 2nd-year Senior highschooler, he should be four or five years older
+currently a 2nd-year Senior high schooler, he should be four or five years older
 than me... about the same age as Ciel-san.
 
 Then, there's his username that was derived from his real name. Miyama Kaito...

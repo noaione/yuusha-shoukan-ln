@@ -183,7 +183,7 @@ she’s much older than me and she knows this world inside and out. Is there
 anything for me to lead her to?
 
 I-I did think about a date course, but would this really be okay? Would Kuro
-enjoy it? I’m starting to get absurdly anxious here... All the riajuus of the
+enjoy it? I’m starting to get absurdly anxious here... All the normies of the
 world, I’m sorry that I kept on thinking you all should explode, but can’t you
 at least give me some hint?!
 

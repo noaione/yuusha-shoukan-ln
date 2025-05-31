@@ -646,7 +646,7 @@ my attacks, and she’s good at taking advantage of the moment... Hmmm. Does thi
 mean I still have some room for me to grow to huh? I think I’ll have to polish
 my combat techniques more before I fight “the other me”...)
 
-In the face of the girl’s desperate attacks, Kuromeina still had quite the
+In the face of the girl’s desperate attacks, Kuromueina still had quite the
 composure within her mind. The girl certainly had great combat techniques, and
 she certainly overwhelms Kuromueina in terms of skill. However, that’s all there
 is to it. In terms of power, speed, durability, and even the amount of magic

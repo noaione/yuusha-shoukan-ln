@@ -13,10 +13,10 @@ where three realms and three races live together as close neighbors, and
 although there are some things I'm still confused about, I think I'm having a
 lot of fun here.
 
-Caught up in the summoning just like me was the 2nd-year senior highschooler,
-Kusunoki Aoi-san. Then, there were her two kouhais, the 1st-year senior
-highschoolers, Yuzuki Hina-san and Mitsunaga Seigi-kun. The three of us, aside
-from Mitsunaga-kun, who had been invited to play the leading role in the
+Caught up in the summoning just like me was the 2nd-year senior high schooler,
+Kusunoki Aoi-san. Then, there were her two kouhais, the 1st-year senior high
+schoolers, Yuzuki Hina-san and Mitsunaga Seigi-kun. The three of us, aside from
+Mitsunaga-kun, who had been invited to play the leading role in the
 once-in-a-decade Festival of Heroes, are being cared for at the residence of
 Lilia Albert-san, a Duchess in Symphonia Kingdom.
 

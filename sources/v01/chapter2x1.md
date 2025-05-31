@@ -27,7 +27,7 @@ incurable disease nor were they involved in a major incident. There are hundreds
 of thousands of traffic accidents a year in Japan alone, and they just happened
 to be caught up in one of them...
 
-We were on the way back from a family trip when a pile-up occured in the
+We were on the way back from a family trip when a pile-up occurred in the
 expressway we're passing through. Our small family car was sandwiched between a
 big car and a truck and it was crushed in between them. My parents were gone in
 an instant, while I miraculously survived with only a minor injury, a laceration
@@ -58,7 +58,7 @@ death of my parents actually the other side of that coin?
 What happened when I started to think that way? I think I escaped in the
 beginning.
 
-I'm sure that riajuus must be happy people who can create a wide range of
+I'm sure that normies must be happy people who can create a wide range of
 relationships with friends, lovers and family. If that were the case though,
 they will have to be prepared for the same amount of unhappiness to befall in
 their lives.

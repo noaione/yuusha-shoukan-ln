@@ -5,7 +5,7 @@ toc: true
 # Chapter 2: The Angel's Return
 
 A night had passed, and after eating a delicious breakfast prepared by Alice,
-Alice and I were carefreely playing with each other.
+Alice and I were care-freely playing with each other.
 
 [...Ohh.]
 
@@ -1155,7 +1155,7 @@ pretended not to notice it was that with the change of our relationship to one
 of lovers... It was because I was subconsciously thinking, and perhaps, Alice as
 well, that the easy going relationship we had before was going to change.
 However, in the end, it turned out to be just needless fear and the relationship
-we had changed for the better. Even now, we are still carefreely talking and
+we had changed for the better. Even now, we are still care-freely talking and
 laughing with each other... and with the addition of love in our relationship,
 everything we do with each other brings us happiness. I’m sure it will continue
 to be like this in the future.

@@ -1121,7 +1121,7 @@ say? The Goddess of Fate?
 [Seriously.]
 
 Stunned by their reactions, I asked Fate-san for confirmation, while Fate-san
-carefreely replied.
+care-freely replied.
 
 Lilia-san, who made a new record in the speed of when she fainted after the
 appearance of Fate-san, the God of Fate, got up after a few moments, greeted

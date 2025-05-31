@@ -416,7 +416,7 @@ huh?]
 
 I’ve heard from Alice that an adult Behemoth can be over a hundred meters tall,
 and even the baby Bell is quite large. However, I guess I’m still feeling
-skeptical that she can really grow to the size of a kaiju. I mean, she’s already
+skeptical that she can really grow to the size of a Kaiju. I mean, she’s already
 cute enough with her current size, so I hope she stays that way.
 
 [...Behemoth grows... very slowly... It would take about a thousand years... for
@@ -429,7 +429,7 @@ them to reach adulthood.]
 It will take a thousand years to reach full growth and eventually exceed a
 hundred meters tall, and with simple calculations, I guess she will grow about
 10m in a hundred years? If that’s the case, I’m relieved. At least, for the time
-being, Bell will remain the cute fluffball she is now. Thank goodness.
+being, Bell will remain the cute fluff-ball she is now. Thank goodness.
 
 While chatting with Isis-san like that, we leisurely walked through the prairie.
 Probably because of the influence of the magic power of death, but even though I

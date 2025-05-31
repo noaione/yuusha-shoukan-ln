@@ -25,7 +25,7 @@ it alone, so I'm trying to wander around the neighborhood while avoiding places
 that look too weird. The town is lively and bustling with activity as the Sacred
 Tree Festival is coming up tomorrow... The atmosphere really is like that day
 before christmas, as I could even see some couples here and there. It would be
-great if these riajuus would explode though...
+great if these normies would explode though...
 
 However, I knew that something like this would happen, but being alone within
 this atmosphere really isn't very nice. It would be great if I could at least
@@ -1449,7 +1449,7 @@ Kusunoki-san's behavior is very elegant, and she seems to be quite familiar with
 her table manners. I think she probably grew up in a very wealthy family. She's
 exuding this very high-class atmosphere from every aspect of her behavior. Heck,
 I feel like she's even more mature than I am. It may have been the difference of
-our upbringings, but for a second-year highschooler, she seems very calm and
+our upbringings, but for a second-year high schooler, she seems very calm and
 collected.
 
 [N-No, it's not like I'm a noble lady or anything like that... My family is just

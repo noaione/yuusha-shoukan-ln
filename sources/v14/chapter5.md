@@ -669,7 +669,8 @@ person’ ...A collection set of ‘not so good’ baby castellas!”
 In short, it’s just a collection of your failed baby castellas, isn’t it? Or
 rather, that “certain person”...
 
-[...Maybe... for Kaito... Kuromeina... made a whole lot... to feed it to Kaito.]
+[...Maybe... for Kaito... Kuromueina... made a whole lot... to feed it to
+Kaito.]
 
 [...I-I see...]
 

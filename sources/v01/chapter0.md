@@ -258,7 +258,7 @@ Guided by Lilia-san, we left what seemed to be a dimly lit basement, and arrived
 at a luxuriously decorated guest room. It looks like the explanation for the
 Hero, Mitsunaga-kun will be given here, making him stay behind here together
 with the people dressed in white clothes reminiscent of a clergyman. Meanwhile,
-the two girls and I will be guided to a seperate room...
+the two girls and I will be guided to a separate room...
 
 The room was less than half the size of the previous guest room, but it was
 large enough and the interior was reminiscent of medieval European with large

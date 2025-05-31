@@ -1035,7 +1035,7 @@ their backs always hunched over... Just like a good boy you can find among the
 typical high schoolers... but when I saw him again, he had changed inta
 refreshing, sporty ikemen. N-No, no, it isn’t just on the level of how boys
 apparently change if you don’t see them for three days, you know?! Eh? Is he
-really Mitsunaga-kun? This ikemen whose existence screams out riajuu? He’s
+really Mitsunaga-kun? This ikemen whose existence screams out normie? He’s
 Mitsunaga-kun?! Seriously?!
 
 ...W-What the heck happened... in these last 5+ months?

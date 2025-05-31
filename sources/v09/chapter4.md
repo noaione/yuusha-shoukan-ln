@@ -88,7 +88,7 @@ right?]
 [N-No, I don’t dislike it at all.]
 
 The other party is an acquaintance, but this situation... Isn’t this that
-legendary situation that only occurs on riajuus, being picked up by women? No,
+legendary situation that only occurs on normies, being picked up by women? No,
 well, Funf-san is just completely enjoying reaction... but it’s impossible for
 my heart not to beat faster when a woman as beautiful as Funf-san asks me out on
 a date.
@@ -671,7 +671,7 @@ down to business but... I have one question first.]
 power... but I don’t recognize her.]
 
 Earth God asked in a matter-of-fact tone, about the being standing behind
-Shallow Vernal... about who Kuromeina is. For someone as powerful as Earth God,
+Shallow Vernal... about who Kuromueina is. For someone as powerful as Earth God,
 she could instantly gauge that Kuromueina’s power was comparable to Shallow
 Vernal’s. That was why she was curious about her identity.
 

@@ -304,7 +304,7 @@ looks like you’ve received an invitation from five of the Six Kings.]
 [R-Really?]
 
 [Yes, please open the invitation. Inside are the names of the Six Kings who
-invited you and the names of the memorabilias you will receive.]
+invited you and the names of the memorabilia's you will receive.]
 
 [Y-Yes... Eh?]
 

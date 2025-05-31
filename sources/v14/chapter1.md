@@ -31,7 +31,7 @@ against my arm.
 us, Neun?]
 
 As Dr. Vier said, Neun-san is walking a few distance... around three steps
-behind us. That certainly shows the modesty of a yamato nadeshiko, but it wasn’t
+behind us. That certainly shows the modesty of a Yamato Nadeshiko, but it wasn’t
 very appropriate considering that we’re currently at a festival. What I mean is
 that I’m worried that we might get separated.
 

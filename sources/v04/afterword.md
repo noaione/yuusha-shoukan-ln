@@ -12,7 +12,7 @@ the way, I’d like to talk about the contents of Volume 4.
 First of all, there are some new characters that have made their appearances.
 
 The first one would be... the Behemoth that became Kaito’s pet, Bellfreed. She’s
-a cute fluffball, so she holds the position of a mascot.
+a cute fluff-ball, so she holds the position of a mascot.
 
 The second one is Archlesia Empire’s Emperor, Chris, bringing about with her an
 unexpected fanservice. Rather, the 4th Volume got the first fanservice in the

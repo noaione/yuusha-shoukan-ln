@@ -8,7 +8,7 @@ The 6th Day of the Earth month. Sitting in a spacious and luxurious horse-drawn
 carriage... I moved my gaze away from the window and called out to the person in
 front of me.
 
-[...Ummm... Why did I get abducted when I should be carefreely eating breakfast
+[...Ummm... Why did I get abducted when I should be care-freely eating breakfast
 now, Chronois-san?]
 
 [...I’m sorry about that. It took a lot of work to arrange, so I didn’t get to

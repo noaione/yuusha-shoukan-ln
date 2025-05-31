@@ -1481,7 +1481,7 @@ but it also feels like it’s whittling away my reason.
 
 The situation where both my arms are held by beautiful women holding their own
 strong point, this truly is holding a flower in each hand... I must completely
-look like a riajuu right now.
+look like a normie right now.
 
 However, I didn’t have any composure to enjoy this situation. I was wrapped up
 in the scent and warmth that drifted from both of my sides, and all I could

@@ -61,7 +61,8 @@ her...]
 [Milady... Please get a hold of yourself... This is most probably not Milady's
 fault, I think it's just that Miyama-sama's social skills are too high.]
 
-[Y-Yeah... I feel like I'm overexaggerating... They've just talked for a bit...]
+[Y-Yeah... I feel like I'm over-exaggerating... They've just talked for a
+bit...]
 
 [Miyama-sama, interacting with the Goddess also shows that you've gained a
 certain amount of trust from the Divine Realm. Especially in the nobles' society
@@ -1812,7 +1813,7 @@ Lilia-san nodded with a serious expression on her face after receiving Kuro's
 words.
 
 Hmmm. I wonder what they're talking about... now that Kuro has been able to get
-to know everyone, she can carefreely visit here in the future. I think this
+to know everyone, she can care-freely visit here in the future. I think this
 should have been a joyous occasion, but how should I say it, the mood is a
 little complicated.
 

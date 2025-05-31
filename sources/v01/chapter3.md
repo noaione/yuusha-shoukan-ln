@@ -396,7 +396,7 @@ being.]
 I took the opportunity to ask them about the thing I was curious about, but what
 I got was a straight-faced NO. It didn't even seem like their hearts skipped a
 beat—I don't know for what exactly, but I'm sorry, Mitsunaga-kun. I'm sorry that
-I strangely thought of you as one of those riajuus who should explode...
+I strangely thought of you as one of those normies who should explode...
 
 As I was thinking about this, Yuzuki-san approached me and whispered.
 
@@ -1653,7 +1653,7 @@ though.]
 I was thinking that a tea party would be something noble-like, elegant and
 stylish, and that it wouldn't suit me, but when I tried it myself, I found that
 chatting with others while savoring a good cup of tea was fun, and I think I
-understand a little bit how those riajuus feel while they're conversing in a
+understand a little bit how those normies feel while they're conversing in a
 cafe or something like that.
 
 As I was thinking about this, Shiro-san turns her palm towards me and makes an

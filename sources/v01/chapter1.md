@@ -50,7 +50,7 @@ hours in a day. Do you have any questions regarding the topics up until now?]
 Rira, R for short, and we have six different kinds of money we use, namely Hard
 Coin, Iron Coin, Copper Coin, Silver Coin, Gold Coin and White Gold Coin. One
 hard coin is 1R, an iron coin is 10R, a copper coin is 100R, a silver coin is
-1000R, a gold coin is 10,000R and a whilte gold coin is worth 100,000R. The
+1000R, a gold coin is 10,000R and a white gold coin is worth 100,000R. The
 common household's general monthly income is about 2000R to 4000R.]
 
 I guess that means 1R is roughly 100¥, with no units smaller in value than that
@@ -208,7 +208,7 @@ Ahh, I wanna go home already.
 Being Japanese, when I heard that we were summoned at the New Year's eve, I
 imagined the cold breeze of winter, but it seems that the New Year's eve in this
 world is warm and merry like spring, so it feels like it would be a time when
-one can carefreely relax. However, that's strange, isn't it? I wonder why can't
+one can care-freely relax. However, that's strange, isn't it? I wonder why can't
 I stop shivering?
 
 Within a large carriage where I could feel slightly shaking, I was holding my

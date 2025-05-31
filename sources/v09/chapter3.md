@@ -37,7 +37,7 @@ invitations but... the Phantasmal King-sama is on another level. In the first
 place, the Phantasmal King wouldn’t even let you send a letter... Since she
 wouldn’t allow any beings that were harmful to Kaito-san to approach him, the
 Phantasmal King stops the letters that were being sent to Kaito-san. From what I
-heard from hearsays... It seems that anyone who tries to send a letter to
+heard from hearsay... It seems that anyone who tries to send a letter to
 Kaito-san will receive a warning letter from the Phantasmal King beforehand. The
 contents of said letter is that if they try to interact with Kaito-san for their
 personal gain, she won’t guarantee your life... Yes, if the Phantasmal King, who
@@ -1709,7 +1709,7 @@ when I was a kid.]
 Yes, the reason why Lilia-san and I came to the lake is to go fishing... Our
 cottage is actually always equipped with fishing rods, and if they only buy the
 bait in the tourist city, anyone can enjoy fishing. This was a good opportunity
-for us to make memories with Lilia-san, so we decided to go carefreely fishing.
+for us to make memories with Lilia-san, so we decided to go care-freely fishing.
 
 [Arehh? You didn’t try it out when you came here with Lunamaria-san?]
 

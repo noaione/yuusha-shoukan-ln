@@ -5,8 +5,8 @@ toc: true
 # Serious-senpai's Room: Act 1
 
 A white-haired girl in a dark green sailor uniform was reading a book in a
-simple room located somewhere unknown. With only her sidelocks grown down to her
-chin and emerald-green eyes, she was reading by herself with a serious
+simple room located somewhere unknown. With only her side-locks grown down to
+her chin and emerald-green eyes, she was reading by herself with a serious
 expression on her face.
 
 Her name is “Serious-senpai”... She's the embodiment of the concept of

@@ -36,7 +36,7 @@ also a significant event.
 
 [Well, you see, Sister Funf is one of the most beloved members of our family.]
 
-I really only introduced myself to Funf-sasn, so I didn’t know much about her
+I really only introduced myself to Funf-san, so I didn’t know much about her
 personality, but from the way Acht speaks, she seems to be a very popular person
 within the family.
 

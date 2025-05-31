@@ -8,7 +8,7 @@ As the meat grilled on the wire mesh, its fragrant smell wafts through the air.
 As if it’s drenched in sweat, its beautiful red flesh is soaking in its lustrous
 fatty juices, whetting the appetite of the people looking at it.
 
-[Hagfuu, ahmm... Awhhhh?! Kaito-san, I was the one who was cooking up that
+[Hagfuu, a-hmm... Awhhhh?! Kaito-san, I was the one who was cooking up that
 meat...]
 
 [You still have lots on your plate, you know? I mean, whose money do you think

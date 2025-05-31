@@ -53,7 +53,8 @@ if (await exists(ignoreWordsFile)) {
   const ignoreWords = ignoreWordsContent
     .split(/\r?\n/)
     .map((word) => word.trim())
-    .filter((word) => word.length > 0);
+    .filter((word) => word.length > 0)
+    .filter((word) => !word.startsWith('//!')); // Ignore comments
   if (ignoreWords.length > 0) {
     spellchecker.addWords(ignoreWords);
   }

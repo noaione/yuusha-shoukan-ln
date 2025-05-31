@@ -1297,9 +1297,9 @@ For the time being, as we’re both people who were outcasts from their
 conversation, I exchanged some idle talks with Orchid while waiting for the four
 of them to settle down. Orchid was just like a prince straight out of anime, an
 ikemen with a refreshing and good personality... What the heck is with his
-popularity factor that doesn’t show any opening... Is he a riajuu? He’s a
-riajuu, right?! Alright, then you can go expl... Ah, no... I guess I’m also one
-of the riajuus now since I got the affection of a certain ridiculously beautiful
+popularity factor that doesn’t show any opening... Is he a normie? He’s a
+normie, right?! Alright, then you can go expl... Ah, no... I guess I’m also one
+of the normies now since I got the affection of a certain ridiculously beautiful
 girl with the name of Isis-san...
 
 After chatting with Orchid-san for a while, Lilia-san seems to have finally

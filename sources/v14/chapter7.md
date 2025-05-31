@@ -23,8 +23,8 @@ garden floating in the sky... the Sanctuary. Of course, the being who teleported
 Akari is none other than the apex of the God Realm, the God of Creation, Shallow
 Vernal. Yes, the mastermind who brought Akari to being and allowed her to meet
 Kaito was Shallow Vernal. Kuromueina did consult her if she had anything to do
-with Akari. She told Kuromeina that she didn’t bring Kaito’s mother back to life
-and she didn’t create a being identical to Kaito’s mother...
+with Akari. She told Kuromueina that she didn’t bring Kaito’s mother back to
+life and she didn’t create a being identical to Kaito’s mother...
 
 There is no lie in those words. That’s because “she really didn’t bring Miyama
 Akari back to life”... She was still a soul, a ghost that is able to touch

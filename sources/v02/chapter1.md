@@ -693,7 +693,7 @@ and beauty of a princess.
 I must be very fortunate to have locked arms with such a beauty, even if it's
 just a coincidence that I happen to be the one who ended up going with her, but
 anyway, after arriving in another world, I've finally accomplished the feat of
-linking arms with a beauty that only riajuus are allowed to do.
+linking arms with a beauty that only normies are allowed to do.
 
 I'm sure that the men back on Earth would be blazing in envy if they saw me now.
 
@@ -703,8 +703,8 @@ can't even feel my arms at all, but it's still attached, right? I see, I've
 heard before that love is a battle, and falling in love is an act of risking
 one's life for it.
 
-All of the riajuus have gone through such an ordeal and won the right to be
-happy... They're actually awesome huh, those riajuus. Their arms must have been
+All of the normies have gone through such an ordeal and won the right to be
+happy... They're actually awesome huh, those normies. Their arms must have been
 made of titanium alloy or something like that.
 
 Although things had become hectic in the beginning, the talks with the Goddess
