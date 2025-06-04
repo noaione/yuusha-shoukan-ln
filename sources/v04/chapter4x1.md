@@ -52,7 +52,7 @@ were to be honest, the words Lilia had spoken at that moment had not reached her
 ears at all. At that moment, Pandemonium’s heart and eyes were glued to Miyama
 Kaito.
 
-—There is a being this beautiful in this world huh...
+...There is a being this beautiful in this world huh...
 
 In a way, it was just a complete coincidence.
 

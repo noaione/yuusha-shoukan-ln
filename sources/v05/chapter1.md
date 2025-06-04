@@ -1471,7 +1471,7 @@ nothing strange about a man having a relationship with multiple women. Why is it
 like that? At the same time that such a question came to my mind, the words I
 heard before came to my mind.
 
-—Megiddo, I heard that in the “other world”, the numbers of the boys and the
+———Megiddo, I heard that in the “other world”, the numbers of the boys and the
 girls are almost the same, you know?
 
 That’s right. Kuro has indeed said that. At that time, I didn’t really know the

@@ -337,7 +337,7 @@ Memorabilia: One Holy Sword, Excalibur
 Memorabilia: A State-of-the-Art Teleportation Magic Tools
 ```
 
-—filled up with outrageous stuff.
+...filled up with outrageous stuff.
 
 [...W-What is... t-this... this is... Kyuuuu\~\~]
 
@@ -360,7 +360,7 @@ Memorabilia: Premium Alcohol Set
 Memorabilia: Wyvern Leather Wallet
 ```
 
-—Is what was written there. Perhaps, Megiddo-san was praising Sieg-san because
+...Is what was written there. Perhaps, Megiddo-san was praising Sieg-san because
 of what happened before, and Alice might have invited her because they had once
 fought together. Lunamaria-san, Aoi-chan, and Hina-chan seemed to have been
 invited by Kuro, and Lunamaria-san seemed to be especially happy about it.

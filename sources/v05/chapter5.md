@@ -1860,8 +1860,8 @@ cookies—Ouchiiieeee?!]
 [How about you start learning how to read the mood?!]
 
 [Ginyyaaaahhhh?! You’ww teaw away my chweeekkkss?! I’m sowwwyyyy!!! You wwo wook
-sewious thewe, so I fewt wike joking awound about it... You feew me?
-—Fugyaaahhhh?!]
+sewious thewe, so I fewt wike joking awound about it... You feew
+me?—Fugyaaahhhh?!]
 
 [That’s even worse!!!]
 

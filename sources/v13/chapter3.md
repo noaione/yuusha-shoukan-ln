@@ -978,7 +978,7 @@ of it, you’re done for! A certain part of me will bring me in quite the troubl
 A-At a time like this, I think I should do that. I think I should imagine
 something scary. Picture the object of your fear!
 
-—My beloved child.
+———My beloved child.
 
 ... Al... right. That calmed me down a bit. No, I don’t mean to be rude to her,
 but the first thing that pops into my mind when I think of someone scary is

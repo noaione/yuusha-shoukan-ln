@@ -535,8 +535,8 @@ A voice that seemed to echo through the space came out of Iris’ mouth, and in
 response, her magic power blew like a storm, gradually converging on a single
 point.
 
-[——Fangs of my heart, burst forth!——Reveal thyself! Magic Staff!
-——“_Apocalypse_”!!!]
+[——Fangs of my heart, burst forth!——Reveal thyself! Magic
+Staff!——“_Apocalypse_”!!!]
 
 With the powerfully uttered words, the black magic power takes on a definite
 shape. It was a huge staff, more than twice Iris’ height... Looking at it, one
@@ -563,7 +563,7 @@ strongest attack that can be unleashed with this staff, a Bombardment-type
 Maximum Magic bearing such a name, is truly a tyrannical blow that swallows up
 and obliterates everything in its path.
 
-[Swallow, Tyrannical Beast——_Apocalypse_!]
+[Swallow! Tyrannical Beast——_Apocalypse_!]
 
 A flash of black light filled everyone’s field of vision from the giant staff in
 Iris’ hand. Seeing the incoming attack, Agni’s eyes widened and stiffened.
