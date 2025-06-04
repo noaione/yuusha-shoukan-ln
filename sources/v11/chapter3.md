@@ -1173,7 +1173,7 @@ Illness-san, who was singing while patting my head, also looked a bit in my
 direction. Her normally unfocused eyes come into focus and her beautiful eyes
 stare straight at me.
 
-![Insert 3](../../_Images/v11/Insert3-Semi.png#.insert)
+![Insert 3](../../_Images/v11/Insert3.png#.insert)
 
 [_I’m sure the road you walk will not be smooth, strong winds may push you back,
 but I’m sure, you will grow with each of your steps._]

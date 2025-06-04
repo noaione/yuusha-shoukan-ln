@@ -848,7 +848,7 @@ gently smiled.
 child, you also have times when you think too much. Even if you’re worried about
 something, there are times when it’s best to let nature take its course.)
 
-![Insert 4](../../_Images/v11/Insert4-Semi.png#.insert)
+![Insert 4](../../_Images/v11/Insert4.png#.insert)
 
 Having such thoughts in her mind, Makina brought forth a burger for herself and
 ate it with a smile.
@@ -1985,7 +1985,7 @@ I’m getting even more confused. When I heard the story from Alice, I didn’t
 think too much about what the Demon Lord was thinking when she invaded the Human
 Realm.
 
-![Insert 5](../../_Images/v11/Insert5-Bad.png#.insert)
+![Insert 5](../../_Images/v11/Insert5.png#.insert)
 
 However, if that Demon Lord was actually Dr. Vier... Then, why did a kind... why
 did a woman who should have been kind like her do such a thing? A question like

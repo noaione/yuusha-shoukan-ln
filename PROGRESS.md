@@ -258,10 +258,10 @@ The following are all the progress of each volumes.
 
 **Typesetting**:
 
-- [ ] Cover - Missing HQ images, not typesetting for now
-- [ ] Illustrations (`0%`) - Missing HQ images, not typesetting for now
+- [x] Cover
+- [ ] Illustrations (`50%`)
 - [x] Characters (`100%`)
-- [ ] Special Page (`0%`) - Missing HQ images, not typesetting for now
+- [x] Special Page (`100%`)
 
 **Quality Check**: `0%`
 

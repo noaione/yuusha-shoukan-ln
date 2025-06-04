@@ -2146,7 +2146,7 @@ and then, Alice gently closed her eyes, and I crouched down, bringing my face
 closer to hers. Slowly, as I move closer to sear her into my brain at this
 moment, the distance between us drops to zero.
 
-![Insert 1](../../_Images/v11/Insert1-Semi.png#.insert)
+![Insert 1](../../_Images/v11/Insert1.png#.insert)
 
 [...Hnnn.]
 

@@ -519,7 +519,7 @@ stand!]
 Alice seemed unusually irritated by Eden-san’s response and really looked like
 she was about to hit her.
 
-![Insert 2](../../_Images/v11/Insert2-Semi.png#.insert)
+![Insert 2](../../_Images/v11/Insert2.png#.insert)
 
 Pacifying Alice down, I decided to ask something that had been bothering me for
 some time now.
