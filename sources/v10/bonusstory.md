@@ -4,6 +4,8 @@ toc: true
 
 ![Bonus Story Cover](../../_Images/v10/SS01-Cover.jpg#.insert)
 
+# Special Short Story: Episode 0 — A Little Before the Beginning
+
 A land of extreme cold where it snows all year round and everything is frozen.
 In this place, feared by those who live in the Demon Realm as the Land of Death,
 stands the only building in this place, the castle of the Death King Isis.
