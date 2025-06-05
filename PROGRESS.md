@@ -164,7 +164,7 @@ The following are all the progress of each volumes.
 **Typesetting**:
 
 - [x] Cover
-- [ ] Illustrations (`75%`)
+- [x] Illustrations (`100%`)
 - [x] Characters (`100%`)
 - [x] Special Page (`100%`)
 
@@ -190,7 +190,7 @@ The following are all the progress of each volumes.
 **Typesetting**:
 
 - [x] Cover
-- [ ] Illustrations (`75%`)
+- [x] Illustrations (`100%`)
 - [x] Characters (`100%`)
 - [x] Special Page (`100%`)
 
@@ -284,7 +284,7 @@ The following are all the progress of each volumes.
 **Typesetting**:
 
 - [x] Cover
-- [ ] Illustrations (`0%`)
+- [x] Illustrations (`75%`)
 - [x] Characters (`100%`)
 - [x] Special Page (`100%`)
 
@@ -332,8 +332,8 @@ The following are all the progress of each volumes.
 **Typesetting**:
 
 - [x] Cover
-- [ ] Illustrations (`0%`)
+- [ ] Illustrations (`25%`)
 - [x] Characters (`100%`)
-- [ ] Special Page (`25%`)
+- [x] Special Page (`100%`)
 
 **Quality Check**: `0%`
