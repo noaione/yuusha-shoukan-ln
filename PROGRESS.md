@@ -238,7 +238,8 @@ The following are all the progress of each volumes.
 - [ ] Illustrations (`75%`)
 - [x] Characters (`100%`)
 - [x] Special Page (`100%`)
-- [ ] Special "Deluxe Edition" Page (`13%`)
+- [ ] Special "Deluxe Edition" Page (`39%`)
+  - [ ] Manga (`60%`)
 
 **Quality Check**: `0%`
 
